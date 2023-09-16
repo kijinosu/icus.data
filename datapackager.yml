@@ -1,0 +1,7 @@
+configuration:
+  files:
+    whoswho.Rmd:
+      enabled: yes
+  objects: whoswho
+  render_root:
+    tmp: '868269'

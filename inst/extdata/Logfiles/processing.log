@@ -1,0 +1,708 @@
+TRACE [2023-07-28 10:49:25] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 10:49:25] Processing data
+TRACE [2023-07-28 10:49:25] Reading yaml configuration
+TRACE [2023-07-28 10:49:25] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 10:49:25] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 10:49:27] 0 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 10:49:27] NEWS.md file not found, creating!
+TRACE [2023-07-28 10:49:27] NEWS.md file found, updating!
+TRACE [2023-07-28 10:49:27] Saving to data
+TRACE [2023-07-28 10:51:01] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 10:51:01] Processing data
+TRACE [2023-07-28 10:51:01] Reading yaml configuration
+TRACE [2023-07-28 10:51:01] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 10:51:01] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 10:51:02] 0 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 10:51:02] NEWS.md file found, updating!
+TRACE [2023-07-28 10:51:02] Processed data sets match existing data sets at version 0.0.001
+TRACE [2023-07-28 10:51:02] Saving to data
+TRACE [2023-07-28 10:51:02] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 10:51:02] Done
+TRACE [2023-07-28 10:51:02] DataPackageR succeeded
+TRACE [2023-07-28 10:51:02] Building documentation
+TRACE [2023-07-28 10:51:02] Building package
+TRACE [2023-07-28 10:57:58] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 10:57:58] Processing data
+TRACE [2023-07-28 10:57:58] Reading yaml configuration
+TRACE [2023-07-28 10:57:58] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 10:57:58] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 10:57:59] 0 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 10:57:59] NEWS.md file found, updating!
+TRACE [2023-07-28 10:57:59] Processed data sets match existing data sets at version 0.0.001
+TRACE [2023-07-28 10:57:59] Saving to data
+TRACE [2023-07-28 10:57:59] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 10:57:59] Done
+TRACE [2023-07-28 10:57:59] DataPackageR succeeded
+TRACE [2023-07-28 10:57:59] Building documentation
+TRACE [2023-07-28 10:58:00] Building package
+TRACE [2023-07-28 11:02:55] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 11:02:55] Processing data
+TRACE [2023-07-28 11:02:55] Reading yaml configuration
+TRACE [2023-07-28 11:02:55] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 11:02:55] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 11:02:56] 0 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 11:02:56] NEWS.md file found, updating!
+TRACE [2023-07-28 11:02:56] Processed data sets match existing data sets at version 0.0.001
+TRACE [2023-07-28 11:02:56] Saving to data
+TRACE [2023-07-28 11:02:56] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 11:02:56] Done
+TRACE [2023-07-28 11:02:56] DataPackageR succeeded
+TRACE [2023-07-28 11:02:56] Building documentation
+TRACE [2023-07-28 11:02:56] Building package
+TRACE [2023-07-28 11:15:29] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 11:15:29] Processing data
+TRACE [2023-07-28 11:15:29] Reading yaml configuration
+TRACE [2023-07-28 11:15:29] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 11:15:29] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 11:15:29] 0 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 11:15:29] NEWS.md file found, updating!
+TRACE [2023-07-28 11:15:29] Processed data sets match existing data sets at version 0.0.001
+TRACE [2023-07-28 11:15:29] Saving to data
+TRACE [2023-07-28 11:15:29] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 11:15:29] Done
+TRACE [2023-07-28 11:15:29] DataPackageR succeeded
+TRACE [2023-07-28 11:15:29] Building documentation
+TRACE [2023-07-28 11:15:29] Building package
+TRACE [2023-07-28 11:16:38] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 11:16:38] Processing data
+TRACE [2023-07-28 11:16:38] Reading yaml configuration
+TRACE [2023-07-28 11:16:38] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 11:16:38] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 11:16:38] 0 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 11:16:38] NEWS.md file found, updating!
+TRACE [2023-07-28 11:16:38] Processed data sets match existing data sets at version 0.0.001
+TRACE [2023-07-28 11:16:38] Saving to data
+TRACE [2023-07-28 11:16:38] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 11:16:38] Done
+TRACE [2023-07-28 11:16:38] DataPackageR succeeded
+TRACE [2023-07-28 11:16:38] Building documentation
+TRACE [2023-07-28 11:16:38] Building package
+TRACE [2023-07-28 11:34:18] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 11:34:18] Processing data
+TRACE [2023-07-28 11:34:18] Reading yaml configuration
+TRACE [2023-07-28 11:34:18] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 11:34:18] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 11:34:19] 0 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 11:34:19] NEWS.md file found, updating!
+TRACE [2023-07-28 11:34:19] Processed data sets match existing data sets at version 0.0.001
+TRACE [2023-07-28 11:34:19] Saving to data
+TRACE [2023-07-28 11:34:19] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 11:34:19] Done
+TRACE [2023-07-28 11:34:19] DataPackageR succeeded
+TRACE [2023-07-28 11:34:19] Building documentation
+TRACE [2023-07-28 11:34:19] Building package
+TRACE [2023-07-28 11:52:27] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 11:52:27] Processing data
+TRACE [2023-07-28 11:52:27] Reading yaml configuration
+TRACE [2023-07-28 11:52:27] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 11:52:27] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 11:52:28] 0 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 11:52:28] NEWS.md file found, updating!
+TRACE [2023-07-28 11:52:28] Processed data sets match existing data sets at version 0.0.001
+TRACE [2023-07-28 11:52:28] Saving to data
+TRACE [2023-07-28 11:52:28] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 11:52:28] Done
+TRACE [2023-07-28 11:52:28] DataPackageR succeeded
+TRACE [2023-07-28 11:52:28] Building documentation
+TRACE [2023-07-28 11:52:28] Building package
+TRACE [2023-07-28 12:02:17] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 12:02:17] Processing data
+TRACE [2023-07-28 12:02:17] Reading yaml configuration
+TRACE [2023-07-28 12:02:17] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 12:02:17] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 12:02:18] 0 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 12:02:18] NEWS.md file found, updating!
+TRACE [2023-07-28 12:02:18] Processed data sets match existing data sets at version 0.0.001
+TRACE [2023-07-28 12:02:18] Saving to data
+TRACE [2023-07-28 12:02:18] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 12:02:18] Done
+TRACE [2023-07-28 12:02:18] DataPackageR succeeded
+TRACE [2023-07-28 12:02:18] Building documentation
+TRACE [2023-07-28 12:02:18] Building package
+TRACE [2023-07-28 12:03:32] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 12:03:32] Processing data
+TRACE [2023-07-28 12:03:32] Reading yaml configuration
+TRACE [2023-07-28 12:03:32] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 12:03:32] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 12:03:32] 0 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 12:03:32] NEWS.md file found, updating!
+TRACE [2023-07-28 12:03:32] Processed data sets match existing data sets at version 0.0.001
+TRACE [2023-07-28 12:03:32] Saving to data
+TRACE [2023-07-28 12:03:32] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 12:03:32] Done
+TRACE [2023-07-28 12:03:32] DataPackageR succeeded
+TRACE [2023-07-28 12:03:32] Building documentation
+TRACE [2023-07-28 12:03:32] Building package
+TRACE [2023-07-28 13:52:58] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 13:52:58] Processing data
+TRACE [2023-07-28 13:52:58] Reading yaml configuration
+TRACE [2023-07-28 13:52:58] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 13:52:58] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 13:52:59] 0 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 13:52:59] NEWS.md file found, updating!
+TRACE [2023-07-28 13:52:59] Processed data sets match existing data sets at version 0.0.001
+TRACE [2023-07-28 13:52:59] Saving to data
+TRACE [2023-07-28 13:52:59] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 13:52:59] Done
+TRACE [2023-07-28 13:52:59] DataPackageR succeeded
+TRACE [2023-07-28 13:52:59] Building documentation
+TRACE [2023-07-28 13:52:59] Building package
+TRACE [2023-07-28 13:54:46] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 13:54:46] Processing data
+TRACE [2023-07-28 13:54:46] Reading yaml configuration
+TRACE [2023-07-28 13:54:46] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 13:54:46] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 13:54:46] 0 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 13:54:46] NEWS.md file found, updating!
+TRACE [2023-07-28 13:54:46] Processed data sets match existing data sets at version 0.0.001
+TRACE [2023-07-28 13:54:46] Saving to data
+TRACE [2023-07-28 13:54:47] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 13:54:47] Done
+TRACE [2023-07-28 13:54:47] DataPackageR succeeded
+TRACE [2023-07-28 13:54:47] Building documentation
+TRACE [2023-07-28 13:54:47] Building package
+TRACE [2023-07-28 14:18:27] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 14:18:27] Processing data
+TRACE [2023-07-28 14:18:27] Reading yaml configuration
+TRACE [2023-07-28 14:18:27] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 14:18:27] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 14:18:27] 0 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 14:18:27] NEWS.md file found, updating!
+TRACE [2023-07-28 14:18:27] Processed data sets match existing data sets at version 0.0.001
+TRACE [2023-07-28 14:18:27] Saving to data
+TRACE [2023-07-28 14:18:27] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 14:18:27] Done
+TRACE [2023-07-28 14:18:27] DataPackageR succeeded
+TRACE [2023-07-28 14:18:27] Building documentation
+TRACE [2023-07-28 14:18:28] Building package
+TRACE [2023-07-28 14:22:46] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 14:22:46] Processing data
+TRACE [2023-07-28 14:22:46] Reading yaml configuration
+TRACE [2023-07-28 14:22:46] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 14:22:46] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 14:22:46] 0 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 14:22:46] NEWS.md file found, updating!
+TRACE [2023-07-28 14:22:46] Processed data sets match existing data sets at version 0.0.001
+TRACE [2023-07-28 14:22:46] Saving to data
+TRACE [2023-07-28 14:22:46] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 14:22:46] Done
+TRACE [2023-07-28 14:22:46] DataPackageR succeeded
+TRACE [2023-07-28 14:22:46] Building documentation
+TRACE [2023-07-28 14:22:47] Building package
+TRACE [2023-07-28 14:27:07] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 14:27:07] Processing data
+TRACE [2023-07-28 14:27:07] Reading yaml configuration
+TRACE [2023-07-28 14:27:07] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 14:27:07] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 14:27:07] 0 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 14:27:07] NEWS.md file found, updating!
+TRACE [2023-07-28 14:27:07] Processed data sets match existing data sets at version 0.0.001
+TRACE [2023-07-28 14:27:07] Saving to data
+TRACE [2023-07-28 14:27:07] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 14:27:07] Done
+TRACE [2023-07-28 14:27:07] DataPackageR succeeded
+TRACE [2023-07-28 14:27:07] Building documentation
+TRACE [2023-07-28 14:27:08] Building package
+TRACE [2023-07-28 14:28:14] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 14:28:14] Processing data
+TRACE [2023-07-28 14:28:14] Reading yaml configuration
+TRACE [2023-07-28 14:28:14] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 14:28:15] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 14:28:15] 0 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 14:28:15] NEWS.md file found, updating!
+TRACE [2023-07-28 14:28:15] Processed data sets match existing data sets at version 0.0.001
+TRACE [2023-07-28 14:28:15] Saving to data
+TRACE [2023-07-28 14:28:15] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 14:28:15] Done
+TRACE [2023-07-28 14:28:15] DataPackageR succeeded
+TRACE [2023-07-28 14:28:15] Building documentation
+TRACE [2023-07-28 14:28:15] Building package
+TRACE [2023-07-28 14:28:57] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 14:28:57] Processing data
+TRACE [2023-07-28 14:28:57] Reading yaml configuration
+TRACE [2023-07-28 14:28:57] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 14:28:57] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 14:28:58] 0 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 14:28:58] NEWS.md file found, updating!
+TRACE [2023-07-28 14:28:58] Processed data sets match existing data sets at version 0.0.001
+TRACE [2023-07-28 14:28:58] Saving to data
+TRACE [2023-07-28 14:28:58] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 14:28:58] Done
+TRACE [2023-07-28 14:28:58] DataPackageR succeeded
+TRACE [2023-07-28 14:28:58] Building documentation
+TRACE [2023-07-28 14:28:58] Building package
+TRACE [2023-07-28 14:30:30] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 14:30:30] Processing data
+TRACE [2023-07-28 14:30:30] Reading yaml configuration
+TRACE [2023-07-28 14:30:30] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 14:30:30] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 14:30:31] 0 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 14:30:31] NEWS.md file found, updating!
+TRACE [2023-07-28 14:30:31] Processed data sets match existing data sets at version 0.0.001
+TRACE [2023-07-28 14:30:31] Saving to data
+TRACE [2023-07-28 14:30:31] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 14:30:31] Done
+TRACE [2023-07-28 14:30:31] DataPackageR succeeded
+TRACE [2023-07-28 14:30:31] Building documentation
+TRACE [2023-07-28 14:30:31] Building package
+TRACE [2023-07-28 14:31:30] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 14:31:30] Processing data
+TRACE [2023-07-28 14:31:30] Reading yaml configuration
+TRACE [2023-07-28 14:31:30] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 14:31:30] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 14:31:31] 0 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 14:31:31] NEWS.md file found, updating!
+TRACE [2023-07-28 14:31:31] Processed data sets match existing data sets at version 0.0.001
+TRACE [2023-07-28 14:31:31] Saving to data
+TRACE [2023-07-28 14:31:31] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 14:31:31] Done
+TRACE [2023-07-28 14:31:31] DataPackageR succeeded
+TRACE [2023-07-28 14:31:31] Building documentation
+TRACE [2023-07-28 14:31:31] Building package
+TRACE [2023-07-28 14:32:17] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 14:32:17] Processing data
+TRACE [2023-07-28 14:32:17] Reading yaml configuration
+TRACE [2023-07-28 14:32:17] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 14:32:17] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 14:32:17] 0 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 14:32:17] NEWS.md file found, updating!
+TRACE [2023-07-28 14:32:17] Processed data sets match existing data sets at version 0.0.001
+TRACE [2023-07-28 14:32:17] Saving to data
+TRACE [2023-07-28 14:32:17] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 14:32:17] Done
+TRACE [2023-07-28 14:32:17] DataPackageR succeeded
+TRACE [2023-07-28 14:32:17] Building documentation
+TRACE [2023-07-28 14:32:17] Building package
+TRACE [2023-07-28 14:36:14] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 14:36:14] Processing data
+TRACE [2023-07-28 14:36:14] Reading yaml configuration
+TRACE [2023-07-28 14:36:14] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 14:36:14] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 14:38:23] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 14:38:23] Processing data
+TRACE [2023-07-28 14:38:23] Reading yaml configuration
+TRACE [2023-07-28 14:38:23] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 14:38:23] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 14:38:23] 1 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 14:38:23] NEWS.md file found, updating!
+DEBUG [2023-07-28 14:38:23] whoswho was added.
+DEBUG [2023-07-28 14:38:23] whoswho was added.
+DEBUG [2023-07-28 14:38:23] whoswho was added.
+TRACE [2023-07-28 14:38:23] NEWS.md file found, updating!
+TRACE [2023-07-28 14:38:23] NEWS.md file found, updating!
+TRACE [2023-07-28 14:38:23] Data has been updated and DataVersion string incremented automatically to 0.0.2
+TRACE [2023-07-28 14:38:23] Saving to data
+TRACE [2023-07-28 14:38:23] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 14:38:23] Done
+TRACE [2023-07-28 14:38:23] DataPackageR succeeded
+TRACE [2023-07-28 14:38:23] Building documentation
+TRACE [2023-07-28 14:38:23] Building package
+TRACE [2023-07-28 14:40:58] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 14:40:58] Processing data
+TRACE [2023-07-28 14:40:58] Reading yaml configuration
+TRACE [2023-07-28 14:40:58] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 14:40:58] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 14:40:59] 1 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 14:40:59] NEWS.md file found, updating!
+WARN [2023-07-28 14:40:59] DataVersion has changed.
+WARN [2023-07-28 14:40:59] whoswho has changed.
+WARN [2023-07-28 14:40:59] DataVersion has changed.
+WARN [2023-07-28 14:40:59] whoswho has changed.
+WARN [2023-07-28 14:40:59] DataVersion has changed.
+WARN [2023-07-28 14:40:59] whoswho has changed.
+TRACE [2023-07-28 14:40:59] NEWS.md file found, updating!
+TRACE [2023-07-28 14:40:59] NEWS.md file found, updating!
+TRACE [2023-07-28 14:40:59] Data has been updated and DataVersion string incremented automatically to 0.0.3
+TRACE [2023-07-28 14:40:59] Saving to data
+TRACE [2023-07-28 14:40:59] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 14:40:59] Done
+TRACE [2023-07-28 14:40:59] DataPackageR succeeded
+TRACE [2023-07-28 14:40:59] Building documentation
+TRACE [2023-07-28 14:40:59] Building package
+TRACE [2023-07-28 14:43:04] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 14:43:04] Processing data
+TRACE [2023-07-28 14:43:04] Reading yaml configuration
+TRACE [2023-07-28 14:43:04] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 14:43:04] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 14:43:05] 1 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 14:43:05] NEWS.md file found, updating!
+TRACE [2023-07-28 14:43:05] Processed data sets match existing data sets at version 0.0.3
+TRACE [2023-07-28 14:43:05] Saving to data
+TRACE [2023-07-28 14:43:05] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 14:43:05] Done
+TRACE [2023-07-28 14:43:05] DataPackageR succeeded
+TRACE [2023-07-28 14:43:05] Building documentation
+TRACE [2023-07-28 14:43:05] Building package
+TRACE [2023-07-28 14:48:40] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 14:48:40] Processing data
+TRACE [2023-07-28 14:48:40] Reading yaml configuration
+TRACE [2023-07-28 14:48:40] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 14:48:40] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 14:48:40] 1 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 14:48:40] NEWS.md file found, updating!
+TRACE [2023-07-28 14:48:40] Processed data sets match existing data sets at version 0.0.3
+TRACE [2023-07-28 14:48:40] Saving to data
+TRACE [2023-07-28 14:48:40] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 14:48:40] Done
+TRACE [2023-07-28 14:48:40] DataPackageR succeeded
+TRACE [2023-07-28 14:48:40] Building documentation
+TRACE [2023-07-28 14:48:40] Building package
+TRACE [2023-07-28 15:00:33] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 15:00:33] Processing data
+TRACE [2023-07-28 15:00:33] Reading yaml configuration
+TRACE [2023-07-28 15:00:33] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 15:00:33] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 15:00:34] 1 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 15:00:34] NEWS.md file found, updating!
+TRACE [2023-07-28 15:00:34] Processed data sets match existing data sets at version 0.0.3
+TRACE [2023-07-28 15:00:34] Saving to data
+TRACE [2023-07-28 15:00:34] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 15:00:34] Done
+TRACE [2023-07-28 15:00:34] DataPackageR succeeded
+TRACE [2023-07-28 15:00:34] Building documentation
+TRACE [2023-07-28 15:00:34] Building package
+TRACE [2023-07-28 15:05:47] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 15:05:47] Processing data
+TRACE [2023-07-28 15:05:47] Reading yaml configuration
+TRACE [2023-07-28 15:05:47] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 15:05:47] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 15:05:47] 1 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 15:05:47] NEWS.md file found, updating!
+TRACE [2023-07-28 15:05:47] Processed data sets match existing data sets at version 0.0.3
+TRACE [2023-07-28 15:05:47] Saving to data
+TRACE [2023-07-28 15:05:47] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 15:05:47] Done
+TRACE [2023-07-28 15:05:47] DataPackageR succeeded
+TRACE [2023-07-28 15:05:47] Building documentation
+TRACE [2023-07-28 15:05:48] Building package
+TRACE [2023-07-28 15:13:36] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 15:13:36] Processing data
+TRACE [2023-07-28 15:13:36] Reading yaml configuration
+TRACE [2023-07-28 15:13:36] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 15:13:36] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 15:13:37] 1 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 15:13:37] NEWS.md file found, updating!
+WARN [2023-07-28 15:13:37] DataVersion has changed.
+WARN [2023-07-28 15:13:37] whoswho has changed.
+WARN [2023-07-28 15:13:37] DataVersion has changed.
+WARN [2023-07-28 15:13:37] whoswho has changed.
+WARN [2023-07-28 15:13:37] DataVersion has changed.
+WARN [2023-07-28 15:13:37] whoswho has changed.
+TRACE [2023-07-28 15:13:37] NEWS.md file found, updating!
+TRACE [2023-07-28 15:13:37] NEWS.md file found, updating!
+TRACE [2023-07-28 15:13:37] Data has been updated and DataVersion string incremented automatically to 0.0.4
+TRACE [2023-07-28 15:13:37] Saving to data
+TRACE [2023-07-28 15:13:37] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 15:13:37] Done
+TRACE [2023-07-28 15:13:37] DataPackageR succeeded
+TRACE [2023-07-28 15:13:37] Building documentation
+TRACE [2023-07-28 15:13:37] Building package
+TRACE [2023-07-28 15:18:59] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 15:18:59] Processing data
+TRACE [2023-07-28 15:18:59] Reading yaml configuration
+TRACE [2023-07-28 15:18:59] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 15:18:59] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 15:19:00] 1 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 15:19:00] NEWS.md file found, updating!
+TRACE [2023-07-28 15:19:00] Processed data sets match existing data sets at version 0.0.4
+TRACE [2023-07-28 15:19:00] Saving to data
+TRACE [2023-07-28 15:19:00] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 15:19:00] Done
+TRACE [2023-07-28 15:19:00] DataPackageR succeeded
+TRACE [2023-07-28 15:19:00] Building documentation
+TRACE [2023-07-28 15:19:00] Building package
+TRACE [2023-07-28 15:20:15] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 15:20:15] Processing data
+TRACE [2023-07-28 15:20:15] Reading yaml configuration
+TRACE [2023-07-28 15:20:15] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 15:20:15] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 15:20:16] 1 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 15:20:16] NEWS.md file found, updating!
+TRACE [2023-07-28 15:20:16] Processed data sets match existing data sets at version 0.0.4
+TRACE [2023-07-28 15:20:16] Saving to data
+TRACE [2023-07-28 15:20:16] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 15:20:16] Done
+TRACE [2023-07-28 15:20:16] DataPackageR succeeded
+TRACE [2023-07-28 15:20:16] Building documentation
+TRACE [2023-07-28 15:20:16] Building package
+TRACE [2023-07-28 15:28:07] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 15:28:07] Processing data
+TRACE [2023-07-28 15:28:07] Reading yaml configuration
+TRACE [2023-07-28 15:28:07] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 15:28:07] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 15:28:27] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 15:28:27] Processing data
+TRACE [2023-07-28 15:28:27] Reading yaml configuration
+TRACE [2023-07-28 15:28:27] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 15:28:27] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 15:28:31] 1 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 15:28:31] NEWS.md file found, updating!
+WARN [2023-07-28 15:28:31] DataVersion has changed.
+WARN [2023-07-28 15:28:31] whoswho has changed.
+WARN [2023-07-28 15:28:31] DataVersion has changed.
+WARN [2023-07-28 15:28:31] whoswho has changed.
+WARN [2023-07-28 15:28:31] DataVersion has changed.
+WARN [2023-07-28 15:28:31] whoswho has changed.
+TRACE [2023-07-28 15:28:31] NEWS.md file found, updating!
+TRACE [2023-07-28 15:28:31] NEWS.md file found, updating!
+TRACE [2023-07-28 15:28:31] Data has been updated and DataVersion string incremented automatically to 0.0.5
+TRACE [2023-07-28 15:28:31] Saving to data
+TRACE [2023-07-28 15:28:31] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 15:28:31] Done
+TRACE [2023-07-28 15:28:31] DataPackageR succeeded
+TRACE [2023-07-28 15:28:31] Building documentation
+TRACE [2023-07-28 15:28:32] Building package
+TRACE [2023-07-28 15:30:03] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 15:30:03] Processing data
+TRACE [2023-07-28 15:30:03] Reading yaml configuration
+TRACE [2023-07-28 15:30:03] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 15:30:03] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 15:30:06] 1 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 15:30:06] NEWS.md file found, updating!
+TRACE [2023-07-28 15:30:06] Processed data sets match existing data sets at version 0.0.5
+TRACE [2023-07-28 15:30:06] Saving to data
+TRACE [2023-07-28 15:30:06] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 15:30:06] Done
+TRACE [2023-07-28 15:30:06] DataPackageR succeeded
+TRACE [2023-07-28 15:30:06] Building documentation
+TRACE [2023-07-28 15:30:06] Building package
+TRACE [2023-07-28 15:36:28] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 15:36:28] Processing data
+TRACE [2023-07-28 15:36:28] Reading yaml configuration
+TRACE [2023-07-28 15:36:28] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 15:36:28] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 15:36:31] 1 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 15:36:31] NEWS.md file found, updating!
+TRACE [2023-07-28 15:36:31] Processed data sets match existing data sets at version 0.0.5
+TRACE [2023-07-28 15:36:31] Saving to data
+TRACE [2023-07-28 15:36:31] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 15:36:31] Done
+TRACE [2023-07-28 15:36:31] DataPackageR succeeded
+TRACE [2023-07-28 15:36:31] Building documentation
+TRACE [2023-07-28 15:36:32] Building package
+TRACE [2023-07-28 15:38:18] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 15:38:18] Processing data
+TRACE [2023-07-28 15:38:18] Reading yaml configuration
+TRACE [2023-07-28 15:38:18] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 15:38:18] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 15:38:21] 1 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 15:38:21] NEWS.md file found, updating!
+TRACE [2023-07-28 15:38:21] Processed data sets match existing data sets at version 0.0.5
+TRACE [2023-07-28 15:38:21] Saving to data
+TRACE [2023-07-28 15:38:21] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 15:38:21] Done
+TRACE [2023-07-28 15:38:21] DataPackageR succeeded
+TRACE [2023-07-28 15:38:21] Building documentation
+TRACE [2023-07-28 15:38:21] Building package
+TRACE [2023-07-28 15:57:47] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 15:57:47] Processing data
+TRACE [2023-07-28 15:57:47] Reading yaml configuration
+TRACE [2023-07-28 15:57:47] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 15:57:47] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 15:57:51] 1 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 15:57:51] NEWS.md file found, updating!
+TRACE [2023-07-28 15:57:51] Processed data sets match existing data sets at version 0.0.5
+TRACE [2023-07-28 15:57:51] Saving to data
+TRACE [2023-07-28 15:57:51] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 15:57:51] Done
+TRACE [2023-07-28 15:57:51] DataPackageR succeeded
+TRACE [2023-07-28 15:57:51] Building documentation
+TRACE [2023-07-28 15:57:51] Building package
+TRACE [2023-07-28 16:08:12] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 16:08:12] Processing data
+TRACE [2023-07-28 16:08:12] Reading yaml configuration
+TRACE [2023-07-28 16:08:12] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 16:08:12] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 16:08:15] 1 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 16:08:15] NEWS.md file found, updating!
+TRACE [2023-07-28 16:08:15] Processed data sets match existing data sets at version 0.0.5
+TRACE [2023-07-28 16:08:15] Saving to data
+TRACE [2023-07-28 16:08:15] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 16:08:15] Done
+TRACE [2023-07-28 16:08:15] DataPackageR succeeded
+TRACE [2023-07-28 16:08:15] Building documentation
+TRACE [2023-07-28 16:08:15] Building package
+TRACE [2023-07-28 16:11:32] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 16:11:32] Processing data
+TRACE [2023-07-28 16:11:32] Reading yaml configuration
+TRACE [2023-07-28 16:11:32] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 16:11:32] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 16:11:35] 1 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 16:11:35] NEWS.md file found, updating!
+TRACE [2023-07-28 16:11:35] Processed data sets match existing data sets at version 0.0.5
+TRACE [2023-07-28 16:11:35] Saving to data
+TRACE [2023-07-28 16:11:35] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 16:11:35] Done
+TRACE [2023-07-28 16:11:35] DataPackageR succeeded
+TRACE [2023-07-28 16:11:35] Building documentation
+TRACE [2023-07-28 16:11:35] Building package
+TRACE [2023-07-28 16:12:50] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 16:12:50] Processing data
+TRACE [2023-07-28 16:12:50] Reading yaml configuration
+TRACE [2023-07-28 16:12:50] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 16:12:50] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 16:12:52] 1 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 16:12:52] NEWS.md file found, updating!
+TRACE [2023-07-28 16:12:52] Processed data sets match existing data sets at version 0.0.5
+TRACE [2023-07-28 16:12:52] Saving to data
+TRACE [2023-07-28 16:12:52] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 16:12:52] Done
+TRACE [2023-07-28 16:12:52] DataPackageR succeeded
+TRACE [2023-07-28 16:12:52] Building documentation
+TRACE [2023-07-28 16:12:53] Building package
+TRACE [2023-07-28 17:13:05] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 17:13:05] Processing data
+TRACE [2023-07-28 17:13:05] Reading yaml configuration
+TRACE [2023-07-28 17:13:05] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 17:13:05] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 17:13:08] 1 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 17:13:08] NEWS.md file found, updating!
+TRACE [2023-07-28 17:13:08] Processed data sets match existing data sets at version 0.0.5
+TRACE [2023-07-28 17:13:08] Saving to data
+TRACE [2023-07-28 17:13:08] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 17:13:08] Done
+TRACE [2023-07-28 17:13:08] DataPackageR succeeded
+TRACE [2023-07-28 17:13:08] Building documentation
+TRACE [2023-07-28 17:13:08] Building package
+TRACE [2023-07-28 17:14:36] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 17:14:36] Processing data
+TRACE [2023-07-28 17:14:36] Reading yaml configuration
+TRACE [2023-07-28 17:14:36] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 17:14:36] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 17:14:39] 1 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 17:14:39] NEWS.md file found, updating!
+TRACE [2023-07-28 17:14:39] Processed data sets match existing data sets at version 0.0.5
+TRACE [2023-07-28 17:14:39] Saving to data
+TRACE [2023-07-28 17:14:39] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 17:14:39] Done
+TRACE [2023-07-28 17:14:39] DataPackageR succeeded
+TRACE [2023-07-28 17:14:39] Building documentation
+TRACE [2023-07-28 17:14:39] Building package
+TRACE [2023-07-28 17:15:35] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 17:15:35] Processing data
+TRACE [2023-07-28 17:15:35] Reading yaml configuration
+TRACE [2023-07-28 17:15:35] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 17:15:35] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 17:15:38] 1 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 17:15:38] NEWS.md file found, updating!
+TRACE [2023-07-28 17:15:38] Processed data sets match existing data sets at version 0.0.5
+TRACE [2023-07-28 17:15:38] Saving to data
+TRACE [2023-07-28 17:15:38] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 17:15:38] Done
+TRACE [2023-07-28 17:15:38] DataPackageR succeeded
+TRACE [2023-07-28 17:15:38] Building documentation
+TRACE [2023-07-28 17:15:38] Building package
+TRACE [2023-07-28 17:19:15] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 17:19:15] Processing data
+TRACE [2023-07-28 17:19:15] Reading yaml configuration
+TRACE [2023-07-28 17:19:15] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 17:19:15] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 17:19:22] 1 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 17:19:22] NEWS.md file found, updating!
+TRACE [2023-07-28 17:19:22] Processed data sets match existing data sets at version 0.0.5
+TRACE [2023-07-28 17:19:22] Saving to data
+TRACE [2023-07-28 17:19:22] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 17:19:22] Done
+TRACE [2023-07-28 17:19:22] DataPackageR succeeded
+TRACE [2023-07-28 17:19:22] Building documentation
+TRACE [2023-07-28 17:19:22] Building package
+TRACE [2023-07-28 17:21:16] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 17:21:16] Processing data
+TRACE [2023-07-28 17:21:16] Reading yaml configuration
+TRACE [2023-07-28 17:21:16] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 17:21:16] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 17:21:19] 1 data set(s) created by whoswho.Rmd
+TRACE [2023-07-28 17:21:19] NEWS.md file found, updating!
+TRACE [2023-07-28 17:21:19] Processed data sets match existing data sets at version 0.0.5
+TRACE [2023-07-28 17:21:19] Saving to data
+TRACE [2023-07-28 17:21:19] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2023-07-28 17:21:19] Done
+TRACE [2023-07-28 17:21:19] DataPackageR succeeded
+TRACE [2023-07-28 17:21:19] Building documentation
+TRACE [2023-07-28 17:21:20] Building package
+TRACE [2023-07-28 17:25:03] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 17:25:03] Processing data
+TRACE [2023-07-28 17:25:03] Reading yaml configuration
+TRACE [2023-07-28 17:25:03] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 17:25:03] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 17:26:58] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 17:26:58] Processing data
+TRACE [2023-07-28 17:26:58] Reading yaml configuration
+TRACE [2023-07-28 17:26:58] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 17:26:58] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 17:32:02] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 17:32:02] Processing data
+TRACE [2023-07-28 17:32:02] Reading yaml configuration
+TRACE [2023-07-28 17:32:02] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 17:32:02] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 17:33:00] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 17:33:00] Processing data
+TRACE [2023-07-28 17:33:00] Reading yaml configuration
+TRACE [2023-07-28 17:33:00] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 17:33:00] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 17:36:24] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 17:36:24] Processing data
+TRACE [2023-07-28 17:36:24] Reading yaml configuration
+TRACE [2023-07-28 17:36:24] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 17:36:24] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 17:36:24] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 17:36:24] Processing data
+TRACE [2023-07-28 17:36:24] Reading yaml configuration
+TRACE [2023-07-28 17:36:24] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 17:36:24] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+
+TRACE [2023-07-28 17:36:37] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2023-07-28 17:36:37] Processing data
+TRACE [2023-07-28 17:36:37] Reading yaml configuration
+TRACE [2023-07-28 17:36:37] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+TRACE [2023-07-28 17:36:37] Processing 1 of 1: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/whoswho.Rmd
+

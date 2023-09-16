@@ -1,0 +1,46 @@
+---
+title: Fetch whoswho data from Google Sheet and process.
+author: Alan Engel
+date: July 28, 2023
+output_format: html_document
+vignette: >
+  %\VignetteIndexEntry{Fetch whoswho data from Google Sheet and process.}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+```{r whoswho}
+library(dplyr)
+library(googlesheets4)
+library(data.table)
+gs4_auth(scopes = "spreadsheets.readonly",
+   email="ttcrossroads09@gmail.com") 
+ss <- "https://docs.google.com/spreadsheets/d/1l8y_tp55rojn73308TTLr2yq_nZaeJC5v6CnKrZvS0s/edit?usp=sharing"
+ww <- read_sheet(ss,sheet="Intl Who’s Who", na="N", trim_ws=TRUE)
+ww1 <- as.data.table(ww)
+write.table(ww1, file = file.path(project_path(),"data-raw","whoswho.tsv"), row.names=FALSE, sep="\t")
+whoswho <- melt(ww1, id.vars = c("Surname","Given"),
+            measure.vars=c("IntlWW40","IntlWW50","IntlWW60"),
+             variable.name = "variable", 
+             value.name = "value", na.rm=TRUE)
+```
+
+Fetch icus who's who data from Google sheets
+
+A table of ICUS participants and their inclusion
+in International Who's Who Editions 40, 50 and 60
+was created on Google Sheets. This function 
+fetches that data, processes it into an R data 
+frame, and saves it to /data in the package
+
+<a href="https://googlesheets4.tidyverse.org/articles/auth.html">Ref: https://googlesheets4.tidyverse.org/articles/auth.html</a>
+<a href="https://mgimond.github.io/rug_2019_12/Index.html#pivoting-table-to-long-format">Pivoting table to long format</a>
+
+de-authorized mode because using the link of
+a sheet readable by anyone with a link.
+
+Set authorization and link for Google Sheet. 
+(This needs to be made interactive so that users enter their own email
+address, but not at this stage.)
+
+
