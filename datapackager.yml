@@ -1,7 +1,18 @@
 configuration:
   files:
-    whoswho.Rmd:
+    gsheets.Rmd:
       enabled: yes
-  objects: whoswho
+    ICUSRoles.Rmd:
+      enabled: yes
+    icus-program-observations.Rmd:
+      enabled: yes
+    ICUSPrograms.Rmd:
+      enabled: yes
+  objects:
+  - whoswho
+  - nobels
+  - participants
+  - programs
+  - role_defs
   render_root:
-    tmp: '868269'
+    tmp: '990749'

@@ -1,0 +1,89 @@
+---
+title: ICUS participants listed in the International Who's Who and Nobel Laureates
+author: Alan Engel
+date: September 21, 2023
+lang: en-us
+output_format: rmarkdown::html_vignette
+bibliography:
+- gsheets.bib
+- R.bib
+link-citations: yes
+vignette: >
+  %\VignetteIndexEntry{ICUS participants listed in the International Who's Who and Nobel Laureates}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+```{r libraries}
+library(dplyr)
+library(googlesheets4)
+library(data.table)
+```
+
+This script downloads tables from Google Sheets. Putting multiple downloads in
+one Rmd file reduces to one the number of times one has to enter a Google ID.
+
+Tables in script:
+
+* whoswho
+* nobels
+
+## whoswho
+
+The main table in this dataset, \code{participants}, is a list of 2045 people
+who have been listed in ICUS programs as speakers, moderators, discussants,
+advisors and other committee members. For the purpose of assessing the roles
+of Nobel Laureates and other famous persons, the full list was looked up
+in three editions of Marquis International Who's Who Editions 40 [@intlwhoswho1976],
+50 [@intlwhoswho1986] and 60 [@intlwhoswho1996]. This data is in the 
+\code{whoswho.rda} file.
+
+These editions cover the first, middle and final thirds of the ICUS
+conferences that ran from 1992 to 2000. 
+
+For ease of handling during manual lookups, the origional datasheets were
+compiled as Google Sheets, which can be easily accessed via phone. These
+wide tables are included with the dataset in the \code{inst/extdata} folder.
+
+The table \code{whoswho} itself is in long form in the \code{whoswho.rda} file.
+
+## Fetch icus who's who data from Google sheets
+
+```{r whoswho}
+gm <- readline(prompt = "Google account: ")
+gs4_auth(scopes = "spreadsheets.readonly", email=gm) 
+ss <- "https://docs.google.com/spreadsheets/d/1l8y_tp55rojn73308TTLr2yq_nZaeJC5v6CnKrZvS0s/edit?usp=sharing"
+ww <- read_sheet(ss,sheet="Intl Who’s Who", na="N", trim_ws=TRUE)
+ww1 <- as.data.table(ww)
+write.csv(ww,file=file.path(project_path(),"inst","extdata","whoswho.csv"),fileEncoding="utf8")
+write.table(ww1, file = file.path(project_path(),"inst","extdata","whoswho.tsv"), row.names=FALSE, sep="\t")
+whoswho <- melt(ww1, id.vars = c("ID","Surname","Given"),
+            measure.vars=c("IntlWW40","IntlWW50","IntlWW60"),
+             variable.name = "Edition", 
+             value.name = "Birthdate", na.rm=TRUE)
+whoswho
+```
+
+## nobels
+
+In his 1977 criticism of ICUS IV, Irving Horowitz noted the prominence of Nobel
+Laureates on the program and a striking fall-off in talent beyond a stellar list of
+sponsors [@horowitz1977science]. This table is based on the Nobel Media AB
+dataset [@nobelprizelaureates2023].
+
+The categories are:
+
+* C - Chemistry
+* E - Economics
+* M - Medicine and physiology
+* P - Physics
+* S - Peace
+
+```{r nobels}
+ss <- "https://docs.google.com/spreadsheets/d/1f09qZiFsVZVLnoSUMfkGqw7cpk1Y4OG9OvW3qnSVSwE/edit?usp=sharing"
+nobels <- as.data.table(read_sheet(ss,sheet="Nobels", na="N",trim_ws=TRUE))[Year > 1800]
+nobels
+```
+
+## References
+
