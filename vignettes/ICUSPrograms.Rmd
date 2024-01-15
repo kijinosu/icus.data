@@ -16,7 +16,7 @@ vignette: >
 
 ## ICUS Programs
 
-Basic data for ICUS conferences came from programs brochures and
+Basic data for ICUS conferences came from program brochures and
 the ICUS website [@icushistory]. This includes year, location,
 country, program title, number of participants and the number of
 nations they represent. This basic data also includes the number of

@@ -3,27 +3,39 @@
 \docType{data}
 \name{nobels}
 \alias{nobels}
-\title{Descriptive data title}
+\title{Nobel Laureates who participated in ICUS}
 \format{
 a \code{data.table} containing the following fields:
 \describe{
-\item{ID}{}
+\item{ID}{ID for participants, relational to \code{participants} table}
 \item{Surname}{}
 \item{Given}{}
-\item{Year}{}
-\item{Category}{}
-\item{OrgCountry}{}
+\item{Year}{Year in which participant receive Nobel Prize}
+\item{Category}{Category of prize}
+\item{OrgCountry}{Country of recipient's organization}
 }
 }
 \source{
-The data comes from________________________.
+{The data comes from Nobel Media AB.}
 }
 \description{
+In his 1977 criticism of ICUS IV,
+Irving Horowitz noted the prominence of Nobel
+Laureates on the program and a striking fall-off
+in talent beyond a stellar list of
+sponsors. This table is based on the Nobel Media AB
+dataset.
+}
+\details{
 Detailed description of the data
 }
+\examples{
+library(icus.data)
+nobels
+}
 \seealso{
-\link{icus.data}
 \link{bibset}
+\link{icus.data}
 \link{participants}
 \link{programs}
 \link{role_defs}

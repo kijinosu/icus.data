@@ -3,26 +3,46 @@
 \docType{data}
 \name{whoswho}
 \alias{whoswho}
-\title{Descriptive data title}
+\title{ICUS participants listed in International Who's Who}
 \format{
-a \code{data.table} containing the following fields:
+A \code{data.table} containing the following fields:
 \describe{
-\item{ID}{}
+\item{ID}{Format: ICUSxxxx. Assigned sequentially to rows in ICUSRoles.xlsx.
+Those are the authoritative assignments.
+copied from there.}
 \item{Surname}{}
 \item{Given}{}
-\item{Edition}{}
-\item{Birthdate}{}
+\item{Edition}{Edition of Who's Who.}
+\item{Birthdate}{Birthdate of participant.}
 }
 }
 \source{
-The data comes from________________________.
+Manual searches of International Who's Who, Editions 40, 50 and 60.
 }
 \description{
+Results of manual searches on participants in Marquis
+International Who's Who. The participants' birthdates were
+recorded both for quality control checks and to be able to
+determine age at participation in ICUS.
+}
+\details{
 Detailed description of the data
+
+Folder \code{extdata} contains csv and tsv versions of this table
+in wide format with the Edition numbers as column heads. Participants not
+listed in the Who's Who are includeed with \if{html}{\out{<NA>}} entries.
+}
+\examples{
+csv <- file.path(system.file(package="icus.data"),"extdata","whoswho.csv")
+whoswho.wide <- read.csv(csv)
+whoswho.wide[1:20,]
+## See whoswho in long format.
+library(icus.data)
+whoswho
 }
 \seealso{
-\link{icus.data}
 \link{bibset}
+\link{icus.data}
 \link{nobels}
 \link{participants}
 \link{programs}

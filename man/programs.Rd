@@ -3,42 +3,67 @@
 \docType{data}
 \name{programs}
 \alias{programs}
-\title{Descriptive data title}
+\title{Summary data from ICUS program brochures}
 \format{
-a \code{data.table} containing the following fields:
+A \code{data.table} containing the following fields:
 \describe{
 \item{Conference}{}
 \item{Year}{}
-\item{Site}{}
+\item{Site}{Name of hotel}
 \item{City}{}
 \item{Country}{}
 \item{ProgTitle}{}
-\item{Count}{}
-\item{Nations}{}
-\item{ProgPages}{}
-\item{Cover}{}
-\item{Title}{}
+\item{Count}{Number of participants per official ICUS website.}
+\item{Nations}{Number of nations represented by participants per official
+ICUS website.}
+\item{ProgPages}{Number of pages in program brochure}
+\item{Cover}{Number of cover pages.}
+\item{Title}{Number of title pages}
 \item{Foreword}{}
 \item{Purpose}{}
 \item{Executive}{}
-\item{TOC}{}
-\item{Structure}{}
-\item{Schedule}{}
-\item{Participants}{}
-\item{Sponsor}{}
-\item{Obituary}{}
+\item{TOC}{Table of contents pages}
+\item{Structure}{Number of pages detailing structure of conferenc}
+\item{Schedule}{Number of pages detailing speaking sessions and schedule}
+\item{Participants}{Pages devoted to background info about participants}
+\item{Sponsor}{Pages providing information about ICUS history and sponsors
+include book sales}
+\item{Obituary}{Pages devoted to obituaries}
 \item{Venue}{}
 }
 }
 \source{
-The data comes from________________________.
+The data comes from ICUS program brochures on ICUS website
+(see vignette).
 }
 \description{
+Pariticpants in ICUS conferences were manually compiled from
+ICUS programs. See the vignette
+\code{icus.data::ICUSPrograms}.
+}
+\details{
 Detailed description of the data
+
+This \code{data.table} is the \code{Summary} sheet from
+\code{ICUSPrograms.xlsx} in wide format. It is in part aggregated from
+conference-specific sheets that are included with \code{ICUSPrograms.xlsx}
+in \code{extdata}. See examples and vignette.
+}
+\examples{
+## Load and view a conference sheet from \code{ICUSPrograms.xlsx}
+library(readxl)
+library(data.table)
+xlsx <- file.path(system.file(package="icus.data"),
+                  "extdata","ICUSPrograms.xlsx")
+## view list of sheets
+excel_sheets(xlsx)
+## load one conference sheet
+confpages <- as.data.table(read_xlsx(xlsx, sheet="ICUS16"))
+confpages
 }
 \seealso{
-\link{icus.data}
 \link{bibset}
+\link{icus.data}
 \link{nobels}
 \link{participants}
 \link{role_defs}

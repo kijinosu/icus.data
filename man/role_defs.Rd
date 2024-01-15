@@ -3,23 +3,34 @@
 \docType{data}
 \name{role_defs}
 \alias{role_defs}
-\title{Descriptive data title}
+\title{Definitions of role codes}
 \format{
 a \code{tbl_df} containing the following fields:
 \describe{
-\item{Abbr}{}
-\item{Role}{}
+\item{Abbr}{Single-character code}
+\item{Role}{Definition of role}
 }
 }
 \source{
-The data comes from________________________.
+The data is derived from ICUS programs.
 }
 \description{
+Simple table of roles of participants in ICUS. ICUS
+staff were excluded.
+}
+\details{
 Detailed description of the data
+
+Table \code{role_defs} is from sheet \code{Legend}
+of \code{ICUSRoles.xlsx}.
+}
+\examples{
+library(icus.data)
+role_defs
 }
 \seealso{
-\link{icus.data}
 \link{bibset}
+\link{icus.data}
 \link{nobels}
 \link{participants}
 \link{programs}

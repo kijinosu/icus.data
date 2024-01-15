@@ -4,17 +4,22 @@
 \name{icus.data}
 \alias{icus.data}
 \alias{icus.data-package}
-\title{Package Title}
+\title{Dataset for International Conferences on the Unity of Science}
 \description{
-A description of the data package
+More than 2000 scientists and scholars participated in the 22
+International Conferences on the Unity of the Sciences (ICUS)
+held between 1972 and 2000. The main spreadsheet in this dataset
+is a table of 2045 people who have been
+listed in ICUS programs as speakers, moderators, discussants,
+advisors and other committee members. This dataset contains
+tables related to researching these conferences.
 }
 \details{
 icus.data
 A data package for icus.data.
 
-Use \code{data(package='icus.data')$results[, 3]} to see a list of available data sets in this data package
-and/or DataPackageR::load_all
-_datasets() to load them.
+Use \code{data(package='icus.data')$results[, 3]} to see
+a list of available data sets in this data package.
 }
 \seealso{
 \link{bibset}
