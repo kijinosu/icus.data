@@ -62,7 +62,7 @@ devtools::install_github("kijinosu/icus.data")
 
 ### Plot participant counts by year
 
-```{r, plot-participant-counts, echo=FALSE}
+```{r, plot-participant-counts, echo=TRUE}
 library(icus.data)
 library(tidyverse)
 
@@ -75,7 +75,7 @@ ggplot(data = progs) +
 
 ### Most frequent participants
 
-```{r, most-frequent-participants, echo=FALSE}
+```{r, most-frequent-participants, echo=TRUE}
 library(icus.data)
 library(data.table)
 
