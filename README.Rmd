@@ -1,18 +1,71 @@
 ---
 output: github_document
-
+title: README for icus.data
+author: Alan Engel
+date: January 15, 2024
+lang: "en-us"
+output_format: github_document
+bibliography: bibliography.bib
+link-citations: true
 ---
+# icus.data
 
-```{r, libraries, include=FALSE}
-library(icus.data)
-## tidyverse gives us the ggplot2 and several other packages
-library(tidyverse)
-library(data.table)
+## Introduction
+Between 1972 and 2000, Sun Myung Moon's organizations sponsored 22 conferences 
+on the unity of science. The aim was to bring science under the moral guidance 
+of Moon's organizations and their theology. The programs list 2045 participants, 
+including prominent university presidents and Nobel Laureates. This project 
+aims to research these conferences from multiple viewpoints.
+
+This dataset provides several components for researchers who wish to take a deeper
+look into these conferences.
+
+## Datasets
+
+1. __participants__ Table of 2045 people who have been
+listed in ICUS programs as speakers, moderators, discussants,
+advisors and other committee members
+
+2. __programs__ Basic data for ICUS conferences from program brochures and
+the ICUS website [@icushistory]
+
+3. __role_defs__ Definitions of roles codes in __participants__
+
+4. __whoswho__ Table of participants who are listed in Marquis
+International Who's Who Editions 40, 50 and 60, which covers the first, middle
+and final thirds of the ICUS conferences that ran from 1992 to 2000.
+
+5. __nobels__ Table of Nobel Laureates who participated in ICUS conferences.
+
+6. __bibset__ Biblatex entries for 1658 speeches and presentations in ICUS.
+
+## Special vignettes
+
+1. __icus program observations__ Observations from ICUS program brochures
+including, for example, attendence by Sun Myung Moon and his wife Han Hakja,
+mention of funding by the Unification Church, detailed coding of program sessions
+for use in Set entries in _bibset__.
+
+2. __build-package__ A vignette detailing the workflow for building this R data
+package. I am a memory-challenged novice and this is the result of a lot of trial and error.
+
+## Installation
+
+You can install the latest version of __icus.data__ from [github](https://github.com/kijinosu/icus.data) with:
+
+```{r, eval=FALSE}
+library(devtools)
+devtools::install_github("kijinosu/icus.data")
 ```
 
-Try plotting
+## Examples
+
+### Plot participant counts by year
 
 ```{r, plot-participant-counts, echo=FALSE}
+library(icus.data)
+library(tidyverse)
+
 ggplot(data = progs) +
   geom_bar(mapping = aes(x = Year, y = Count), stat = "identity") +
   labs(title = "Participant counts by year of conference",
@@ -20,9 +73,12 @@ ggplot(data = progs) +
 ```
 
 
-## Most frequent participants
+### Most frequent participants
 
 ```{r, most-frequent-participants, echo=FALSE}
+library(icus.data)
+library(data.table)
+
 activeparts <- tp %>%
   count(ID, Surname, Given, Conference, name = "Roles") %>%
   count(ID, Surname, Given, name = "Conferences") %>%
@@ -34,8 +90,11 @@ activeparts <- tp %>%
 knitr::kable(activeparts[1:20, ], caption = "Most frequent participants")
 ```
 
-## R packages used for this document
+## R packages used for this data package
 
+* DataPackageR - Set up and put the pieces together [@R-DataPackageR]
+* RefManageR - Load and process raw BibLatex files [@RefManageR2017]
+and [@RefManageR2014]
 * [@R-tidyverse]
 * [@R-data.table]
 
