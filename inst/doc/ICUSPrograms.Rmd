@@ -1,7 +1,7 @@
 ---
 title: ICUS Program Brochures
 author: Alan Engel
-date: September 25, 2023
+date: September 26, 2023
 lang: en-us
 output_format: rmarkdown::html_vignette
 bibliography:
@@ -67,8 +67,8 @@ For researchers who wish to view the brochures themselves, please see the links 
 * ICUS XVIII [@ICUS18Program]
 * ICUS XIX [@ICUS19Program]
 * ICUS XX [@ICUS20Program]
-* ICUS XXI [@ICUS20Program]
-* ICUS XXII [@ICUS20Program]
+* ICUS XXI [@ICUS21Program]
+* ICUS XXII [@ICUS22Program]
 
 ## Reading in \code{programs}
 
@@ -100,12 +100,11 @@ programs$Structure
 ## R software packages used for this dataset
 
 * readxl - To read two sheets from
-\code{ICUSPrograms.xlsx}, which was manually prepared 
+\code{ICUSPrograms.xlsx}, which was manually prepared
 from the ICUS programs [@R-readxl]
-* data.table - To transform the participants table to long form [@R-data.table]
+* data.table - [@R-data.table]
 * usethis - To set project folders [@R-usethis]
 * DataPackageR - Set up and put the pieces together [@R-DataPackageR]
-
 
 ## References
 

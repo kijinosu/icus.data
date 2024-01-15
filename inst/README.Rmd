@@ -1,0 +1,42 @@
+---
+output: github_document
+
+---
+
+```{r, libraries, include=FALSE}
+library(icus.data)
+## tidyverse gives us the ggplot2 and several other packages
+library(tidyverse)
+library(data.table)
+```
+
+Try plotting
+
+```{r, plot-participant-counts, echo=FALSE}
+ggplot(data = progs) +
+  geom_bar(mapping = aes(x = Year, y = Count), stat = "identity") +
+  labs(title = "Participant counts by year of conference",
+       x = "Year of conference")
+```
+
+
+## Most frequent participants
+
+```{r, most-frequent-participants, echo=FALSE}
+activeparts <- tp %>%
+  count(ID, Surname, Given, Conference, name = "Roles") %>%
+  count(ID, Surname, Given, name = "Conferences") %>%
+  arrange(desc(Conferences)) %>%
+  select(Given, Surname, Conferences) %>%
+  mutate(FullName = paste(.$Given, .$Surname, sep = " ")) %>%
+  select(FullName, Conferences)
+
+knitr::kable(activeparts[1:20, ], caption = "Most frequent participants")
+```
+
+## R packages used for this document
+
+* [@R-tidyverse]
+* [@R-data.table]
+
+## References
