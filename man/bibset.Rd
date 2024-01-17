@@ -48,12 +48,17 @@ the \code{key} method is implemented in this version.
 }
 \examples{
 library(icus.data)
-bibset[1]
+bibset[1:5]
 ## count number of InProceedings entries in bibset
-lenarr <- sapply(1:length(bibset), 
-		function (j) length(bibset[[j]][bibtype = "InProceedings"]))
-lenarr
-sum(lenarr)
+length(bibset[bibtype = "InProceedings"])
+## Search for presentations by Delgado.
+bibset[author = "Delgado"]
+## Use draft style.
+print(SearchBib(bibset, author="Delgado"), .opts = list(bib.style = "draft"))
+## Search for commentary by Delgado.
+bibset[commentator = "Delgado"]
+## Look at extended Set entry
+toBiblatex(bibset[entryset = "ICUS06:C04:G02"])
 }
 \seealso{
 \link{icus.data}
