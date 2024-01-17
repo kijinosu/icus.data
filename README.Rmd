@@ -62,10 +62,11 @@ devtools::install_github("kijinosu/icus.data")
 
 ### Plot participant counts by year
 
-```{r, plot-participant-counts, echo=TRUE}
+```{r, libraries, echo=FALSE}
 library(icus.data)
 library(tidyverse)
-
+```
+```{r, plot-participant-counts, echo=TRUE}
 ggplot(data = progs) +
   geom_bar(mapping = aes(x = Year, y = Count), stat = "identity") +
   labs(title = "Participant counts by year of conference",
@@ -73,12 +74,10 @@ ggplot(data = progs) +
 ```
 
 
+
 ### Most frequent participants
 
 ```{r, most-frequent-participants, echo=TRUE}
-library(icus.data)
-library(data.table)
-
 activeparts <- tp %>%
   count(ID, Surname, Given, Conference, name = "Roles") %>%
   count(ID, Surname, Given, name = "Conferences") %>%
