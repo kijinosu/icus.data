@@ -64,7 +64,7 @@ devtools::install_github("kijinosu/icus.data")
 
 Load libraries.
 
-```{r, libraries, echo=TRUE}
+```{r, libraries, results='hide'}
 library(icus.data)
 library(tidyverse)
 ```
