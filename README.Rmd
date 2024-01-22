@@ -53,7 +53,7 @@ package. I am a memory-challenged novice and this is the result of a lot of tria
 
 You can install the latest version of __icus.data__ from [github](https://github.com/kijinosu/icus.data) with:
 
-```{r, eval=FALSE}
+```{r, install-instructions, eval=FALSE}
 library(devtools)
 devtools::install_github("kijinosu/icus.data")
 ```

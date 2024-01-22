@@ -1,7 +1,7 @@
 ---
 title: Bibliographic dataset for ICUS programs
 author: Alan Engel
-date: January 12, 2024
+date: January 22, 2024
 lang: "en-us"
 output_format: rmarkdown::html_vignette
 bibliography: 
@@ -73,10 +73,9 @@ es <- sapply(1:len, function(i) {
 e1 <- parent.frame()
 esetout <- eval(es, e1)
 
-bf <- as.data.frame(btmp)
-bf[which(bf$bibtype == "Set"), ]$entryset <- esetout
+btmp[btmp$bibtype == "Set",]$entryset <- esetout
 
-bibset <- RefManageR::as.BibEntry(bf)
+bibset <- btmp
 bibset
 ```
 

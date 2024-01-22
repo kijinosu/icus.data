@@ -415,7 +415,6 @@ These wide tables are included with the dataset in the folder.</p>
 gs4_auth(scopes = &quot;spreadsheets.readonly&quot;, email=gm) 
 ss &lt;- &quot;https://docs.google.com/spreadsheets/d/1l8y_tp55rojn73308TTLr2yq_nZaeJC5v6CnKrZvS0s/edit?usp=sharing&quot;
 ww &lt;- read_sheet(ss,sheet=&quot;Intl Who’s Who&quot;, na=&quot;N&quot;, trim_ws=TRUE)</code></pre>
-<pre><code>## Auto-refreshing stale OAuth token.</code></pre>
 <pre><code>## ✔ Reading from &quot;ICUS Who&#39;s Who&quot;.</code></pre>
 <pre><code>## ✔ Range &#39;&#39;Intl Who’s Who&#39;&#39;.</code></pre>
 <pre class="r"><code>ww1 &lt;- as.data.table(ww)
