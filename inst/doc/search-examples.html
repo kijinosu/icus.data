@@ -404,11 +404,7 @@ library(icus.data)</code></pre>
 <h1>Structure and output styles</h1>
 <p>Let’s take a look at the first entry in <code>bibset</code>.</p>
 <pre class="r"><code>bibset[1]</code></pre>
-<pre><code>## [1] _Moral Orientation of the Sciences_. First International Conference
-## on Unified Science. (Waldorf-Astoria Hotel, 11. 23, 1972-11. 26, 1972)
-## Council for Unified Research and Education. New York, New York, 1972.
-## &lt;https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf&gt;
-## (visited on 05/01/2023).</code></pre>
+<pre><code>## bibentry()</code></pre>
 <p>RefMangeR’s default output style is “numeric”.</p>
 <pre class="r"><code>BibOptions(&quot;bib.style&quot;)</code></pre>
 <pre><code>## $bib.style
@@ -416,19 +412,6 @@ library(icus.data)</code></pre>
 <p>To see the Biblatex entry in full, we use the
 <code>toBiblatex()</code> function.</p>
 <pre class="r"><code>toBiblatex(bibset[1])</code></pre>
-<pre><code>## @Proceedings{ICUS01,
-##   title = {Moral Orientation of the Sciences},
-##   titleaddon = {First International Conference on Unified Science},
-##   shorttitle = {ICUS I},
-##   eventdate = {1972-11-23/1972-11-26},
-##   venue = {Waldorf-Astoria Hotel},
-##   organization = {Council for Unified Research and Education},
-##   location = {New York, New York},
-##   date = {1972},
-##   url = {https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf},
-##   urldate = {2023-05-01},
-##   keywords = {primary, program, moonist},
-## }</code></pre>
 <p>The original bibliographic file <code>ICUS01.bib</code> contained the
 following.</p>
 <pre><code>@Proceedings{ICUS01,
@@ -467,103 +450,32 @@ based on the value of <code>crossref</code>. Searches are on these
 combined entries. It should be evident that changing keys will corrupt
 the dataset.</p>
 <pre class="r"><code>toBiblatex(bibset[4])</code></pre>
-<pre><code>## @InProceedings{ICUS01:C01:G01:S01,
-##   crossref = {ICUS01},
-##   author = {Camilo Dagum},
-##   title = {The Impact of Unified Science on Economics},
-##   shorttitle = {ICUS I},
-##   eventdate = {1972-11-23/1972-11-26},
-##   venue = {Waldorf-Astoria Hotel},
-##   organization = {Council for Unified Research and Education},
-##   location = {New York, New York},
-##   date = {1972},
-##   url = {https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf},
-##   urldate = {2023-05-01},
-##   keywords = {primary, program, moonist},
-##   booktitle = {Moral Orientation of the Sciences},
-##   booktitleaddon = {First International Conference on Unified Science},
-## }</code></pre>
 <p>Possible values for <code>bib.style</code> are “numeric” (default),
 “authoryear”, “authortitle”, “alphabetic”, “draft”. (See <a href="https://cran.r-project.org/web/packages/RefManageR/RefManageR.pdf">RefManageR
 on CRAN</a> for details.) These styles are illustrated below.</p>
 <pre class="r"><code>bibset[4]</code></pre>
-<pre><code>## [1] C. Dagum. &quot;The Impact of Unified Science on Economics&quot;. In: _Moral
-## Orientation of the Sciences_. First International Conference on Unified
-## Science. (Waldorf-Astoria Hotel, 11. 23, 1972-11. 26, 1972). Council
-## for Unified Research and Education. New York, New York, 1972.
-## &lt;https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf&gt;
-## (visited on 05/01/2023).</code></pre>
+<pre><code>## bibentry()</code></pre>
 <pre class="r"><code>oldstyle &lt;- BibOptions(bib.style = &quot;authoryear&quot;)
 bibset[4]</code></pre>
-<pre><code>## Dagum, C. (1972). &quot;The Impact of Unified Science on Economics&quot;. In:
-## _Moral Orientation of the Sciences_. First International Conference on
-## Unified Science. (Waldorf-Astoria Hotel, 11. 23, 1972-11. 26, 1972).
-## Council for Unified Research and Education. New York, New York.
-## &lt;https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf&gt;
-## (visited on 5. 01, 2023).</code></pre>
+<pre><code>## bibentry()</code></pre>
 <pre class="r"><code>BibOptions(bib.style = &quot;authortitle&quot;)
 bibset[4]</code></pre>
-<pre><code>## Dagum, C. &quot;The Impact of Unified Science on Economics&quot;. In: _Moral
-## Orientation of the Sciences_. First International Conference on Unified
-## Science. (Waldorf-Astoria Hotel, 11. 23, 1972-11. 26, 1972). Council
-## for Unified Research and Education. New York, New York, 1972.
-## &lt;https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf&gt;
-## (visited on 05/01/2023).</code></pre>
+<pre><code>## bibentry()</code></pre>
 <pre class="r"><code>BibOptions(bib.style = &quot;alphabetic&quot;)
 bibset[4]</code></pre>
-<pre><code>## [Dag72] C. Dagum. &quot;The Impact of Unified Science on Economics&quot;. In:
-## _Moral Orientation of the Sciences_. First International Conference on
-## Unified Science. (Waldorf-Astoria Hotel, 11. 23, 1972-11. 26, 1972).
-## Council for Unified Research and Education. New York, New York, 1972.
-## &lt;https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf&gt;
-## (visited on 05/01/2023).</code></pre>
+<pre><code>## bibentry()</code></pre>
 <pre class="r"><code>BibOptions(bib.style = &quot;draft&quot;)
 bibset[4]</code></pre>
-<pre><code>## *ICUS01:C01:G01:S01* C. Dagum. &quot;The Impact of Unified Science on
-## Economics&quot;. In: _Moral Orientation of the Sciences_. First
-## International Conference on Unified Science. (Waldorf-Astoria Hotel,
-## 11. 23, 1972-11. 26, 1972). Council for Unified Research and Education.
-## New York, New York, 1972.
-## &lt;https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf&gt;
-## (visited on 05/01/2023).</code></pre>
+<pre><code>## bibentry()</code></pre>
 <pre class="r"><code>BibOptions(oldstyle)</code></pre>
 <p>The bibliographic style can also be selected in <code>print</code> so
 that you do not to change the global option just for one output.</p>
 <pre class="r"><code>print(bibset[4], .opts = list(bib.style = &quot;draft&quot;))</code></pre>
-<pre><code>## *ICUS01:C01:G01:S01* C. Dagum. &quot;The Impact of Unified Science on
-## Economics&quot;. In: _Moral Orientation of the Sciences_. First
-## International Conference on Unified Science. (Waldorf-Astoria Hotel,
-## 11. 23, 1972-11. 26, 1972). Council for Unified Research and Education.
-## New York, New York, 1972.
-## &lt;https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf&gt;
-## (visited on 05/01/2023).</code></pre>
+<pre><code>## bibentry()</code></pre>
 <p>Now let’s take a look at the structure of this BibEntry.</p>
 <pre class="r"><code>str(bibset[4])</code></pre>
-<pre><code>## Classes &#39;BibEntry&#39;, &#39;bibentry&#39;  hidden list of 1
-##  $ :List of 14
-##   ..$ crossref      : chr &quot;ICUS01&quot;
-##   ..$ author        :Class &#39;person&#39;  hidden list of 1
-##   .. ..$ :List of 5
-##   .. .. ..$ given  : chr &quot;Camilo&quot;
-##   .. .. ..$ family : chr &quot;Dagum&quot;
-##   .. .. ..$ role   : NULL
-##   .. .. ..$ email  : NULL
-##   .. .. ..$ comment: NULL
-##   ..$ title         : chr &quot;The Impact of Unified Science on Economics&quot;
-##   ..$ shorttitle    : chr &quot;ICUS I&quot;
-##   ..$ eventdate     : chr &quot;1972-11-23/1972-11-26&quot;
-##   ..$ venue         : chr &quot;Waldorf-Astoria Hotel&quot;
-##   ..$ organization  : chr &quot;Council for Unified Research and Education&quot;
-##   ..$ location      : chr &quot;New York, New York&quot;
-##   ..$ date          : chr &quot;1972&quot;
-##   ..$ url           : chr &quot;https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf&quot;
-##   ..$ urldate       : chr &quot;2023-05-01&quot;
-##   ..$ keywords      : chr &quot;primary, program, moonist&quot;
-##   ..$ booktitle     : chr &quot;Moral Orientation of the Sciences&quot;
-##   ..$ booktitleaddon: chr &quot;First International Conference on Unified Science&quot;
-##   ..- attr(*, &quot;bibtype&quot;)= chr &quot;InProceedings&quot;
-##   ..- attr(*, &quot;key&quot;)= chr &quot;ICUS01:C01:G01:S01&quot;
-##   ..- attr(*, &quot;dateobj&quot;)= POSIXct[1:1], format: &quot;1972-01-01&quot;</code></pre>
+<pre><code>##  list()
+##  - attr(*, &quot;class&quot;)= chr &quot;bibentry&quot;</code></pre>
 </div>
 <div id="references" class="section level1 unnumbered">
 <h1 class="unnumbered">References</h1>
