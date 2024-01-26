@@ -8,6 +8,8 @@ configuration:
       enabled: yes
     build-package.Rmd:
       enabled: yes
+    search-examples.Rmd:
+      enabled: yes
     icus-program-observations.Rmd:
       enabled: yes
     ICUSPrograms.Rmd:
@@ -20,4 +22,4 @@ configuration:
   - role_defs
   - bibset
   render_root:
-    tmp: '495463'
+    tmp: '525211'

@@ -1,0 +1,121 @@
+---
+title: Searching the __bibset__ dataset
+author: Alan Engel
+date: January 25, 2024
+lang: en-us
+output_format: rmarkdown::html_vignette
+bibliography: simple-examples.bib
+link-citations: yes
+vignette: >
+  %\VignetteIndexEntry{Searching the __bibset__ dataset}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+# Searching the ```bibset``` dataset
+
+```bibset``` is a list of ```RefManageR::BibEntry``` objects that covers all presentations, including
+commentary, in the first 22 ICUS conferences as provided on the
+ICUS website [@icushistory]. 
+
+This vignette will illustrate various searches.
+
+# The underlying RefManageR package
+
+This package is built on Mathew McLean's ```RefManageR``` package[@refmanager], which in turn
+builds on \emph{Bibtex}[@bibtex] and \emph{BibLatex}[@biblatex]. In presenting the examples
+below, I will try to remain consistent with these references.
+
+Begin by loading the required R libraries.
+
+```{r, load-libraries, results='hide'}
+library(RefManageR)
+library(icus.data)
+```
+
+# Structure and output styles
+
+Let's take a look at the first entry in ```bibset```.
+
+```{r, first-look}
+bibset[1]
+```
+
+RefMangeR's default output style is "numeric".
+
+```{r, default-style}
+BibOptions("bib.style")
+```
+To see the Biblatex entry in full, we use the ```toBiblatex()``` function.
+
+```{r, toBiblatex-1}
+toBiblatex(bibset[1])
+```
+The original bibliographic file ```ICUS01.bib``` contained the following.
+```
+@Proceedings{ICUS01,
+title={Moral Orientation of the Sciences},
+titleaddon={First International Conference on Unified Science},
+shorttitle={ICUS I},
+eventdate={1972-11-23/1972-11-26},
+venue={Waldorf-Astoria Hotel},
+organization={Council for Unified Research and Education},
+location={New York, New York},
+date={1972},
+url ={https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf},
+urldate={2023-05-01},
+keywords={primary, program, moonist}
+}
+```
+
+__bibset__ uses the three entry types ```@Proceedings```, ```@InProceedings``` and ```@Set```. 
+__icus.date__ uses the __key__ field to capture the hierarchy, tracks and sessions of ICUS
+conferences. For details, please see [ICUS Programs: Observations and Coding](https://osf.io/c2nd6
+"ICUS Programs: Observations and Coding"). In this record, 'ICUS01' stands for the main entry
+for ICUS I. 
+
+The first entry in __bibset__ is a ```@Proceedings``` entry. Now take a look at an ```@InProceedings```
+entry from the same conference. This is the entry in the manually prepared bibliographic files.
+You can view this file [here](https://osf.io/ksr2q).
+
+```
+@InProceedings{ICUS01:C01:G01:S01,
+crossref={ICUS01},
+author={Camilo Dagum},
+title={The Impact of Unified Science on Economics}
+}
+```
+```toBiblatex()``` outputs the following. This shows that RefManageR folds the content of ```bibset[1]```
+into this entry based on the value of ```crossref```. Searches are on these combined entries. It should
+be evident that changing keys will corrupt the dataset.
+```{r, toBiblatex-4}
+toBiblatex(bibset[4])
+```
+Possible values for ```bib.style``` are “numeric” (default), “authoryear”, “authortitle”, “alphabetic”,
+“draft”. (See [RefManageR on CRAN](https://cran.r-project.org/web/packages/RefManageR/RefManageR.pdf) for
+details.) These styles are illustrated below.
+```{r, style-examples}
+bibset[4]
+oldstyle <- BibOptions(bib.style = "authoryear")
+bibset[4]
+BibOptions(bib.style = "authortitle")
+bibset[4]
+BibOptions(bib.style = "alphabetic")
+bibset[4]
+BibOptions(bib.style = "draft")
+bibset[4]
+BibOptions(oldstyle)
+```
+The bibliographic style can also be selected in ```print``` so that you do not to change
+the global option just for one output.
+```{r, print-style}
+print(bibset[4], .opts = list(bib.style = "draft"))
+```
+Now let's take a look at the structure of this BibEntry.
+```{r, structure}
+str(bibset[4])
+```
+
+# References
+
+

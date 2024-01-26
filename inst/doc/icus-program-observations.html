@@ -11,9 +11,9 @@
 
 <meta name="author" content="Alan Engel" />
 
-<meta name="date" content="2024-01-22" />
+<meta name="date" content="2023-09-22" />
 
-<title>Bibliographic dataset for ICUS programs</title>
+<title>Observations about ICUS program brochures</title>
 
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
@@ -253,28 +253,6 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-
-div.csl-bib-body { }
-div.csl-entry {
-clear: both;
-}
-.hanging div.csl-entry {
-margin-left:2em;
-text-indent:-2em;
-}
-div.csl-left-margin {
-min-width:2em;
-float:left;
-}
-div.csl-right-inline {
-margin-left:2em;
-padding-left:1em;
-}
-div.csl-indent {
-margin-left: 2em;
-}
-</style>
 
 
 
@@ -372,146 +350,15 @@ display: none;
 
 
 
-<h1 class="title toc-ignore">Bibliographic dataset for ICUS
-programs</h1>
+<h1 class="title toc-ignore">Observations about ICUS program
+brochures</h1>
 <h4 class="author">Alan Engel</h4>
-<h4 class="date">January 22, 2024</h4>
+<h4 class="date">September 22, 2023</h4>
 
 </div>
 
 
-<div id="bibliographic-dataset-for-icus-programs" class="section level2">
-<h2>Bibliographic dataset for ICUS programs</h2>
-<p><strong>bibset</strong> is a list of
-<strong>RefManageR::BibEntry</strong> objects that covers all
-presentations, including commentary, in the first 22 ICUS conferences as
-provided on the ICUS website <span class="citation">(<a href="#ref-icushistory"><em>International Conference on the Unity of the
-Sciences - History</em> 2020</a>)</span>.</p>
-<p>See <a href="icus-program-observations.pdf">ICUS Programs:
-Observations and Coding</a> for detailed information about this dataset
-and its relation to the ICUS program brochures.</p>
-</div>
-<div id="r-software-package-used-for-this-dataset" class="section level2">
-<h2>R software package used for this dataset</h2>
-<ul>
-<li>RefManageR - Load and process raw BibLatex files <span class="citation">(<a href="#ref-RefManageR2017">McLean 2017</a>)</span>
-and <span class="citation">(<a href="#ref-RefManageR2014">McLean
-2014</a>)</span></li>
-</ul>
-<pre class="r"><code>library(RefManageR)</code></pre>
-</div>
-<div id="preparation-steps" class="section level2">
-<h2>Preparation steps</h2>
-<p><strong>bibset</strong> is compiled from manually created Biblatex
-files, one for each conference. The original separate files are
-available in the Github repository.</p>
-</div>
-<div id="bibset" class="section level2">
-<h2><strong>bibset</strong></h2>
-<ol style="list-style-type: decimal">
-<li><p>Merge raw Biblatex files into a single temporary file.</p></li>
-<li><p>Read temporary file into a RefManageR::BibEntry().</p></li>
-<li><p>Make a vector of BibEntry keys.</p></li>
-<li><p>Each Set entry contains a <strong>pattern</strong> field. Grep
-the pattern field against the vector of keys to get the entryset list of
-keys.</p></li>
-<li><p>Assign the computed entryset lists to their respective Set
-entries.</p></li>
-</ol>
-<pre><code>## [1] TRUE</code></pre>
-<pre><code>## [[1]]
-## [1] TRUE
-## 
-## [[2]]
-## [1] TRUE
-## 
-## [[3]]
-## [1] TRUE
-## 
-## [[4]]
-## [1] TRUE
-## 
-## [[5]]
-## [1] TRUE
-## 
-## [[6]]
-## [1] TRUE
-## 
-## [[7]]
-## [1] TRUE
-## 
-## [[8]]
-## [1] TRUE
-## 
-## [[9]]
-## [1] TRUE
-## 
-## [[10]]
-## [1] TRUE
-## 
-## [[11]]
-## [1] TRUE
-## 
-## [[12]]
-## [1] TRUE
-## 
-## [[13]]
-## [1] TRUE
-## 
-## [[14]]
-## [1] TRUE
-## 
-## [[15]]
-## [1] TRUE
-## 
-## [[16]]
-## [1] TRUE
-## 
-## [[17]]
-## [1] TRUE
-## 
-## [[18]]
-## [1] TRUE
-## 
-## [[19]]
-## [1] TRUE
-## 
-## [[20]]
-## [1] TRUE
-## 
-## [[21]]
-## [1] TRUE
-## 
-## [[22]]
-## [1] TRUE
-## 
-## [[23]]
-## [1] TRUE</code></pre>
-<pre><code>## Error: Unbalanced braces on entry (line 6059). Invalid .bib file</code></pre>
-<pre><code>## Error in check_balanced_braces(entry_collapsed, init):</code></pre>
-<pre><code>## Error in grep(ps[i], k):  &#39;pattern&#39; 引数が不正です</code></pre>
-<pre><code>## Error in eval(expr, envir, enclos):  オブジェクト &#39;es&#39; がありません</code></pre>
-<pre><code>## Error in eval(expr, envir, enclos):  オブジェクト &#39;esetout&#39; がありません</code></pre>
-<pre><code>## bibentry()</code></pre>
-</div>
-<div id="references" class="section level2 unnumbered">
-<h2 class="unnumbered">References</h2>
-<div id="refs" class="references csl-bib-body hanging-indent">
-<div id="ref-icushistory" class="csl-entry">
-<em>International Conference on the Unity of the Sciences -
-History</em>. 2020. ICUS. <a href="https://icus.org/about-2/history/">https://icus.org/about-2/history/</a>.
-</div>
-<div id="ref-RefManageR2014" class="csl-entry">
-McLean, Mathew William. 2014. <em>Straightforward Bibliography
-Management in r Using the RefManager Package</em>. <a href="https://arxiv.org/abs/1403.2036">https://arxiv.org/abs/1403.2036</a>.
-</div>
-<div id="ref-RefManageR2017" class="csl-entry">
-———. 2017. <span>“RefManageR: Import and Manage BibTeX and BibLaTeX
-References in r.”</span> <em>The Journal of Open Source Software</em>.
-<a href="https://doi.org/10.21105/joss.00338">https://doi.org/10.21105/joss.00338</a>.
-</div>
-</div>
-</div>
+
 
 
 

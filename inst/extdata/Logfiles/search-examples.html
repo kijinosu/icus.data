@@ -11,9 +11,9 @@
 
 <meta name="author" content="Alan Engel" />
 
-<meta name="date" content="2024-01-22" />
+<meta name="date" content="2024-01-25" />
 
-<title>Bibliographic dataset for ICUS programs</title>
+<title>Searching the bibset dataset</title>
 
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
@@ -372,143 +372,216 @@ display: none;
 
 
 
-<h1 class="title toc-ignore">Bibliographic dataset for ICUS
-programs</h1>
+<h1 class="title toc-ignore">Searching the <strong>bibset</strong>
+dataset</h1>
 <h4 class="author">Alan Engel</h4>
-<h4 class="date">January 22, 2024</h4>
+<h4 class="date">January 25, 2024</h4>
 
 </div>
 
 
-<div id="bibliographic-dataset-for-icus-programs" class="section level2">
-<h2>Bibliographic dataset for ICUS programs</h2>
-<p><strong>bibset</strong> is a list of
-<strong>RefManageR::BibEntry</strong> objects that covers all
-presentations, including commentary, in the first 22 ICUS conferences as
-provided on the ICUS website <span class="citation">(<a href="#ref-icushistory"><em>International Conference on the Unity of the
-Sciences - History</em> 2020</a>)</span>.</p>
-<p>See <a href="icus-program-observations.pdf">ICUS Programs:
-Observations and Coding</a> for detailed information about this dataset
-and its relation to the ICUS program brochures.</p>
+<div id="searching-the-bibset-dataset" class="section level1">
+<h1>Searching the <code>bibset</code> dataset</h1>
+<p><code>bibset</code> is a list of <code>RefManageR::BibEntry</code>
+objects that covers all presentations, including commentary, in the
+first 22 ICUS conferences as provided on the ICUS website <span class="citation">(<a href="#ref-icushistory"><em>International
+Conference on the Unity of the Sciences - History</em>
+2020</a>)</span>.</p>
+<p>This vignette will illustrate various searches.</p>
 </div>
-<div id="r-software-package-used-for-this-dataset" class="section level2">
-<h2>R software package used for this dataset</h2>
-<ul>
-<li>RefManageR - Load and process raw BibLatex files <span class="citation">(<a href="#ref-RefManageR2017">McLean 2017</a>)</span>
-and <span class="citation">(<a href="#ref-RefManageR2014">McLean
-2014</a>)</span></li>
-</ul>
-<pre class="r"><code>library(RefManageR)</code></pre>
+<div id="the-underlying-refmanager-package" class="section level1">
+<h1>The underlying RefManageR package</h1>
+<p>This package is built on Mathew McLean’s <code>RefManageR</code>
+package<span class="citation">(<a href="#ref-refmanager">McLean
+2014</a>)</span>, which in turn builds on <span class="citation">(<a href="#ref-bibtex">Patashnik 1988</a>)</span> and <span class="citation">(<a href="#ref-biblatex">Lehman et al.
+2016</a>)</span>. In presenting the examples below, I will try to remain
+consistent with these references.</p>
+<p>Begin by loading the required R libraries.</p>
+<pre class="r"><code>library(RefManageR)
+library(icus.data)</code></pre>
 </div>
-<div id="preparation-steps" class="section level2">
-<h2>Preparation steps</h2>
-<p><strong>bibset</strong> is compiled from manually created Biblatex
-files, one for each conference. The original separate files are
-available in the Github repository.</p>
+<div id="structure-and-output-styles" class="section level1">
+<h1>Structure and output styles</h1>
+<p>Let’s take a look at the first entry in <code>bibset</code>.</p>
+<pre class="r"><code>bibset[1]</code></pre>
+<pre><code>## [1] _Moral Orientation of the Sciences_. First International Conference
+## on Unified Science. (Waldorf-Astoria Hotel, 11. 23, 1972-11. 26, 1972)
+## Council for Unified Research and Education. New York, New York, 1972.
+## &lt;https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf&gt;
+## (visited on 05/01/2023).</code></pre>
+<p>RefMangeR’s default output style is “numeric”.</p>
+<pre class="r"><code>BibOptions(&quot;bib.style&quot;)</code></pre>
+<pre><code>## $bib.style
+## [1] &quot;numeric&quot;</code></pre>
+<p>To see the Biblatex entry in full, we use the
+<code>toBiblatex()</code> function.</p>
+<pre class="r"><code>toBiblatex(bibset[1])</code></pre>
+<pre><code>## @Proceedings{ICUS01,
+##   title = {Moral Orientation of the Sciences},
+##   titleaddon = {First International Conference on Unified Science},
+##   shorttitle = {ICUS I},
+##   eventdate = {1972-11-23/1972-11-26},
+##   venue = {Waldorf-Astoria Hotel},
+##   organization = {Council for Unified Research and Education},
+##   location = {New York, New York},
+##   date = {1972},
+##   url = {https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf},
+##   urldate = {2023-05-01},
+##   keywords = {primary, program, moonist},
+## }</code></pre>
+<p>The original bibliographic file <code>ICUS01.bib</code> contained the
+following.</p>
+<pre><code>@Proceedings{ICUS01,
+title={Moral Orientation of the Sciences},
+titleaddon={First International Conference on Unified Science},
+shorttitle={ICUS I},
+eventdate={1972-11-23/1972-11-26},
+venue={Waldorf-Astoria Hotel},
+organization={Council for Unified Research and Education},
+location={New York, New York},
+date={1972},
+url ={https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf},
+urldate={2023-05-01},
+keywords={primary, program, moonist}
+}</code></pre>
+<p><strong>bibset</strong> uses the three entry types
+<code>@Proceedings</code>, <code>@InProceedings</code> and
+<code>@Set</code>. <strong>icus.date</strong> uses the
+<strong>key</strong> field to capture the hierarchy, tracks and sessions
+of ICUS conferences. For details, please see <a href="https://osf.io/c2nd6%20%22ICUS%20Programs:%20Observations%20and%20Coding%22">ICUS
+Programs: Observations and Coding</a>. In this record, ‘ICUS01’ stands
+for the main entry for ICUS I.</p>
+<p>The first entry in <strong>bibset</strong> is a
+<code>@Proceedings</code> entry. Now take a look at an
+<code>@InProceedings</code> entry from the same conference. This is the
+entry in the manually prepared bibliographic files. You can view this
+file <a href="https://osf.io/ksr2q">here</a>.</p>
+<pre><code>@InProceedings{ICUS01:C01:G01:S01,
+crossref={ICUS01},
+author={Camilo Dagum},
+title={The Impact of Unified Science on Economics}
+}</code></pre>
+<p><code>toBiblatex()</code> outputs the following. This shows that
+RefManageR folds the content of <code>bibset[1]</code> into this entry
+based on the value of <code>crossref</code>. Searches are on these
+combined entries. It should be evident that changing keys will corrupt
+the dataset.</p>
+<pre class="r"><code>toBiblatex(bibset[4])</code></pre>
+<pre><code>## @InProceedings{ICUS01:C01:G01:S01,
+##   crossref = {ICUS01},
+##   author = {Camilo Dagum},
+##   title = {The Impact of Unified Science on Economics},
+##   shorttitle = {ICUS I},
+##   eventdate = {1972-11-23/1972-11-26},
+##   venue = {Waldorf-Astoria Hotel},
+##   organization = {Council for Unified Research and Education},
+##   location = {New York, New York},
+##   date = {1972},
+##   url = {https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf},
+##   urldate = {2023-05-01},
+##   keywords = {primary, program, moonist},
+##   booktitle = {Moral Orientation of the Sciences},
+##   booktitleaddon = {First International Conference on Unified Science},
+## }</code></pre>
+<p>Possible values for <code>bib.style</code> are “numeric” (default),
+“authoryear”, “authortitle”, “alphabetic”, “draft”. (See <a href="https://cran.r-project.org/web/packages/RefManageR/RefManageR.pdf">RefManageR
+on CRAN</a> for details.) These styles are illustrated below.</p>
+<pre class="r"><code>bibset[4]</code></pre>
+<pre><code>## [1] C. Dagum. &quot;The Impact of Unified Science on Economics&quot;. In: _Moral
+## Orientation of the Sciences_. First International Conference on Unified
+## Science. (Waldorf-Astoria Hotel, 11. 23, 1972-11. 26, 1972). Council
+## for Unified Research and Education. New York, New York, 1972.
+## &lt;https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf&gt;
+## (visited on 05/01/2023).</code></pre>
+<pre class="r"><code>oldstyle &lt;- BibOptions(bib.style = &quot;authoryear&quot;)
+bibset[4]</code></pre>
+<pre><code>## Dagum, C. (1972). &quot;The Impact of Unified Science on Economics&quot;. In:
+## _Moral Orientation of the Sciences_. First International Conference on
+## Unified Science. (Waldorf-Astoria Hotel, 11. 23, 1972-11. 26, 1972).
+## Council for Unified Research and Education. New York, New York.
+## &lt;https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf&gt;
+## (visited on 5. 01, 2023).</code></pre>
+<pre class="r"><code>BibOptions(bib.style = &quot;authortitle&quot;)
+bibset[4]</code></pre>
+<pre><code>## Dagum, C. &quot;The Impact of Unified Science on Economics&quot;. In: _Moral
+## Orientation of the Sciences_. First International Conference on Unified
+## Science. (Waldorf-Astoria Hotel, 11. 23, 1972-11. 26, 1972). Council
+## for Unified Research and Education. New York, New York, 1972.
+## &lt;https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf&gt;
+## (visited on 05/01/2023).</code></pre>
+<pre class="r"><code>BibOptions(bib.style = &quot;alphabetic&quot;)
+bibset[4]</code></pre>
+<pre><code>## [Dag72] C. Dagum. &quot;The Impact of Unified Science on Economics&quot;. In:
+## _Moral Orientation of the Sciences_. First International Conference on
+## Unified Science. (Waldorf-Astoria Hotel, 11. 23, 1972-11. 26, 1972).
+## Council for Unified Research and Education. New York, New York, 1972.
+## &lt;https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf&gt;
+## (visited on 05/01/2023).</code></pre>
+<pre class="r"><code>BibOptions(bib.style = &quot;draft&quot;)
+bibset[4]</code></pre>
+<pre><code>## *ICUS01:C01:G01:S01* C. Dagum. &quot;The Impact of Unified Science on
+## Economics&quot;. In: _Moral Orientation of the Sciences_. First
+## International Conference on Unified Science. (Waldorf-Astoria Hotel,
+## 11. 23, 1972-11. 26, 1972). Council for Unified Research and Education.
+## New York, New York, 1972.
+## &lt;https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf&gt;
+## (visited on 05/01/2023).</code></pre>
+<pre class="r"><code>BibOptions(oldstyle)</code></pre>
+<p>The bibliographic style can also be selected in <code>print</code> so
+that you do not to change the global option just for one output.</p>
+<pre class="r"><code>print(bibset[4], .opts = list(bib.style = &quot;draft&quot;))</code></pre>
+<pre><code>## *ICUS01:C01:G01:S01* C. Dagum. &quot;The Impact of Unified Science on
+## Economics&quot;. In: _Moral Orientation of the Sciences_. First
+## International Conference on Unified Science. (Waldorf-Astoria Hotel,
+## 11. 23, 1972-11. 26, 1972). Council for Unified Research and Education.
+## New York, New York, 1972.
+## &lt;https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf&gt;
+## (visited on 05/01/2023).</code></pre>
+<p>Now let’s take a look at the structure of this BibEntry.</p>
+<pre class="r"><code>str(bibset[4])</code></pre>
+<pre><code>## Classes &#39;BibEntry&#39;, &#39;bibentry&#39;  hidden list of 1
+##  $ :List of 14
+##   ..$ crossref      : chr &quot;ICUS01&quot;
+##   ..$ author        :Class &#39;person&#39;  hidden list of 1
+##   .. ..$ :List of 5
+##   .. .. ..$ given  : chr &quot;Camilo&quot;
+##   .. .. ..$ family : chr &quot;Dagum&quot;
+##   .. .. ..$ role   : NULL
+##   .. .. ..$ email  : NULL
+##   .. .. ..$ comment: NULL
+##   ..$ title         : chr &quot;The Impact of Unified Science on Economics&quot;
+##   ..$ shorttitle    : chr &quot;ICUS I&quot;
+##   ..$ eventdate     : chr &quot;1972-11-23/1972-11-26&quot;
+##   ..$ venue         : chr &quot;Waldorf-Astoria Hotel&quot;
+##   ..$ organization  : chr &quot;Council for Unified Research and Education&quot;
+##   ..$ location      : chr &quot;New York, New York&quot;
+##   ..$ date          : chr &quot;1972&quot;
+##   ..$ url           : chr &quot;https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf&quot;
+##   ..$ urldate       : chr &quot;2023-05-01&quot;
+##   ..$ keywords      : chr &quot;primary, program, moonist&quot;
+##   ..$ booktitle     : chr &quot;Moral Orientation of the Sciences&quot;
+##   ..$ booktitleaddon: chr &quot;First International Conference on Unified Science&quot;
+##   ..- attr(*, &quot;bibtype&quot;)= chr &quot;InProceedings&quot;
+##   ..- attr(*, &quot;key&quot;)= chr &quot;ICUS01:C01:G01:S01&quot;
+##   ..- attr(*, &quot;dateobj&quot;)= POSIXct[1:1], format: &quot;1972-01-01&quot;</code></pre>
 </div>
-<div id="bibset" class="section level2">
-<h2><strong>bibset</strong></h2>
-<ol style="list-style-type: decimal">
-<li><p>Merge raw Biblatex files into a single temporary file.</p></li>
-<li><p>Read temporary file into a RefManageR::BibEntry().</p></li>
-<li><p>Make a vector of BibEntry keys.</p></li>
-<li><p>Each Set entry contains a <strong>pattern</strong> field. Grep
-the pattern field against the vector of keys to get the entryset list of
-keys.</p></li>
-<li><p>Assign the computed entryset lists to their respective Set
-entries.</p></li>
-</ol>
-<pre><code>## [1] TRUE</code></pre>
-<pre><code>## [[1]]
-## [1] TRUE
-## 
-## [[2]]
-## [1] TRUE
-## 
-## [[3]]
-## [1] TRUE
-## 
-## [[4]]
-## [1] TRUE
-## 
-## [[5]]
-## [1] TRUE
-## 
-## [[6]]
-## [1] TRUE
-## 
-## [[7]]
-## [1] TRUE
-## 
-## [[8]]
-## [1] TRUE
-## 
-## [[9]]
-## [1] TRUE
-## 
-## [[10]]
-## [1] TRUE
-## 
-## [[11]]
-## [1] TRUE
-## 
-## [[12]]
-## [1] TRUE
-## 
-## [[13]]
-## [1] TRUE
-## 
-## [[14]]
-## [1] TRUE
-## 
-## [[15]]
-## [1] TRUE
-## 
-## [[16]]
-## [1] TRUE
-## 
-## [[17]]
-## [1] TRUE
-## 
-## [[18]]
-## [1] TRUE
-## 
-## [[19]]
-## [1] TRUE
-## 
-## [[20]]
-## [1] TRUE
-## 
-## [[21]]
-## [1] TRUE
-## 
-## [[22]]
-## [1] TRUE
-## 
-## [[23]]
-## [1] TRUE</code></pre>
-<pre><code>## Error: Unbalanced braces on entry (line 6059). Invalid .bib file</code></pre>
-<pre><code>## Error in check_balanced_braces(entry_collapsed, init):</code></pre>
-<pre><code>## Error in grep(ps[i], k):  &#39;pattern&#39; 引数が不正です</code></pre>
-<pre><code>## Error in eval(expr, envir, enclos):  オブジェクト &#39;es&#39; がありません</code></pre>
-<pre><code>## Error in eval(expr, envir, enclos):  オブジェクト &#39;esetout&#39; がありません</code></pre>
-<pre><code>## bibentry()</code></pre>
-</div>
-<div id="references" class="section level2 unnumbered">
-<h2 class="unnumbered">References</h2>
+<div id="references" class="section level1 unnumbered">
+<h1 class="unnumbered">References</h1>
 <div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-icushistory" class="csl-entry">
 <em>International Conference on the Unity of the Sciences -
 History</em>. 2020. ICUS. <a href="https://icus.org/about-2/history/">https://icus.org/about-2/history/</a>.
 </div>
-<div id="ref-RefManageR2014" class="csl-entry">
-McLean, Mathew William. 2014. <em>Straightforward Bibliography
-Management in r Using the RefManager Package</em>. <a href="https://arxiv.org/abs/1403.2036">https://arxiv.org/abs/1403.2036</a>.
+<div id="ref-biblatex" class="csl-entry">
+Lehman, Philipp, Philip Kime, Audrey Boruvka, and Joseph Wright. 2016.
+<span>“The <span class="nocase">b</span>iblatex Package.”</span> <a href="https://mirror.pregi.net/tex-archive/macros/latex/contrib/biblatex/doc/biblatex.pdf">https://mirror.pregi.net/tex-archive/macros/latex/contrib/biblatex/doc/biblatex.pdf</a>.
 </div>
-<div id="ref-RefManageR2017" class="csl-entry">
-———. 2017. <span>“RefManageR: Import and Manage BibTeX and BibLaTeX
-References in r.”</span> <em>The Journal of Open Source Software</em>.
-<a href="https://doi.org/10.21105/joss.00338">https://doi.org/10.21105/joss.00338</a>.
+<div id="ref-refmanager" class="csl-entry">
+McLean, Mathew W. 2014. <span>“Straightforward Bibliography Management
+in <span>R</span> Using the <span>RefManageR</span> Package.”</span> <a href="https://arxiv.org/abs/1403.2036">https://arxiv.org/abs/1403.2036</a>.
+</div>
+<div id="ref-bibtex" class="csl-entry">
+Patashnik, Oren. 1988. <span>“Bibtexing.”</span> <a href="http://bibtexml.sourceforge.net/btxdoc.pdf">http://bibtexml.sourceforge.net/btxdoc.pdf</a>.
 </div>
 </div>
 </div>

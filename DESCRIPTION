@@ -1,6 +1,6 @@
 Package: icus.data
 Title: Datasets related to the International Conferences on the Unity of Science
-Version: 0.7.3
+Version: 0.8.0
 Authors@R: 
     person("Alan", "Engel", , "alan@ttcrossroads.net", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0003-0070-2347"))
@@ -11,11 +11,12 @@ Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
-DataVersion: 0.7.3
-Date: 2024-01-22
+DataVersion: 0.8.0
+Date: 2024-01-26
 Import: data.table, dplyr, googlesheets4,readxl,RefManageR
 Suggests: 
     knitr,
     rmarkdown,
-    R.rsp
+    R.rsp,
+    cffr
 VignetteBuilder: knitr

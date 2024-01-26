@@ -1,4 +1,4 @@
-DataVersion: 0.7.3
+DataVersion: 0.8.0
 =======================
-Rebuild for version 0.7.3, debugged ICUSbibset.Rmd
+Revise bibset Set entries. Data version 0.8.0
 
