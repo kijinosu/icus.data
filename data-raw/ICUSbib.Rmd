@@ -48,7 +48,7 @@ to get the entryset list of keys.
 5. Assign the computed entryset lists to their respective
 Set entries.
 
-```{r icus_icusbib, echo=TRUE, error=TRUE}
+```{r icus_icusbib, echo=FALSE, error=TRUE}
 srcpath <- file.path(project_path(), "inst/extdata/icusbib-raw")
 files <- list.files(path = srcpath, pattern = "icus[0-9][0-9].bib",
                     full.names = TRUE, recursive = FALSE)

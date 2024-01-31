@@ -251,17 +251,15 @@ NULL
 #' RefManageR.
 #' @format A \code{BibEntry}
 #' @source Manually compiled from ICUS program brochures.
-#' @details Folder \code{extdata/icusbib} contains one BibLatex
-#' file for each of the 20 ICUS conferences plus a file
-#' \code{icus.bib} that contains version information and is
-#' used to compile file that combines the full set and is then
+#' @details Folder \code{extdata/icusbib-raw} contains one BibLatex
+#' file for each of the 22 ICUS conferences that are
 #' read to produce dataset \code{icusbib}. The BibLatex entries
 #' use the \code{@proceedings} and \code{@inproceedings} entry types.
 #' The BibLatex input files also make extend use of keys and
-#' \code{@set} entries to capture hierarchies in the programs.
+#' \code{@Set} entries to capture hierarchies in the programs.
 #' Please see the \link{icus.data::icus-program-observations}
 #' vignette for details about the hierarchies. A example of
-#' a \code{@set} follows:
+#' a \code{@Set} follows:
 #' \preformatted{@Set{ICUS02:C01:G01,
 #'   entryset = {ICUS02:C01:G01:S01},
 #'   pattern = {ICUS02:C01:G01:[S|X]},
@@ -274,11 +272,11 @@ NULL
 #' }
 #' This entry adds a \code{pattern} field containing a regular
 #' expression that selects the entries below. RefManageR will not
-#' read a \code{@set} that has an empty \code{entryset} so this
+#' read a \code{@Set} that has an empty \code{entryset} so this
 #' is seeded with the first member of the entryset. When reading
 #' the BibLatex files, the build function uses the pattern to
 #' compute the full entryset. The patterntype field anticipates
-#' other kinds of methods for creating \code{@set}s but only
+#' other kinds of methods for creating \code{@Set}s but only
 #' the \code{key} method is implemented in this version.
 #' @examples
 #' library(icus.data)
