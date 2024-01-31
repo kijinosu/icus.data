@@ -1,7 +1,7 @@
 README for icus.data
 ================
 Alan Engel
-January 15, 2024
+January 31, 2024
 
 # icus.data
 
@@ -37,7 +37,7 @@ take a deeper look into these conferences.
 5.  **nobels** Table of Nobel Laureates who participated in ICUS
     conferences.
 
-6.  **bibset** Biblatex entries for 1658 speeches and presentations in
+6.  **icusbib** Biblatex entries for 1658 speeches and presentations in
     ICUS.
 
 ## Special vignettes
@@ -46,7 +46,7 @@ take a deeper look into these conferences.
     brochures including, for example, attendence by Sun Myung Moon and
     his wife Han Hakja, mention of funding by the Unification Church,
     detailed coding of program sessions for use in Set entries in
-    \_bibset\_\_.
+    \_icusbib\_\_.
 
 2.  **build-package** A vignette detailing the workflow for building
     this R data package. I am a memory-challenged novice and this is the
@@ -72,6 +72,31 @@ Load libraries.
 library(icus.data)
 library(tidyverse)
 ```
+
+    ## ── Attaching core tidyverse packages ───────────────────────── tidyverse 2.0.0 ──
+    ## ✔ forcats   1.0.0     ✔ readr     2.1.4
+    ## ✔ ggplot2   3.4.4     ✔ stringr   1.5.1
+    ## ✔ lubridate 1.9.3     ✔ tibble    3.2.1
+    ## ✔ purrr     1.0.2     ✔ tidyr     1.3.0
+    ## ── Conflicts ─────────────────────────────────────────── tidyverse_conflicts() ──
+    ## ✖ data.table::between() masks dplyr::between()
+    ## ✖ dplyr::filter()       masks stats::filter()
+    ## ✖ data.table::first()   masks dplyr::first()
+    ## ✖ lubridate::hour()     masks data.table::hour()
+    ## ✖ lubridate::isoweek()  masks data.table::isoweek()
+    ## ✖ dplyr::lag()          masks stats::lag()
+    ## ✖ data.table::last()    masks dplyr::last()
+    ## ✖ lubridate::mday()     masks data.table::mday()
+    ## ✖ lubridate::minute()   masks data.table::minute()
+    ## ✖ lubridate::month()    masks data.table::month()
+    ## ✖ lubridate::quarter()  masks data.table::quarter()
+    ## ✖ lubridate::second()   masks data.table::second()
+    ## ✖ purrr::transpose()    masks data.table::transpose()
+    ## ✖ lubridate::wday()     masks data.table::wday()
+    ## ✖ lubridate::week()     masks data.table::week()
+    ## ✖ lubridate::yday()     masks data.table::yday()
+    ## ✖ lubridate::year()     masks data.table::year()
+    ## ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
 
 Plot.
 
