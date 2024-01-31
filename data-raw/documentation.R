@@ -14,7 +14,7 @@
 #' @details Use \code{data(package='icus.data')$results[, 3]} to see
 #' a list of available data sets in this data package.
 #' @seealso
-#' \link{bibset}
+#' \link{icusbib}
 #' \link{nobels}
 #' \link{participants}
 #' \link{programs}
@@ -48,7 +48,7 @@ NULL
 #' library(icus.data)
 #' nobels
 #' @seealso
-#' \link{bibset}
+#' \link{icusbib}
 #' \link{icus.data}
 #' \link{participants}
 #' \link{programs}
@@ -103,7 +103,7 @@ NULL
 #' library(icus.data)
 #' participants
 #' @seealso
-#' \link{bibset}
+#' \link{icusbib}
 #' \link{icus.data}
 #' \link{nobels}
 #' \link{programs}
@@ -164,7 +164,7 @@ NULL
 #' confpages <- as.data.table(read_xlsx(xlsx, sheet="ICUS16"))
 #' confpages
 #' @seealso
-#' \link{bibset}
+#' \link{icusbib}
 #' \link{icus.data}
 #' \link{nobels}
 #' \link{participants}
@@ -192,7 +192,7 @@ NULL
 #' @details Table \code{role_defs} is from sheet \code{Legend}
 #' of \code{ICUSRoles.xlsx}.
 #' @seealso
-#' \link{bibset}
+#' \link{icusbib}
 #' \link{icus.data}
 #' \link{nobels}
 #' \link{participants}
@@ -232,7 +232,7 @@ NULL
 #' library(icus.data)
 #' whoswho
 #' @seealso
-#' \link{bibset}
+#' \link{icusbib}
 #' \link{icus.data}
 #' \link{nobels}
 #' \link{participants}
@@ -243,7 +243,7 @@ NULL
 
 
 #' Detailed description of the data
-#' @name bibset
+#' @name icusbib
 #' @docType data
 #' @title Bibliographic dataset for ICUS programs
 #' @description BibLatex records based on program brochures
@@ -251,11 +251,11 @@ NULL
 #' RefManageR.
 #' @format A \code{BibEntry}
 #' @source Manually compiled from ICUS program brochures.
-#' @details Folder \code{extdata/bibset} contains one BibLatex
+#' @details Folder \code{extdata/icusbib} contains one BibLatex
 #' file for each of the 20 ICUS conferences plus a file
 #' \code{icus.bib} that contains version information and is
 #' used to compile file that combines the full set and is then
-#' read to produce dataset \code{bibset}. The BibLatex entries
+#' read to produce dataset \code{icusbib}. The BibLatex entries
 #' use the \code{@proceedings} and \code{@inproceedings} entry types.
 #' The BibLatex input files also make extend use of keys and
 #' \code{@set} entries to capture hierarchies in the programs.
@@ -267,8 +267,10 @@ NULL
 #'   pattern = {ICUS02:C01:G01:[S|X]},
 #'   patterntype = {key},
 #'   settype = {Committee},
-#'   title = {(untitled)},
-#'   chairperson = {Hintikka, J. and Yosida, N.},}
+#'   title = {Committee session I},
+#'   level = {3},
+#'   editorctype={organizer},
+#'   editorc = {Hintikka, J. and Yosida, N.},}
 #' }
 #' This entry adds a \code{pattern} field containing a regular
 #' expression that selects the entries below. RefManageR will not
@@ -280,17 +282,17 @@ NULL
 #' the \code{key} method is implemented in this version.
 #' @examples
 #' library(icus.data)
-#' bibset[1:5]
-#' ## count number of InProceedings entries in bibset
-#' length(bibset[bibtype = "InProceedings"])
+#' icusbib[1:5]
+#' ## count number of InProceedings entries in icusbib
+#' length(icusbib[bibtype = "InProceedings"])
 #' ## Search for presentations by Delgado.
-#' bibset[author = "Delgado"]
+#' icusbib[author = "Delgado"]
 #' ## Use draft style.
-#' print(SearchBib(bibset, author="Delgado"), .opts = list(bib.style = "draft"))
+#' print(SearchBib(icusbib, author="Delgado"), .opts = list(bib.style = "draft"))
 #' ## Search for commentary by Delgado.
-#' bibset[commentator = "Delgado"]
+#' icusbib[commentator = "Delgado"]
 #' ## Look at extended Set entry
-#' toBiblatex(bibset[entryset = "ICUS06:C04:G02"])
+#' toBiblatex(icusbib[entryset = "ICUS06:C04:G02"])
 #' @seealso
 #' \link{icus.data}
 #' \link{nobels}

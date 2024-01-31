@@ -22,7 +22,7 @@ Use \code{data(package='icus.data')$results[, 3]} to see
 a list of available data sets in this data package.
 }
 \seealso{
-\link{bibset}
+\link{icusbib}
 \link{nobels}
 \link{participants}
 \link{programs}

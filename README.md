@@ -1,7 +1,7 @@
 README for icus.data
 ================
 Alan Engel
-January 15, 2024
+January 31, 2024
 
 # icus.data
 
@@ -37,7 +37,7 @@ take a deeper look into these conferences.
 5.  **nobels** Table of Nobel Laureates who participated in ICUS
     conferences.
 
-6.  **bibset** Biblatex entries for 1658 speeches and presentations in
+6.  **icusbib** Biblatex entries for 1658 speeches and presentations in
     ICUS.
 
 ## Special vignettes
@@ -46,7 +46,7 @@ take a deeper look into these conferences.
     brochures including, for example, attendence by Sun Myung Moon and
     his wife Han Hakja, mention of funding by the Unification Church,
     detailed coding of program sessions for use in Set entries in
-    \_bibset\_\_.
+    \_icusbib\_\_.
 
 2.  **build-package** A vignette detailing the workflow for building
     this R data package. I am a memory-challenged novice and this is the

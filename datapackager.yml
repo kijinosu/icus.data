@@ -1,14 +1,12 @@
 configuration:
   files:
-    ICUSbibset.Rmd:
+    ICUSbib.Rmd:
       enabled: yes
     gsheets.Rmd:
       enabled: yes
     ICUSRoles.Rmd:
       enabled: yes
     build-package.Rmd:
-      enabled: yes
-    search-examples.Rmd:
       enabled: yes
     icus-program-observations.Rmd:
       enabled: yes
@@ -20,6 +18,6 @@ configuration:
   - participants
   - programs
   - role_defs
-  - bibset
+  - icusbib
   render_root:
-    tmp: '525211'
+    tmp: '329373'

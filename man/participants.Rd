@@ -56,7 +56,7 @@ library(icus.data)
 participants
 }
 \seealso{
-\link{bibset}
+\link{icusbib}
 \link{icus.data}
 \link{nobels}
 \link{programs}

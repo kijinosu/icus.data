@@ -29,7 +29,7 @@ library(icus.data)
 role_defs
 }
 \seealso{
-\link{bibset}
+\link{icusbib}
 \link{icus.data}
 \link{nobels}
 \link{participants}

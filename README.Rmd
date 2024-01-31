@@ -2,7 +2,7 @@
 output: github_document
 title: README for icus.data
 author: Alan Engel
-date: January 15, 2024
+date: January 31, 2024
 lang: "en-us"
 output_format: github_document
 bibliography: bibliography.bib
@@ -37,14 +37,14 @@ and final thirds of the ICUS conferences that ran from 1992 to 2000.
 
 5. __nobels__ Table of Nobel Laureates who participated in ICUS conferences.
 
-6. __bibset__ Biblatex entries for 1658 speeches and presentations in ICUS.
+6. __icusbib__ Biblatex entries for 1658 speeches and presentations in ICUS.
 
 ## Special vignettes
 
 1. __icus program observations__ Observations from ICUS program brochures
 including, for example, attendence by Sun Myung Moon and his wife Han Hakja,
 mention of funding by the Unification Church, detailed coding of program sessions
-for use in Set entries in _bibset__.
+for use in Set entries in _icusbib__.
 
 2. __build-package__ A vignette detailing the workflow for building this R data
 package. I am a memory-challenged novice and this is the result of a lot of trial and error.

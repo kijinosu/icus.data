@@ -41,7 +41,7 @@ library(icus.data)
 whoswho
 }
 \seealso{
-\link{bibset}
+\link{icusbib}
 \link{icus.data}
 \link{nobels}
 \link{participants}

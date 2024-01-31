@@ -62,7 +62,7 @@ confpages <- as.data.table(read_xlsx(xlsx, sheet="ICUS16"))
 confpages
 }
 \seealso{
-\link{bibset}
+\link{icusbib}
 \link{icus.data}
 \link{nobels}
 \link{participants}
