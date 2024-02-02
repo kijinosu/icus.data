@@ -1,36 +1,40 @@
-TRACE [2024-01-31 15:43:59] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
-TRACE [2024-01-31 15:43:59] Processing data
-TRACE [2024-01-31 15:43:59] Reading yaml configuration
-TRACE [2024-01-31 15:43:59] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/ICUSbib.Rmd
-TRACE [2024-01-31 15:43:59] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/gsheets.Rmd
-TRACE [2024-01-31 15:43:59] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/ICUSRoles.Rmd
-TRACE [2024-01-31 15:43:59] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/build-package.Rmd
-TRACE [2024-01-31 15:43:59] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/icus-program-observations.Rmd
-TRACE [2024-01-31 15:43:59] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/ICUSPrograms.Rmd
-TRACE [2024-01-31 15:43:59] Processing 1 of 6: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/ICUSbib.Rmd
+TRACE [2024-02-02 09:58:01] Logging to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/inst/extdata/Logfiles/processing.log
+TRACE [2024-02-02 09:58:01] Processing data
+TRACE [2024-02-02 09:58:01] Reading yaml configuration
+TRACE [2024-02-02 09:58:01] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/ICUSbib.Rmd
+TRACE [2024-02-02 09:58:01] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/gsheets.Rmd
+TRACE [2024-02-02 09:58:01] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/ICUSRoles.Rmd
+TRACE [2024-02-02 09:58:01] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/build-package.Rmd
+TRACE [2024-02-02 09:58:01] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/icus-program-observations.Rmd
+TRACE [2024-02-02 09:58:01] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/search-examples.Rmd
+TRACE [2024-02-02 09:58:01] Found C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/ICUSPrograms.Rmd
+TRACE [2024-02-02 09:58:01] Processing 1 of 7: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/ICUSbib.Rmd
 
-TRACE [2024-01-31 15:45:31] 1 data set(s) created by ICUSbib.Rmd
-TRACE [2024-01-31 15:45:31] Processing 2 of 6: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/gsheets.Rmd
+TRACE [2024-02-02 09:59:34] 1 data set(s) created by ICUSbib.Rmd
+TRACE [2024-02-02 09:59:34] Processing 2 of 7: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/gsheets.Rmd
 
-TRACE [2024-01-31 15:45:51] 2 data set(s) created by gsheets.Rmd
-TRACE [2024-01-31 15:45:51] Processing 3 of 6: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/ICUSRoles.Rmd
+TRACE [2024-02-02 09:59:56] 2 data set(s) created by gsheets.Rmd
+TRACE [2024-02-02 09:59:56] Processing 3 of 7: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/ICUSRoles.Rmd
 
-TRACE [2024-01-31 15:45:51] 2 data set(s) created by ICUSRoles.Rmd
-TRACE [2024-01-31 15:45:51] Processing 4 of 6: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/build-package.Rmd
+TRACE [2024-02-02 09:59:57] 2 data set(s) created by ICUSRoles.Rmd
+TRACE [2024-02-02 09:59:57] Processing 4 of 7: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/build-package.Rmd
 
-TRACE [2024-01-31 15:45:52] 0 data set(s) created by build-package.Rmd
-TRACE [2024-01-31 15:45:52] Processing 5 of 6: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/icus-program-observations.Rmd
+TRACE [2024-02-02 09:59:57] 0 data set(s) created by build-package.Rmd
+TRACE [2024-02-02 09:59:57] Processing 5 of 7: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/icus-program-observations.Rmd
 
-TRACE [2024-01-31 15:45:52] 0 data set(s) created by icus-program-observations.Rmd
-TRACE [2024-01-31 15:45:52] Processing 6 of 6: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/ICUSPrograms.Rmd
+TRACE [2024-02-02 09:59:58] 0 data set(s) created by icus-program-observations.Rmd
+TRACE [2024-02-02 09:59:58] Processing 6 of 7: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/search-examples.Rmd
 
-TRACE [2024-01-31 15:45:53] 1 data set(s) created by ICUSPrograms.Rmd
-TRACE [2024-01-31 15:45:53] NEWS.md file not found, creating!
-TRACE [2024-01-31 15:45:53] NEWS.md file found, updating!
-TRACE [2024-01-31 15:45:53] Saving to data
-TRACE [2024-01-31 15:45:53] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
-TRACE [2024-01-31 15:45:53] Done
-TRACE [2024-01-31 15:45:53] DataPackageR succeeded
-TRACE [2024-01-31 15:45:53] Building documentation
-TRACE [2024-01-31 15:45:54] Building package
-TRACE [2024-01-31 15:47:00] Rebuilding data package documentation.
+TRACE [2024-02-02 09:59:58] 0 data set(s) created by search-examples.Rmd
+TRACE [2024-02-02 09:59:58] Processing 7 of 7: C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/data-raw/ICUSPrograms.Rmd
+
+TRACE [2024-02-02 09:59:59] 1 data set(s) created by ICUSPrograms.Rmd
+TRACE [2024-02-02 09:59:59] NEWS.md file not found, creating!
+TRACE [2024-02-02 09:59:59] NEWS.md file found, updating!
+TRACE [2024-02-02 09:59:59] Saving to data
+TRACE [2024-02-02 09:59:59] Copied documentation to C:/Users/Public/Documents/R Projects/ICUSdata/icus.data/R/icus.data.R
+TRACE [2024-02-02 09:59:59] Done
+TRACE [2024-02-02 09:59:59] DataPackageR succeeded
+TRACE [2024-02-02 09:59:59] Building documentation
+TRACE [2024-02-02 10:00:01] Building package
+TRACE [2024-02-02 10:03:21] Rebuilding data package documentation.

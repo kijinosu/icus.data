@@ -10,6 +10,8 @@ configuration:
       enabled: yes
     icus-program-observations.Rmd:
       enabled: yes
+    search-examples.Rmd:
+      enabled: yes
     ICUSPrograms.Rmd:
       enabled: yes
   objects:
@@ -20,4 +22,4 @@ configuration:
   - role_defs
   - icusbib
   render_root:
-    tmp: '601868'
+    tmp: '64894'

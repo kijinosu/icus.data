@@ -94,6 +94,14 @@ activeparts <- tp %>%
 knitr::kable(activeparts[1:20, ], caption = "Most frequent participants")
 ```
 
+### Search on speaker
+
+```{r, person-search}
+icusbib[author = "^Oates"]
+```
+
+See [Search examples](./inst/doc/search-examples.html) for more examples.
+
 ## R packages used for this data package
 
 * DataPackageR - Set up and put the pieces together [@R-DataPackageR]
