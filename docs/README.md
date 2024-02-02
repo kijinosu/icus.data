@@ -134,7 +134,9 @@ icusbib[author = "^Oates"]
     ## 1978). chairpersonE. P. Wigner and J. C. Eccles. With a comment. by I. Soll. International Cultural Foundation.
     ## Boston, MA, 1978. <https://icus.org/wp-content/uploads/2016/02/ICUS-VII-Program.pdf> (visited on 05/12/2023).
 
-See [Search examples](search-examples.html) for more examples.
+See [Search
+examples](https://kijinosu.github.io/icus.data/search-examples.html) for
+more examples.
 
 ## R packages used for this data package
 

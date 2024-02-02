@@ -100,7 +100,7 @@ knitr::kable(activeparts[1:20, ], caption = "Most frequent participants")
 icusbib[author = "^Oates"]
 ```
 
-See [Search examples](search-examples.html) for more examples.
+See [Search examples](https://kijinosu.github.io/icus.data/search-examples.html) for more examples.
 
 ## R packages used for this data package
 
