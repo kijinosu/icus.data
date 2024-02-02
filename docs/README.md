@@ -73,31 +73,6 @@ library(icus.data)
 library(tidyverse)
 ```
 
-    ## ── Attaching core tidyverse packages ───────────────────────── tidyverse 2.0.0 ──
-    ## ✔ forcats   1.0.0     ✔ readr     2.1.4
-    ## ✔ ggplot2   3.4.4     ✔ stringr   1.5.1
-    ## ✔ lubridate 1.9.3     ✔ tibble    3.2.1
-    ## ✔ purrr     1.0.2     ✔ tidyr     1.3.0
-    ## ── Conflicts ─────────────────────────────────────────── tidyverse_conflicts() ──
-    ## ✖ data.table::between() masks dplyr::between()
-    ## ✖ dplyr::filter()       masks stats::filter()
-    ## ✖ data.table::first()   masks dplyr::first()
-    ## ✖ lubridate::hour()     masks data.table::hour()
-    ## ✖ lubridate::isoweek()  masks data.table::isoweek()
-    ## ✖ dplyr::lag()          masks stats::lag()
-    ## ✖ data.table::last()    masks dplyr::last()
-    ## ✖ lubridate::mday()     masks data.table::mday()
-    ## ✖ lubridate::minute()   masks data.table::minute()
-    ## ✖ lubridate::month()    masks data.table::month()
-    ## ✖ lubridate::quarter()  masks data.table::quarter()
-    ## ✖ lubridate::second()   masks data.table::second()
-    ## ✖ purrr::transpose()    masks data.table::transpose()
-    ## ✖ lubridate::wday()     masks data.table::wday()
-    ## ✖ lubridate::week()     masks data.table::week()
-    ## ✖ lubridate::yday()     masks data.table::yday()
-    ## ✖ lubridate::year()     masks data.table::year()
-    ## ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
-
 Plot.
 
 ``` r
@@ -147,6 +122,19 @@ knitr::kable(activeparts[1:20, ], caption = "Most frequent participants")
 | John Carew Eccles        |          10 |
 
 Most frequent participants
+
+### Search on speaker
+
+``` r
+icusbib[author = "^Oates"]
+```
+
+    ## [1] J. C. Oates. "The art of suicide". In: _The re-evaluation of existing values and the search for absolute values_.
+    ## The Seventh International Conference on the Unity of the Sciences. (Sheraton-Boston Hotel, 11. 24, 1978-11. 26,
+    ## 1978). chairpersonE. P. Wigner and J. C. Eccles. With a comment. by I. Soll. International Cultural Foundation.
+    ## Boston, MA, 1978. <https://icus.org/wp-content/uploads/2016/02/ICUS-VII-Program.pdf> (visited on 05/12/2023).
+
+See [Search examples](search-examples.html) for more examples.
 
 ## R packages used for this data package
 

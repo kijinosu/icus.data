@@ -129,17 +129,12 @@ Most frequent participants
 icusbib[author = "^Oates"]
 ```
 
-    ## [1] J. C. Oates. "The art of suicide". In: _The re-evaluation of
-    ## existing values and the search for absolute values_. The Seventh
-    ## International Conference on the Unity of the Sciences. (Sheraton-Boston
-    ## Hotel, 11. 24, 1978-11. 26, 1978). chairpersonE. P. Wigner and J. C.
-    ## Eccles. With a comment. by I. Soll. International Cultural Foundation.
-    ## Boston, MA, 1978.
-    ## <https://icus.org/wp-content/uploads/2016/02/ICUS-VII-Program.pdf>
-    ## (visited on 05/12/2023).
+    ## [1] J. C. Oates. "The art of suicide". In: _The re-evaluation of existing values and the search for absolute values_.
+    ## The Seventh International Conference on the Unity of the Sciences. (Sheraton-Boston Hotel, 11. 24, 1978-11. 26,
+    ## 1978). chairpersonE. P. Wigner and J. C. Eccles. With a comment. by I. Soll. International Cultural Foundation.
+    ## Boston, MA, 1978. <https://icus.org/wp-content/uploads/2016/02/ICUS-VII-Program.pdf> (visited on 05/12/2023).
 
-See [Search examples](./inst/doc/search-examples.html) for more
-examples.
+See [Search examples](search-examples.html) for more examples.
 
 ## R packages used for this data package
 
