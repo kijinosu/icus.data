@@ -4,3 +4,6 @@ url: "https://kijinosu.github.io/icus.data/"
 # baseurl: "docs"
 description: An R data package for researching the International Conferences on the Unity of Science
 theme: jekyll-theme-minimal
+navbar:
+  - title: Search Examples
+    path: /search-examples.html
