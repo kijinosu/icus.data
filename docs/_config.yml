@@ -1,6 +1,6 @@
 title: icus.data data package for R
 email: alan@ttcrossroads.net
 url: "https://kijinosu.github.io/icus.data/"
-baseurl: "docs"
+# baseurl: "docs"
 description: An R data package for researching the International Conferences on the Unity of Science
 theme: jekyll-theme-minimal
