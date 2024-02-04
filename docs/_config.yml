@@ -8,4 +8,4 @@ theme: minima
 markdown: kramdown
 navbar:
   - title: Search Examples
-    path: /search-examples.html
+    path: search-examples.md
