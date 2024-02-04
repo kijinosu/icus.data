@@ -1,3 +1,6 @@
+---
+title: Searching icusbib
+---
 -   [Searching the `icusbib` dataset](#searching-the-icusbib-dataset)
 -   [The underlying RefManageR
     package](#the-underlying-refmanager-package)
