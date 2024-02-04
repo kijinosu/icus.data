@@ -1,3 +1,11 @@
+-   [Searching the `icusbib` dataset](#searching-the-icusbib-dataset)
+-   [The underlying RefManageR
+    package](#the-underlying-refmanager-package)
+-   [Structure and output styles](#structure-and-output-styles)
+-   [Bibliographic styles](#bibliographic-styles)
+-   [Search](#search)
+-   [References](#references)
+
 # Searching the `icusbib` dataset
 
 `icusbib` is a list of `RefManageR::BibEntry` objects that covers all
@@ -22,8 +30,6 @@ these references.
 Begin by loading the R library. This also loads RefManageR.
 
     library(icus.data)
-
-    ##  要求されたパッケージ RefManageR をロード中です
 
 # Structure and output styles
 
