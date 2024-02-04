@@ -1,6 +1,3 @@
----
-title: Searching icusbib
----
 -   [Searching the `icusbib` dataset](#searching-the-icusbib-dataset)
 -   [The underlying RefManageR
     package](#the-underlying-refmanager-package)
@@ -32,13 +29,17 @@ these references.
 
 Begin by loading the R library. This also loads RefManageR.
 
-    library(icus.data)
+``` r
+library(icus.data)
+```
 
 # Structure and output styles
 
 Let’s take a look at the first entry in `icusbib`.
 
-    icusbib[1]
+``` r
+icusbib[1]
+```
 
     ## [1] _Moral Orientation of the Sciences_. First International Conference
     ## on Unified Science. (Waldorf-Astoria Hotel, 11. 23, 1972-11. 26, 1972)
@@ -49,7 +50,9 @@ Let’s take a look at the first entry in `icusbib`.
 
 RefManageR’s default output style is “numeric”.
 
-    BibOptions("bib.style")
+``` r
+BibOptions("bib.style")
+```
 
     ## $bib.style
     ## [1] "numeric"
@@ -58,7 +61,9 @@ RefManageR’s default output style is “numeric”.
 
 To see Biblatex entries in full, we use the `toBiblatex()` function.
 
-    toBiblatex(icusbib[1])
+``` r
+toBiblatex(icusbib[1])
+```
 
     ## @Proceedings{ICUS01,
     ##   title = {Moral Orientation of the Sciences},
@@ -125,7 +130,9 @@ downstream `crossref` entries.
 Searches are on these combined entries. It should be evident that
 changing keys will corrupt the dataset.
 
-    toBiblatex(icusbib[4])
+``` r
+toBiblatex(icusbib[4])
+```
 
     ## @InProceedings{ICUS01:C01:G01:S01,
     ##   crossref = {ICUS01},
@@ -177,14 +184,18 @@ Currently, the available styles only output the **Set** bibtype and
 **key**. There is also no built-in referencing so this must be added
 ad-hoc.
 
-    s <- icusbib[bibtype = "Set", key = "ICUS03"][1:2]
-    s
+``` r
+s <- icusbib[bibtype = "Set", key = "ICUS03"][1:2]
+s
+```
 
     ## Set: ICUS03:C01
     ## 
     ## Set: ICUS03:C01:G01
 
-    toBiblatex(s)
+``` r
+toBiblatex(s)
+```
 
     ## @Set{ICUS03:C01,
     ##   entryset = {ICUS03:C01:G01:S01},
@@ -215,7 +226,9 @@ for details.) These styles are illustrated below.
 
 ## Numeric (default)
 
-    icusbib[4]
+``` r
+icusbib[4]
+```
 
     ## [1] C. Dagum. "The Impact of Unified Science on Economics". In: _Moral
     ## Orientation of the Sciences_. First International Conference on Unified
@@ -227,8 +240,10 @@ for details.) These styles are illustrated below.
 
 ## authoryear
 
-    oldstyle <- BibOptions(bib.style = "authoryear")
-    icusbib[4]
+``` r
+oldstyle <- BibOptions(bib.style = "authoryear")
+icusbib[4]
+```
 
     ## Dagum, C. (1972). "The Impact of Unified Science on Economics". In:
     ## _Moral Orientation of the Sciences_. First International Conference on
@@ -240,8 +255,10 @@ for details.) These styles are illustrated below.
 
 ## authortitle
 
-    BibOptions(bib.style = "authortitle")
-    icusbib[4]
+``` r
+BibOptions(bib.style = "authortitle")
+icusbib[4]
+```
 
     ## Dagum, C. "The Impact of Unified Science on Economics". In: _Moral
     ## Orientation of the Sciences_. First International Conference on Unified
@@ -253,8 +270,10 @@ for details.) These styles are illustrated below.
 
 ## alphabetic
 
-    BibOptions(bib.style = "alphabetic")
-    icusbib[4]
+``` r
+BibOptions(bib.style = "alphabetic")
+icusbib[4]
+```
 
     ## [Dag72] C. Dagum. "The Impact of Unified Science on Economics". In:
     ## _Moral Orientation of the Sciences_. First International Conference on
@@ -266,8 +285,10 @@ for details.) These styles are illustrated below.
 
 ## draft
 
-    BibOptions(bib.style = "draft")
-    icusbib[4]
+``` r
+BibOptions(bib.style = "draft")
+icusbib[4]
+```
 
     ## *ICUS01:C01:G01:S01* C. Dagum. "The Impact of Unified Science on
     ## Economics". In: _Moral Orientation of the Sciences_. First
@@ -277,14 +298,18 @@ for details.) These styles are illustrated below.
     ## <https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf>
     ## (visited on 05/01/2023).
 
-    BibOptions(oldstyle)
+``` r
+BibOptions(oldstyle)
+```
 
 ## Using print()
 
 The bibliographic style can also be selected in `print` so that you do
 not to change the global option just for one output.
 
-    print(icusbib[4], .opts = list(bib.style = "draft"))
+``` r
+print(icusbib[4], .opts = list(bib.style = "draft"))
+```
 
     ## *ICUS01:C01:G01:S01* C. Dagum. "The Impact of Unified Science on
     ## Economics". In: _Moral Orientation of the Sciences_. First
@@ -301,7 +326,9 @@ that the `title` and `titleaddon` fields from the `Proceedings` entry
 have been assigned to `booktitle` and `booktitleaddon` fields to avoid
 conflict.
 
-    str(icusbib[4])
+``` r
+str(icusbib[4])
+```
 
     ## Classes 'BibEntry', 'bibentry'  hidden list of 1
     ##  $ :List of 16
@@ -353,7 +380,9 @@ conflict.
 Most of the 14 fields and 3 attributes in this structure can be
 searched. Here I search the title with two equivalent syntaxes.
 
-    icusbib[title = "Economics"][key = "ICUS01"]
+``` r
+icusbib[title = "Economics"][key = "ICUS01"]
+```
 
     ## [1] C. Dagum. "The Impact of Unified Science on Economics". In: _Moral
     ## Orientation of the Sciences_. First International Conference on Unified
@@ -363,7 +392,9 @@ searched. Here I search the title with two equivalent syntaxes.
     ## <https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf>
     ## (visited on 05/01/2023).
 
-    icusbib[title = "Economics", key = "ICUS01"]
+``` r
+icusbib[title = "Economics", key = "ICUS01"]
+```
 
     ## [1] C. Dagum. "The Impact of Unified Science on Economics". In: _Moral
     ## Orientation of the Sciences_. First International Conference on Unified
@@ -383,13 +414,17 @@ Of the fields imported from the `Proceedings` entry, `booktitle`
 **cannot** be searched but `venue` can. (In the `venue` search below, I
 have listed the first 2 entries.)
 
-    icusbib[booktitle = "International"] # from Proceedings entry
+``` r
+icusbib[booktitle = "International"] # from Proceedings entry
+```
 
     ## No results.
 
     ## list()
 
-    icusbib[venue = "Waldorf"][1:2] # also from Proceedings entry
+``` r
+icusbib[venue = "Waldorf"][1:2] # also from Proceedings entry
+```
 
     ## [1] _Moral Orientation of the Sciences_. First International Conference
     ## on Unified Science. (Waldorf-Astoria Hotel, 11. 23, 1972-11. 26, 1972)
@@ -419,13 +454,17 @@ In searching `person` objects, the default option is to search the
 `family` name only. Searching is for matching character strings and not
 whole names.
 
-    icusbib[author = "Joyce"] # given name
+``` r
+icusbib[author = "Joyce"] # given name
+```
 
     ## No results.
 
     ## list()
 
-    icusbib[author = "Oates"][1] # matching string in family name
+``` r
+icusbib[author = "Oates"][1] # matching string in family name
+```
 
     ## [1] V. T. Coates. "Technology Assessment and Public Policy". In:
     ## _Modern Science and Moral Values_. Second International Conference on
@@ -435,7 +474,9 @@ whole names.
     ## <https://icus.org/wp-content/uploads/2015/10/ICUSII-Program.pdf>
     ## (visited on 05/08/2023).
 
-    icusbib[author = "^Oates"][1] # At the beginning of family name
+``` r
+icusbib[author = "^Oates"][1] # At the beginning of family name
+```
 
     ## [1] J. C. Oates. "The art of suicide". In: _The re-evaluation of
     ## existing values and the search for absolute values_. The Seventh
@@ -452,7 +493,9 @@ set locally for that query.
 
 ### Search on ‘exact’ and ‘family.with.initials’
 
-    icusbib[author = "Dagum, Camilo"][1] # default option is "family"
+``` r
+icusbib[author = "Dagum, Camilo"][1] # default option is "family"
+```
 
     ## [1] C. Dagum. "The Impact of Unified Science on Economics". In: _Moral
     ## Orientation of the Sciences_. First International Conference on Unified
@@ -462,8 +505,10 @@ set locally for that query.
     ## <https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf>
     ## (visited on 05/01/2023).
 
-    oldopts <- BibOptions(match.author = "exact")
-    icusbib[author = "Dagum, Camilo"][1]
+``` r
+oldopts <- BibOptions(match.author = "exact")
+icusbib[author = "Dagum, Camilo"][1]
+```
 
     ## [1] C. Dagum. "The Impact of Unified Science on Economics". In: _Moral
     ## Orientation of the Sciences_. First International Conference on Unified
@@ -473,9 +518,11 @@ set locally for that query.
     ## <https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf>
     ## (visited on 05/01/2023).
 
-    BibOptions(oldopts)
+``` r
+BibOptions(oldopts)
 
-    icusbib[author = "Dagum, Terry"][1] # default option is "family"
+icusbib[author = "Dagum, Terry"][1] # default option is "family"
+```
 
     ## [1] C. Dagum. "The Impact of Unified Science on Economics". In: _Moral
     ## Orientation of the Sciences_. First International Conference on Unified
@@ -485,17 +532,21 @@ set locally for that query.
     ## <https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf>
     ## (visited on 05/01/2023).
 
-    oldopts <- BibOptions(match.author = "exact")
-    icusbib[author = "Dagum, Terry"][1]
+``` r
+oldopts <- BibOptions(match.author = "exact")
+icusbib[author = "Dagum, Terry"][1]
+```
 
     ## No results.
 
     ## [[1]]
     ## NULL
 
-    BibOptions(oldopts)
+``` r
+BibOptions(oldopts)
 
-    SearchBib(icusbib, author = "Dagum", .opts = list(match.author = "family"))[1]
+SearchBib(icusbib, author = "Dagum", .opts = list(match.author = "family"))[1]
+```
 
     ## [1] C. Dagum. "The Impact of Unified Science on Economics". In: _Moral
     ## Orientation of the Sciences_. First International Conference on Unified
@@ -505,15 +556,19 @@ set locally for that query.
     ## <https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf>
     ## (visited on 05/01/2023).
 
-    SearchBib(icusbib, author = "Camilo", .opts = list(match.author = "given"))[1]
+``` r
+SearchBib(icusbib, author = "Camilo", .opts = list(match.author = "given"))[1]
+```
 
     ## No results.
 
     ## [[1]]
     ## NULL
 
-    SearchBib(icusbib, author = "Dagum, C.",
-      .opts = list(match.author = "family.with.initials"))[1]
+``` r
+SearchBib(icusbib, author = "Dagum, C.",
+  .opts = list(match.author = "family.with.initials"))[1]
+```
 
     ## [1] C. Dagum. "The Impact of Unified Science on Economics". In: _Moral
     ## Orientation of the Sciences_. First International Conference on Unified
@@ -523,8 +578,10 @@ set locally for that query.
     ## <https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf>
     ## (visited on 05/01/2023).
 
-    SearchBib(icusbib, author = "Dagum, Camilo",
-      .opts = list(match.author = "family.with.initials"))[1]
+``` r
+SearchBib(icusbib, author = "Dagum, Camilo",
+  .opts = list(match.author = "family.with.initials"))[1]
+```
 
     ## [1] C. Dagum. "The Impact of Unified Science on Economics". In: _Moral
     ## Orientation of the Sciences_. First International Conference on Unified
@@ -534,8 +591,10 @@ set locally for that query.
     ## <https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf>
     ## (visited on 05/01/2023).
 
-    SearchBib(icusbib, author = "Dagum, Camilo",
-      .opts = list(match.author = "exact"))[1]
+``` r
+SearchBib(icusbib, author = "Dagum, Camilo",
+  .opts = list(match.author = "exact"))[1]
+```
 
     ## [1] C. Dagum. "The Impact of Unified Science on Economics". In: _Moral
     ## Orientation of the Sciences_. First International Conference on Unified
@@ -545,7 +604,9 @@ set locally for that query.
     ## <https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf>
     ## (visited on 05/01/2023).
 
-    icusbib[author = "Dagum, Camilo", .opts = list(match.author = "exact")][1]
+``` r
+icusbib[author = "Dagum, Camilo", .opts = list(match.author = "exact")][1]
+```
 
     ## No results.
 
@@ -559,7 +620,9 @@ The default for searching dates is to search only by year
 `match.date` option to’‘exact’’. Date ranges are specified with a
 forward slash. The exclamation point is the NOT operator.
 
-    icusbib[author = "delgado", date = "1979"]
+``` r
+icusbib[author = "delgado", date = "1979"]
+```
 
     ## [1] J. M. R. Delgado. "Transmaterial values within the brain". In: _The
     ## responsibility of the academic community in the search for absolute
@@ -570,7 +633,9 @@ forward slash. The exclamation point is the NOT operator.
     ## <https://icus.org/wp-content/uploads/2016/02/ICUS-VIII-Program.pdf>
     ## (visited on 05/12/2023).
 
-    icusbib[author = "delgado", date = "1979/1984"]
+``` r
+icusbib[author = "delgado", date = "1979/1984"]
+```
 
     ## [1] J. M. R. Delgado. "Biological bases on reality and imaginary". In:
     ## _Absolute Values and the New Cultural Revolution_. Thirteenth
@@ -590,7 +655,9 @@ forward slash. The exclamation point is the NOT operator.
     ## <https://icus.org/wp-content/uploads/2016/02/ICUS-VIII-Program.pdf>
     ## (visited on 05/12/2023).
 
-    icusbib[author = "delgado", date = "!1979/1984"] # not in this range
+``` r
+icusbib[author = "delgado", date = "!1979/1984"] # not in this range
+```
 
     ## [1] J. M. R. Delgado. "Forms, symbols and the structure of the brain".
     ## In: _Absolute Values and the New Cultural Revolution_. Fourteenth
@@ -638,7 +705,9 @@ forward slash. The exclamation point is the NOT operator.
     ## <https://icus.org/wp-content/uploads/2016/03/ICUS-XVII-Program.pdf>
     ## (visited on 05/12/2023).
 
-    icusbib[author = "delgado", date = "1987/"]
+``` r
+icusbib[author = "delgado", date = "1987/"]
+```
 
     ## [1] J. M. R. Delgado. "Neurobiological factors in the development of
     ## personhood". In: _Absolute Values and the Reassessment of the
@@ -669,7 +738,9 @@ forward slash. The exclamation point is the NOT operator.
     ## <https://icus.org/wp-content/uploads/2016/03/ICUS-XVII-Program.pdf>
     ## (visited on 05/12/2023).
 
-    icusbib[author = "delgado", date = "/1985"]
+``` r
+icusbib[author = "delgado", date = "/1985"]
+```
 
     ## [1] J. M. R. Delgado. "Biological bases on reality and imaginary". In:
     ## _Absolute Values and the New Cultural Revolution_. Thirteenth
@@ -707,22 +778,30 @@ manual](https://cloud.r-project.org/web/packages/RefManageR/RefManageR.pdf).
 
 ### Using the +.BibEntry operator
 
-    length(icusbib[author = "Dagum"])
+``` r
+length(icusbib[author = "Dagum"])
+```
 
     ## [1] 4
 
-    length(icusbib[commentator = "Dagum"])
+``` r
+length(icusbib[commentator = "Dagum"])
+```
 
     ## [1] 1
 
-    sr <- icusbib[author = "Dagum"] + icusbib[commentator = "Dagum"]
-    length(sr)
+``` r
+sr <- icusbib[author = "Dagum"] + icusbib[commentator = "Dagum"]
+length(sr)
+```
 
     ## [1] 5
 
 ### Using a list of lists
 
-    icusbib[list(author = "delgado", title = "neurobiol", editora = "fukuda")]
+``` r
+icusbib[list(author = "delgado", title = "neurobiol", editora = "fukuda")]
+```
 
     ## [1] J. M. R. Delgado. "Neurobiological factors in the development of
     ## personhood". In: _Absolute Values and the Reassessment of the
@@ -734,7 +813,9 @@ manual](https://cloud.r-project.org/web/packages/RefManageR/RefManageR.pdf).
     ## <https://icus.org/wp-content/uploads/2016/02/ICUS-XVI-Program.pdf>
     ## (visited on 05/12/2023).
 
-    icusbib[list(author = "delgado", title = "psychobiol", editora = "mellanby")]
+``` r
+icusbib[list(author = "delgado", title = "psychobiol", editora = "mellanby")]
+```
 
     ## [1] J. M. R. Delgado. "Psychobiology of space and time". In: _Absolute
     ## Values and the New Cultural Revolution_. Fifteenth International
@@ -744,8 +825,10 @@ manual](https://cloud.r-project.org/web/packages/RefManageR/RefManageR.pdf).
     ## <https://icus.org/wp-content/uploads/2016/02/ICUS-XV-Program.pdf>
     ## (visited on 05/12/2023).
 
-    icusbib[list(author = "delgado", title = "neurobiol", editora = "fukuda"),
-              list(author = "delgado", title = "psychobiol", editora = "mellanby")]
+``` r
+icusbib[list(author = "delgado", title = "neurobiol", editora = "fukuda"),
+          list(author = "delgado", title = "psychobiol", editora = "mellanby")]
+```
 
     ## [1] J. M. R. Delgado. "Neurobiological factors in the development of
     ## personhood". In: _Absolute Values and the Reassessment of the
@@ -768,7 +851,9 @@ manual](https://cloud.r-project.org/web/packages/RefManageR/RefManageR.pdf).
 The following examples have the grammar: AUTHOR AND (TITLE1 OR TITLE2)
 AND CHAIRPERSON.
 
-    icusbib[author = "delgado"][list(title = "psychobiol"),list(title = "neurobiol")][editora = "weinberg"]
+``` r
+icusbib[author = "delgado"][list(title = "psychobiol"),list(title = "neurobiol")][editora = "weinberg"]
+```
 
     ## [1] J. M. R. Delgado. "Neurobiological factors in the development of
     ## personhood". In: _Absolute Values and the Reassessment of the
@@ -797,7 +882,9 @@ AND CHAIRPERSON.
     ## <https://icus.org/wp-content/uploads/2016/02/ICUS-XV-Program.pdf>
     ## (visited on 05/12/2023).
 
-    icusbib[author = "delgado"][list(title = "psychobiol"),list(title = "neurobiol")][editora = "king"]
+``` r
+icusbib[author = "delgado"][list(title = "psychobiol"),list(title = "neurobiol")][editora = "king"]
+```
 
     ## [1] J. M. R. Delgado. "Psychobiology of space and time". In: _Absolute
     ## Values and the New Cultural Revolution_. Fifteenth International
@@ -807,7 +894,9 @@ AND CHAIRPERSON.
     ## <https://icus.org/wp-content/uploads/2016/02/ICUS-XV-Program.pdf>
     ## (visited on 05/12/2023).
 
-    icusbib[author = "delgado"][list(title = "psychobiol"),list(title = "neurobiol")][editora = "fukuda"]
+``` r
+icusbib[author = "delgado"][list(title = "psychobiol"),list(title = "neurobiol")][editora = "fukuda"]
+```
 
     ## [1] J. M. R. Delgado. "Neurobiological factors in the development of
     ## personhood". In: _Absolute Values and the Reassessment of the
@@ -821,8 +910,10 @@ AND CHAIRPERSON.
 
 ## Searches on keys are also regular expression matches.
 
-    oldopts <- BibOptions(bib.style = "draft") # Draft style shows keys
-    icusbib[key = "ICUS01:C01:G01:S01"]
+``` r
+oldopts <- BibOptions(bib.style = "draft") # Draft style shows keys
+icusbib[key = "ICUS01:C01:G01:S01"]
+```
 
     ## *ICUS01:C01:G01:S01* C. Dagum. "The Impact of Unified Science on
     ## Economics". In: _Moral Orientation of the Sciences_. First
@@ -832,7 +923,9 @@ AND CHAIRPERSON.
     ## <https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf>
     ## (visited on 05/01/2023).
 
-    icusbib[key = "ICUS01:C01:G01"][1:2]
+``` r
+icusbib[key = "ICUS01:C01:G01"][1:2]
+```
 
     ## Set: ICUS01:C01:G01
     ## 
@@ -844,11 +937,15 @@ AND CHAIRPERSON.
     ## <https://icus.org/wp-content/uploads/2016/03/1st-ICUS-New-York-City-1972.pdf>
     ## (visited on 05/01/2023).
 
-    icusbib[key = "ICUS01:C01:G01$"] # $ matches end of line
+``` r
+icusbib[key = "ICUS01:C01:G01$"] # $ matches end of line
+```
 
     ## Set: ICUS01:C01:G01
 
-    icusbib[key = "C01:G01:S01"][1:2]
+``` r
+icusbib[key = "C01:G01:S01"][1:2]
+```
 
     ## *ICUS01:C01:G01:S01* C. Dagum. "The Impact of Unified Science on
     ## Economics". In: _Moral Orientation of the Sciences_. First
@@ -866,7 +963,9 @@ AND CHAIRPERSON.
     ## <https://icus.org/wp-content/uploads/2015/10/ICUSII-Program.pdf>
     ## (visited on 05/08/2023).
 
-    icusbib[key = "^C01:G01:S01"][1:2] # ^ matches beginning of line
+``` r
+icusbib[key = "^C01:G01:S01"][1:2] # ^ matches beginning of line
+```
 
     ## No results.
 
@@ -876,7 +975,9 @@ AND CHAIRPERSON.
     ## [[2]]
     ## NULL
 
-    BibOptions(oldopts)
+``` r
+BibOptions(oldopts)
+```
 
 # References
 
