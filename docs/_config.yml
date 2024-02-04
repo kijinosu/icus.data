@@ -5,6 +5,7 @@ email: alan@ttcrossroads.net
 description: An R data package for researching the International Conferences on the Unity of Science
 # theme: jekyll-theme-minimal
 theme: minima
+markdown: kramdown
 navbar:
   - title: Search Examples
     path: /search-examples.html
