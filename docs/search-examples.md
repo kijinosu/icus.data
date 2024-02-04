@@ -23,6 +23,8 @@ Begin by loading the R library. This also loads RefManageR.
 
     library(icus.data)
 
+    ##  要求されたパッケージ RefManageR をロード中です
+
 # Structure and output styles
 
 Let’s take a look at the first entry in `icusbib`.
