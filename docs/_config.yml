@@ -1,9 +1,0 @@
-title: icus.data data package for R
-email: alan@ttcrossroads.net
-url: "https://kijinosu.github.io/icus.data/"
-baseurl: "/docs"
-description: An R data package for researching the International Conferences on the Unity of Science
-navbar:
-  - title: How to search
-    path: search-examples.html
-theme: minima
