@@ -1,4 +1,4 @@
-# title: icus.data data package for R
+title: icus.data data package for R
 email: alan@ttcrossroads.net
 # url: "https://kijinosu.github.io/icus.data/"
 # baseurl: "docs"
@@ -8,4 +8,4 @@ theme: minima
 markdown: kramdown
 navbar:
   - title: Search Examples
-    path: search-examples.md
+    path: /search-examples.md
