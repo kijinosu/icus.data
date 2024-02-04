@@ -3,8 +3,8 @@ email: alan@ttcrossroads.net
 # url: "https://kijinosu.github.io/icus.data/"
 # baseurl: "docs"
 description: An R data package for researching the International Conferences on the Unity of Science
-theme: jekyll-theme-minima
-# theme: minima
+# theme: jekyll-theme-minimal
+theme: minima
 markdown: kramdown
 navbar:
   - title: Search Examples
