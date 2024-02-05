@@ -1,14 +1,15 @@
----
-title: Searching icusbib
----
+Searching the **icusbib** dataset
+================
+Alan Engel
+February 1, 2024
 
--   [Searching the `icusbib` dataset](#searching-the-icusbib-dataset)
--   [The underlying RefManageR
-    package](#the-underlying-refmanager-package)
--   [Structure and output styles](#structure-and-output-styles)
--   [Bibliographic styles](#bibliographic-styles)
--   [Search](#search)
--   [References](#references)
+- [Searching the `icusbib` dataset](#searching-the-icusbib-dataset)
+- [The underlying RefManageR
+  package](#the-underlying-refmanager-package)
+- [Structure and output styles](#structure-and-output-styles)
+- [Bibliographic styles](#bibliographic-styles)
+- [Search](#search)
+- [References](#references)
 
 # Searching the `icusbib` dataset
 
@@ -36,6 +37,8 @@ Begin by loading the R library. This also loads RefManageR.
 ``` r
 library(icus.data)
 ```
+
+    ##  要求されたパッケージ RefManageR をロード中です
 
 # Structure and output styles
 
@@ -985,25 +988,57 @@ BibOptions(oldopts)
 
 # References
 
+<div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-R-utils" class="csl-entry">
+
 Bengtsson, Henrik. 2023. *R.utils: Various Programming Utilities*.
 <https://henrikbengtsson.github.io/R.utils/>.
+
+</div>
+
+<div id="ref-engel2024moonism" class="csl-entry">
 
 Engel, Alan. 2024. “Moonism and Science.” OSF.
 <https://doi.org/10.17605/OSF.IO/S2PTW>.
 
+</div>
+
+<div id="ref-icushistory" class="csl-entry">
+
 *International Conference on the Unity of the Sciences - History*. 2020.
 ICUS. <https://icus.org/about-2/history/>.
+
+</div>
+
+<div id="ref-biblatex" class="csl-entry">
 
 Lehman, Philipp, Philip Kime, Audrey Boruvka, and Joseph Wright. 2022.
 “The <span class="nocase">b</span>iblatex Package.”
 <https://mirrors.ibiblio.org/CTAN/macros/latex/contrib/biblatex/doc/biblatex.pdf>.
 
+</div>
+
+<div id="ref-refmanager" class="csl-entry">
+
 McLean, Mathew W. 2014. “Straightforward Bibliography Management in R
 Using the RefManageR Package.” <https://arxiv.org/abs/1403.2036>.
+
+</div>
+
+<div id="ref-bibtex" class="csl-entry">
 
 Patashnik, Oren. 1988. “Bibtexing.”
 <http://bibtexml.sourceforge.net/btxdoc.pdf>.
 
+</div>
+
+<div id="ref-R-core" class="csl-entry">
+
 R Core Team. 2023. *R: A Language and Environment for Statistical
 Computing*. Vienna, Austria: R Foundation for Statistical Computing.
 <https://www.R-project.org/>.
+
+</div>
+
+</div>
