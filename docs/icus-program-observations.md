@@ -3,7 +3,7 @@ layout: single
 title: "ICUS Observations"
 sitemap: false
 permalink: /Observations/
-# author_profile: TRUE
+author_profile: TRUE
 # header:
 #   image: assets/images/banner.jpg
 ---
