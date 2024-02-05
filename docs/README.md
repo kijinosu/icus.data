@@ -1,11 +1,9 @@
-README for icus.data
+R data package icus.data
 ================
 Alan Engel
 January 31, 2024
 
-# icus.data
-
-## Introduction
+# Introduction
 
 Between 1972 and 2000, Sun Myung Moon’s organizations sponsored 22
 conferences on the unity of science. The aim was to bring science under
@@ -17,7 +15,7 @@ conferences from multiple viewpoints.
 This dataset provides several components for researchers who wish to
 take a deeper look into these conferences.
 
-## Datasets
+# Datasets
 
 1.  **participants** Table of 2045 people who have been listed in ICUS
     programs as speakers, moderators, discussants, advisors and other
@@ -40,7 +38,7 @@ take a deeper look into these conferences.
 6.  **icusbib** Biblatex entries for 1658 speeches and presentations in
     ICUS.
 
-## Special vignettes
+# Special vignettes
 
 1.  **icus program observations** Observations from ICUS program
     brochures including, for example, attendence by Sun Myung Moon and
@@ -52,7 +50,7 @@ take a deeper look into these conferences.
     this R data package. I am a memory-challenged novice and this is the
     result of a lot of trial and error.
 
-## Installation
+# Installation
 
 You can install the latest version of **icus.data** from
 [github](https://github.com/kijinosu/icus.data) with:
@@ -62,9 +60,9 @@ library(devtools)
 devtools::install_github("kijinosu/icus.data")
 ```
 
-## Examples
+# Examples
 
-### Plot participant counts by year
+## Plot participant counts by year
 
 Load libraries.
 
@@ -72,6 +70,17 @@ Load libraries.
 library(icus.data)
 library(tidyverse)
 ```
+
+    ## ── Attaching core tidyverse packages ───────────────────────── tidyverse 2.0.0 ──
+    ## ✔ dplyr     1.1.4     ✔ readr     2.1.4
+    ## ✔ forcats   1.0.0     ✔ stringr   1.5.1
+    ## ✔ ggplot2   3.4.4     ✔ tibble    3.2.1
+    ## ✔ lubridate 1.9.3     ✔ tidyr     1.3.0
+    ## ✔ purrr     1.0.2     
+    ## ── Conflicts ─────────────────────────────────────────── tidyverse_conflicts() ──
+    ## ✖ dplyr::filter() masks stats::filter()
+    ## ✖ dplyr::lag()    masks stats::lag()
+    ## ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
 
 Plot.
 
@@ -84,7 +93,7 @@ ggplot(data = progs) +
 
 ![](README_files/figure-gfm/plot-participant-counts-1.png)<!-- -->
 
-### Most frequent participants
+## Most frequent participants
 
 ``` r
 activeparts <- tp %>%
@@ -123,22 +132,26 @@ knitr::kable(activeparts[1:20, ], caption = "Most frequent participants")
 
 Most frequent participants
 
-### Search on speaker
+## Search on speaker
 
 ``` r
 icusbib[author = "^Oates"]
 ```
 
-    ## [1] J. C. Oates. "The art of suicide". In: _The re-evaluation of existing values and the search for absolute values_.
-    ## The Seventh International Conference on the Unity of the Sciences. (Sheraton-Boston Hotel, 11. 24, 1978-11. 26,
-    ## 1978). chairpersonE. P. Wigner and J. C. Eccles. With a comment. by I. Soll. International Cultural Foundation.
-    ## Boston, MA, 1978. <https://icus.org/wp-content/uploads/2016/02/ICUS-VII-Program.pdf> (visited on 05/12/2023).
+    ## [1] J. C. Oates. "The art of suicide". In: _The re-evaluation of
+    ## existing values and the search for absolute values_. The Seventh
+    ## International Conference on the Unity of the Sciences. (Sheraton-Boston
+    ## Hotel, 11. 24, 1978-11. 26, 1978). chairpersonE. P. Wigner and J. C.
+    ## Eccles. With a comment. by I. Soll. International Cultural Foundation.
+    ## Boston, MA, 1978.
+    ## <https://icus.org/wp-content/uploads/2016/02/ICUS-VII-Program.pdf>
+    ## (visited on 05/12/2023).
 
 See [Search
 examples](https://kijinosu.github.io/icus.data/search-examples.html) for
 more examples.
 
-## R packages used for this data package
+# R packages used for this data package
 
 - DataPackageR - Set up and put the pieces together ([Finak et al.
   2018](#ref-R-DataPackageR))
@@ -147,7 +160,7 @@ more examples.
 - ([Wickham 2023](#ref-R-tidyverse))
 - ([Dowle and Srinivasan 2023](#ref-R-data.table))
 
-## References
+# References
 
 <div id="refs" class="references csl-bib-body hanging-indent">
 
