@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 title: "ICUS Observations"
 sitemap: false
 permalink: /Observations/
