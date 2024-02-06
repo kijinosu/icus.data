@@ -379,6 +379,56 @@ dataset</h1>
 
 </div>
 
+<div id="TOC">
+<ul>
+<li><a href="#searching-the-icusbib-dataset" id="toc-searching-the-icusbib-dataset">Searching the
+<code>icusbib</code> dataset</a></li>
+<li><a href="#the-underlying-refmanager-package" id="toc-the-underlying-refmanager-package">The underlying RefManageR
+package</a></li>
+<li><a href="#structure-and-output-styles" id="toc-structure-and-output-styles">Structure and output styles</a>
+<ul>
+<li><a href="#biblatex-proceedings-entries" id="toc-biblatex-proceedings-entries">Biblatex Proceedings
+entries</a></li>
+<li><a href="#inproceedings-entries" id="toc-inproceedings-entries">InProceedings entries</a></li>
+<li><a href="#set-entries-unorthodox-usage-in-order-to-capture-hierarchies-and-groups" id="toc-set-entries-unorthodox-usage-in-order-to-capture-hierarchies-and-groups">Set
+entries: unorthodox usage in order to capture hierarchies and
+groups</a></li>
+</ul></li>
+<li><a href="#bibliographic-styles" id="toc-bibliographic-styles">Bibliographic styles</a>
+<ul>
+<li><a href="#numeric-default" id="toc-numeric-default">Numeric
+(default)</a></li>
+<li><a href="#authoryear" id="toc-authoryear">authoryear</a></li>
+<li><a href="#authortitle" id="toc-authortitle">authortitle</a></li>
+<li><a href="#alphabetic" id="toc-alphabetic">alphabetic</a></li>
+<li><a href="#draft" id="toc-draft">draft</a></li>
+<li><a href="#using-print" id="toc-using-print">Using print()</a></li>
+</ul></li>
+<li><a href="#search" id="toc-search">Search</a>
+<ul>
+<li><a href="#searchable-fields" id="toc-searchable-fields">Searchable
+fields</a></li>
+<li><a href="#searching-persons" id="toc-searching-persons">Searching
+persons</a>
+<ul>
+<li><a href="#default-is-regular-expression-search-on-family-name" id="toc-default-is-regular-expression-search-on-family-name">Default is
+regular expression search on family name</a></li>
+<li><a href="#search-on-exact-and-family.with.initials" id="toc-search-on-exact-and-family.with.initials">Search on ‘exact’ and
+‘family.with.initials’</a></li>
+</ul></li>
+<li><a href="#dates" id="toc-dates">Dates</a></li>
+<li><a href="#boolean-or-in-search-merge" id="toc-boolean-or-in-search-merge">Boolean OR in search (merge)</a>
+<ul>
+<li><a href="#using-the-.bibentry-operator" id="toc-using-the-.bibentry-operator">Using the +.BibEntry
+operator</a></li>
+<li><a href="#using-a-list-of-lists" id="toc-using-a-list-of-lists">Using a list of lists</a></li>
+</ul></li>
+<li><a href="#searches-on-keys-are-also-regular-expression-matches." id="toc-searches-on-keys-are-also-regular-expression-matches.">Searches
+on keys are also regular expression matches.</a></li>
+</ul></li>
+<li><a href="#references" id="toc-references">References</a></li>
+</ul>
+</div>
 
 <div id="searching-the-icusbib-dataset" class="section level1">
 <h1>Searching the <code>icusbib</code> dataset</h1>
@@ -401,6 +451,7 @@ manual</a>. In presenting the examples below, I will try to remain
 consistent with these references.</p>
 <p>Begin by loading the R library. This also loads RefManageR.</p>
 <pre class="r"><code>library(icus.data)</code></pre>
+<pre><code>##  要求されたパッケージ RefManageR をロード中です</code></pre>
 </div>
 <div id="structure-and-output-styles" class="section level1">
 <h1>Structure and output styles</h1>
