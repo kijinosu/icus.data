@@ -1,6 +1,5 @@
 README
 ================
-# README
 
 Alan Engel
 January 31, 2024
