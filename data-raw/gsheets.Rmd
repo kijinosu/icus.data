@@ -1,7 +1,7 @@
 ---
-title: ICUS participants listed in the International Who's Who and Nobel Laureates
+title: Data on ICUS participants compiled in Google Sheets
 author: Alan Engel
-date: September 21, 2023
+date: March 23, 2024
 lang: "en-us"
 output_format: rmarkdown::html_vignette
 bibliography: 
@@ -9,7 +9,13 @@ bibliography:
   - R.bib
 link-citations: true
 ---
+
+Several datasets provided with this package were compiled and are maintained
+manually in Google Sheets. These sheets are publicly accessible with links
+provided in the text below.
+
 ```{r libraries}
+library(tidyr)
 library(dplyr)
 library(googlesheets4)
 library(data.table)
@@ -20,8 +26,45 @@ one Rmd file reduces to one the number of times one has to enter a Google ID.
 
 Tables in script:
 
-* whoswho
-* nobels
+* viaf 
+* whoswho 
+* nobels 
+
+## Google authorization
+
+The sheets are public but you need a Google account to access them. This
+single authentication provides access to the three tables below.
+
+```{r google-auth}
+gm <- readline(prompt = "Google account: ")
+gs4_auth(scopes = "spreadsheets.readonly", email = gm)
+```
+
+## viaf
+
+The Virtual International Authority File (VIAF) provides access to
+more that 50 name authority files worldwide.[@viaf20240325] The VIAF portal tracks International
+library holdings by author and is an important data source for quantifiable records of authors and their
+publications [@conroy2019networks]. This data package imports
+Stephanie Schneider's viafr package for R [@R-viafr] to
+query information from VIAF. 
+
+The manually compiled [Google Sheet](https://docs.google.com/spreadsheets/d/1l8y_tp55rojn73308TTLr2yq_nZaeJC5v6CnKrZvS0s/edit?usp=sharing)
+contains 5 columns. The 5th column, which is not downloaded, contains reference links that were used
+in disambiguating names that could not be readily disambiguated with
+information contained in the VIAF record. 
+
+```{r viaf}
+ss <- "https://docs.google.com/spreadsheets/d/1l8y_tp55rojn73308TTLr2yq_nZaeJC5v6CnKrZvS0s/edit?usp=sharing"
+viaf <- read_sheet(ss,
+                   sheet = "VIAF",
+                   range = "A:D",
+                   col_types = "cccc",
+                   na = "N", trim_ws = TRUE)
+viaf$VIAF <- ifelse(is.na(viaf$VIAF), NA, strsplit(viaf$VIAF, split = "\n"))
+viaf <- unnest(viaf, VIAF)
+viaf
+```
 
 ## whoswho
 
@@ -36,8 +79,9 @@ in three editions of Marquis International Who's Who Editions 40 [@intlwhoswho19
 These editions cover the first, middle and final thirds of the ICUS
 conferences that ran from 1992 to 2000. 
 
-For ease of handling during manual lookups, the origional datasheets were
-compiled as Google Sheets, which can be easily accessed via phone. These
+For ease of handling during manual lookups, the origional datasheet was
+compiled as a [Google Sheet](https://docs.google.com/spreadsheets/d/1l8y_tp55rojn73308TTLr2yq_nZaeJC5v6CnKrZvS0s/edit?usp=sharing),
+which can be easily accessed via phone. These
 wide tables are included with the dataset in the \code{inst/extdata} folder.
 
 The table \code{whoswho} itself is in long form in the \code{whoswho.rda} file.
@@ -45,26 +89,32 @@ The table \code{whoswho} itself is in long form in the \code{whoswho.rda} file.
 ## Fetch icus who's who data from Google sheets
 
 ```{r whoswho}
-gm <- readline(prompt = "Google account: ")
-gs4_auth(scopes = "spreadsheets.readonly", email=gm) 
-ss <- "https://docs.google.com/spreadsheets/d/1l8y_tp55rojn73308TTLr2yq_nZaeJC5v6CnKrZvS0s/edit?usp=sharing"
-ww <- read_sheet(ss,sheet="Intl Who’s Who", na="N", trim_ws=TRUE)
+ww <- read_sheet(ss,
+                 sheet = "WhosWho",
+                 range = "A:F",
+                 col_types = "cccccc",
+                 na = "N", trim_ws = TRUE)
 ww1 <- as.data.table(ww)
-write.csv(ww,file=file.path(project_path(),"inst","extdata","whoswho.csv"),fileEncoding="utf8")
-write.table(ww1, file = file.path(project_path(),"inst","extdata","whoswho.tsv"), row.names=FALSE, sep="\t")
-whoswho <- melt(ww1, id.vars = c("ID","Surname","Given"),
-            measure.vars=c("IntlWW40","IntlWW50","IntlWW60"),
-             variable.name = "Edition", 
-             value.name = "Birthdate", na.rm=TRUE)
+write.csv(ww,
+          file = file.path(project_path(), "inst", "extdata", "whoswho.csv"),
+          fileEncoding = "utf8")
+write.table(ww1,
+            file = file.path(project_path(), "inst", "extdata", "whoswho.tsv"),
+            row.names = FALSE, sep = "\t")
+whoswho <- melt(ww1, id.vars = c("ID", "Surname", "Given"),
+                measure.vars = c("IntlWW40", "IntlWW50", "IntlWW60"),
+                variable.name = "Edition",
+                value.name = "Birthdate", na.rm = TRUE)
 whoswho
 ```
+
 
 ## nobels
 
 In his 1977 criticism of ICUS IV, Irving Horowitz noted the prominence of Nobel
 Laureates on the program and a striking fall-off in talent beyond a stellar list of
 sponsors [@horowitz1977science]. This table is based on the Nobel Media AB
-dataset [@nobelprizelaureates2023].
+dataset [@nobelprizelaureates2023]. This data was manually compiled in a [Google Sheet](https://docs.google.com/spreadsheets/d/1f09qZiFsVZVLnoSUMfkGqw7cpk1Y4OG9OvW3qnSVSwE/edit?usp=sharing).
 
 The categories are:
 

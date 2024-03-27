@@ -1,4 +1,4 @@
-DataVersion: 0.9.2
+DataVersion: 1.0.0
 =======================
-Package built in non-interactive mode
+add viaf dataset
 

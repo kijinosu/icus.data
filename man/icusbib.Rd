@@ -54,7 +54,8 @@ length(icusbib[bibtype = "InProceedings"])
 ## Search for presentations by Delgado.
 icusbib[author = "Delgado"]
 ## Use draft style.
-print(SearchBib(icusbib, author="Delgado"), .opts = list(bib.style = "draft"))
+print(SearchBib(icusbib, author="Delgado"),
+                .opts = list(bib.style = "draft"))
 ## Search for commentary by Delgado.
 icusbib[commentator = "Delgado"]
 ## Look at extended Set entry
@@ -62,9 +63,11 @@ toBiblatex(icusbib[entryset = "ICUS06:C04:G02"])
 }
 \seealso{
 \link{icus.data}
+\link{get_persons}
 \link{nobels}
 \link{participants}
 \link{programs}
 \link{role_defs}
+\link{viaf}
 \link{whoswho}
 }

@@ -2,7 +2,7 @@
 "1","ICUS0001","Aalami","Bijan",NA,NA,NA
 "2","ICUS0002","Abas","Syed Jan",NA,NA,NA
 "3","ICUS0003","Abe","Masao",NA,NA,NA
-"4","ICUS0004","Abel","Robert",NA,NA,NA
+"4","ICUS0004","Abel","Robert Berger",NA,NA,NA
 "5","ICUS0005","Abeles","Tom",NA,NA,NA
 "6","ICUS0006","Abidi","Syed",NA,NA,NA
 "7","ICUS0007","Abouegl","M.I.",NA,NA,NA
@@ -30,47 +30,47 @@
 "29","ICUS0029","Ahn","Byung Uk",NA,NA,NA
 "30","ICUS0030","Aida","Shuhei",NA,NA,NA
 "31","ICUS0031","Aijmer","Goran L.",NA,NA,NA
-"32","ICUS0032","Ajaya","J.F. Ade",NA,NA,NA
+"32","ICUS0032","Ajayi","Jacob Festus Ade",NA,NA,NA
 "33","ICUS0033","Ajmal","Mohammad",NA,NA,NA
 "34","ICUS0034","Akamatsu","Norio",NA,NA,NA
 "35","ICUS0035","Aki","Koichi",NA,NA,NA
 "36","ICUS0036","Ákos","Károly",NA,NA,NA
-"37","ICUS0037","Al Faruqi","Isma'il R.",NA,NA,NA
+"37","ICUS0037","Al-Faruqi","Isma'il R.",NA,NA,NA
 "38","ICUS0038","Alavi","Khalid",NA,NA,NA
 "39","ICUS0039","Albornoz","Orlando",NA,NA,NA
 "40","ICUS0040","Aleandri","G.",NA,NA,NA
-"41","ICUS0041","Alexander","Benjamin",NA,NA,NA
+"41","ICUS0041","Alexander","Benjamin Harold",NA,NA,NA
 "42","ICUS0042","Alexander","Gary",NA,NA,NA
 "43","ICUS0043","Alfian","",NA,NA,NA
-"44","ICUS0044","Ali","M. Shamsar",NA,NA,NA
-"45","ICUS0045","Ali","Sultan Abou",NA,NA,NA
+"44","ICUS0044","Ali","M. Shamsher",NA,NA,NA
+"45","ICUS0045","Abou-Ali","Sultan",NA,NA,NA
 "46","ICUS0046","Ali","Syed Ausaf",NA,NA,NA
 "47","ICUS0047","Alippi","Adriano",NA,NA,NA
 "48","ICUS0048","Allegra","L.",NA,NA,NA
 "49","ICUS0049","Allen","Robert",NA,NA,NA
 "50","ICUS0050","Allen","Wayne E.",NA,NA,NA
-"51","ICUS0051","Allshouse","Merie",NA,NA,NA
-"52","ICUS0052","Ally","Mushuq Muhammad",NA,NA,NA
+"51","ICUS0051","Allshouse","Merle F.",NA,NA,NA
+"52","ICUS0052","Mashuq Ally","Muhammad",NA,NA,NA
 "53","ICUS0053","Al-Nowaihi","Mohamed",NA,NA,NA
 "54","ICUS0054","Alonso","Marcelo",NA,NA,NA
 "55","ICUS0055","Alpert","Seymour S.",NA,NA,NA
 "56","ICUS0056","Alvarez","Alfred",NA,NA,NA
 "57","ICUS0057","Alvarino","Angeles",NA,NA,NA
-"58","ICUS0058","Alves","Rubern",NA,NA,NA
+"58","ICUS0058","Alves","Rubern Azevedo",NA,NA,NA
 "59","ICUS0059","Amado","Adela",NA,NA,NA
 "60","ICUS0060","Amaldass","Anand",NA,NA,NA
 "61","ICUS0061","Amaya","Victor",NA,NA,NA
 "62","ICUS0062","Ambrus","Julian L.",NA,NA,NA
 "63","ICUS0063","Amin-Arsala","Betsy",NA,NA,NA
-"64","ICUS0064","Amon d'Aby","Francois",NA,NA,NA
+"64","ICUS0064","Amon d'Aby","François Joseph",NA,NA,NA
 "65","ICUS0065","An","Byung-chul",NA,NA,NA
 "66","ICUS0066","Ananda","W.",NA,NA,NA
-"67","ICUS0067","Anantharaman","T.R.",NA,NA,NA
+"67","ICUS0067","Anantharaman","Tanjore R.",NA,NA,NA
 "68","ICUS0068","Anderson","Gordon L.",NA,NA,NA
-"69","ICUS0069","Anderson","Gunnar",NA,NA,NA
-"70","ICUS0070","Anderson","O. Roger",NA,NA,NA
+"69","ICUS0069","Andersson","Gunnar",NA,NA,NA
+"70","ICUS0070","Anderson","Orvil Roger",NA,NA,NA
 "71","ICUS0071","Ando","Nisuke",NA,NA,NA
-"72","ICUS0072","Andreski","Stanislaz",NA,NA,NA
+"72","ICUS0072","Andreski","Stanislav",NA,NA,NA
 "73","ICUS0073","Ang","Edwin",NA,NA,NA
 "74","ICUS0074","Angst","Walter",NA,NA,NA
 "75","ICUS0075","Ansre","Gilbert",NA,NA,NA
@@ -78,93 +78,93 @@
 "77","ICUS0077","Aoki","Toshio",NA,NA,NA
 "78","ICUS0078","Aranson","Peter H.",NA,NA,NA
 "79","ICUS0079","Arensberg","Conrad M.",NA,NA,NA
-"80","ICUS0080","Argyros","Alexander",NA,NA,NA
+"80","ICUS0080","Argyros","Alexander J.",NA,NA,NA
 "81","ICUS0081","Ariffin","Jamilah",NA,NA,NA
 "82","ICUS0082","Arndt","Walter W.",NA,NA,NA
 "83","ICUS0083","Arrowsmith","William",NA,NA,NA
-"84","ICUS0084","Artyushkov","Evgeny V.",NA,NA,NA
+"84","ICUS0084","Artyushkov","Evgeniĭ Viktorovich",NA,NA,NA
 "85","ICUS0085","Arul","Benedict Victor",NA,NA,NA
 "86","ICUS0086","Arunachalam","Subbiah",NA,NA,NA
 "87","ICUS0087","Arungu-Olende","Shem",NA,NA,NA
 "88","ICUS0088","Assaf","Gad",NA,NA,NA
 "89","ICUS0089","Assousa","George E.",NA,NA,NA
-"90","ICUS0090","Atalay","Bulent I.",NA,NA,NA
+"90","ICUS0090","Atalay","Bülent",NA,NA,NA
 "91","ICUS0091","Atalay","Michael",NA,NA,NA
 "92","ICUS0092","Atchley","Robert C.",NA,NA,NA
 "93","ICUS0093","Atsumi","Kazuhiko",NA,NA,NA
 "94","ICUS0094","Atwal","Avtar S.",NA,NA,NA
-"95","ICUS0095","Auger","P.","B1899-05-14","B1899-05-14",NA
-"96","ICUS0096","Austin","David",NA,NA,NA
+"95","ICUS0095","Auger","Pierre","B1899-05-14","B1899-05-14",NA
+"96","ICUS0096","David","Austin",NA,NA,NA
 "97","ICUS0097","Avalos","Beatrice",NA,NA,NA
 "98","ICUS0098","Axel","Larry",NA,NA,NA
 "99","ICUS0099","Axelrod","Julius","B1912-05-30","B1912-05-30","B1912-05-30"
 "100","ICUS0100","Ayala","Francisco Jose",NA,"B1934-03-12","B1934-03-12"
 "101","ICUS0101","Ayala","Jamie",NA,NA,NA
-"102","ICUS0102","Ayandele","Emmanuel",NA,NA,NA
+"102","ICUS0102","Ayandele","Emmanuel Ayankanmi",NA,NA,NA
 "103","ICUS0103","Ayman","Iraj",NA,NA,NA
 "104","ICUS0104","Ayres","Robert U.",NA,NA,NA
-"105","ICUS0105","Aziz","Ungku Abdul","B1922-01-28","B1922-01-28","B1922-01-28"
-"106","ICUS0106","Azorin P.","Francisco",NA,NA,NA
+"105","ICUS0105","Abdul Aziz","Ungku","B1922-01-28","B1922-01-28","B1922-01-28"
+"106","ICUS0106","Azorín Poch","Francisco",NA,NA,NA
 "107","ICUS0107","Badham","Paul",NA,NA,NA
-"108","ICUS0108","Badr","Gamal M.",NA,NA,NA
+"108","ICUS0108","Badr","Gamal Moursi",NA,NA,NA
 "109","ICUS0109","Badran","Adnan",NA,NA,NA
 "110","ICUS0110","Bae","Jong Ho",NA,NA,NA
 "111","ICUS0111","Baelz","Peter",NA,NA,NA
 "112","ICUS0112","Baer","Werner",NA,NA,NA
 "113","ICUS0113","Bahm","Archie J.",NA,NA,NA
-"114","ICUS0114","Baick","Dai Hyen",NA,NA,NA
+"114","ICUS0114","Baick","Daihyen",NA,NA,NA
 "115","ICUS0115","Baier","Kurt Erich",NA,NA,NA
 "116","ICUS0116","Bakar","Osman Bin",NA,NA,NA
-"117","ICUS0117","Baker","Paul T.",NA,NA,"B1927-02-28"
-"118","ICUS0118","Balasubramanian","R.",NA,NA,NA
-"119","ICUS0119","Barash","David P.",NA,NA,NA
+"117","ICUS0117","Baker","Paul Thornell",NA,NA,"B1927-02-28"
+"118","ICUS0118","Balasubramanian","Rajangam",NA,NA,NA
+"119","ICUS0119","Barash","David Philip",NA,NA,NA
 "120","ICUS0120","Barba-Negra","Paul",NA,NA,NA
 "121","ICUS0121","Barber","Richard L.",NA,NA,NA
-"122","ICUS0122","Bardis","Panos D.",NA,NA,"B1923-09-24"
+"122","ICUS0122","Bardis","Panos Demetrios",NA,NA,"B1923-09-24"
 "123","ICUS0123","Bardos","Thomas J.",NA,NA,NA
 "124","ICUS0124","Bar-Hillel","Yehoshua",NA,NA,NA
 "125","ICUS0125","Barkenbus","Jack",NA,NA,NA
 "126","ICUS0126","Barker","Eileen V.",NA,NA,NA
-"127","ICUS0127","Barnes","Francisco",NA,NA,NA
+"127","ICUS0127","Barnés de Castro","Francisco José",NA,NA,NA
 "128","ICUS0128","Barnhouse","Ruth Tiffany",NA,NA,NA
-"129","ICUS0129","Bartley","William Warren III",NA,NA,NA
+"129","ICUS0129","Bartley III","William Warren",NA,NA,NA
 "130","ICUS0130","Barton","Derek Harold Richard","B1918-09-08","B1918-09-08","B1918-09-08"
 "131","ICUS0131","Bascom","Willard",NA,NA,NA
 "132","ICUS0132","Basile","Joseph",NA,NA,NA
-"133","ICUS0133","Basmajian","John V.",NA,NA,NA
+"133","ICUS0133","Basmajian","John Varoujan",NA,NA,NA
 "134","ICUS0134","Bassand","Michel",NA,NA,NA
 "135","ICUS0135","Bassani","Luigi Marco",NA,NA,NA
-"136","ICUS0136","Bastin","Edward",NA,NA,NA
+"136","ICUS0136","Bastin","Ted",NA,NA,NA
 "137","ICUS0137","Basu","Arabinda",NA,NA,NA
 "138","ICUS0138","Bateson","Mary Catherine",NA,NA,NA
-"139","ICUS0139","Bauer","Henry H.",NA,NA,NA
+"139","ICUS0139","Bauer","Henry Hermann",NA,NA,NA
 "140","ICUS0140","Bauer","Mariano",NA,NA,NA
 "141","ICUS0141","Baughman","James A.",NA,NA,NA
 "142","ICUS0142","Baum","Robert J.",NA,NA,NA
-"143","ICUS0143","Baum","Sam",NA,NA,NA
+"143","ICUS0143","Baum","Samuel",NA,NA,NA
 "144","ICUS0144","Baum","Werner A.",NA,NA,NA
 "145","ICUS0145","Beadle","George Wells","B1903-10-22","B1903-10-22",NA
-"146","ICUS0146","Beamish","R.E.",NA,NA,NA
-"147","ICUS0147","Beauchamp","Edward R.",NA,NA,NA
+"146","ICUS0146","Beamish","Robert E.",NA,NA,NA
+"147","ICUS0147","Beauchamp","Edward Robert",NA,NA,NA
 "148","ICUS0148","Beck","A.",NA,NA,NA
 "149","ICUS0149","Beck","Michael",NA,NA,NA
 "150","ICUS0150","Beck","Robert N.",NA,NA,NA
-"151","ICUS0151","Becker","Carl",NA,NA,NA
+"151","ICUS0151","Becker","Carl B.",NA,NA,NA
 "152","ICUS0152","Becker","Werner",NA,NA,NA
 "153","ICUS0153","Bedaux","Jan Baptist",NA,NA,NA
-"154","ICUS0154","Behar","Nansen",NA,NA,NA
-"155","ICUS0155","Bekenstein","Jacob D.",NA,NA,NA
-"156","ICUS0156","Beltrametti","Enrico",NA,NA,NA
-"157","ICUS0157","Benaboud","El Mehdi",NA,NA,NA
+"154","ICUS0154","Behar","Nansen Alfred",NA,NA,NA
+"155","ICUS0155","Bekenstein","Jacob David",NA,NA,NA
+"156","ICUS0156","Beltrametti","Enrico G.",NA,NA,NA
+"157","ICUS0157","Ben Aboud","El Mehdi",NA,NA,NA
 "158","ICUS0158","Benben","John S.",NA,NA,NA
-"159","ICUS0159","Ben-Dak","Joseph",NA,NA,NA
-"160","ICUS0160","Benedictow","Ole J.",NA,NA,NA
-"161","ICUS0161","Bennett","John M.",NA,NA,NA
+"159","ICUS0159","Ben-Dak","Joseph D.",NA,NA,NA
+"160","ICUS0160","Benedictow","Ole Jørgen",NA,NA,NA
+"161","ICUS0161","Bennett","John Makepeace",NA,NA,NA
 "162","ICUS0162","Bennis","Warren G.",NA,NA,NA
-"163","ICUS0163","Benson","Bruce L.",NA,NA,NA
+"163","ICUS0163","Benson","Bruce Lowell",NA,NA,NA
 "164","ICUS0164","Berenbaum","Michael",NA,NA,NA
 "165","ICUS0165","Bergan","Tom",NA,NA,NA
-"166","ICUS0166","Berger","Arthur S.",NA,NA,NA
+"166","ICUS0166","Berger","Arthur Seymour",NA,NA,NA
 "167","ICUS0167","Berger","René",NA,NA,NA
 "168","ICUS0168","Bergman","William L.",NA,NA,NA
 "169","ICUS0169","Berkowitz","Morris I.",NA,NA,NA
@@ -175,41 +175,41 @@
 "174","ICUS0174","Berry","Richard Stephen",NA,"B1931-04-09","B1931-04-09"
 "175","ICUS0175","Berthoin","Georges Paul","B1925-05-17","B1925-05-17","B1925-05-17"
 "176","ICUS0176","Bertola","Francesco",NA,NA,NA
-"177","ICUS0177","Bettis","Joseph D.",NA,NA,NA
+"177","ICUS0177","Bettis","Joseph Dabney",NA,NA,NA
 "178","ICUS0178","Bettis","Lynne Masland",NA,NA,"B"
 "179","ICUS0179","Bey","Arifin",NA,NA,NA
-"180","ICUS0180","Bhargava","Purushottam",NA,NA,NA
+"180","ICUS0180","Bhargava","Purushottam Lal",NA,NA,NA
 "181","ICUS0181","Bhattacharyya","Asit Kumar",NA,NA,NA
-"182","ICUS0182","Bhiday","M.R.",NA,NA,NA
+"182","ICUS0182","Bhiday","Madhav Ramchandra",NA,NA,NA
 "183","ICUS0183","Bianchi","Henri",NA,NA,NA
 "184","ICUS0184","Bianco","Rosaria Egidi",NA,NA,NA
-"185","ICUS0185","Bilaniuk","Petro B.T.",NA,NA,NA
-"186","ICUS0186","bin Ahmat","Sharom",NA,NA,NA
+"185","ICUS0185","Bilaniuk","Petro Borys Tereshkowych",NA,NA,NA
+"186","ICUS0186","Ahmat","Sharom",NA,NA,NA
 "187","ICUS0187","Binder","Leonard",NA,NA,NA
 "188","ICUS0188","Binner","Walter",NA,NA,NA
-"189","ICUS0189","Birsel","Mahmut T.",NA,NA,NA
-"190","ICUS0190","Bisnovatyi-Kogan","Guennadi S.",NA,NA,NA
+"189","ICUS0189","Birsel","Mahmut Tevfik",NA,NA,NA
+"190","ICUS0190","Bisnovatyi-Kogan","Guennadi Semenovich",NA,NA,NA
 "191","ICUS0191","Bissery","Jacqueline",NA,NA,NA
-"192","ICUS0192","Bitterman","M.E.",NA,NA,NA
+"192","ICUS0192","Bitterman","Morton Edward",NA,NA,NA
 "193","ICUS0193","Bitton-Jackson","Livia",NA,NA,NA
-"194","ICUS0194","Bjork","Sven",NA,NA,NA
-"195","ICUS0195","Blackmore","John",NA,NA,NA
-"196","ICUS0196","Blanco, S.J.","Jose C.",NA,NA,NA
-"197","ICUS0197","Blank","Robert",NA,NA,NA
+"194","ICUS0194","Björk","Sven",NA,NA,NA
+"195","ICUS0195","Blackmore","John Thomas",NA,NA,NA
+"196","ICUS0196","Blanco","Jose C.",NA,NA,NA
+"197","ICUS0197","Blank","Robert H.",NA,NA,NA
 "198","ICUS0198","Blegvad","Mogens",NA,NA,"B1917-06-25"
 "199","ICUS0199","Block","Stanley M.",NA,NA,NA
 "200","ICUS0200","Block","Walter",NA,NA,NA
 "201","ICUS0201","Blong","Clair K.",NA,NA,NA
 "202","ICUS0202","Bloom","Alfred",NA,NA,NA
 "203","ICUS0203","Blumenfeld","Hans",NA,NA,NA
-"204","ICUS0204","Blystone","Jasper",NA,NA,NA
+"204","ICUS0204","Blystone","Jasper John",NA,NA,NA
 "205","ICUS0205","Boardman","Harry",NA,NA,NA
-"206","ICUS0206","Bobrow","Sue",NA,NA,NA
-"207","ICUS0207","Bocking","Brian",NA,NA,NA
+"206","ICUS0206","Bobrow","Sue Berryman",NA,NA,NA
+"207","ICUS0207","Bocking","Brian Christopher",NA,NA,NA
 "208","ICUS0208","Bogdan","Radu I.C.",NA,NA,NA
 "209","ICUS0209","Boh","Katja",NA,NA,NA
 "210","ICUS0210","Bokadia","M.M.",NA,NA,NA
-"211","ICUS0211","Bokamba","Eyamba G.",NA,NA,NA
+"211","ICUS0211","Bokamba","Eyamba Georges",NA,NA,NA
 "212","ICUS0212","Bolin","Nona R.",NA,NA,NA
 "213","ICUS0213","Bonardel","Francoise",NA,NA,NA
 "214","ICUS0214","Boné","Edouard",NA,NA,NA
@@ -219,92 +219,92 @@
 "218","ICUS0218","Bopape","Moses",NA,NA,NA
 "219","ICUS0219","Borowski","Karol H.",NA,NA,NA
 "220","ICUS0220","Borrero","Alfonso",NA,NA,NA
-"221","ICUS0221","Boslooper","Thomas",NA,NA,NA
+"221","ICUS0221","Boslooper","Thomas David",NA,NA,NA
 "222","ICUS0222","Botchway","Francis A.",NA,NA,NA
 "223","ICUS0223","Boucher","Jerry D.",NA,NA,NA
 "224","ICUS0224","Boudon","Raymond",NA,NA,NA
 "225","ICUS0225","Boutin","Maurice",NA,NA,NA
 "226","ICUS0226","Boyer","Alain",NA,NA,NA
 "227","ICUS0227","Brabazon","Kevin",NA,NA,NA
-"228","ICUS0228","Brady","Joseph V.",NA,NA,NA
+"228","ICUS0228","Brady","Joseph Vincent",NA,NA,NA
 "229","ICUS0229","Brainerd","Charles J.",NA,NA,NA
 "230","ICUS0230","Brante","Thomas",NA,NA,NA
-"231","ICUS0231","Brasted","Robert C.",NA,NA,NA
-"232","ICUS0232","Brattain","Walter H.","B1902-02-10","B1902-02-10",NA
+"231","ICUS0231","Brasted","Robert Crocker",NA,NA,NA
+"232","ICUS0232","Brattain","Walter Houser","B1902-02-10","B1902-02-10",NA
 "233","ICUS0233","Brennan-Reith","Nancy",NA,NA,NA
-"234","ICUS0234","Breytenbach","Willie",NA,NA,NA
-"235","ICUS0235","Briscoe","Anne",NA,NA,NA
-"236","ICUS0236","Briskman","Laurence B.",NA,NA,NA
+"234","ICUS0234","Breytenbach","Willie J.",NA,NA,NA
+"235","ICUS0235","Briscoe","Anne M.",NA,NA,NA
+"236","ICUS0236","Briskman","Laurence Barry",NA,NA,NA
 "237","ICUS0237","Brisson","Marcelle",NA,NA,NA
 "238","ICUS0238","Broady","Maurice",NA,NA,NA
-"239","ICUS0239","Brockelman","Warren",NA,NA,NA
+"239","ICUS0239","Brockelman","Warren Y.",NA,NA,NA
 "240","ICUS0240","Brodeur","Jean-Paul",NA,NA,NA
-"241","ICUS0241","Brody","Eugene B.",NA,NA,NA
-"242","ICUS0242","Brögger","Jan",NA,NA,NA
+"241","ICUS0241","Brody","Eugene Bloom",NA,NA,NA
+"242","ICUS0242","Brøgger","Jan",NA,NA,NA
 "243","ICUS0243","Bronte","Lydia",NA,NA,NA
 "244","ICUS0244","Bronwell","Arthur B.",NA,NA,NA
-"245","ICUS0245","Brooks","Peter N.",NA,NA,NA
+"245","ICUS0245","Brooks","Peter Newman",NA,NA,NA
 "246","ICUS0246","Brown","Edwin W.",NA,NA,NA
 "247","ICUS0247","Brown","Gladstone L.",NA,NA,NA
 "248","ICUS0248","Brown","Joseph Epes",NA,NA,NA
 "249","ICUS0249","Bruch","Lucille Capra",NA,NA,NA
-"250","ICUS0250","Brunn","Emilie Zum",NA,NA,NA
+"250","ICUS0250","Zum Brunn","Emilie",NA,NA,NA
 "251","ICUS0251","Brunner","Karl",NA,NA,NA
-"252","ICUS0252","Bryant","M. Darrol",NA,NA,NA
+"252","ICUS0252","Bryant","Marcus Darrol",NA,NA,NA
 "253","ICUS0253","Bucher","Rue",NA,NA,NA
-"254","ICUS0254","Buchholtzer","Guy",NA,NA,NA
-"255","ICUS0255","Buckley","Walter F.",NA,NA,NA
-"256","ICUS0256","Buric","Olivera",NA,NA,NA
+"254","ICUS0254","Buchholtzer","Guy Pierre",NA,NA,NA
+"255","ICUS0255","Buckley","Walter Frederick",NA,NA,NA
+"256","ICUS0256","Burić","Olivera",NA,NA,NA
 "257","ICUS0257","Burr","Ronald",NA,NA,NA
-"258","ICUS0258","Butler","Clark W.",NA,NA,NA
-"259","ICUS0259","Butler","Gordon C.",NA,NA,NA
+"258","ICUS0258","Butler","Clark Wade",NA,NA,NA
+"259","ICUS0259","Butler","Gordon Cecil",NA,NA,NA
 "260","ICUS0260","Butr-Indr","Siddhi",NA,NA,NA
 "261","ICUS0261","Butros","Albert Jamil",NA,NA,"B1934-03-25"
 "262","ICUS0262","Byaruhanga-Akiiki","A.B.T.",NA,NA,NA
 "263","ICUS0263","Byers","Paul",NA,NA,NA
 "264","ICUS0264","Byrne","Richard B.",NA,NA,NA
-"265","ICUS0265","Bytchikhina","Luba",NA,NA,NA
+"265","ICUS0265","Zubkova (Bytchikhina)","Luba",NA,NA,NA
 "266","ICUS0266","Camara","Sory",NA,NA,NA
 "267","ICUS0267","Cannistraro","Philip V.",NA,NA,NA
 "268","ICUS0268","Cantore","Enrico",NA,NA,NA
 "269","ICUS0269","Capone","Donald L.",NA,NA,NA
-"270","ICUS0270","Caponigri","A. Robert",NA,NA,NA
+"270","ICUS0270","Caponigri","Aloysius Robert",NA,NA,NA
 "271","ICUS0271","Cappelletti","Vincenzo",NA,NA,NA
 "272","ICUS0272","Cardwell","Donald Stephen Lowell",NA,NA,"B1919-08-04"
 "273","ICUS0273","Carisse","Colette",NA,NA,NA
-"274","ICUS0274","Carlson","David",NA,NA,NA
-"275","ICUS0275","Carney","Frederick S.",NA,NA,NA
+"274","ICUS0274","Carlson","David Allen",NA,NA,NA
+"275","ICUS0275","Carney","Frederick Smith",NA,NA,NA
 "276","ICUS0276","Carney","Kim",NA,NA,NA
 "277","ICUS0277","Carr","David T.",NA,NA,NA
 "278","ICUS0278","Carreras","Francisco J.",NA,NA,NA
 "279","ICUS0279","Carrillo-Flores","Antonio",NA,NA,NA
-"280","ICUS0280","Carter","Robert E.",NA,NA,NA
-"281","ICUS0281","Caspari","Earnest W.",NA,NA,NA
+"280","ICUS0280","Carter","Robert Edgar",NA,NA,NA
+"281","ICUS0281","Caspari","Ernst Wolfgang",NA,NA,NA
 "282","ICUS0282","Cassel","Dieter",NA,NA,NA
 "283","ICUS0283","Cassidy","Harold Gomes",NA,NA,NA
 "284","ICUS0284","Castaneda","Hector-Neri",NA,NA,NA
 "285","ICUS0285","Castuera","Ignacio",NA,NA,NA
-"286","ICUS0286","Catterberg","Edgardo",NA,NA,NA
-"287","ICUS0287","Cavanaugh","Michael",NA,NA,NA
+"286","ICUS0286","Catterberg","Edgardo Raúl",NA,NA,NA
+"287","ICUS0287","Cavanaugh","Michael A.",NA,NA,NA
 "288","ICUS0288","Caws","Peter J.",NA,NA,NA
 "289","ICUS0289","Cernuschi","Félix",NA,NA,NA
 "290","ICUS0290","Chagas","Carlos","B1910-09-10","B1910-09-10","B1910-09-12"
-"291","ICUS0291","Chain","Ernest","B1906-06-19",NA,NA
+"291","ICUS0291","Chain","Ernst Boris","B1906-06-19",NA,NA
 "292","ICUS0292","Chalmers","Alistair",NA,NA,NA
-"293","ICUS0293","Chance","M.R.A.",NA,NA,NA
+"293","ICUS0293","Chance","Michael Robin Alexander",NA,NA,NA
 "294","ICUS0294","Chandrangarm","Saeng",NA,NA,NA
-"295","ICUS0295","Chandrasekhar","B.S.",NA,NA,NA
+"295","ICUS0295","Chandrasekhar","Bellur Sivaramiah",NA,NA,NA
 "296","ICUS0296","Chang","Byung-Kil",NA,NA,NA
 "297","ICUS0297","Chang","Ki-Kun",NA,NA,NA
-"298","ICUS0298","Chang","Sang Ho",NA,NA,NA
+"298","ICUS0298","Chang","Sang-ho",NA,NA,NA
 "299","ICUS0299","Chao","Chin-Chi",NA,NA,NA
-"300","ICUS0300","Chappell","David",NA,NA,NA
+"300","ICUS0300","Chappell","David Wellington",NA,NA,NA
 "301","ICUS0301","Chareonthaitewee","Pradit",NA,NA,NA
-"302","ICUS0302","Charles","Daniel",NA,NA,NA
-"303","ICUS0303","Charon","Jean E.",NA,NA,NA
+"302","ICUS0302","Charles","Daniel Paul",NA,NA,NA
+"303","ICUS0303","Charon","Jean Émile",NA,NA,NA
 "304","ICUS0304","Châtel","Bertrand H.",NA,NA,NA
 "305","ICUS0305","Chattergee","Margeret",NA,NA,NA
-"306","ICUS0306","Chaves","Eduardo O.C.",NA,NA,NA
+"306","ICUS0306","Chaves","Eduardo Oscar de Campos",NA,NA,NA
 "307","ICUS0307","Checkland","Peter B.",NA,NA,NA
 "308","ICUS0308","Cheek","John A.",NA,NA,NA
 "309","ICUS0309","Cheek","Julia",NA,NA,NA
@@ -313,77 +313,77 @@
 "312","ICUS0312","Cheng","Chung-Ying",NA,NA,NA
 "313","ICUS0313","Chin","Kyung Hee",NA,NA,NA
 "314","ICUS0314","Chitnis","Suma",NA,NA,NA
-"315","ICUS0315","Chiu","H.Y.",NA,NA,NA
+"315","ICUS0315","Chiu","Hong-yee",NA,NA,NA
 "316","ICUS0316","Cho","Woo-Hyun",NA,NA,NA
 "317","ICUS0317","Choe","Yong-Tae",NA,NA,NA
-"318","ICUS0318","Choh","Soon Tahk",NA,NA,NA
+"318","ICUS0318","Choh","Soon-Tahk",NA,NA,NA
 "319","ICUS0319","Choi","Chang-Kyu",NA,NA,NA
 "320","ICUS0320","Choi","Kwang-Pil",NA,NA,NA
 "321","ICUS0321","Chomchai","Prachoom",NA,NA,NA
 "322","ICUS0322","Chou","Kyong-Chol",NA,NA,NA
-"323","ICUS0323","Chugthai","M.I.D.",NA,NA,NA
+"323","ICUS0323","Chugthai","Muhammad Izazud Din",NA,NA,NA
 "324","ICUS0324","Chukbar","Konstantin V.",NA,NA,NA
-"325","ICUS0325","Chuke","P.O.",NA,NA,NA
+"325","ICUS0325","Chuke","Paul Okwudili",NA,NA,NA
 "326","ICUS0326","Chun","Ok-Whan",NA,NA,NA
-"327","ICUS0327","Churchman","C. West",NA,NA,NA
-"328","ICUS0328","Cicerone","Ralph J.",NA,NA,NA
-"329","ICUS0329","Ciereszko","Leon S.",NA,NA,NA
+"327","ICUS0327","Churchman","Charles West",NA,NA,NA
+"328","ICUS0328","Cicerone","Ralph John",NA,NA,NA
+"329","ICUS0329","Ciereszko","Leon Stanley",NA,NA,NA
 "330","ICUS0330","Clark","Francis",NA,NA,NA
-"331","ICUS0331","Clarke","W. Norris",NA,NA,NA
+"331","ICUS0331","Clarke","William Norris",NA,NA,NA
 "332","ICUS0332","Clarnette","Warren",NA,NA,NA
-"333","ICUS0333","Clawson","Marion",NA,NA,NA
+"333","ICUS0333","Clawson","Robert Marion",NA,NA,NA
 "334","ICUS0334","Clesse","Armand",NA,NA,NA
-"335","ICUS0335","Clube","Victor",NA,NA,NA
-"336","ICUS0336","Coates","Joseph F.",NA,NA,NA
+"335","ICUS0335","Clube","Stace Victor Murray",NA,NA,NA
+"336","ICUS0336","Coates","Joseph Francis",NA,NA,NA
 "337","ICUS0337","Coates","Vary T.",NA,NA,NA
 "338","ICUS0338","Coe","Kathryn",NA,NA,NA
-"339","ICUS0339","Coe","Richard",NA,NA,NA
-"340","ICUS0340","Cofer","Lynette Friedrich",NA,NA,NA
+"339","ICUS0339","Coe","Richard M.",NA,NA,NA
+"340","ICUS0340","Friedrich-Cofer","Lynette",NA,NA,NA
 "341","ICUS0341","Cogswell","Betty E.",NA,NA,NA
-"342","ICUS0342","Cohen","Bernard L.",NA,NA,NA
+"342","ICUS0342","Cohen","Bernard Leonard",NA,NA,NA
 "343","ICUS0343","Cohen","Jerry J.",NA,NA,NA
 "344","ICUS0344","Cohen","Karl P.",NA,NA,NA
-"345","ICUS0345","Cohen","Mark N.",NA,NA,NA
-"346","ICUS0346","Cohn-Sherbok","Daniel",NA,NA,"B1945-02-01"
-"347","ICUS0347","Colander","David",NA,NA,NA
-"348","ICUS0348","Colavito","Maria",NA,NA,NA
-"349","ICUS0349","Coleman","James S.","B1926-05-12","B1926-05-12",NA
+"345","ICUS0345","Cohen","Mark Nathan",NA,NA,NA
+"346","ICUS0346","Cohn-Sherbok","Dan",NA,NA,"B1945-02-01"
+"347","ICUS0347","Colander","David Charles",NA,NA,NA
+"348","ICUS0348","Colavito","Maria Maddalena",NA,NA,NA
+"349","ICUS0349","Coleman","James Samuel","B1926-05-12","B1926-05-12",NA
 "350","ICUS0350","Collinson","John",NA,NA,NA
-"351","ICUS0351","Comanescu","Dan Cristian",NA,NA,NA
-"352","ICUS0352","Constandse","Adriaan",NA,NA,NA
+"351","ICUS0351","Comănescu","Dan Cristian",NA,NA,NA
+"352","ICUS0352","Constandse","Adriaan Kees",NA,NA,NA
 "353","ICUS0353","Cook","Stephen L.",NA,NA,NA
 "354","ICUS0354","Cooke","Brett",NA,NA,NA
 "355","ICUS0355","Cooper","James",NA,NA,NA
 "356","ICUS0356","Cooper","John W.",NA,NA,NA
-"357","ICUS0357","Cooper","Leon N.","B1930-02-28","B1930-02-28","B1930-02-28"
+"357","ICUS0357","Cooper","Leon Neil","B1930-02-28","B1930-02-28","B1930-02-28"
 "358","ICUS0358","Copleston","Frederick Charles",NA,"B1907-04-10",NA
 "359","ICUS0359","Cori","Carl Ferdinand","B1896-12-05",NA,NA
-"360","ICUS0360","Corson","Samuel",NA,NA,NA
+"360","ICUS0360","Corson","Samuel Abraham",NA,NA,NA
 "361","ICUS0361","Cosijn","Gustaat P.A.",NA,NA,NA
-"362","ICUS0362","Costa","Rubens",NA,NA,NA
-"363","ICUS0363","Coughlan","Michael",NA,NA,NA
+"362","ICUS0362","Costa","Rubens Vaz da",NA,NA,NA
+"363","ICUS0363","Coughlan","Michael J.",NA,NA,NA
 "364","ICUS0364","Coulomb","Jean","B1904-11-07","B1904-11-07","B1904-11-07"
-"365","ICUS0365","Cournand","André F.","B1895-09-24","B1895-09-24",NA
+"365","ICUS0365","Cournand","André Frédréric","B1895-09-24","B1895-09-24",NA
 "366","ICUS0366","Courtney","Charles",NA,NA,NA
-"367","ICUS0367","Cousineau","Diane",NA,NA,NA
-"368","ICUS0368","Cousins","Ewert",NA,NA,NA
-"369","ICUS0369","Covian","Miguel R.",NA,NA,NA
+"367","ICUS0367","Cousineau Brutsche","Diane",NA,NA,NA
+"368","ICUS0368","Cousins","Ewert Hilary",NA,NA,NA
+"369","ICUS0369","Covian","Miguel Rolando",NA,NA,NA
 "370","ICUS0370","Covian","Roberto C.",NA,NA,NA
 "371","ICUS0371","Cowan","James W.",NA,NA,NA
-"372","ICUS0372","Cowan","Thomas A.",NA,NA,NA
+"372","ICUS0372","Cowan","Thomas Anthony",NA,NA,NA
 "373","ICUS0373","Cowen","Zelman",NA,"B1919-10-07","B1919-10-07"
 "374","ICUS0374","Cox","Gary",NA,NA,NA
-"375","ICUS0375","Cragg","Kenneth",NA,NA,NA
+"375","ICUS0375","Cragg","Albert Kenneth",NA,NA,NA
 "376","ICUS0376","Crawford","S. Cromwell",NA,NA,NA
-"377","ICUS0377","Crawford","Bryce Low, Jr","B1914-11-27","B1914-11-27","B1914-11-27"
-"378","ICUS0378","Cristian","Jane M.",NA,NA,NA
+"377","ICUS0377","Crawford Jr.","Bryce Low","B1914-11-27","B1914-11-27","B1914-11-27"
+"378","ICUS0378","Christian","Jane M.",NA,NA,NA
 "379","ICUS0379","Criswell","David R.",NA,NA,NA
 "380","ICUS0380","Crombie","Alistair Cameron",NA,NA,NA
 "381","ICUS0381","Cromwell","Norman H.",NA,NA,NA
-"382","ICUS0382","Crosson","Frederick J.",NA,NA,NA
+"382","ICUS0382","Crosson","Frederick James",NA,NA,NA
 "383","ICUS0383","Crosthwaite","Roger",NA,NA,NA
 "384","ICUS0384","Csányi","Vilmos",NA,NA,NA
-"385","ICUS0385","Cuadra","Hector",NA,NA,NA
+"385","ICUS0385","Cuadra","Héctor",NA,NA,NA
 "386","ICUS0386","Cummings","Leslie P.",NA,NA,NA
 "387","ICUS0387","Cummings","William K.",NA,NA,NA
 "388","ICUS0388","Curzon-Price","Victoria",NA,NA,NA
@@ -392,11 +392,11 @@
 "391","ICUS0391","Dahl","Helmer H.",NA,NA,NA
 "392","ICUS0392","Dalisay","Amando M.",NA,NA,NA
 "393","ICUS0393","Damman","Sigrid",NA,NA,NA
-"394","ICUS0394","Danaraj","T.J.",NA,NA,NA
-"395","ICUS0395","Danielli","James F.",NA,NA,NA
+"394","ICUS0394","Danaraj","T. J.",NA,NA,NA
+"395","ICUS0395","Danielli","James Frederic",NA,NA,NA
 "396","ICUS0396","D'Antonio","William V.",NA,NA,NA
 "397","ICUS0397","Daudel","Raymond",NA,NA,NA
-"398","ICUS0398","Daugs","D.R.",NA,NA,NA
+"398","ICUS0398","Daugs","Donald Roger",NA,NA,NA
 "399","ICUS0399","Dave","Ravindra",NA,NA,NA
 "400","ICUS0400","David","Henry",NA,NA,NA
 "401","ICUS0401","David","William",NA,NA,NA
@@ -406,71 +406,71 @@
 "405","ICUS0405","Davis","George Kelso",NA,NA,"B1910-07-02"
 "406","ICUS0406","Dawe","Donald G.",NA,NA,NA
 "407","ICUS0407","Dayton","Donald W.",NA,NA,NA
-"408","ICUS0408","de Barros Wanderly","Milton",NA,NA,NA
+"408","ICUS0408","Wanderley","Milton de Barros",NA,NA,NA
 "409","ICUS0409","De Benedetti","Sergio",NA,NA,NA
 "410","ICUS0410","de Bie","Pierre",NA,NA,NA
-"411","ICUS0411","De Claris","Nicholas",NA,NA,NA
-"412","ICUS0412","de Duve","Christian","B1917-10-02","B1917-10-02","B1917-10-02"
-"413","ICUS0413","de Gerlicz","Claude Gaudeau",NA,NA,NA
+"411","ICUS0411","DeClaris","Nicholas",NA,NA,NA
+"412","ICUS0412","de Duve","Christian René","B1917-10-02","B1917-10-02","B1917-10-02"
+"413","ICUS0413","Gaudeau","Claude",NA,NA,NA
 "414","ICUS0414","De Jasay","Anthony",NA,NA,NA
-"415","ICUS0415","de Jouvenel","H.",NA,NA,NA
+"415","ICUS0415","Jouvenel","Hugues de",NA,NA,NA
 "416","ICUS0416","de la Tijera","Eduardo",NA,NA,NA
-"417","ICUS0417","de la Torre","Armando",NA,NA,NA
-"418","ICUS0418","de Lannoy","Jean-Louis",NA,NA,NA
+"417","ICUS0417","Torre","Armando de la",NA,NA,NA
+"418","ICUS0418","DeLannoy","Jean-Louis",NA,NA,NA
 "419","ICUS0419","De Ment","Jack A.",NA,NA,NA
 "420","ICUS0420","de Nicolas","Antonio T.",NA,NA,NA
-"421","ICUS0421","de Reuck","Anthony V.S.",NA,NA,NA
-"422","ICUS0422","de Reuck","Marjorie",NA,NA,NA
-"423","ICUS0423","de Silva","M.W. Padmasiri",NA,NA,NA
-"424","ICUS0424","DeAlessi","Louis",NA,NA,NA
+"421","ICUS0421","de Reuck","Anthony Vivian Smith",NA,NA,NA
+"422","ICUS0422","de Reuck","K. Marjorie",NA,NA,NA
+"423","ICUS0423","De Silva","Padmasiri",NA,NA,NA
+"424","ICUS0424","De Alessi","Louis",NA,NA,NA
 "425","ICUS0425","Deepak","Adarsh",NA,NA,NA
-"426","ICUS0426","del C. Batile","Alcira",NA,NA,NA
-"427","ICUS0427","del Campo","Salustiano",NA,NA,NA
+"426","ICUS0426","Batlle","Alcira María del Carmen",NA,NA,NA
+"427","ICUS0427","Campo Urbano","Salustiano del",NA,NA,NA
 "428","ICUS0428","Delchev","Yavor",NA,NA,NA
-"429","ICUS0429","Delgado","José Manuel Rodriguez",NA,NA,NA
-"430","ICUS0430","Demeney","Paul",NA,NA,NA
+"429","ICUS0429","Delgado","José Manuel Rodríguez",NA,NA,NA
+"430","ICUS0430","Demeny","Paul George",NA,NA,NA
 "431","ICUS0431","Dengler","Roman",NA,NA,NA
 "432","ICUS0432","Denhardt","Robert",NA,NA,NA
-"433","ICUS0433","Denman","D.R.",NA,NA,NA
+"433","ICUS0433","Denman","Donald Robert",NA,NA,NA
 "434","ICUS0434","DePaula","Geraldine",NA,NA,NA
 "435","ICUS0435","DePryck","Koen",NA,NA,NA
 "436","ICUS0436","Deshpande","B.G.",NA,NA,NA
 "437","ICUS0437","Deutsch","Eliot",NA,NA,NA
 "438","ICUS0438","Deutsch","Morton",NA,NA,NA
-"439","ICUS0439","Dewan","M.L.",NA,NA,NA
-"440","ICUS0440","Dickson","Kwesi A.",NA,NA,NA
+"439","ICUS0439","Dewan","Madan Lal",NA,NA,NA
+"440","ICUS0440","Dickson","Kwesi Abotsia",NA,NA,NA
 "441","ICUS0441","Diop","Babaker",NA,NA,NA
 "442","ICUS0442","Dissanayake","Ellen",NA,NA,NA
 "443","ICUS0443","Djojohadikusumo","Sumitro","B1917-05-29","B1917-05-29",NA
 "444","ICUS0444","Dobriansky","Lev E.",NA,NA,NA
 "445","ICUS0445","Dobrocheev","Oleg",NA,NA,NA
-"446","ICUS0446","Doby","John T.",NA,NA,NA
+"446","ICUS0446","Doby","John Thomas",NA,NA,NA
 "447","ICUS0447","Dobzhansky","Theodosius",NA,NA,NA
 "448","ICUS0448","Doebler","Matthias",NA,NA,NA
 "449","ICUS0449","Domash","Lawrence H.",NA,NA,NA
 "450","ICUS0450","Donahue","Thomas Michael",NA,"B1921-05-21","B1921-05-23"
 "451","ICUS0451","Donchin","Anne",NA,NA,NA
 "452","ICUS0452","Donoso","Alvaro",NA,"B1951",NA
-"453","ICUS0453","Dou","Alberto M.",NA,NA,NA
-"454","ICUS0454","Doub II","William C.",NA,NA,NA
-"455","ICUS0455","Dougherty","Jude P.",NA,NA,NA
-"456","ICUS0456","Doxiadis","Constantinos A",NA,NA,NA
-"457","ICUS0457","Drachkovitch","Milorad",NA,NA,NA
+"453","ICUS0453","Dou","Alberto",NA,NA,NA
+"454","ICUS0454","Doub II","William Coligny",NA,NA,NA
+"455","ICUS0455","Dougherty","Jude Patrick",NA,NA,NA
+"456","ICUS0456","Doxiadis","Constantinos Apostolou",NA,NA,NA
+"457","ICUS0457","Drachkovitch","Milorad M.",NA,NA,NA
 "458","ICUS0458","Dror","Rachel",NA,NA,NA
 "459","ICUS0459","Dror","Yehezkel",NA,NA,NA
-"460","ICUS0460","Dube","S.C.",NA,NA,NA
+"460","ICUS0460","Dube","Shyama Charan",NA,NA,NA
 "461","ICUS0461","Dubois","Jacques","B1920-04-13","B1920-04-13","B1920-04-13"
 "462","ICUS0462","Dufrenne","Mikel",NA,NA,NA
 "463","ICUS0463","Dukan","Laurent",NA,NA,NA
 "464","ICUS0464","Dunitz","Jack David",NA,"B1923-03-29","B1923-03-29"
-"465","ICUS0465","Dunn","James R.",NA,NA,NA
-"466","ICUS0466","Dunn","P.D.",NA,NA,NA
-"467","ICUS0467","Dunstan","Gordon R.",NA,"B1926-09-21","B1917-04-25"
+"465","ICUS0465","Dunn","James Robert",NA,NA,NA
+"466","ICUS0466","Dunn","Peter D.",NA,NA,NA
+"467","ICUS0467","Dunstan","Gordon Reginald",NA,"B1926-09-21","B1917-04-25"
 "468","ICUS0468","Durand","Gilbert",NA,NA,NA
 "469","ICUS0469","Durst","Mose",NA,NA,NA
 "470","ICUS0470","Dutton","Denis",NA,NA,NA
 "471","ICUS0471","Dwyer","Denis John",NA,NA,NA
-"472","ICUS0472","Dy","Manuel B., Jr.",NA,NA,NA
+"472","ICUS0472","Dy Jr","Manuel B.",NA,NA,NA
 "473","ICUS0473","Dyckman","John W.",NA,NA,NA
 "474","ICUS0474","Easterlin","Nancy",NA,NA,NA
 "475","ICUS0475","Eaton","David",NA,NA,NA
@@ -480,84 +480,84 @@
 "479","ICUS0479","Eccles","Lady Helena",NA,NA,NA
 "480","ICUS0480","Edgington","Dorothy",NA,NA,NA
 "481","ICUS0481","Edwards","Joshua L.",NA,NA,NA
-"482","ICUS0482","Effat","Ragia M.",NA,NA,NA
+"482","ICUS0482","Effat","Ragia Mohamed",NA,NA,NA
 "483","ICUS0483","Eigen","Manfred","B1927-05-09","B1927-05-09","B1927-05-09"
-"484","ICUS0484","Elahwal","Abdul Karim Aly",NA,NA,NA
-"485","ICUS0485","Elaigwu","J. Isawa",NA,NA,NA
+"484","ICUS0484","Elahwal","Abdel Karim Aly",NA,NA,NA
+"485","ICUS0485","Elaigwu","Jonah Isawa",NA,NA,NA
 "486","ICUS0486","Elbek","Bent",NA,NA,NA
 "487","ICUS0487","Eliach","Yaffa",NA,NA,NA
 "488","ICUS0488","Elinson","Jack",NA,"B1917-06-30","B1917-06-30"
-"489","ICUS0489","Ellison","Arthur J.",NA,NA,NA
+"489","ICUS0489","Ellison","Arthur James",NA,NA,NA
 "490","ICUS0490","Ellison","J. Audrey",NA,NA,NA
 "491","ICUS0491","Ellsaesser","Hugh W.",NA,NA,NA
 "492","ICUS0492","Ellsaesser","Inge",NA,NA,NA
-"493","ICUS0493","Elsasser","Walter M.","B1904-03-20","B1904-03-20",NA
-"494","ICUS0494","Elzaburu","Fernando",NA,NA,NA
+"493","ICUS0493","Elsasser","Walter Maurice","B1904-03-20","B1904-03-20",NA
+"494","ICUS0494","Elzaburu Márquez","Fernando de",NA,NA,NA
 "495","ICUS0495","El-Zaim","Issam",NA,NA,NA
 "496","ICUS0496","Emenyonu","Ernest N.",NA,NA,NA
-"497","ICUS0497","Emery","Fred E.",NA,NA,NA
+"497","ICUS0497","Emery","Frederick Edmund",NA,NA,NA
 "498","ICUS0498","Emery-Hellwig","Eric",NA,NA,NA
 "499","ICUS0499","Ensign","C. David",NA,NA,NA
-"500","ICUS0500","Enz","Charles",NA,NA,NA
+"500","ICUS0500","Enz","Charles Paul",NA,NA,NA
 "501","ICUS0501","Eraj","Yusuf Ali",NA,NA,NA
 "502","ICUS0502","Ercoli","N.",NA,NA,NA
-"503","ICUS0503","Ericson","Richard F.",NA,NA,NA
-"504","ICUS0504","Esaki","Leo","B1925-03-12","B1925-03-12","B1925-03-12"
+"503","ICUS0503","Ericson","Richard Ferdinand",NA,NA,NA
+"504","ICUS0504","Esaki","Reona (Leo)","B1925-03-12","B1925-03-12","B1925-03-12"
 "505","ICUS0505","Escobar","Alfonso",NA,NA,NA
 "506","ICUS0506","Esposito","Bruce J.",NA,NA,NA
 "507","ICUS0507","Evans","N. Ray",NA,NA,NA
 "508","ICUS0508","Everett","A. Gordon",NA,NA,NA
 "509","ICUS0509","Fallding","Harold",NA,NA,NA
-"510","ICUS0510","Fallon","Timothy",NA,NA,NA
+"510","ICUS0510","Fallon","Timothy Patrick",NA,NA,NA
 "511","ICUS0511","Farmer","James Leonard","B1920-01-12","B1920-01-12","B1920-01-12"
-"512","ICUS0512","Fateley","William G.",NA,NA,NA
-"513","ICUS0513","Fedanzo, Jr.","Anthony J.",NA,NA,NA
-"514","ICUS0514","Fei","John C.H.",NA,NA,NA
+"512","ICUS0512","Fateley","William Gene",NA,NA,NA
+"513","ICUS0513","Fedanzo Jr","Anthony J.",NA,NA,NA
+"514","ICUS0514","Fei","John Ching-Han",NA,NA,NA
 "515","ICUS0515","Feinberg","Joel",NA,NA,"B1926-10-19"
 "516","ICUS0516","Feinendegen","Ludwig E.",NA,NA,"B1927-01-01"
-"517","ICUS0517","Felt","James W.",NA,NA,NA
+"517","ICUS0517","Felt","James Wright",NA,NA,NA
 "518","ICUS0518","Fernando","Felix",NA,NA,NA
 "519","ICUS0519","Fernando","Sumana",NA,NA,NA
 "520","ICUS0520","Ferracuti","Franco",NA,NA,NA
 "521","ICUS0521","Ferrantello","Donna",NA,NA,NA
-"522","ICUS0522","Ferré","Frederick P.",NA,NA,NA
+"522","ICUS0522","Ferré","Frederick Pond",NA,NA,NA
 "523","ICUS0523","Ferrell","Donald R.",NA,NA,NA
-"524","ICUS0524","Feyerabend","Paul",NA,NA,NA
-"525","ICUS0525","Fichter","Joseph H.",NA,NA,NA
+"524","ICUS0524","Feyerabend","Paul Karl",NA,NA,NA
+"525","ICUS0525","Fichter","Joseph Henry",NA,NA,NA
 "526","ICUS0526","Filstead","William J.",NA,NA,NA
 "527","ICUS0527","Finch","Henry Le Roy",NA,NA,NA
-"528","ICUS0528","Findlay","John N.",NA,NA,NA
-"529","ICUS0529","Fink","Richard W.",NA,NA,NA
+"528","ICUS0528","Findlay","John Niemeyer",NA,NA,NA
+"529","ICUS0529","Fink","Richard Walter",NA,NA,NA
 "530","ICUS0530","Finkelman","Jacobo",NA,NA,NA
-"531","ICUS0531","Finkelstein","David",NA,NA,NA
-"532","ICUS0532","Finn","Edward",NA,NA,NA
+"531","ICUS0531","Finkelstein","David Ritz",NA,NA,NA
+"532","ICUS0532","Finn","Edward J.",NA,NA,NA
 "533","ICUS0533","Fishel","Simon",NA,NA,NA
 "534","ICUS0534","Fisher","David",NA,NA,NA
-"535","ICUS0535","Fleming","James R.",NA,NA,NA
-"536","ICUS0536","Flew","Antony",NA,NA,NA
-"537","ICUS0537","Flinn","Frank",NA,NA,NA
+"535","ICUS0535","Fleming","James Rodger",NA,NA,NA
+"536","ICUS0536","Flew","Antony Garrard Newton",NA,NA,NA
+"537","ICUS0537","Flinn","Frank K.",NA,NA,NA
 "538","ICUS0538","Flouris","George",NA,NA,NA
-"539","ICUS0539","Fomenko","Anatoly",NA,NA,"B1945-03-13"
+"539","ICUS0539","Fomenko","Anatoly Timofeevich",NA,NA,"B1945-03-13"
 "540","ICUS0540","Fong","Peter",NA,NA,NA
 "541","ICUS0541","Forchheimer","Robert",NA,NA,NA
 "542","ICUS0542","Ford","Hugh",NA,"B1913-07-16","B1913-07-16"
 "543","ICUS0543","Fornallaz","Pierre",NA,NA,NA
 "544","ICUS0544","Fornell","Claes",NA,NA,NA
-"545","ICUS0545","Forssmann","W.Th.O.",NA,NA,NA
+"545","ICUS0545","Forssmann","Werner Theodor Otto",NA,NA,NA
 "546","ICUS0546","Fort","Joel",NA,NA,NA
 "547","ICUS0547","Foster","A. Durwood",NA,NA,NA
 "548","ICUS0548","Foster","Richard B.",NA,NA,NA
 "549","ICUS0549","Frankel","Charles",NA,NA,"B1911-03-06"
-"550","ICUS0550","Frankl","Victor",NA,NA,NA
-"551","ICUS0551","Fraser","Stewart E.",NA,NA,NA
+"550","ICUS0550","Frankl","Viktor Emil",NA,NA,NA
+"551","ICUS0551","Fraser","Stewart Erskine",NA,NA,NA
 "552","ICUS0552","Frassetto","Roberto",NA,NA,NA
-"553","ICUS0553","Fridman","Aleksey M.",NA,NA,NA
+"553","ICUS0553","Fridman","Alexei Maksimovich",NA,NA,NA
 "554","ICUS0554","Friedman","Jerome Isaac",NA,NA,"B1930-03-28"
-"555","ICUS0555","Friedman","Maurice S.",NA,NA,NA
+"555","ICUS0555","Friedman","Maurice Stanley",NA,NA,NA
 "556","ICUS0556","Fritzsch","Harald",NA,NA,NA
-"557","ICUS0557","Fritzsche","Helmut G.",NA,NA,NA
-"558","ICUS0558","Fry","Michael G.",NA,NA,NA
-"559","ICUS0559","Fu","Charles",NA,NA,NA
+"557","ICUS0557","Fritzsche","Helmut Gottfried",NA,NA,NA
+"558","ICUS0558","Fry","Michael Graham",NA,NA,NA
+"559","ICUS0559","Fu","Charles Wei-hsun",NA,NA,NA
 "560","ICUS0560","Fuchs","Wilhelm",NA,NA,NA
 "561","ICUS0561","Fucks","Wilhelm",NA,NA,NA
 "562","ICUS0562","Fujimoto","Takashi",NA,NA,NA
@@ -565,30 +565,30 @@
 "564","ICUS0564","Fujiwara","Kikuo",NA,NA,NA
 "565","ICUS0565","Fukuchi","Takao",NA,NA,NA
 "566","ICUS0566","Fukuda","Nobuyuki",NA,NA,NA
-"567","ICUS0567","Fuller","Robert W.",NA,NA,NA
+"567","ICUS0567","Fuller","Robert Works",NA,NA,NA
 "568","ICUS0568","Furuta","Takeshi",NA,NA,NA
 "569","ICUS0569","Fusamura","Nobuo",NA,NA,NA
-"570","ICUS0570","Gaba","Christian",NA,NA,NA
+"570","ICUS0570","Gaba","Christian R.",NA,NA,NA
 "571","ICUS0571","Gabor","Dennis","B1900-06-05",NA,NA
 "572","ICUS0572","Galantay","Ervin Y.",NA,NA,NA
 "573","ICUS0573","Galaty","John G.",NA,NA,NA
 "574","ICUS0574","Gallagher","Glen",NA,NA,NA
 "575","ICUS0575","Galperin","Charles",NA,NA,NA
 "576","ICUS0576","Gandhi","Ramchandra",NA,NA,NA
-"577","ICUS0577","Gangadean","Ashok K.",NA,NA,NA
-"578","ICUS0578","Gantois-Chaban","Michelle",NA,NA,NA
-"579","ICUS0579","Gantt","William H.",NA,NA,NA
+"577","ICUS0577","Gangadean","Ashok Kumar",NA,NA,NA
+"578","ICUS0578","Chaban","Michèle Catherine Gantois",NA,NA,NA
+"579","ICUS0579","Gantt","William Horsley",NA,NA,NA
 "580","ICUS0580","Garay","Andrew S.",NA,NA,NA
 "581","ICUS0581","Garcia","John David",NA,NA,NA
 "582","ICUS0582","Garcia-Colin","Leopoldo S.",NA,NA,NA
 "583","ICUS0583","Gardner","Richard Newton",NA,"B1927-07-09","B1927-07-09"
 "584","ICUS0584","Garfinkle","Adam",NA,NA,NA
-"585","ICUS0585","Garrett","William R.",NA,NA,NA
+"585","ICUS0585","Garrett","William Robertson",NA,NA,NA
 "586","ICUS0586","Garrido","Manuel",NA,NA,NA
 "587","ICUS0587","Gastpar","Helmuth",NA,NA,NA
-"588","ICUS0588","Gat","Joel","B1926-02-17","B1926-02-17","B1926-02-17"
+"588","ICUS0588","Gat","Joel Robert‏","B1926-02-17","B1926-02-17","B1926-02-17"
 "589","ICUS0589","Gazzeri","Giovanni",NA,NA,NA
-"590","ICUS0590","Gbadegesin","Segan",NA,NA,NA
+"590","ICUS0590","Gbadegesin","Segun",NA,NA,NA
 "591","ICUS0591","Geffré","Claude",NA,NA,NA
 "592","ICUS0592","Geist","Valerius",NA,NA,NA
 "593","ICUS0593","Gelwick","Richard",NA,NA,NA
@@ -596,1451 +596,1455 @@
 "595","ICUS0595","Georgescu-Roegen","Nicholas",NA,NA,NA
 "596","ICUS0596","Gerholm","Tor Ragnar",NA,NA,NA
 "597","ICUS0597","Gessert","Robert A.",NA,NA,NA
-"598","ICUS0598","Ghabbour","Samir K.",NA,NA,NA
-"599","ICUS0599","Gharaibeh","Abdul-Karim",NA,NA,NA
+"598","ICUS0598","Ghabbour","Samir Ibrahim",NA,NA,NA
+"599","ICUS0599","Gharaybeh","Abdul Kareem",NA,NA,NA
 "600","ICUS0600","Ghiselin","Michael T.",NA,NA,NA
 "601","ICUS0601","Ghista","Dhanjoo N.",NA,NA,NA
 "602","ICUS0602","Giampaoli","Michael",NA,NA,NA
 "603","ICUS0603","Giampietro","Mario",NA,NA,NA
-"604","ICUS0604","Gilbrat","Robert",NA,NA,NA
-"605","ICUS0605","Gilkey","Gordon W.",NA,NA,NA
-"606","ICUS0606","Gislason","Gylfi P.","B1917-02-17","B1917-02-07","B1917-02-07"
+"604","ICUS0604","Gibrat","Robert",NA,NA,NA
+"605","ICUS0605","Gilkey","Gordon Waverly",NA,NA,NA
+"606","ICUS0606","Gislason","Gylfi Thorsteinsson","B1917-02-17","B1917-02-07","B1917-02-07"
 "607","ICUS0607","Glaser","Donald Arthur","B1926-09-21","B1926-09-21","B1926-09-21"
-"608","ICUS0608","Glass","H. Bentley","B1906-01-17","B1906-01-17",NA
+"608","ICUS0608","Glass","Hiram Bentley","B1906-01-17","B1906-01-17",NA
 "609","ICUS0609","Goble","Frank G.",NA,NA,NA
 "610","ICUS0610","Goel","Atul",NA,NA,NA
-"611","ICUS0611","Goernitz","Thomas",NA,NA,NA
+"611","ICUS0611","Görnitz","Thomas",NA,NA,NA
 "612","ICUS0612","Golaszewska","Maria",NA,NA,NA
 "613","ICUS0613","Golden","John",NA,NA,NA
 "614","ICUS0614","Golden","William T.",NA,NA,NA
-"615","ICUS0615","Goldsmith","Edward",NA,NA,NA
+"615","ICUS0615","Goldsmith","Edward René David",NA,NA,NA
 "616","ICUS0616","Goldsmith","Maurice",NA,NA,NA
 "617","ICUS0617","Goldstein","Daniel J.",NA,NA,NA
-"618","ICUS0618","Gomes","Alair O.",NA,NA,NA
+"618","ICUS0618","Gomes","Alair de Oliveira",NA,NA,NA
 "619","ICUS0619","Gomez","Juan Antonio",NA,NA,NA
 "620","ICUS0620","Gontar","Vladimir",NA,NA,NA
 "621","ICUS0621","Gonzalez","Alvaro",NA,NA,NA
-"622","ICUS0622","Gonzalez-Garza","Ana Maria",NA,NA,NA
-"623","ICUS0623","Goodell","H. Grant",NA,NA,NA
-"624","ICUS0624","Goodeve","Sir Charles Frederick","B1904-02-21",NA,NA
+"622","ICUS0622","González Garza","Ana Maria",NA,NA,NA
+"623","ICUS0623","Goodell","Horace Grant",NA,NA,NA
+"624","ICUS0624","Goodeve","Charles Frederick","B1904-02-21",NA,NA
 "625","ICUS0625","Gooding","David Charles",NA,NA,NA
 "626","ICUS0626","Gordon","Ira J.",NA,NA,NA
 "627","ICUS0627","Gori","Gio Batta",NA,NA,NA
 "628","ICUS0628","Gori","Umberto",NA,NA,NA
-"629","ICUS0629","Gornitz","Thomas",NA,NA,NA
-"630","ICUS0630","Goswamy","B.N.",NA,NA,NA
+"629","ICUS0629","Görnitz","Thomas",NA,NA,NA
+"630","ICUS0630","Goswamy","Brijinder Nath",NA,NA,NA
 "631","ICUS0631","Gotterer","Malcolm H.",NA,NA,NA
 "632","ICUS0632","Graham","Gordon",NA,NA,NA
 "633","ICUS0633","Gran","Peter",NA,NA,NA
 "634","ICUS0634","Granit","Ragnar Arthur","B1900-10-30","B1900-10-30",NA
 "635","ICUS0635","Granö","Olavi Johannes","B1925-05-27","B1925-05-27","B1925-05-27"
-"636","ICUS0636","Grant","George B.",NA,NA,NA
+"636","ICUS0636","Grant","George Parkin",NA,NA,NA
 "637","ICUS0637","Gray","Elizabeth Dodson",NA,NA,NA
-"638","ICUS0638","Gray","J. Glenn",NA,NA,NA
-"639","ICUS0639","Gray","John N.",NA,NA,NA
-"640","ICUS0640","Gray","Kenneth",NA,NA,NA
+"638","ICUS0638","Gray","Jesse Glenn",NA,NA,NA
+"639","ICUS0639","Gray","John Nicholas",NA,NA,NA
+"640","ICUS0640","Gray","Kenneth R.",NA,NA,NA
 "641","ICUS0641","Grayson","John",NA,NA,NA
 "642","ICUS0642","Green","Deirdre",NA,NA,NA
-"643","ICUS0643","Greenberg","Wendy",NA,NA,NA
+"643","ICUS0643","Greenberg","Wendy Nicholas",NA,NA,NA
 "644","ICUS0644","Greene","Nancy Deale",NA,NA,NA
-"645","ICUS0645","Greenfield","Richard D.",NA,NA,NA
+"645","ICUS0645","Greenfield","Richard David",NA,NA,NA
 "646","ICUS0646","Gregorios","Paulos Mar","B1922-08-09","B1922-08-09","B1922-08-09"
 "647","ICUS0647","Greif","Stuart William",NA,NA,NA
-"648","ICUS0648","Gremillion","Joseph",NA,NA,NA
-"649","ICUS0649","Groenewold","Hilbrand J.",NA,NA,NA
+"648","ICUS0648","Gremillion","Joseph Benjamin",NA,NA,NA
+"649","ICUS0649","Groenewold","Hilbrand Johannes",NA,NA,NA
 "650","ICUS0650","Grønseth","Erik",NA,NA,NA
 "651","ICUS0651","Gruner","Wayne R.",NA,NA,NA
-"652","ICUS0652","Gruzilier","John",NA,NA,NA
+"652","ICUS0652","Gruzilier","John H.",NA,NA,NA
 "653","ICUS0653","Guareschi-Cazzullo","Adriana",NA,NA,NA
 "654","ICUS0654","Gueron","Jules","B1907-06-02","B1907-06-02",NA
 "655","ICUS0655","Guerra","Anthony J.",NA,NA,NA
 "656","ICUS0656","Guerra","Victor",NA,NA,NA
-"657","ICUS0657","Guetzkow","Harold",NA,NA,NA
+"657","ICUS0657","Guetzkow","Harold Steere",NA,NA,NA
 "658","ICUS0658","Gui","We-Xie",NA,NA,NA
 "659","ICUS0659","Guilmet","Daniel",NA,NA,NA
 "660","ICUS0660","Guimaraes","Jose A.",NA,NA,NA
-"661","ICUS0661","Gulek","Kasim","B1910-12-20","B1910-12-20",NA
-"662","ICUS0662","Gunaratne","R. David",NA,NA,NA
-"663","ICUS0663","Gunawardena","Wimai",NA,NA,NA
+"661","ICUS0661","Gülek","Kasim","B1910-12-20","B1910-12-20",NA
+"662","ICUS0662","Gunaratne","Ranil Dion",NA,NA,NA
+"663","ICUS0663","Gunawardena","Wimal",NA,NA,NA
 "664","ICUS0664","Gunzig","Edgar",NA,NA,NA
 "665","ICUS0665","Gupta","Bina",NA,NA,NA
 "666","ICUS0666","Guriev","Sergei",NA,NA,NA
 "667","ICUS0667","Gyarmati","Gabriel",NA,NA,NA
 "668","ICUS0668","Gyekye","Kwame",NA,NA,NA
-"669","ICUS0669","Habachi","R.",NA,NA,NA
-"670","ICUS0670","Hackett","Rosalind",NA,NA,NA
+"669","ICUS0669","Habachi","René",NA,NA,NA
+"670","ICUS0670","Hackett","Rosalind I. J.",NA,NA,NA
 "671","ICUS0671","Hadden","Jeffrey K.",NA,NA,NA
-"672","ICUS0672","Hahn","Sung Joe K.S.",NA,NA,NA
+"672","ICUS0672","Han","Sung-joo",NA,NA,NA
 "673","ICUS0673","Hale","Paul",NA,NA,NA
 "674","ICUS0674","Hallen","Patsy",NA,NA,NA
 "675","ICUS0675","Halsbury","Tony",NA,NA,"B1908-06-04"
 "676","ICUS0676","Hamaker","John W.",NA,NA,NA
 "677","ICUS0677","Hamburgh","Max",NA,NA,NA
 "678","ICUS0678","Hamdan","Halimaton",NA,NA,NA
-"679","ICUS0679","Hamdani","Viqar A.",NA,NA,NA
+"679","ICUS0679","Hamdani","Viqar Ahmed",NA,NA,NA
 "680","ICUS0680","Hameroff","Stuart R.",NA,NA,NA
 "681","ICUS0681","Hamid","Idris",NA,NA,NA
 "682","ICUS0682","Hammond","Paul Y.",NA,NA,NA
-"683","ICUS0683","Hammond","Phillip E.",NA,NA,NA
-"684","ICUS0684","Han","Moon Hi",NA,NA,NA
-"685","ICUS0685","Han","Sung Joe",NA,NA,NA
-"686","ICUS0686","Han","Tai-Soo",NA,NA,NA
-"687","ICUS0687","Handlin","Oscar",NA,"B1915-09-29","B1915-09-29"
-"688","ICUS0688","Handy","Rollo L.",NA,NA,NA
-"689","ICUS0689","Hanna","David",NA,NA,NA
-"690","ICUS0690","Hannay","R. Alastair",NA,NA,NA
-"691","ICUS0691","Hannerz","Kare A.",NA,NA,NA
-"692","ICUS0692","Hansen","Brian",NA,NA,NA
-"693","ICUS0693","Hansen","Linda",NA,NA,NA
-"694","ICUS0694","Harahap","Filino",NA,NA,NA
-"695","ICUS0695","Harant","Zdena",NA,NA,NA
-"696","ICUS0696","Hardin","Russell",NA,NA,NA
-"697","ICUS0697","Hargraves","J. Archie",NA,NA,NA
-"698","ICUS0698","Harman","Willis W.",NA,NA,NA
-"699","ICUS0699","Harmon","Michael M.",NA,NA,NA
-"700","ICUS0700","Harris","Lauren J.",NA,NA,NA
-"701","ICUS0701","Harris","R. Blaine",NA,NA,NA
-"702","ICUS0702","Harrison","Edward R.",NA,NA,NA
-"703","ICUS0703","Harrison","Frank R., III",NA,NA,NA
-"704","ICUS0704","Harrison","G. Ainsworth",NA,NA,NA
-"705","ICUS0705","Harriss","C. Lowell",NA,NA,NA
-"706","ICUS0706","Hart","Henry O.",NA,NA,NA
-"707","ICUS0707","Harter","Don",NA,NA,NA
-"708","ICUS0708","Harthorne","Charles",NA,NA,NA
-"709","ICUS0709","Hartman","Sherry",NA,NA,NA
-"710","ICUS0710","Harun-Ar-Rashid","A.M.",NA,NA,NA
-"711","ICUS0711","Hasegawa","Akira",NA,NA,NA
-"712","ICUS0712","Haskell","Edward",NA,NA,NA
-"713","ICUS0713","Hassan","Fuak",NA,NA,NA
-"714","ICUS0714","Hasselgreen","Ingmar C.",NA,NA,NA
-"715","ICUS0715","Hastings","Arthur C.",NA,NA,NA
-"716","ICUS0716","Hattiangadi","Jagdish",NA,NA,NA
-"717","ICUS0717","Hauser","Philip M.","B1909-09-27","B1909-09-27",NA
-"718","ICUS0718","Hausner","Josef",NA,NA,NA
-"719","ICUS0719","Hautala","Heidi",NA,NA,NA
-"720","ICUS0720","Hay","David",NA,NA,NA
-"721","ICUS0721","Hay","George",NA,NA,NA
-"722","ICUS0722","Hayama","Komei",NA,NA,NA
-"723","ICUS0723","Hayashi","Yujiro",NA,NA,NA
-"724","ICUS0724","Hayden","Bruce",NA,NA,NA
-"725","ICUS0725","Hayek","Friedrich August von","B1899-05-08","B1899-05-08",NA
-"726","ICUS0726","Hazleton","Jared",NA,NA,NA
-"727","ICUS0727","Headings","Verle E.",NA,NA,NA
-"728","ICUS0728","Headlam-Morley","A.",NA,NA,NA
-"729","ICUS0729","Hein","Piet",NA,NA,NA
-"730","ICUS0730","Heisenberg","Werner",NA,NA,NA
-"731","ICUS0731","Henley","Ernest J.",NA,NA,NA
-"732","ICUS0732","Henley","Kenneth",NA,NA,NA
-"733","ICUS0733","Henning","H. Joerg",NA,NA,NA
-"734","ICUS0734","Henry","Jean",NA,NA,NA
-"735","ICUS0735","Herr","David",NA,NA,NA
-"736","ICUS0736","Hersch","J.",NA,NA,NA
-"737","ICUS0737","Herz","Martin F.",NA,NA,NA
-"738","ICUS0738","Herzberg","Gerhard","B1904-12-25","B1904-12-25","B1904-12-25"
-"739","ICUS0739","Hess-Haeser","Jorg",NA,NA,NA
-"740","ICUS0740","Hettema","Jack",NA,NA,NA
-"741","ICUS0741","Hewes","Gordon W.",NA,NA,NA
-"742","ICUS0742","Hick","John G.",NA,NA,NA
-"743","ICUS0743","Higatsberger","Michael J.",NA,NA,NA
-"744","ICUS0744","Hiley","Basil J.",NA,NA,NA
-"745","ICUS0745","Hill","Dennis L.",NA,NA,NA
-"746","ICUS0746","Hill","Reuben",NA,NA,NA
-"747","ICUS0747","Hill","Samuel S., Jr.",NA,NA,NA
-"748","ICUS0748","Hill","Stuart B.",NA,NA,NA
-"749","ICUS0749","Hillman","Jimmye S.",NA,NA,NA
-"750","ICUS0750","Hilpinen","R",NA,NA,NA
-"751","ICUS0751","Himmelweit","Hilde",NA,NA,NA
-"752","ICUS0752","Hintikka","Kaarlo Jaakko Juhani",NA,NA,NA
-"753","ICUS0753","Hirshleifer","Jack",NA,NA,NA
-"754","ICUS0754","Hiskett","Mervyn",NA,NA,NA
-"755","ICUS0755","Hitotumatu","Shin",NA,NA,NA
-"756","ICUS0756","Ho","Tao",NA,"B1936-07-17","B1936-07-17"
-"757","ICUS0757","Hobbs","Ron",NA,NA,NA
-"758","ICUS0758","Hodgson","Peter E.",NA,NA,NA
-"759","ICUS0759","Hoeber","Amoretta M.",NA,NA,NA
-"760","ICUS0760","Hoeber","Francis P.",NA,NA,NA
-"761","ICUS0761","Hofecker","Gerhard",NA,NA,NA
-"762","ICUS0762","Hokkanen","Heikki M.T.",NA,NA,NA
-"763","ICUS0763","Holloway","Ralph L.",NA,NA,NA
-"764","ICUS0764","Holmfeld","John",NA,NA,NA
-"765","ICUS0765","Honda","Masaaki",NA,NA,NA
-"766","ICUS0766","Hong","Howard V.",NA,NA,NA
-"767","ICUS0767","Hong","Woong Sun",NA,NA,NA
-"768","ICUS0768","Hood","C. Ellsworth",NA,NA,NA
-"769","ICUS0769","Hook","Sidney","B1902-12-20","B1902-12-20",NA
-"770","ICUS0770","Hoppe","Hans Herrmann",NA,NA,NA
-"771","ICUS0771","Horn","John",NA,NA,NA
-"772","ICUS0772","Hossain","Monowar",NA,NA,NA
-"773","ICUS0773","Hourani","Ben",NA,NA,NA
-"774","ICUS0774","Howard","A.E. Dick",NA,NA,NA
-"775","ICUS0775","Howlett","Jack",NA,NA,NA
-"776","ICUS0776","Hsiung","James C.",NA,NA,NA
-"777","ICUS0777","Hu","Xinhe",NA,NA,NA
-"778","ICUS0778","Huang","Sung-Mo",NA,NA,NA
-"779","ICUS0779","Hübner","Adolf",NA,NA,NA
-"780","ICUS0780","Huebner","Kurt",NA,NA,NA
-"781","ICUS0781","Hughes","Vernon W.",NA,NA,NA
-"782","ICUS0782","Hui","Ka Kit",NA,NA,NA
-"783","ICUS0783","Hülsmann","Guido",NA,NA,NA
-"784","ICUS0784","Hummel","Geffrey",NA,NA,NA
-"785","ICUS0785","Hungerford","Herbert E.",NA,NA,NA
-"786","ICUS0786","Hungerford","Lugene G.",NA,NA,NA
-"787","ICUS0787","Hunter","Howard E.",NA,NA,NA
-"788","ICUS0788","Husain","Mahmud",NA,NA,NA
-"789","ICUS0789","Husen","Torsten","B1916-03-01","B1916-03-01","B1916-03-01"
-"790","ICUS0790","Hwang","Philip H.",NA,NA,NA
-"791","ICUS0791","Hwang","Pil-Ro",NA,NA,NA
-"792","ICUS0792","Hyde","Gordon",NA,NA,NA
-"793","ICUS0793","Hyden","Holger",NA,NA,NA
-"794","ICUS0794","Ibrahim","Saad Eddin",NA,NA,NA
-"795","ICUS0795","Ikegami","Masato",NA,NA,NA
-"796","ICUS0796","Ikemi","Yujiro",NA,NA,NA
-"797","ICUS0797","Ikuta","Toyoaki",NA,NA,NA
-"798","ICUS0798","Illyes","Sandor",NA,NA,NA
-"799","ICUS0799","Iltis","Hugh H.",NA,NA,NA
-"800","ICUS0800","Imamichi","Tomonobu",NA,NA,NA
-"801","ICUS0801","Ingle","Dwight Joyce","B1907-09-04",NA,NA
-"802","ICUS0802","Inglis","B.",NA,NA,NA
-"803","ICUS0803","Ingram","David John Edward",NA,NA,"B1927-04-06"
-"804","ICUS0804","Inkler","Valeria",NA,NA,NA
-"805","ICUS0805","Inoue","Tadashi",NA,NA,NA
-"806","ICUS0806","Irvine","Reed J.",NA,NA,NA
-"807","ICUS0807","Isaac","Ephraim",NA,NA,NA
-"808","ICUS0808","Ishikawa","Mitsuo",NA,NA,NA
-"809","ICUS0809","Ishumi","Abel G.M.",NA,NA,NA
-"810","ICUS0810","Islam","Azizun",NA,NA,NA
-"811","ICUS0811","Islam","Nurul",NA,"B1929-04-01","B1929-04-01"
-"812","ICUS0812","Itani","Junichiro",NA,NA,NA
-"813","ICUS0813","Ito","Shuntaro",NA,NA,NA
-"814","ICUS0814","Jaber","Kamel Abu",NA,NA,NA
-"815","ICUS0815","Jacchia","Enrico",NA,NA,NA
-"816","ICUS0816","Jackson","R.W.",NA,NA,NA
-"817","ICUS0817","Jackson","Wes",NA,NA,NA
-"818","ICUS0818","Jaffe","Russel M.",NA,NA,NA
-"819","ICUS0819","Jaguaribe","Helio",NA,NA,NA
-"820","ICUS0820","Jaki","Stanley L.",NA,NA,"B1924-08-17"
-"821","ICUS0821","Jamali","Mohammed Fadhel",NA,NA,NA
-"822","ICUS0822","James","Abraham L.",NA,NA,NA
-"823","ICUS0823","James","Gene G.",NA,NA,NA
-"824","ICUS0824","Jammer","Max",NA,NA,NA
-"825","ICUS0825","Jantsch","Erich",NA,NA,NA
-"826","ICUS0826","Jarvie","Ian C.",NA,NA,NA
-"827","ICUS0827","Jastrow","Robert","B1925-09-07","B1925-09-07","B1925-09-07"
-"828","ICUS0828","Jerison","Harry J.",NA,NA,NA
-"829","ICUS0829","Jerome","Norge W.",NA,NA,NA
-"830","ICUS0830","Jeuken","M.",NA,NA,NA
-"831","ICUS0831","Ji","Chang-juan",NA,NA,NA
-"832","ICUS0832","Jiang","Joseph",NA,NA,NA
-"833","ICUS0833","Jimenez","Maria C.C.",NA,NA,NA
-"834","ICUS0834","Jin","Daxun",NA,NA,NA
-"835","ICUS0835","Jin","Sung Bae",NA,NA,NA
-"836","ICUS0836","Johnson","B. Connor",NA,NA,NA
-"837","ICUS0837","Johnson","Craig",NA,NA,NA
-"838","ICUS0838","Johnson","Fred M.",NA,NA,NA
-"839","ICUS0839","Johnson","J. Prescott",NA,NA,NA
-"840","ICUS0840","Johnson","Lemeul A.",NA,NA,NA
-"841","ICUS0841","Johnson","Milton G.",NA,NA,NA
-"842","ICUS0842","Johnson","Shirley B.",NA,NA,NA
-"843","ICUS0843","Johnson-Marshall","Percy",NA,NA,NA
-"844","ICUS0844","Jonas","Paul",NA,NA,NA
-"845","ICUS0845","Jones","Donald G.",NA,NA,NA
-"846","ICUS0846","Jones","Hardin B.",NA,NA,NA
-"847","ICUS0847","Jones","Major J.",NA,NA,NA
-"848","ICUS0848","Jones","Reginald Victor","B1911-09-29","B1911-09-29","B1911-09-29"
-"849","ICUS0849","Jones","Thomas E.",NA,NA,NA
-"850","ICUS0850","Jones","William R.",NA,NA,NA
-"851","ICUS0851","Jordens","Joseph T.F.",NA,NA,NA
-"852","ICUS0852","Josephson","Brian David","B1904-01-04","B1940-01-04","B1940-01-04"
-"853","ICUS0853","Jovanovich","Jovan V.",NA,NA,NA
-"854","ICUS0854","Jumsai","Sumet",NA,NA,NA
-"855","ICUS0855","Jung","Hwa-Yol",NA,NA,NA
-"856","ICUS0856","Juskalian","George",NA,NA,NA
-"857","ICUS0857","Kabilsingh","Chatsumarn",NA,NA,NA
-"858","ICUS0858","Kac","Mark","B1914-08-03",NA,NA
-"859","ICUS0859","Kahn","Herman","B1922-02-15",NA,NA
-"860","ICUS0860","Kahneman","D.",NA,NA,NA
-"861","ICUS0861","Kakihana","Hidetaka",NA,NA,NA
-"862","ICUS0862","Kakonge","Edward",NA,NA,NA
-"863","ICUS0863","Kalansuriya","A.D.P.",NA,NA,NA
-"864","ICUS0864","Kalaw","Eva Estrada",NA,NA,NA
-"865","ICUS0865","Kalda","Jaan",NA,NA,NA
-"866","ICUS0866","Kalupahana","David J.",NA,NA,NA
-"867","ICUS0867","Kang","Kook Hee",NA,NA,NA
-"868","ICUS0868","Kang","Ouyang",NA,NA,NA
-"869","ICUS0869","Kang","Shin Pyo",NA,NA,NA
-"870","ICUS0870","Kang","Soo Won",NA,NA,NA
-"871","ICUS0871","Kang","Yung-Sun",NA,NA,NA
-"872","ICUS0872","Kanitscheider","Bernulf",NA,NA,NA
-"873","ICUS0873","Kano","Takayoshi",NA,NA,NA
-"874","ICUS0874","Kapitza","Serguei P.",NA,NA,NA
-"875","ICUS0875","Kaplan","Morton A.",NA,NA,NA
-"876","ICUS0876","Karefa-Smart","John Musselman","B1915-06-17","B1915-06-17","B1915-06-17"
-"877","ICUS0877","Karhan","Kemal",NA,NA,NA
-"878","ICUS0878","Karlson","Nils",NA,NA,NA
-"879","ICUS0879","Karlson","Peter",NA,NA,NA
-"880","ICUS0880","Kase","Hideaki",NA,NA,NA
-"881","ICUS0881","Kaspar","Robert",NA,NA,NA
-"882","ICUS0882","Kasper","Wolfgang E.",NA,NA,NA
-"883","ICUS0883","Kassas","Mohamed",NA,NA,NA
-"884","ICUS0884","Kastler","Alfred","B1902-05-03",NA,NA
-"885","ICUS0885","Katanani","Ahmed K.",NA,NA,NA
-"886","ICUS0886","Kato","Hidetoshi",NA,NA,NA
-"887","ICUS0887","Kato","Hiroo",NA,NA,NA
-"888","ICUS0888","Kato","Peter E.",NA,NA,NA
-"889","ICUS0889","Katoh","Shigeru",NA,NA,NA
-"890","ICUS0890","Katsenelinboigen","Aron J.",NA,NA,NA
-"891","ICUS0891","Katz","Amron",NA,NA,NA
-"892","ICUS0892","Kau","Michael Y.M.",NA,NA,NA
-"893","ICUS0893","Kaufmann","Frank",NA,NA,NA
-"894","ICUS0894","Kaufmann","Walter",NA,NA,NA
-"895","ICUS0895","Kawakita","Jiro",NA,NA,NA
-"896","ICUS0896","Keady","Richard",NA,NA,NA
-"897","ICUS0897","Keddie","Nikki R.",NA,NA,NA
-"898","ICUS0898","Keepin","William N.",NA,NA,NA
-"899","ICUS0899","Kegley","Charles W.",NA,NA,NA
-"900","ICUS0900","Kegley","Jacquelyn Ann K.",NA,NA,NA
-"901","ICUS0901","Keilstein","Rita",NA,NA,NA
-"902","ICUS0902","Kellehear","Allan",NA,NA,NA
-"903","ICUS0903","Kellogg","William W.",NA,NA,NA
-"904","ICUS0904","Kelsay","John",NA,NA,NA
-"905","ICUS0905","Kenner","Daniel",NA,NA,NA
-"906","ICUS0906","Kennet","Wayland Young","B1923-08-02","B1923-08-02","B1923-08-02"
-"907","ICUS0907","Kenney","Martin",NA,NA,NA
-"908","ICUS0908","Kerber","Walter","B",NA,NA
-"909","ICUS0909","Kerr","Clark","B1911-05-17","B1911-05-17","B1911-05-17"
-"910","ICUS0910","Keswani","N.H.",NA,NA,NA
-"911","ICUS0911","Kety","Seymour S.","B1915-08-25","B1915-08-25","B1915-08-25"
-"912","ICUS0912","Kewenig","Wilhelm A.",NA,NA,NA
-"913","ICUS0913","Keys","Donald F.",NA,NA,NA
-"914","ICUS0914","Khadduri","Majid","B1909-09-27","B1908-09-27",NA
-"915","ICUS0915","Khalaf","Samir G.",NA,NA,NA
-"916","ICUS0916","Khalilzad","Zalmay",NA,NA,NA
-"917","ICUS0917","Khan","Jahangir",NA,NA,NA
-"918","ICUS0918","Khan","M. Salar",NA,NA,NA
-"919","ICUS0919","Khattab","Abdelmoneim M.",NA,NA,NA
-"920","ICUS0920","Khemani","L.T.",NA,NA,NA
-"921","ICUS0921","Khuri","Nicola H.",NA,NA,NA
-"922","ICUS0922","Kibarian","Barkev",NA,NA,NA
-"923","ICUS0923","Kielmansegg","Peter Graf",NA,NA,NA
-"924","ICUS0924","Kihara","Hiroji",NA,NA,NA
-"925","ICUS0925","Kikutake","Kiyonori","B1928-04-01","B1928-04-01","B1928-04-01"
-"926","ICUS0926","Killingbeck","Christopher",NA,NA,NA
-"927","ICUS0927","Kilpatrick","William",NA,NA,NA
-"928","ICUS0928","Kim","C.H.",NA,NA,NA
-"929","ICUS0929","Kim","Choon-Sup",NA,NA,NA
-"930","ICUS0930","Kim","Eun-Woo",NA,NA,NA
-"931","ICUS0931","Kim","Ilpyong J.",NA,NA,NA
-"932","ICUS0932","Kim","Jin Choon",NA,NA,NA
-"933","ICUS0933","Kim","Jongchol",NA,NA,NA
-"934","ICUS0934","Kim","Kae-Hwan",NA,NA,NA
-"935","ICUS0935","Kim","T.",NA,NA,NA
-"936","ICUS0936","Kim","Tae Chang",NA,NA,NA
-"937","ICUS0937","Kim","Tae-Soo",NA,NA,NA
-"938","ICUS0938","Kim","Ung Soo",NA,NA,NA
-"939","ICUS0939","Kim","William S.",NA,NA,NA
-"940","ICUS0940","Kim","Yersu",NA,NA,NA
-"941","ICUS0941","Kim","Yong Woon",NA,NA,NA
-"942","ICUS0942","Kim","Yong-suk",NA,NA,NA
-"943","ICUS0943","Kim","Young Oon",NA,NA,NA
-"944","ICUS0944","Kim","Young-Suh",NA,NA,NA
-"945","ICUS0945","Kim","Yung-Kwan",NA,NA,NA
-"946","ICUS0946","Kimura","Motoo","B1924-11-13","B1924-11-13",NA
-"947","ICUS0947","King","Alexander",NA,NA,NA
-"948","ICUS0948","King","Ursula",NA,NA,NA
-"949","ICUS0949","King-Farlow","John",NA,NA,NA
-"950","ICUS0950","Kingsep","Alexander S.",NA,NA,NA
-"951","ICUS0951","Kinsella","Stephan",NA,NA,NA
-"952","ICUS0952","Kit","Wong Kiew",NA,NA,NA
-"953","ICUS0953","Kitagawa","T.",NA,NA,NA
-"954","ICUS0954","Kittrie","Nicholas N.",NA,NA,NA
-"955","ICUS0955","Klavins","J.V.",NA,NA,NA
-"956","ICUS0956","Klein","Sidney",NA,NA,NA
-"957","ICUS0957","Kliever","Lonnie D.",NA,NA,NA
-"958","ICUS0958","Kline","George L.",NA,NA,NA
-"959","ICUS0959","Knappert","Jan",NA,NA,NA
-"960","ICUS0960","Knight","Christopher",NA,NA,NA
-"961","ICUS0961","Knilli","Friedrich",NA,NA,NA
-"962","ICUS0962","Kochen","Manfred",NA,NA,NA
-"963","ICUS0963","Koentjaraningrat","",NA,NA,NA
-"964","ICUS0964","Koertge","Noretta",NA,NA,NA
-"965","ICUS0965","Koester","Arthur","B1905-09-05",NA,NA
-"966","ICUS0966","Koford","Kenneth",NA,NA,NA
-"967","ICUS0967","Koh","Byung Hee",NA,NA,NA
-"968","ICUS0968","Koh","Han-Shil",NA,NA,NA
-"969","ICUS0969","Kohlberg","X",NA,NA,NA
-"970","ICUS0970","Kohn","Walter","B1923-03-09","B1923-03-09","B1923-03-09"
-"971","ICUS0971","Komaki","Hisatoki",NA,NA,NA
-"972","ICUS0972","Komatsu","Sakyo",NA,NA,NA
-"973","ICUS0973","Kondepudi","Dilip K.",NA,NA,NA
-"974","ICUS0974","Kondo","Jiro",NA,NA,"B1917-01-23"
-"975","ICUS0975","Kono","Shigemi",NA,NA,NA
-"976","ICUS0976","Koo","Bon-Ho",NA,NA,NA
-"977","ICUS0977","Kooy","G.A.",NA,NA,NA
-"978","ICUS0978","Korneev","Alexander",NA,NA,NA
-"979","ICUS0979","Koussanellos","Georges",NA,NA,NA
-"980","ICUS0980","Kozhamthadam","Job",NA,NA,NA
-"981","ICUS0981","Kozintsev","Alexander",NA,NA,NA
-"982","ICUS0982","Kozma","Tamas",NA,NA,NA
-"983","ICUS0983","Krantz","Kermit E.",NA,NA,NA
-"984","ICUS0984","Kraus","Eric B.",NA,NA,NA
-"985","ICUS0985","Kraus","Willy",NA,NA,NA
-"986","ICUS0986","Krebs","Hans A.","B1900-08-25",NA,NA
-"987","ICUS0987","Kreilkamp","Karl",NA,NA,NA
-"988","ICUS0988","Krippner","Stanley",NA,NA,NA
-"989","ICUS0989","Krishna","Padmanabahn",NA,NA,NA
-"990","ICUS0990","Krislov","Samuel",NA,NA,NA
-"991","ICUS0991","Krivatsy","Adam",NA,NA,NA
-"992","ICUS0992","Krivit","William",NA,NA,NA
-"993","ICUS0993","Kryspin","Jan",NA,NA,NA
-"994","ICUS0994","Kubler-Ross","Elisabeth",NA,NA,NA
-"995","ICUS0995","Kubota","Noboyuki",NA,NA,NA
-"996","ICUS0996","Kuczynski","Janusz",NA,NA,NA
-"997","ICUS0997","Kuehnelt-Leddihn","Erik",NA,NA,NA
-"998","ICUS0998","Kuhse","Helga",NA,NA,NA
-"999","ICUS0999","Kuiper","Thomas B.H.",NA,NA,NA
-"1000","ICUS1000","Kukathas","Chandran",NA,NA,NA
-"1001","ICUS1001","Kullenburg","Gunnar",NA,NA,NA
-"1002","ICUS1002","Kumagai","Akiko",NA,NA,NA
-"1003","ICUS1003","Kumar","Krishan",NA,NA,NA
-"1004","ICUS1004","Kumar","Kusum",NA,NA,NA
-"1005","ICUS1005","Kumon","Shumpei",NA,NA,NA
-"1006","ICUS1006","Kunckel","Dietrich",NA,NA,NA
-"1007","ICUS1007","Kuo","Wei-Fan",NA,"B1937-09-03","B1937-09-03"
-"1008","ICUS1008","Kuratani","Yoshiro",NA,NA,NA
-"1009","ICUS1009","Kurebayashi","Shigeo",NA,NA,NA
-"1010","ICUS1010","Kuri","Kailash",NA,NA,NA
-"1011","ICUS1011","Kuroda","Toshio",NA,NA,NA
-"1012","ICUS1012","Kursunoglu","Behram",NA,NA,NA
-"1013","ICUS1013","Kurti","Nicholas","B1908-05-14","B1908-05-14","B1908-05-14"
-"1014","ICUS1014","Kurtz","Paul",NA,NA,NA
-"1015","ICUS1015","Kurtzman","Joel",NA,NA,NA
-"1016","ICUS1016","Kuru","Assefa",NA,NA,NA
-"1017","ICUS1017","Kuypers","Karel",NA,NA,NA
-"1018","ICUS1018","Kuznets","Paul W.",NA,NA,NA
-"1019","ICUS1019","Kvaloy","Sigmund",NA,NA,NA
-"1020","ICUS1020","Kwak","Chung-Hwan",NA,NA,NA
-"1021","ICUS1021","La Drière","J. Craig",NA,NA,NA
-"1022","ICUS1022","La Torre","Victor",NA,NA,NA
-"1023","ICUS1023","Labor","Adonis F.",NA,NA,NA
-"1024","ICUS1024","Lacis","Andrew",NA,NA,NA
-"1025","ICUS1025","Lagmay","Alfredo V.",NA,NA,NA
-"1026","ICUS1026","Lagmay","Leticia",NA,NA,NA
-"1027","ICUS1027","Lakusta","Alexis",NA,NA,NA
-"1028","ICUS1028","Lal","Devendra",NA,"B1929-02-14","B1929-02-14"
-"1029","ICUS1029","Lamb","George G.",NA,NA,NA
-"1030","ICUS1030","Lamb","Willis Eugene","B1913-07-12","B1913-07-12","B1913-07-12"
-"1031","ICUS1031","Lamberton","Donald McL.",NA,NA,NA
-"1032","ICUS1032","Lambo","Thomas Adeoye","B1923-03-29","B1923-03-29","B1923-03-29"
-"1033","ICUS1033","Lancaster","Chet S.",NA,NA,NA
-"1034","ICUS1034","Lancaster","Jane B.",NA,NA,NA
-"1035","ICUS1035","Landsberg","Helmut E.",NA,NA,NA
-"1036","ICUS1036","Lane","Dermot A.",NA,NA,NA
-"1037","ICUS1037","Lasswell","Harold D.","B1902-02-13",NA,NA
-"1038","ICUS1038","Laszlo","Ervin",NA,NA,NA
-"1039","ICUS1039","Latarjet","Raymond",NA,NA,"B1911-10-17"
-"1040","ICUS1040","Lau","Cheryl",NA,NA,NA
-"1041","ICUS1041","Laurikainen","K.V.",NA,NA,NA
-"1042","ICUS1042","Lawson","Robert F.",NA,NA,NA
-"1043","ICUS1043","Leaker","Dudley",NA,NA,NA
-"1044","ICUS1044","Leary","Rolfe A.",NA,NA,NA
-"1045","ICUS1045","Leavitt","Michael R.",NA,NA,NA
-"1046","ICUS1046","Lecourt","Edith",NA,NA,NA
-"1047","ICUS1047","Lee","Bae-Ham",NA,NA,NA
-"1048","ICUS1048","Lee","Dwight",NA,NA,NA
-"1049","ICUS1049","Lee","Hang-Nyong",NA,NA,NA
-"1050","ICUS1050","Lee","Ho-Wang",NA,NA,NA
-"1051","ICUS1051","Lee","Hyun-Bok",NA,NA,NA
-"1052","ICUS1052","Lee","Hyon Bok",NA,NA,NA
-"1053","ICUS1053","Lee","Kun-Sik",NA,NA,NA
-"1054","ICUS1054","Lee","Myung-Sik",NA,NA,NA
-"1055","ICUS1055","Lee","Nam Pyo",NA,NA,NA
-"1056","ICUS1056","Lee","Sang-Hun",NA,NA,NA
-"1057","ICUS1057","Lee","Sanghwe",NA,NA,NA
-"1058","ICUS1058","Lee","Se-Yeong",NA,NA,NA
-"1059","ICUS1059","Lee","Terence",NA,NA,NA
-"1060","ICUS1060","Lefebvre","Roland",NA,NA,NA
-"1061","ICUS1061","Leibnitz","Heinz Maier",NA,NA,NA
-"1062","ICUS1062","Leibowitz","Yeshayahu",NA,NA,NA
-"1063","ICUS1063","Leighton","Gerald S.",NA,NA,NA
-"1064","ICUS1064","Leinfellner","Werner",NA,NA,NA
-"1065","ICUS1065","Lejins","Peter P.",NA,NA,NA
-"1066","ICUS1066","Lekkas","Demetrios",NA,NA,NA
-"1067","ICUS1067","LeMarier","Jean-Guy",NA,NA,NA
-"1068","ICUS1068","Lemma","Aklilu",NA,NA,NA
-"1069","ICUS1069","Lenel","Hans Otto",NA,NA,NA
-"1070","ICUS1070","Leonard","Peter J.T.",NA,NA,NA
-"1071","ICUS1071","Leontief","Wassily","B1906-08-05","B1906-08-05","B1906-08-05"
-"1072","ICUS1072","Lepage","Henri",NA,NA,NA
-"1073","ICUS1073","LePair","Cornelius",NA,NA,NA
-"1074","ICUS1074","Lerede","Jean",NA,NA,NA
-"1075","ICUS1075","Lerman","Abraham",NA,NA,NA
-"1076","ICUS1076","Lerner","Abba P.",NA,NA,NA
-"1077","ICUS1077","Lerner","Daniel",NA,NA,NA
-"1078","ICUS1078","Leube","Kurt R.",NA,NA,NA
-"1079","ICUS1079","Levinson","Paul",NA,NA,NA
-"1080","ICUS1080","Levy","Jerre",NA,NA,NA
-"1081","ICUS1081","Lewis","Hywel D.",NA,NA,NA
-"1082","ICUS1082","Lewis","John",NA,NA,NA
-"1083","ICUS1083","Lewis","Sarah",NA,NA,NA
-"1084","ICUS1084","Lewis","Wilfred Bennett","B1908-06-24","B1908-06-24",NA
-"1085","ICUS1085","Lewis","W. David",NA,NA,NA
-"1086","ICUS1086","Lewis","Warren",NA,NA,NA
-"1087","ICUS1087","Li","Debao",NA,NA,NA
-"1088","ICUS1088","Li","Zu-Pei",NA,NA,NA
-"1089","ICUS1089","Libby","Willard F.","B1908-12-17",NA,NA
-"1090","ICUS1090","Libet","Benjamin",NA,NA,NA
-"1091","ICUS1091","Lieb","Irwin C.",NA,NA,NA
-"1092","ICUS1092","Lievegoed","B.C.J.",NA,NA,NA
-"1093","ICUS1093","Lim","Ung-Kyu",NA,NA,NA
-"1094","ICUS1094","Lim","Yong-Kyu",NA,NA,NA
-"1095","ICUS1095","Lin","David K.",NA,NA,NA
-"1096","ICUS1096","Lincoln","C. Eric",NA,NA,NA
-"1097","ICUS1097","Lind","Niels Christian",NA,NA,NA
-"1098","ICUS1098","Linstone","Harold",NA,NA,NA
-"1099","ICUS1099","Lipuma","Edward",NA,NA,NA
-"1100","ICUS1100","Lishman","Gordon",NA,NA,NA
-"1101","ICUS1101","Liu","Dachun",NA,NA,NA
-"1102","ICUS1102","Liu","Shu-hsien",NA,NA,NA
-"1103","ICUS1103","Liu","Shu-Zheng",NA,NA,NA
-"1104","ICUS1104","Liu","Tai-Ying",NA,NA,NA
-"1105","ICUS1105","Lobanov","A.I.",NA,NA,NA
-"1106","ICUS1106","Lodge","George T.",NA,NA,NA
-"1107","ICUS1107","Lohmoeller","Jan-Bernd",NA,NA,NA
-"1108","ICUS1108","Lombardi","John V.",NA,NA,NA
-"1109","ICUS1109","Long","Eugene T.",NA,NA,NA
-"1110","ICUS1110","Long","Franklin Asbury","B1910-07-27","B1910-07-27",NA
-"1111","ICUS1111","Lopata","Helena Znaniecki",NA,NA,NA
-"1112","ICUS1112","Lopez","Salvador P.","B1911-05-27","B1911-05-27",NA
-"1113","ICUS1113","Lopez-Mendoza","Diane",NA,NA,NA
-"1114","ICUS1114","Lorimer","David",NA,NA,NA
-"1115","ICUS1115","Lottieri","Carlo",NA,NA,NA
-"1116","ICUS1116","Lovell","John P.",NA,NA,NA
-"1117","ICUS1117","Lowenhard","Percy",NA,NA,NA
-"1118","ICUS1118","Lu","Yingzhong",NA,NA,NA
-"1119","ICUS1119","Lucas","A.O.",NA,NA,NA
-"1120","ICUS1120","Luchins","Abraham S.",NA,NA,NA
-"1121","ICUS1121","Luckey","T. Don",NA,NA,NA
-"1122","ICUS1122","Ludwig","Harvey",NA,NA,NA
-"1123","ICUS1123","Lungu","Gatian F.",NA,NA,NA
-"1124","ICUS1124","Luria","Salvador Edward","B1912-08-13","B1912-08-13",NA
-"1125","ICUS1125","Luria","Z.",NA,NA,NA
-"1126","ICUS1126","Lustig","Harry",NA,NA,NA
-"1127","ICUS1127","Lynch","Alberto Benegas, Jr.",NA,NA,NA
-"1128","ICUS1128","Lyttleton","Raymond Arthur",NA,"B1911-05-07",NA
-"1129","ICUS1129","Maccabe","Bruce",NA,NA,NA
-"1130","ICUS1130","Maceda","Jose",NA,NA,NA
-"1131","ICUS1131","MacGregor","Geddes",NA,NA,NA
-"1132","ICUS1132","Machol","Robert",NA,NA,NA
-"1133","ICUS1133","Mackay","William",NA,NA,NA
-"1134","ICUS1134","Mackendrick","Paul L.",NA,NA,NA
-"1135","ICUS1135","MacKinnon","John",NA,NA,NA
-"1136","ICUS1136","MacKinnon","Kathy",NA,NA,NA
-"1137","ICUS1137","MacVicar","Robert",NA,NA,NA
-"1138","ICUS1138","Madden","Carl H.",NA,NA,NA
-"1139","ICUS1139","Maddox","John",NA,NA,NA
-"1140","ICUS1140","Madigan","Francis C.",NA,NA,NA
-"1141","ICUS1141","Madsen","K.B.",NA,NA,NA
-"1142","ICUS1142","Madsen","Truman G.",NA,NA,NA
-"1143","ICUS1143","Maffesoli","Michel",NA,NA,NA
-"1144","ICUS1144","Mahapatra","L.K.",NA,NA,NA
-"1145","ICUS1145","Maille","Francois",NA,NA,NA
-"1146","ICUS1146","Makarov","Mikhail L.",NA,NA,NA
-"1147","ICUS1147","Makkai","Adam",NA,NA,NA
-"1148","ICUS1148","Malherbe","Ernst G.","B1895-11-08",NA,NA
-"1149","ICUS1149","Malik","Charles Habib","B1906-02-11","B1906-02-11",NA
-"1150","ICUS1150","Malik","F. Bary",NA,NA,NA
-"1151","ICUS1151","Manandhar","Debendra",NA,NA,NA
-"1152","ICUS1152","Mann","Ady",NA,NA,NA
-"1153","ICUS1153","Manners","Robert A.",NA,NA,NA
-"1154","ICUS1154","Marc","Alexandre",NA,NA,NA
-"1155","ICUS1155","Marchetti","Cesare",NA,NA,NA
-"1156","ICUS1156","Marciano","Teresa",NA,NA,NA
-"1157","ICUS1157","Mardin","Serif",NA,NA,NA
-"1158","ICUS1158","Margenau","Henry",NA,NA,NA
-"1159","ICUS1159","Marinov","Uri",NA,NA,NA
-"1160","ICUS1160","Markley","O.W.",NA,NA,NA
-"1161","ICUS1161","Marney","Milton",NA,NA,NA
-"1162","ICUS1162","Marrett","Christine",NA,NA,NA
-"1163","ICUS1163","Marshall","Inku",NA,NA,NA
-"1164","ICUS1164","Martelance","Tomo",NA,NA,NA
-"1165","ICUS1165","Martin","Archer John Porter","B1910-03-01","B1910-03-01","B1910-03-01"
-"1166","ICUS1166","Martin","David A.",NA,NA,NA
-"1167","ICUS1167","Martin","Esmond B.",NA,NA,NA
-"1168","ICUS1168","Martinez","Gerardo",NA,NA,NA
-"1169","ICUS1169","Maruani","Jean",NA,NA,NA
-"1170","ICUS1170","Maruyama","Magaroh",NA,NA,NA
-"1171","ICUS1171","Marx","George",NA,NA,NA
-"1172","ICUS1172","Masaki","Akira",NA,NA,NA
-"1173","ICUS1173","Masatsugu","Mitsuyuki",NA,NA,NA
-"1174","ICUS1174","Mascall","Eric Lionel",NA,"B1905-12-12",NA
-"1175","ICUS1175","Masini","Giancarlo",NA,NA,NA
-"1176","ICUS1176","Masmoudi","Mustafa",NA,NA,NA
-"1177","ICUS1177","Matson","Floyd W.",NA,NA,NA
-"1178","ICUS1178","Matsunaga","Daigan Lee",NA,NA,NA
-"1179","ICUS1179","Matsushita","Masatoshi",NA,NA,NA
-"1180","ICUS1180","Matthias","Bernd T.","B1918-06-08",NA,NA
-"1181","ICUS1181","Matzcak","Sebastian A.",NA,NA,NA
-"1182","ICUS1182","Mavrodes","George I.",NA,NA,NA
-"1183","ICUS1183","Maxey","Margaret N.",NA,NA,NA
-"1184","ICUS1184","Maxwell","Grover",NA,NA,NA
-"1185","ICUS1185","May","Sidney",NA,NA,NA
-"1186","ICUS1186","Mayer","J.P.",NA,NA,NA
-"1187","ICUS1187","Mayntz","Renate K.",NA,NA,NA
-"1188","ICUS1188","Mayo","Louis Harkey",NA,NA,NA
-"1189","ICUS1189","Maziarz","Edward",NA,NA,NA
-"1190","ICUS1190","Mazrui","Ali","B1933-02-24","B1933-02-24","B1933-02-24"
-"1191","ICUS1191","Mbiti","John S.",NA,NA,NA
-"1192","ICUS1192","McCarthy","Vincent A",NA,NA,NA
-"1193","ICUS1193","McCool","Gerald",NA,NA,NA
-"1194","ICUS1194","McFarland","H. Neill",NA,NA,NA
-"1195","ICUS1195","McForan","Desmond",NA,NA,NA
-"1196","ICUS1196","McGeer","Patrick L.",NA,NA,NA
-"1197","ICUS1197","McGuiness","Diane",NA,NA,NA
-"1198","ICUS1198","McLuhan","H. Marshall","B1911-07-21",NA,NA
-"1199","ICUS1199","McMichael","John","B1904-07-25","B1904-07-25",NA
-"1200","ICUS1200","McMullin","Ernen",NA,NA,NA
-"1201","ICUS1201","Mechkat","Cyrus",NA,NA,NA
-"1202","ICUS1202","Medina","Florencio",NA,NA,NA
-"1203","ICUS1203","Medved","David",NA,NA,NA
-"1204","ICUS1204","Meeker","Joseph W.",NA,NA,NA
-"1205","ICUS1205","Mehr","Farhang","B1923-12-11",NA,NA
-"1206","ICUS1206","Mehra","Jagdish",NA,NA,NA
-"1207","ICUS1207","Mehra","Marlis",NA,NA,NA
-"1208","ICUS1208","Mehretu","Assefa",NA,NA,NA
-"1209","ICUS1209","Meiners","Roger E.",NA,NA,NA
-"1210","ICUS1210","Meissner","Werner",NA,NA,NA
-"1211","ICUS1211","Mejia","Jorge",NA,NA,NA
-"1212","ICUS1212","Melamed","Avraham",NA,NA,NA
-"1213","ICUS1213","Mellanby","Kenneth","B1908-03-26","B1908-03-26",NA
-"1214","ICUS1214","Meltzoff","Sarah Keene",NA,NA,NA
-"1215","ICUS1215","Melvin","Mael A.",NA,NA,NA
-"1216","ICUS1216","Melvin","Sofia B.",NA,NA,NA
-"1217","ICUS1217","Mendelsohn","Everett I.",NA,NA,NA
-"1218","ICUS1218","Menke-Gluckert","P.",NA,NA,NA
-"1219","ICUS1219","Menon","P.K.",NA,NA,NA
-"1220","ICUS1220","Mensch","Gerhard O.",NA,NA,NA
-"1221","ICUS1221","Merritt, Jr.","Lynne L.",NA,NA,NA
-"1222","ICUS1222","Merton","Robert K.","B1910-07-05","B1910-07-05","B1910-07-04"
-"1223","ICUS1223","Mesthene","Emmanuel G.",NA,NA,NA
-"1224","ICUS1224","Meurers","Joseph",NA,NA,NA
-"1225","ICUS1225","Meyer","Thomas",NA,NA,NA
-"1226","ICUS1226","Meyer-Dohm","Peter",NA,NA,NA
-"1227","ICUS1227","Mfoulou","Jean",NA,NA,NA
-"1228","ICUS1228","Michael","Donald N.",NA,NA,NA
-"1229","ICUS1229","Michaelis","Anthony R.",NA,NA,NA
-"1230","ICUS1230","Mickelson","Sig",NA,NA,NA
-"1231","ICUS1231","Mickler","Michael",NA,NA,NA
-"1232","ICUS1232","Mihram","G. Arthur",NA,NA,NA
-"1233","ICUS1233","Miller","Stanley Lloyd",NA,"B1930-03-07","B1930-03-07"
-"1234","ICUS1234","Mills","Mark",NA,NA,NA
-"1235","ICUS1235","Mina","Fayez M.",NA,NA,NA
-"1236","ICUS1236","Minguet","Philippe",NA,NA,NA
-"1237","ICUS1237","Minners","Howard A.",NA,NA,NA
-"1238","ICUS1238","Minogue","Kenneth R.",NA,NA,NA
-"1239","ICUS1239","Mishra","R.K.",NA,NA,NA
-"1240","ICUS1240","Mitchell","Edgar D.","B1930-09-17",NA,NA
-"1241","ICUS1241","Mitroff","Ian I.",NA,NA,NA
-"1242","ICUS1242","Mitter","Wolfgang",NA,NA,NA
-"1243","ICUS1243","Miyajima","Tatsuoki",NA,NA,NA
-"1244","ICUS1244","Miyawaki","Akira",NA,NA,NA
-"1245","ICUS1245","Miyoshi","Osamu",NA,NA,NA
-"1246","ICUS1246","Miyuki","Mokusen",NA,NA,NA
-"1247","ICUS1247","Mizutani","Hiroshi",NA,NA,NA
-"1248","ICUS1248","Mochida","Yutaka",NA,NA,NA
-"1249","ICUS1249","Mogey","John",NA,NA,NA
-"1250","ICUS1250","Moldofsky","Naomi",NA,NA,NA
-"1251","ICUS1251","Moles","Abraham A.",NA,NA,NA
-"1252","ICUS1252","Molinski","Waldemar",NA,NA,NA
-"1253","ICUS1253","Moljk","Anton",NA,NA,NA
-"1254","ICUS1254","Molnar","Peter",NA,NA,NA
-"1255","ICUS1255","Moltmann","Jurgen",NA,NA,NA
-"1256","ICUS1256","Monckeberg","Fernando",NA,NA,NA
-"1257","ICUS1257","Mongar","Jack",NA,NA,NA
-"1258","ICUS1258","Monke","Eric A.",NA,NA,NA
-"1259","ICUS1259","Montilus","Guerin C.",NA,NA,NA
-"1260","ICUS1260","Moody","Harry R.",NA,NA,NA
-"1261","ICUS1261","Moody","Rick",NA,NA,NA
-"1262","ICUS1262","Moon","Robert J.",NA,NA,NA
-"1263","ICUS1263","Moon","Sun Myung",NA,NA,NA
-"1264","ICUS1264","Moore","Jerry R.",NA,NA,NA
-"1265","ICUS1265","Moore","John H.",NA,NA,NA
-"1266","ICUS1266","Moraitis","Thanassis",NA,NA,NA
-"1267","ICUS1267","Morales-Carrion","Arturo",NA,NA,NA
-"1268","ICUS1268","Moravcsik","Michael J.",NA,NA,NA
-"1269","ICUS1269","Morgan","Herbert R.",NA,NA,NA
-"1270","ICUS1270","Morgenstern","Oscar",NA,NA,NA
-"1271","ICUS1271","Mori","Ryoichi",NA,NA,NA
-"1272","ICUS1272","Mori","Takahide",NA,NA,NA
-"1273","ICUS1273","Morin-Nahoum","Edgar",NA,NA,NA
-"1274","ICUS1274","Moses","Charles",NA,NA,NA
-"1275","ICUS1275","Moss","Scott",NA,NA,NA
-"1276","ICUS1276","Motoyama","Hiroshi",NA,NA,NA
-"1277","ICUS1277","Motz","Lloyd",NA,NA,NA
-"1278","ICUS1278","Moutsopoulos","Evanghelos",NA,NA,NA
-"1279","ICUS1279","Moyer","Kenneth E.",NA,NA,NA
-"1280","ICUS1280","Mueller-Ibold","Klaus",NA,NA,NA
-"1281","ICUS1281","Mufti","R",NA,NA,NA
-"1282","ICUS1282","Mull","Donald R.",NA,NA,NA
-"1283","ICUS1283","Mulliken","Robert S.","B1896-06-07","B1896-06-07",NA
-"1284","ICUS1284","Mullins","Philip",NA,NA,NA
-"1285","ICUS1285","Munz","Peter",NA,NA,NA
-"1286","ICUS1286","Mupawaenda","Anna C.",NA,NA,NA
-"1287","ICUS1287","Murakami","Yoichiro",NA,NA,NA
-"1288","ICUS1288","Murphy","Matthew Francis",NA,NA,NA
-"1289","ICUS1289","Murray","Priscilla",NA,NA,NA
-"1290","ICUS1290","Murthy","M.V.R.S.",NA,NA,NA
-"1291","ICUS1291","Mustard","J. Fraser",NA,NA,NA
-"1292","ICUS1292","Muth","John F.",NA,NA,NA
-"1293","ICUS1293","Muto","Paul T.",NA,NA,NA
-"1294","ICUS1294","Nadeau","Robert",NA,NA,NA
-"1295","ICUS1295","Naess","Arne",NA,NA,NA
-"1296","ICUS1296","Nagasaka","Francis G.",NA,NA,NA
-"1297","ICUS1297","Nagata","Katsutaro",NA,NA,NA
-"1298","ICUS1298","Nagley","Winfield E.",NA,NA,NA
-"1299","ICUS1299","Nagy","Denes",NA,NA,NA
-"1300","ICUS1300","Nahemow","Lucille",NA,NA,NA
-"1301","ICUS1301","Nahvi","Mahmood J.",NA,NA,NA
-"1302","ICUS1302","Naidu","Ratna",NA,NA,NA
-"1303","ICUS1303","Nainggolan","S.C.",NA,NA,NA
-"1304","ICUS1304","Nakagawa","Hideyasu",NA,NA,NA
-"1305","ICUS1305","Nakagawa","Manabu",NA,NA,NA
-"1306","ICUS1306","Nakahara","Hideomi",NA,NA,NA
-"1307","ICUS1307","Nakajima","Masaki",NA,NA,NA
-"1308","ICUS1308","Nakicenovic","Nebojsa",NA,NA,NA
-"1309","ICUS1309","Namiki","Nobuyoshi",NA,NA,NA
-"1310","ICUS1310","Nanda","J.N.",NA,NA,NA
-"1311","ICUS1311","Naranjo","Plutarco",NA,NA,NA
-"1312","ICUS1312","Nasr","Seyyed Hossein",NA,NA,"B1933-04-07"
-"1313","ICUS1313","Nasr","Vali Reza",NA,NA,NA
-"1314","ICUS1314","Ndeti","Kivuto",NA,NA,NA
-"1315","ICUS1315","Neal","Fred Warner",NA,NA,NA
-"1316","ICUS1316","Neel","Louis Eugene Felix","B1904-11-22","B1904-11-22","B1904-11-22"
-"1317","ICUS1317","Ne'eman","Yuval","B1925-05-14","B1925-05-14","B1925-05-14"
-"1318","ICUS1318","Nehnevajsa","Jiri",NA,NA,NA
-"1319","ICUS1319","Newburgh","Robert W.",NA,NA,NA
-"1320","ICUS1320","Newcombe","Hanna",NA,NA,NA
-"1321","ICUS1321","Nezlin","Mikhail V.",NA,NA,NA
-"1322","ICUS1322","Niangoran-Bouah","Georges",NA,NA,NA
-"1323","ICUS1323","Nicholls","Michael",NA,NA,NA
-"1324","ICUS1324","Nicholson","Kelly",NA,NA,NA
-"1325","ICUS1325","Nielsen","Kai",NA,NA,NA
-"1326","ICUS1326","Niemeyer","Gerhart","B1907-02-15","B1907-02-15","B1907"
-"1327","ICUS1327","Nikolaev","Aleksei",NA,NA,NA
-"1328","ICUS1328","Nilsson","Sam",NA,NA,NA
-"1329","ICUS1329","Nishibori","Eizaburo",NA,NA,NA
-"1330","ICUS1330","Nishimura","Shun-ichi",NA,NA,NA
-"1331","ICUS1331","Nishio","Riitsu",NA,NA,NA
-"1332","ICUS1332","Niskin","Shale",NA,NA,NA
-"1333","ICUS1333","Nixon","Alan C.",NA,NA,NA
-"1334","ICUS1334","Njock","G. Edward",NA,NA,NA
-"1335","ICUS1335","Noble","Jane",NA,NA,NA
-"1336","ICUS1336","Noda","Keisuke",NA,NA,NA
-"1337","ICUS1337","Noda","Masaharu",NA,NA,NA
-"1338","ICUS1338","Noel-Baker","Philip J.","B1889-11-01",NA,NA
-"1339","ICUS1339","Nomura","Kenji",NA,NA,NA
-"1340","ICUS1340","Noonan","Richard",NA,NA,NA
-"1341","ICUS1341","Nordwall","Adam",NA,NA,NA
-"1342","ICUS1342","Norrish","Ronald George Wreyford","B1897-11-09",NA,NA
-"1343","ICUS1343","Northrup","Filmer S.C.",NA,NA,NA
-"1344","ICUS1344","Norton","Michael G.",NA,NA,NA
-"1345","ICUS1345","Novak","Phillip",NA,NA,NA
-"1346","ICUS1346","Novak","Richey",NA,NA,NA
-"1347","ICUS1347","Novosel","Pavao",NA,NA,NA
-"1348","ICUS1348","Nowell-Smith","Patrick",NA,NA,NA
-"1349","ICUS1349","Nutz","Walter",NA,NA,NA
-"1350","ICUS1350","Oae","Shigeru",NA,NA,NA
-"1351","ICUS1351","Oates","Joyce Carol",NA,NA,"B1938-06-16"
-"1352","ICUS1352","Obayashi","Tatsuzo",NA,NA,NA
-"1353","ICUS1353","Obeng","Letitia Eva",NA,NA,"B1925-01-10"
-"1354","ICUS1354","Oberg","James E.",NA,NA,NA
-"1355","ICUS1355","O'Brien","Brian","B1898-01-02","B1898-01-02","B1898-01-02"
-"1356","ICUS1356","O'Conner","Anthony",NA,NA,NA
-"1357","ICUS1357","Oeschger","H.",NA,NA,NA
-"1358","ICUS1358","O'Hear","Anthony",NA,NA,NA
-"1359","ICUS1359","Ohin","Alexander J.","B1920-03-20",NA,NA
-"1360","ICUS1360","Oilom","John F.",NA,NA,NA
-"1361","ICUS1361","Okatcha","Frederick M.",NA,NA,NA
-"1362","ICUS1362","Okoli","F. Ekueme",NA,NA,NA
-"1363","ICUS1363","Olds","Glenn A.",NA,NA,NA
-"1364","ICUS1364","O'Leary","Brian T.",NA,NA,NA
-"1365","ICUS1365","Oliver, Jr.","Horace G.",NA,NA,NA
-"1366","ICUS1366","Oloko","Olatunde",NA,NA,NA
-"1367","ICUS1367","Omidvar","Kazem",NA,NA,NA
-"1368","ICUS1368","Oncley","J.L.",NA,NA,NA
-"1369","ICUS1369","Onwuka","R.I.",NA,NA,NA
-"1370","ICUS1370","Ooshika","Yuzuru",NA,NA,NA
-"1371","ICUS1371","Oosthuizen","Gerhard",NA,NA,NA
-"1372","ICUS1372","Opp","Karl-Dieter",NA,NA,NA
-"1373","ICUS1373","Ordeshook","Peter",NA,NA,NA
-"1374","ICUS1374","O'Regan","Brendon",NA,NA,NA
-"1375","ICUS1375","Orth","E.W.",NA,NA,NA
-"1376","ICUS1376","Ostriker","Jeramiah P.",NA,"B1937-01-13","B1937-04-13"
-"1377","ICUS1377","Ostrom","Vincent",NA,NA,NA
-"1378","ICUS1378","Otani","Akifumi",NA,NA,NA
-"1379","ICUS1379","Otero","Efraim",NA,NA,NA
-"1380","ICUS1380","Otsuka","Shigeru",NA,NA,NA
-"1381","ICUS1381","Ovtcharov","Roumen",NA,NA,NA
-"1382","ICUS1382","Owusu","Maxwell K.",NA,NA,NA
-"1383","ICUS1383","Oxenham","John",NA,NA,NA
-"1384","ICUS1384","Pachocinski","Ryszard",NA,NA,NA
-"1385","ICUS1385","Paik","Chull",NA,NA,NA
-"1386","ICUS1386","Palay","Sanford >",NA,NA,NA
-"1387","ICUS1387","Palmer","Spencer J.",NA,NA,NA
-"1388","ICUS1388","Palter","Robert M.",NA,NA,NA
-"1389","ICUS1389","Paoletti","Maurizio",NA,NA,NA
-"1390","ICUS1390","Papagiannis","Michael",NA,NA,NA
-"1391","ICUS1391","Paquet","Jean-Guy",NA,NA,NA
-"1392","ICUS1392","Paradis","Andree",NA,NA,NA
-"1393","ICUS1393","Park","Charles Rawlinson",NA,"B1916","B1916-03-02"
-"1394","ICUS1394","Park","Choong-suh",NA,NA,NA
-"1395","ICUS1395","Park","Han-Shik",NA,NA,NA
-"1396","ICUS1396","Park","P. Kilho",NA,NA,NA
-"1397","ICUS1397","Parpia","Husain A.B.",NA,NA,NA
-"1398","ICUS1398","Parra-Luna","Francisco",NA,NA,NA
-"1399","ICUS1399","Parrinder","Geoffrey",NA,NA,NA
-"1400","ICUS1400","Parsegian","Vozcan",NA,NA,NA
-"1401","ICUS1401","Parsons","Arthur S.",NA,NA,NA
-"1402","ICUS1402","Patai","Raphael",NA,NA,NA
-"1403","ICUS1403","Patiño","Jose F",NA,NA,NA
-"1404","ICUS1404","Paul","Norman L.",NA,NA,NA
-"1405","ICUS1405","Pawar","Shri M.S.",NA,NA,NA
-"1406","ICUS1406","Pawllowski","Krzysztof",NA,NA,NA
-"1407","ICUS1407","Pawson","Ray",NA,NA,NA
-"1408","ICUS1408","Pearson","Paul B.",NA,NA,NA
-"1409","ICUS1409","Peccei","Aurelio","B1908-07-04",NA,NA
-"1410","ICUS1410","Pei","Wu Huan",NA,NA,NA
-"1411","ICUS1411","Penasse","Lucien",NA,NA,NA
-"1412","ICUS1412","Penfold","Anthony",NA,NA,NA
-"1413","ICUS1413","Pentikäinen","Juha",NA,NA,NA
-"1414","ICUS1414","Peperzak","Adriaan",NA,NA,NA
-"1415","ICUS1415","Perovic","Milos",NA,NA,NA
-"1416","ICUS1416","Perroux","François","B1903-12-19","B1903-12-19",NA
-"1417","ICUS1417","Perry","A.M.",NA,NA,NA
-"1418","ICUS1418","Perry","Paul",NA,NA,NA
-"1419","ICUS1419","Petersen","Arne F.",NA,NA,NA
-"1420","ICUS1420","Petrobelli","Pierluigi",NA,NA,NA
-"1421","ICUS1421","Petroni","Angelo Maria",NA,NA,NA
-"1422","ICUS1422","Petrov","Alexander",NA,NA,NA
-"1423","ICUS1423","Petrovic","Alexandre",NA,NA,NA
-"1424","ICUS1424","Phan","Peter C.",NA,NA,NA
-"1425","ICUS1425","Philipps","Herbert",NA,NA,NA
-"1426","ICUS1426","Phillips","N.J.",NA,NA,NA
-"1427","ICUS1427","Phlegar","Jacquelyn Ann",NA,NA,NA
-"1428","ICUS1428","Phlegar","Theodore",NA,NA,NA
-"1429","ICUS1429","Piaget","Jean","B1896-08-09",NA,NA
-"1430","ICUS1430","Piatier","André","B1914-06-25","B1914-06-25",NA
-"1431","ICUS1431","Piccard","Jacques","B1922-07-28","B1922-07-28","B1922-07-28"
-"1432","ICUS1432","Pietschmann","Herbert",NA,NA,NA
-"1433","ICUS1433","Piganiol","Pierre",NA,NA,NA
-"1434","ICUS1434","Pikas","Anatol",NA,NA,NA
-"1435","ICUS1435","Pillsbury","Barbara L.K.",NA,NA,NA
-"1436","ICUS1436","Pimentel","David",NA,NA,NA
-"1437","ICUS1437","Pincheira","Guido",NA,NA,NA
-"1438","ICUS1438","Piotrowski","Jerzy",NA,NA,NA
-"1439","ICUS1439","Pirtle","Lizette",NA,NA,NA
-"1440","ICUS1440","Platonov","Alexey",NA,NA,NA
-"1441","ICUS1441","Pleijel","A.",NA,NA,NA
-"1442","ICUS1442","Pobanz","Kerry C.",NA,NA,NA
-"1443","ICUS1443","Poch","Francisco Azorin",NA,NA,NA
-"1444","ICUS1444","Pöggeler","Otto",NA,NA,"B1928-12-12"
-"1445","ICUS1445","Pogue","Delores",NA,NA,NA
-"1446","ICUS1446","Pohl","Frederick",NA,NA,NA
-"1447","ICUS1447","Pollard","William G.",NA,NA,NA
-"1448","ICUS1448","Ponnamperuma","Cyril",NA,NA,NA
-"1449","ICUS1449","Poole","Alan D.",NA,NA,NA
-"1450","ICUS1450","Popper","Hans",NA,NA,NA
-"1451","ICUS1451","Popper","Karl","B1902-07-28","B1902-07-28",NA
-"1452","ICUS1452","Posarac","Aleksandra",NA,NA,NA
-"1453","ICUS1453","Pospelov","Igor",NA,NA,NA
-"1454","ICUS1454","Post","John F.",NA,NA,NA
-"1455","ICUS1455","Post","Stephen G.",NA,NA,NA
-"1456","ICUS1456","Power","Camilia",NA,NA,NA
-"1457","ICUS1457","Prakash","Ravi",NA,NA,NA
-"1458","ICUS1458","Pratt","Edward O.",NA,NA,NA
-"1459","ICUS1459","Prechter","Robert R., Jr.",NA,NA,NA
-"1460","ICUS1460","Preparata","Giuliano",NA,NA,NA
-"1461","ICUS1461","Pribram","Karl H.",NA,NA,NA
-"1462","ICUS1462","Price","Charles C.",NA,NA,NA
-"1463","ICUS1463","Prickett","S.",NA,NA,NA
-"1464","ICUS1464","Prigogine","Ilya","B1917-01-25","B1917-01-25","B1917-01-25"
-"1465","ICUS1465","Primas","Hans",NA,NA,NA
-"1466","ICUS1466","Pringle","J.W.S.",NA,NA,NA
-"1467","ICUS1467","Procaccia","Itamar",NA,NA,NA
-"1468","ICUS1468","Proctor","Donald F.",NA,NA,NA
-"1469","ICUS1469","Proctor","John H.",NA,NA,NA
-"1470","ICUS1470","Proctor","Paul Dean",NA,NA,NA
-"1471","ICUS1471","Prothro","Edwin Terry",NA,NA,NA
-"1472","ICUS1472","Provence","Merrill",NA,NA,NA
-"1473","ICUS1473","Prucha","Jan",NA,NA,NA
-"1474","ICUS1474","Psomopoulos","Panayis",NA,NA,NA
-"1475","ICUS1475","Pulida","Carlos",NA,NA,NA
-"1476","ICUS1476","Puranen","Bi",NA,NA,NA
-"1477","ICUS1477","Purdy","William C.",NA,NA,NA
-"1478","ICUS1478","Puri","Gopal",NA,NA,NA
-"1479","ICUS1479","Quadens","Olga",NA,NA,NA
-"1480","ICUS1480","Quine","Willard Van Orman","B1908-06-25","B1908-06-25","B1908-06-25"
-"1481","ICUS1481","Quispel","Gilles",NA,NA,NA
-"1482","ICUS1482","Rabi","Isidor Isaac","B1989-07-29","B1898-07-29",NA
-"1483","ICUS1483","Rabie","Mohamed",NA,NA,NA
-"1484","ICUS1484","Rabinovitch","Mikhail",NA,NA,NA
-"1485","ICUS1485","Radkowsky","Alvin",NA,NA,NA
-"1486","ICUS1486","Radkowsky","Annette",NA,NA,NA
-"1487","ICUS1487","Radnitzky","Gerard",NA,NA,NA
-"1488","ICUS1488","Rafeq","Abdul-Karim",NA,NA,NA
-"1489","ICUS1489","Rahman","Abdur",NA,NA,NA
-"1490","ICUS1490","Rakic","Ljubisav M.",NA,NA,NA
-"1491","ICUS1491","Rambidi","Nicholas G.",NA,NA,NA
-"1492","ICUS1492","Ramey","James W.",NA,NA,NA
-"1493","ICUS1493","Ramirez","J. Martin",NA,NA,NA
-"1494","ICUS1494","Ramirez","Ricardo",NA,NA,NA
-"1495","ICUS1495","Ramon","Ceon",NA,NA,NA
-"1496","ICUS1496","Rand","George",NA,NA,NA
-"1497","ICUS1497","Randolph","Yaovi",NA,NA,NA
-"1498","ICUS1498","Rannit","Aleksis",NA,NA,NA
-"1499","ICUS1499","Rantanen","Marja",NA,NA,NA
-"1500","ICUS1500","Rao","K.L. Seshagiri",NA,NA,NA
-"1501","ICUS1501","Rao","Y.V.L.",NA,NA,NA
-"1502","ICUS1502","Rasool","S. Ishtiaque",NA,NA,NA
-"1503","ICUS1503","Ratanakul","Pinit",NA,NA,NA
-"1504","ICUS1504","Rather","Leiland J.",NA,NA,NA
-"1505","ICUS1505","Rau","Carl",NA,NA,NA
-"1506","ICUS1506","Rauf","Muhamad Abdul",NA,NA,NA
-"1507","ICUS1507","Rauscher","Elizabeth A.",NA,NA,NA
-"1508","ICUS1508","Raven","R.W.",NA,NA,NA
-"1509","ICUS1509","Ravindra","Ravi",NA,NA,NA
-"1510","ICUS1510","Rawat","K.S.",NA,NA,NA
-"1511","ICUS1511","Ray","Lewis",NA,NA,NA
-"1512","ICUS1512","Rayapen","Lewis",NA,NA,NA
-"1513","ICUS1513","Razumova","Ksenia A.",NA,NA,NA
-"1514","ICUS1514","Reck","Andrew J.",NA,NA,NA
-"1515","ICUS1515","Reeves","Gene G.",NA,NA,NA
-"1516","ICUS1516","Reeves","Marjorie",NA,"B1905-07-17",NA
-"1517","ICUS1517","Reith","Charles",NA,NA,NA
-"1518","ICUS1518","Renfrew","Malcolm M.",NA,NA,NA
-"1519","ICUS1519","Rescher","Nicholas",NA,NA,"B1928-07-15"
-"1520","ICUS1520","Reyes","Ramon C.",NA,NA,NA
-"1521","ICUS1521","Reynolds","Peter",NA,NA,NA
-"1522","ICUS1522","Rhee","Keun-Ho",NA,NA,NA
-"1523","ICUS1523","Rhee","Kyu-Ho",NA,NA,NA
-"1524","ICUS1524","Rheinfrank","John",NA,NA,NA
-"1525","ICUS1525","Rhi","Ki-Young",NA,NA,NA
-"1526","ICUS1526","Rhine","J.B.",NA,NA,NA
-"1527","ICUS1527","Richards","David A.J.",NA,NA,NA
-"1528","ICUS1528","Richardson","Herbert",NA,NA,NA
-"1529","ICUS1529","Richardson","Roger W.",NA,NA,NA
-"1530","ICUS1530","Richardson","William J.",NA,NA,NA
-"1531","ICUS1531","Richie-Calder","Lord",NA,NA,NA
-"1532","ICUS1532","Ricketts","Robert",NA,NA,NA
-"1533","ICUS1533","Riecken","Henry William",NA,NA,NA
-"1534","ICUS1534","Ritterbush","Philip C.",NA,NA,NA
-"1535","ICUS1535","Rivett","Patrick",NA,NA,NA
-"1536","ICUS1536","Robbins","Earldean V.S.",NA,NA,NA
-"1537","ICUS1537","Roberts","Richard B.",NA,NA,NA
-"1538","ICUS1538","Robertson","Rebecca",NA,NA,NA
-"1539","ICUS1539","Robertson","Roland",NA,NA,NA
-"1540","ICUS1540","Robinson","Daniel N.",NA,NA,NA
-"1541","ICUS1541","Robinson","Edward",NA,NA,NA
-"1542","ICUS1542","Robinson","Enders A.",NA,NA,NA
-"1543","ICUS1543","Rödding","Walburga",NA,NA,NA
-"1544","ICUS1544","Rodman","John R.",NA,NA,NA
-"1545","ICUS1545","Rodriguez-Delgado","Rafael",NA,NA,NA
-"1546","ICUS1546","Roger","J.",NA,NA,NA
-"1547","ICUS1547","Rogner","Ingrid B.",NA,NA,NA
-"1548","ICUS1548","Rogowski","Josef",NA,NA,NA
-"1549","ICUS1549","Rohatgi","Kalpana",NA,NA,NA
-"1550","ICUS1550","Rohatgi","Pradeep K.",NA,NA,NA
-"1551","ICUS1551","Rohmann","Klaus",NA,NA,NA
-"1552","ICUS1552","Romo","Luis A.",NA,NA,NA
-"1553","ICUS1553","Rörsch","Arthur",NA,NA,NA
-"1554","ICUS1554","Rose","Mary Carman",NA,NA,NA
-"1555","ICUS1555","Rosen","Steven J.",NA,NA,NA
-"1556","ICUS1556","Rosenberg","Leon J.",NA,NA,NA
-"1557","ICUS1557","Rosenblueth","Emilio",NA,NA,NA
-"1558","ICUS1558","Rosenfeld","Albert",NA,NA,NA
-"1559","ICUS1559","Rosenmayr","H",NA,NA,NA
-"1560","ICUS1560","Rosenmayr","Leopold",NA,NA,NA
-"1561","ICUS1561","Rosenqvist","Ivan Th.",NA,NA,NA
-"1562","ICUS1562","Roslansky","John D.",NA,NA,NA
-"1563","ICUS1563","Rosow","Irving",NA,NA,NA
-"1564","ICUS1564","Ross","Sherman",NA,NA,NA
-"1565","ICUS1565","Rotblat","Joseph","B1908-11-04","B1908-11-04","B1908-11-04"
-"1566","ICUS1566","Roth","John K.",NA,NA,NA
-"1567","ICUS1567","Rottenberg","Simon",NA,NA,NA
-"1568","ICUS1568","Rouve","Pierre",NA,NA,NA
-"1569","ICUS1569","Rowe","David N.",NA,NA,NA
-"1570","ICUS1570","Rowland","F. Sherwood",NA,NA,NA
-"1571","ICUS1571","Roy","William Theo",NA,NA,NA
-"1572","ICUS1572","Royce","Joseph R.",NA,NA,NA
-"1573","ICUS1573","Roze","J. Arnold",NA,NA,NA
-"1574","ICUS1574","Rubenstein","Betty Rogers",NA,NA,NA
-"1575","ICUS1575","Rubenstein","Richard L.",NA,NA,NA
-"1576","ICUS1576","Rubinger","Richard",NA,NA,NA
-"1577","ICUS1577","Rueff","Jacques","B1896-08-23",NA,NA
-"1578","ICUS1578","Rüegg","Walter H.",NA,NA,NA
-"1579","ICUS1579","Rukare","Enoka H.",NA,NA,NA
-"1580","ICUS1580","Rumscheidt","H. Martin",NA,NA,NA
-"1581","ICUS1581","Russell","John L.",NA,NA,NA
-"1582","ICUS1582","Rutter","William J.",NA,NA,NA
-"1583","ICUS1583","Ryan","John W.",NA,NA,NA
-"1584","ICUS1584","Ryzl","Milan",NA,NA,NA
-"1585","ICUS1585","Sabato","Joge A.",NA,NA,NA
-"1586","ICUS1586","Sabelman","Eric E.",NA,NA,NA
-"1587","ICUS1587","Sabouret","Jean-Francois",NA,NA,NA
-"1588","ICUS1588","Sachs","Vladimir",NA,NA,NA
-"1589","ICUS1589","Sagasti","Francisco R.",NA,NA,NA
-"1590","ICUS1590","Sakai","Hidehisa",NA,NA,NA
-"1591","ICUS1591","Sakamoto","Hyakudai",NA,NA,NA
-"1592","ICUS1592","Sakr","Mohamed Ahmed",NA,NA,NA
-"1593","ICUS1593","Salaquarda","Joerg",NA,NA,NA
-"1594","ICUS1594","Salazar","Zeus A.",NA,NA,NA
-"1595","ICUS1595","Saleh","Rouchdy S.",NA,NA,NA
-"1596","ICUS1596","Salin","Pascal",NA,NA,NA
-"1597","ICUS1597","Salk","Jonas","B1914-10-28","B1914-10-28",NA
-"1598","ICUS1598","Salonen","Neil Albert",NA,NA,NA
-"1599","ICUS1599","Samarawickrama","Gervin P.",NA,NA,NA
-"1600","ICUS1600","Samuelson","Norbert",NA,NA,NA
-"1601","ICUS1601","Sandhu","K.S.",NA,NA,NA
-"1602","ICUS1602","Sanfuentes","Andres",NA,NA,NA
-"1603","ICUS1603","Sannangelantonio","Luce",NA,NA,NA
-"1604","ICUS1604","Santoso","R. Slamet Iman",NA,NA,NA
-"1605","ICUS1605","Sanuki","Toshio",NA,NA,NA
-"1606","ICUS1606","Saqeb","Ghulam",NA,NA,NA
-"1607","ICUS1607","Saqqaf","Abdulaziz",NA,NA,NA
-"1608","ICUS1608","Sass","Hans-Martin",NA,NA,NA
-"1609","ICUS1609","Sato","Kazuo",NA,NA,NA
-"1610","ICUS1610","Satoh","Motoyasu",NA,NA,NA
-"1611","ICUS1611","Sauder","Debbie",NA,NA,NA
-"1612","ICUS1612","Saunders","Brian",NA,NA,NA
-"1613","ICUS1613","Savin-Williams","Ritch C.",NA,NA,NA
-"1614","ICUS1614","Sawada","Nobusige",NA,NA,NA
-"1615","ICUS1615","Scalera","Garrett N.",NA,NA,NA
-"1616","ICUS1616","Scarr","Sandra",NA,NA,NA
-"1617","ICUS1617","Schacter","Oscar",NA,NA,NA
-"1618","ICUS1618","Schaff","Adam","B1913-03-10","B1913-03-10","B1913-03-10"
-"1619","ICUS1619","Scharfstein","Ben-Ami",NA,NA,NA
-"1620","ICUS1620","Scharleman","Robert P.",NA,NA,NA
-"1621","ICUS1621","Scheer","Bradley T.",NA,NA,NA
-"1622","ICUS1622","Schellenberg","James A.",NA,NA,NA
-"1623","ICUS1623","Scheuch","Erwin K.",NA,"B1928-06-09","B1928-06-09"
-"1624","ICUS1624","Schiffman","Robert F.",NA,NA,NA
-"1625","ICUS1625","Schilpp","Paul Arthur","B1897-02-06","B1897-02-06",NA
-"1626","ICUS1626","Schindler","D.W.",NA,NA,NA
-"1627","ICUS1627","Schips","Bernd",NA,NA,NA
-"1628","ICUS1628","Schleicher","Klaus",NA,NA,NA
-"1629","ICUS1629","Schmidt","Christian",NA,NA,"B1938-07-20"
-"1630","ICUS1630","Schmidt","Robert M.",NA,NA,NA
-"1631","ICUS1631","Schopper","Erwin K.",NA,NA,NA
-"1632","ICUS1632","Schuster","Peter",NA,NA,NA
-"1633","ICUS1633","Schwartz","Alan",NA,NA,NA
-"1634","ICUS1634","Schwarz","Hans",NA,NA,NA
-"1635","ICUS1635","Schwarz","Helmut J.",NA,NA,NA
-"1636","ICUS1636","Scorer","Richard",NA,NA,NA
-"1637","ICUS1637","Scott","A. Kieran",NA,NA,NA
-"1638","ICUS1638","Scott","George P.",NA,NA,NA
-"1639","ICUS1639","Scott","John P.",NA,NA,NA
-"1640","ICUS1640","Seaborg","Glenn T.","B1912-04-19","B1912-04-19","B1912-04-19"
-"1641","ICUS1641","Segal","Irving E.",NA,"B1918-09-13","B1918-09-13"
-"1642","ICUS1642","Segre","Dan V.",NA,NA,NA
-"1643","ICUS1643","Segre","Emilio","B1905-02-01","B1905-02-01",NA
-"1644","ICUS1644","Seidel","Dietrich",NA,NA,NA
-"1645","ICUS1645","Seifert","Josef",NA,NA,NA
-"1646","ICUS1646","Seitelberger","Franz",NA,NA,NA
-"1647","ICUS1647","Seitz","Frederick","B1911-07-04","B1911-07-04","B1911-07-04"
-"1648","ICUS1648","Seldon","Arthur",NA,NA,NA
-"1649","ICUS1649","Sellin","Norbert",NA,NA,NA
-"1650","ICUS1650","Selover","Tom",NA,NA,NA
-"1651","ICUS1651","Selvarathan","Viswanathan",NA,"B1934-12-04","B1934-12-04"
-"1652","ICUS1652","Sengoku","Tamotsu",NA,NA,NA
-"1653","ICUS1653","Sengupta","Santosh C.",NA,NA,NA
-"1654","ICUS1654","Sermonti","Guiseppe",NA,NA,NA
-"1655","ICUS1655","Serour","Gamal",NA,NA,NA
-"1656","ICUS1656","Serruya","Collette",NA,NA,NA
-"1657","ICUS1657","Seshachari","Candadai",NA,NA,NA
-"1658","ICUS1658","Settle","Tom",NA,NA,NA
-"1659","ICUS1659","Sexl","Roman",NA,NA,NA
-"1660","ICUS1660","Shadrikov","Vladimir D.",NA,NA,NA
-"1661","ICUS1661","Shah","Mohammed Hazim",NA,NA,NA
-"1662","ICUS1662","Shah","Zulfiqar Ali",NA,NA,NA
-"1663","ICUS1663","Shaked","Shaul",NA,NA,"B1933-02-08"
-"1664","ICUS1664","Shananin","Alexander",NA,NA,NA
-"1665","ICUS1665","Shapere","Dudley",NA,NA,NA
-"1666","ICUS1666","Shapiro","Ascher H.","B1916-05-20","B1916-05-20","B1916-05-20"
-"1667","ICUS1667","Shapiro","Maurice M.",NA,NA,NA
-"1668","ICUS1668","Sharkey","Paul W.",NA,NA,NA
-"1669","ICUS1669","Sharpe","R.W.",NA,NA,NA
-"1670","ICUS1670","Shea","John J., Jr.",NA,NA,NA
-"1671","ICUS1671","Shealy","C. Norman",NA,NA,NA
-"1672","ICUS1672","Shearmur","Jeremy",NA,NA,NA
-"1673","ICUS1673","Shechtman","Daniel",NA,NA,NA
-"1674","ICUS1674","Sheffield","Charles",NA,NA,NA
-"1675","ICUS1675","Sheikh","Khalid Hamid",NA,NA,NA
-"1676","ICUS1676","Shen","C.S.",NA,NA,NA
-"1677","ICUS1677","Shepard","Paul",NA,NA,NA
-"1678","ICUS1678","Shepher","Joseph",NA,NA,NA
-"1679","ICUS1679","Shickle","Darren",NA,NA,NA
-"1680","ICUS1680","Shieh","Myung-Shiung",NA,NA,NA
-"1681","ICUS1681","Shigematsu","Itsuzo",NA,NA,NA
-"1682","ICUS1682","Shils","Edward",NA,NA,NA
-"1683","ICUS1683","Shim","Chong Supp",NA,NA,NA
-"1684","ICUS1684","Shimizu","Nobuyoshi",NA,NA,NA
-"1685","ICUS1685","Shimmyo","Theodore",NA,NA,NA
-"1686","ICUS1686","Shin","Tong-Choon",NA,NA,NA
-"1687","ICUS1687","Shinagawa","Yasuko",NA,NA,NA
-"1688","ICUS1688","Shinagawa","Yoshia",NA,NA,NA
-"1689","ICUS1689","Shiraki","Hirotsugu",NA,NA,NA
-"1690","ICUS1690","Shock","Nathan W.",NA,NA,NA
-"1691","ICUS1691","Shockley","William","B1910-021-3","B1910-02-13",NA
-"1692","ICUS1692","Shortland","Michael",NA,NA,NA
-"1693","ICUS1693","Shostak","G. Seth",NA,NA,NA
-"1694","ICUS1694","Shrader-Frechette","Kristin",NA,NA,NA
-"1695","ICUS1695","Shtormas","Alexander",NA,NA,NA
-"1696","ICUS1696","Shukla","Suresh",NA,NA,NA
-"1697","ICUS1697","Sibatani","Atuhiro",NA,NA,NA
-"1698","ICUS1698","Siddiqi","M. Raziuddin","B1908-01-08","B1908-01-08",NA
-"1699","ICUS1699","Sigmund","Paul E.",NA,NA,NA
-"1700","ICUS1700","Sik","Endre","B1891-04-02",NA,NA
-"1701","ICUS1701","Silbermann","Alfons",NA,NA,NA
-"1702","ICUS1702","Silverman","Joseph",NA,NA,NA
-"1703","ICUS1703","Sima","Josef",NA,NA,NA
-"1704","ICUS1704","Simmons","Althea",NA,NA,NA
-"1705","ICUS1705","Simon","Ulrich",NA,NA,NA
-"1706","ICUS1706","Sinclair","Warren K.",NA,NA,NA
-"1707","ICUS1707","Singer","Max",NA,NA,NA
-"1708","ICUS1708","Singer","S. Fred",NA,NA,NA
-"1709","ICUS1709","Singh","Avtar",NA,NA,NA
-"1710","ICUS1710","Singh","Khushwant","B1915-02-02","B1915-02-02","B1915-02"
-"1711","ICUS1711","Singh","Nelistra",NA,NA,NA
-"1712","ICUS1712","Sirikanchana","Pataraporn",NA,NA,NA
-"1713","ICUS1713","Sirluck","Ernest",NA,NA,NA
-"1714","ICUS1714","Sirtori","Carlo",NA,NA,NA
-"1715","ICUS1715","Sisler","Harry H.",NA,NA,NA
-"1716","ICUS1716","Sivaraksa","Sulak",NA,NA,NA
-"1717","ICUS1717","Sivaraman","Krishna N.",NA,NA,NA
-"1718","ICUS1718","Skinner","Elliott P.",NA,NA,NA
-"1719","ICUS1719","Skolimowski","Henryk",NA,NA,NA
-"1720","ICUS1720","Slade","Ivan",NA,NA,NA
-"1721","ICUS1721","Slater","Edward Charles",NA,"B1917-01-16","B1917-01-16"
-"1722","ICUS1722","Slavinska-Holy","Nonna",NA,NA,NA
-"1723","ICUS1723","Sloane","David E.E.",NA,NA,NA
-"1724","ICUS1724","Smart","(Roderick) Ninian",NA,NA,"B1927-05-06"
-"1725","ICUS1725","Smith","Chesterfield H,",NA,NA,NA
-"1726","ICUS1726","Smith","Huston",NA,NA,NA
-"1727","ICUS1727","Smith","Joseph C.",NA,NA,NA
-"1728","ICUS1728","Snow","C.P.","B1905-10-15",NA,NA
-"1729","ICUS1729","Sodipo","John O.",NA,NA,NA
-"1730","ICUS1730","Soemardjan","Selo",NA,NA,NA
-"1731","ICUS1731","Soffen","Gerald A.",NA,NA,NA
-"1732","ICUS1732","Soleri","Paolo",NA,"B1919-06-21","B1919-06-21"
-"1733","ICUS1733","Soll","Ivan",NA,NA,NA
-"1734","ICUS1734","Solomon","Lawrence N.",NA,NA,NA
-"1735","ICUS1735","Somit","Albert",NA,NA,NA
-"1736","ICUS1736","Sommer","John W.",NA,NA,NA
-"1737","ICUS1737","Sommeria","Joel",NA,NA,NA
-"1738","ICUS1738","Sonbol","Amira El-Azhari",NA,NA,NA
-"1739","ICUS1739","Sonneman","Ulrich",NA,NA,NA
-"1740","ICUS1740","Sontag","Frederick",NA,NA,NA
-"1741","ICUS1741","Sooklal","Anil",NA,NA,NA
-"1742","ICUS1742","Sorborn","Per",NA,NA,NA
-"1743","ICUS1743","Soriano","Fernando L.",NA,NA,NA
-"1744","ICUS1744","Sotomayor","Marta",NA,NA,NA
-"1745","ICUS1745","Soyfer","Valery N.",NA,NA,NA
-"1746","ICUS1746","Spedding","Frank H.","B1902-10-22",NA,NA
-"1747","ICUS1747","Spence","John",NA,NA,NA
-"1748","ICUS1748","Sperry","Roger Wolcott","B1913-08-20","B1913-08-20",NA
-"1749","ICUS1749","Spiridakis","John",NA,NA,NA
-"1750","ICUS1750","Spivak","Dmitri",NA,NA,NA
-"1751","ICUS1751","Spohn","Roberta A.",NA,NA,NA
-"1752","ICUS1752","Spoto","Peter J.",NA,NA,NA
-"1753","ICUS1753","Spreng","Daniel",NA,NA,NA
-"1754","ICUS1754","Spring","Anita",NA,NA,NA
-"1755","ICUS1755","Springer","Georg F.",NA,NA,NA
-"1756","ICUS1756","Spurgin","Hugh",NA,NA,NA
-"1757","ICUS1757","Srinivasan","Mangalam",NA,NA,NA
-"1758","ICUS1758","St. John","Donald P.",NA,NA,NA
-"1759","ICUS1759","Stachow","Ulrich E.",NA,NA,NA
-"1760","ICUS1760","Stanhill","Gerald",NA,NA,NA
-"1761","ICUS1761","Stannett","V.T.",NA,NA,NA
-"1762","ICUS1762","Staples","Robert",NA,NA,NA
-"1763","ICUS1763","Stapp","Henry",NA,NA,NA
-"1764","ICUS1764","Staub","Jacob Joseph",NA,NA,NA
-"1765","ICUS1765","Stearns","Peter N.",NA,NA,NA
-"1766","ICUS1766","Stehling","Kurt R.",NA,NA,NA
-"1767","ICUS1767","Stengers","I.",NA,NA,NA
-"1768","ICUS1768","Stent","Gunther Siegmund",NA,"B1924-03-28","B1924-03-28"
-"1769","ICUS1769","Stephane","Robert",NA,NA,NA
-"1770","ICUS1770","Stevens","Evelyn",NA,NA,NA
-"1771","ICUS1771","Stewart","Edward C.",NA,NA,NA
-"1772","ICUS1772","Stiebing, Jr.","William H.",NA,NA,NA
-"1773","ICUS1773","Stoessinger","John G.",NA,NA,NA
-"1774","ICUS1774","Stokstad","Marilyn",NA,NA,NA
-"1775","ICUS1775","Stolnitz","George J.",NA,NA,NA
-"1776","ICUS1776","Strasser","Gabor",NA,NA,NA
-"1777","ICUS1777","Strehler","Bernhard L.",NA,NA,NA
-"1778","ICUS1778","Stridbeck","Bolof",NA,NA,NA
-"1779","ICUS1779","Strohman","Richard C.",NA,NA,NA
-"1780","ICUS1780","Stroke","George",NA,NA,NA
-"1781","ICUS1781","Stromberg","Joseph R.",NA,NA,NA
-"1782","ICUS1782","Stromseth","Walter A.",NA,NA,NA
-"1783","ICUS1783","Stroumsa","Gedaliahu G.",NA,NA,NA
-"1784","ICUS1784","Subrahmanyam","K.",NA,"?B1924-02-05",NA
-"1785","ICUS1785","Sudarshan","E.C.George",NA,NA,NA
-"1786","ICUS1786","Sukhatme","P.V.",NA,NA,NA
-"1787","ICUS1787","Sulaiman","Sadek J.",NA,NA,NA
-"1788","ICUS1788","Sulayman","Abdulhamid Abu",NA,NA,NA
-"1789","ICUS1789","Sullivan","Michael",NA,NA,NA
-"1790","ICUS1790","Sun","Heng Lun",NA,NA,NA
-"1791","ICUS1791","Sundberg","Jacob",NA,NA,NA
-"1792","ICUS1792","Sussman","Georg",NA,NA,NA
-"1793","ICUS1793","Sussman","Marvin B.",NA,NA,NA
-"1794","ICUS1794","Süssnann","Georg",NA,NA,NA
-"1795","ICUS1795","Suttmeier","Richard P.",NA,NA,NA
-"1796","ICUS1796","Suzuki","David Takayoshi",NA,NA,NA
-"1797","ICUS1797","Suzuki","Shuji",NA,NA,NA
-"1798","ICUS1798","Szabolsci","Miklos",NA,"B1921-03-03","B1921-03-03"
-"1799","ICUS1799","Szalai","Alexander",NA,NA,NA
-"1800","ICUS1800","Szent-Gyorgyi","Albert","B1893-09-16","B1893-09-16",NA
-"1801","ICUS1801","Takada","Akikazu",NA,NA,NA
-"1802","ICUS1802","Takahashi","Hikoji",NA,NA,NA
-"1803","ICUS1803","Takahashi","Masaru",NA,NA,NA
-"1804","ICUS1804","Takahashi","Yumiko",NA,NA,NA
-"1805","ICUS1805","Takaki","Ryuji",NA,NA,NA
-"1806","ICUS1806","Takatsuji","Masamoto",NA,NA,NA
-"1807","ICUS1807","Takeda","Katz",NA,NA,NA
-"1808","ICUS1808","Takeda","Shuzaburo",NA,NA,NA
-"1809","ICUS1809","Takeuchi","Saiji",NA,NA,NA
-"1810","ICUS1810","Takino","Yoshinori",NA,NA,NA
-"1811","ICUS1811","Tan","Nalia",NA,NA,NA
-"1812","ICUS1812","Tan","Tai Wei",NA,NA,NA
-"1813","ICUS1813","Tanabe","Jennifer",NA,NA,NA
-"1814","ICUS1814","Tanifuji","Shozo",NA,NA,NA
-"1815","ICUS1815","Tanner","Neil",NA,NA,NA
-"1816","ICUS1816","Tart","Charles T.",NA,NA,NA
-"1817","ICUS1817","Tavel","Morton A.",NA,NA,NA
-"1818","ICUS1818","Tax","Sol","B1907-10-30","B1907-10-30",NA
-"1819","ICUS1819","Taylor","Alastair M.",NA,NA,NA
-"1820","ICUS1820","Taylor","Gordon Ramsay Rattray",NA,NA,NA
-"1821","ICUS1821","Taylor","Harold",NA,NA,NA
-"1822","ICUS1822","Taylor","John G.",NA,NA,NA
-"1823","ICUS1823","Tejada-de-Rivero","David",NA,NA,NA
-"1824","ICUS1824","Tejera","Victorino",NA,NA,NA
-"1825","ICUS1825","ter Meulen","Ruud H.J.",NA,NA,NA
-"1826","ICUS1826","Terada","Kazuo",NA,NA,NA
-"1827","ICUS1827","Teshima","Jacob Yuroh",NA,NA,NA
-"1828","ICUS1828","Thieme","H. Jörg",NA,NA,NA
-"1829","ICUS1829","Thomas","Lewis",NA,"B1913-11-25",NA
-"1830","ICUS1830","Thomas","Robert Murray",NA,NA,NA
-"1831","ICUS1831","Thomlinson","Paul",NA,NA,NA
-"1832","ICUS1832","Thompson","Henry O.",NA,NA,NA
-"1833","ICUS1833","Thompson","Joyce E.",NA,NA,NA
-"1834","ICUS1834","Thomson","George",NA,NA,NA
-"1835","ICUS1835","Thorhaug","Anitra",NA,NA,NA
-"1836","ICUS1836","Thorpe","William H.","B1902-04-01",NA,NA
-"1837","ICUS1837","Thring","M.W.",NA,NA,NA
-"1838","ICUS1838","Thulstrup","Niels",NA,NA,NA
-"1839","ICUS1839","Thurston","Linda P.",NA,NA,NA
-"1840","ICUS1840","Tietzel","Manfred",NA,NA,NA
-"1841","ICUS1841","Tilton","John E.",NA,NA,NA
-"1842","ICUS1842","Titma","Mikk",NA,NA,NA
-"1843","ICUS1843","Toba","Kin'ichiro",NA,NA,NA
-"1844","ICUS1844","Todorovich","Miro",NA,NA,NA
-"1845","ICUS1845","Tolbert","Charles R.",NA,NA,NA
-"1846","ICUS1846","Toll","John S.",NA,NA,NA
-"1847","ICUS1847","Tóth","Esther",NA,NA,NA
-"1848","ICUS1848","Totter","John R.",NA,NA,NA
-"1849","ICUS1849","Toyoda","Toshio",NA,NA,NA
-"1850","ICUS1850","Treadgold","Donald W.",NA,NA,NA
-"1851","ICUS1851","Trefethen","Lloyd M.",NA,NA,NA
-"1852","ICUS1852","Trenn","Thaddeus J.",NA,NA,NA
-"1853","ICUS1853","Trevarthen","Colwyn",NA,NA,NA
-"1854","ICUS1854","Trimble","Virginia",NA,NA,NA
-"1855","ICUS1855","Trinklein","Frederick E.",NA,NA,NA
-"1856","ICUS1856","Tripathi","G.C.",NA,NA,NA
-"1857","ICUS1857","Trivers","Robert",NA,NA,NA
-"1858","ICUS1858","Trocmé","Etienne",NA,NA,NA
-"1859","ICUS1859","Trost","Jan",NA,NA,NA
-"1860","ICUS1860","Trounson","Alan",NA,NA,NA
-"1861","ICUS1861","Tsirpanlis","Constantine",NA,NA,NA
-"1862","ICUS1862","Tsueshita","Ryuei",NA,NA,NA
-"1863","ICUS1863","Tsutsui","Minoru",NA,NA,NA
-"1864","ICUS1864","Tucker","Carolyn",NA,NA,NA
-"1865","ICUS1865","Tucker","J.",NA,NA,NA
-"1866","ICUS1866","Tullock","Gordon",NA,NA,NA
-"1867","ICUS1867","Turan","Ilter",NA,NA,NA
-"1868","ICUS1868","Turfus","Colin",NA,NA,NA
-"1869","ICUS1869","Turner","Frederick",NA,NA,NA
-"1870","ICUS1870","Turowicz","Jerzy",NA,NA,NA
-"1871","ICUS1871","Turton","Richard",NA,NA,NA
-"1872","ICUS1872","Tyler","Christopher W.",NA,NA,NA
-"1873","ICUS1873","Uffenheimer","Benjamin",NA,NA,NA
-"1874","ICUS1874","Ulam","Stanislaw","B1909-04-13",NA,NA
-"1875","ICUS1875","Underwood","Richard A.",NA,NA,NA
-"1876","ICUS1876","Unwin","Thomas",NA,NA,NA
-"1877","ICUS1877","Urbanski","Tadeusz","B1901-10-26",NA,NA
-"1878","ICUS1878","Urey","Harold C.","B1893-04-29",NA,NA
-"1879","ICUS1879","Usmani","Ishrat Husain","B1917-04-15","B1917-04-15",NA
-"1880","ICUS1880","Ustay","Ali",NA,NA,NA
-"1881","ICUS1881","Vachani","Mochan",NA,NA,NA
-"1882","ICUS1882","Vahanian","Gabriel",NA,NA,NA
-"1883","ICUS1883","Vallentyne","Jack",NA,NA,NA
-"1884","ICUS1884","van den Dungen","Peter",NA,NA,NA
-"1885","ICUS1885","Vardar","Yusuf",NA,NA,NA
-"1886","ICUS1886","Varma","Vijaya S.",NA,NA,NA
-"1887","ICUS1887","Vasconcellos","Jose Inacio",NA,NA,NA
-"1888","ICUS1888","Vatsyayan","Kapila",NA,NA,NA
-"1889","ICUS1889","Vattimo","Gianni",NA,NA,NA
-"1890","ICUS1890","Vaux","Kenneth L.",NA,NA,NA
-"1891","ICUS1891","Vaz Da Costa","Rubens",NA,NA,NA
-"1892","ICUS1892","Veevers","Jean E.",NA,NA,NA
-"1893","ICUS1893","Vejs","Janis",NA,NA,NA
-"1894","ICUS1894","Velarde","Manuel G.",NA,NA,NA
-"1895","ICUS1895","Velihov","Eugene",NA,NA,NA
-"1896","ICUS1896","Ver Eecke","Wilfried",NA,NA,NA
-"1897","ICUS1897","Vernon","Glenn",NA,NA,NA
-"1898","ICUS1898","Versailles","David W.",NA,NA,NA
-"1899","ICUS1899","Vibert","Frank",NA,NA,NA
-"1900","ICUS1900","Vickers","Geoffrey",NA,NA,NA
-"1901","ICUS1901","Vidor","Ferenc",NA,NA,NA
-"1902","ICUS1902","Villee, Jr.","Claude A.",NA,NA,NA
-"1903","ICUS1903","Vivas","Eliseo",NA,NA,NA
-"1904","ICUS1904","Voisin","Carole",NA,NA,NA
-"1905","ICUS1905","Volkoff","George",NA,NA,NA
-"1906","ICUS1906","Vollmer","Gerhard",NA,NA,NA
-"1907","ICUS1907","von Euler","Ulfe Svante","B1905-02-07",NA,NA
-"1908","ICUS1908","Von Hoemer","Sabastian",NA,NA,NA
-"1909","ICUS1909","von Meyenn","Karl",NA,NA,NA
-"1910","ICUS1910","von Stackelberg","Karl-Georg Graf",NA,NA,NA
-"1911","ICUS1911","von Studnitz","Wilfried",NA,NA,NA
-"1912","ICUS1912","von Weizsacker","C.F.",NA,NA,NA
-"1913","ICUS1913","von Weizsaecker","Ernst",NA,NA,NA
-"1914","ICUS1914","Waardenburg","Jacques",NA,NA,NA
-"1915","ICUS1915","Wagaw","Teshome G.",NA,NA,NA
-"1916","ICUS1916","Wagner","Karel",NA,NA,NA
-"1917","ICUS1917","Waite","Donald E.",NA,NA,NA
-"1918","ICUS1918","Walbot","Virginia E.",NA,NA,NA
-"1919","ICUS1919","Waldrip","Jack",NA,NA,NA
-"1920","ICUS1920","Walker","John G.",NA,NA,NA
-"1921","ICUS1921","Wallner","Friedrich",NA,NA,NA
-"1922","ICUS1922","Walsh","Don","B1931","B1931","B1931"
-"1923","ICUS1923","Walsh","Thomas G.",NA,NA,NA
-"1924","ICUS1924","Walter","Edward",NA,NA,NA
-"1925","ICUS1925","Walter","Tony",NA,NA,NA
-"1926","ICUS1926","Walton","Ernest Thomas Sinton","B1903-10-06","B1903-10-06",NA
-"1927","ICUS1927","Wanekaya","Alice N.",NA,NA,NA
-"1928","ICUS1928","Wang","Chun-Tsung",NA,NA,NA
-"1929","ICUS1929","Wang","Wei-Kung",NA,NA,NA
-"1930","ICUS1930","Wang","Wei-Noon",NA,NA,NA
-"1931","ICUS1931","Ward","Thomas",NA,NA,NA
-"1932","ICUS1932","Warner","Clifford Terry",NA,NA,NA
-"1933","ICUS1933","Warner","Edward",NA,NA,NA
-"1934","ICUS1934","Washburn","Dorothy",NA,NA,NA
-"1935","ICUS1935","Watanabe","Hisayoshi",NA,NA,NA
-"1936","ICUS1936","Watanuki","Kunihiko",NA,NA,NA
-"1937","ICUS1937","Watkins","J.W.N.",NA,NA,NA
-"1938","ICUS1938","Watson","Andrew J.",NA,NA,NA
-"1939","ICUS1939","Weber","Joseph",NA,NA,NA
-"1940","ICUS1940","Webster","Marion E.",NA,NA,NA
-"1941","ICUS1941","Webster","Richard T.",NA,NA,NA
-"1942","ICUS1942","Weede","Erich H.",NA,NA,NA
-"1943","ICUS1943","Weidemann","C. Jean",NA,NA,NA
-"1944","ICUS1944","Weidemann","Wesley",NA,NA,NA
-"1945","ICUS1945","Weidlich","Wolfgang",NA,NA,NA
-"1946","ICUS1946","Weiler","Gershom",NA,NA,NA
-"1947","ICUS1947","Weimer","Walter B.",NA,NA,NA
-"1948","ICUS1948","Weinberg","Alvin M.","B1915-04-20","B1915-04-20","B1915-04-20"
-"1949","ICUS1949","Weiner","Anthony J.",NA,NA,NA
-"1950","ICUS1950","Weiss","Paul Alfred","B1898-03-21","B1898-03-21",NA
-"1951","ICUS1951","Wells","Jonathan",NA,NA,NA
-"1952","ICUS1952","Wen","Dazhong",NA,NA,NA
-"1953","ICUS1953","Werblowsky","R.J. Zwi",NA,NA,NA
-"1954","ICUS1954","Wescott","Hilja",NA,NA,NA
-"1955","ICUS1955","Wescott","Roger W.",NA,NA,NA
-"1956","ICUS1956","White","Nicholas P.",NA,NA,NA
-"1957","ICUS1957","White","Robert J.",NA,NA,NA
-"1958","ICUS1958","Whitehead","D.H.",NA,NA,NA
-"1959","ICUS1959","Whittemore","Abel",NA,NA,NA
-"1960","ICUS1960","Wickramasinghe","Nalin Chandra",NA,"B1939-01-20","B1939-01-20"
-"1961","ICUS1961","Wielemans","Willy",NA,NA,NA
-"1962","ICUS1962","Wigner","Eugene P.","B1902-11-17","B1902-11-17",NA
-"1963","ICUS1963","Wijeratne","Bryan",NA,NA,NA
-"1964","ICUS1964","Willard","Beatrice E.",NA,NA,NA
-"1965","ICUS1965","Willem","Jean-Pierre",NA,NA,NA
-"1966","ICUS1966","Williams","Max L.",NA,NA,NA
-"1967","ICUS1967","Williams","Robley Cook","B1908-10-13","B1908-10-13",NA
-"1968","ICUS1968","Williamson","David Theodore Nelson",NA,"B1923-02-15",NA
-"1969","ICUS1969","Williamson","Margaret Holmes",NA,NA,NA
-"1970","ICUS1970","Wilson","Andrew",NA,NA,NA
-"1971","ICUS1971","Wilson","Nancy",NA,NA,NA
-"1972","ICUS1972","Wilson","R. Ward",NA,NA,NA
-"1973","ICUS1973","Wiltshire","Winthrop",NA,NA,NA
-"1974","ICUS1974","Winings","Kathy",NA,NA,NA
-"1975","ICUS1975","Winkler","Ruthild",NA,NA,NA
-"1976","ICUS1976","Winston","Robert",NA,NA,"?B1940-07-15"
-"1977","ICUS1977","Winterberger","Andreas K.",NA,NA,NA
-"1978","ICUS1978","Wisdom","J.O.",NA,NA,NA
-"1979","ICUS1979","Wittwer","Sylvan",NA,NA,NA
-"1980","ICUS1980","Wohlmuth","Paul",NA,NA,NA
-"1981","ICUS1981","Wojciechowski","Jerzy A.",NA,NA,NA
-"1982","ICUS1982","Wold","Herman Ole Andreaas","B1908-12-25","B1908-12-25",NA
-"1983","ICUS1983","Wolf","Stewart G.",NA,NA,NA
-"1984","ICUS1984","Wolfram","Eddie",NA,NA,NA
-"1985","ICUS1985","Won","Woo-Hyun",NA,NA,NA
-"1986","ICUS1986","Woo","Peter K.Y.",NA,NA,NA
-"1987","ICUS1987","Wood","Richard",NA,NA,NA
-"1988","ICUS1988","Woodard","Calvin",NA,NA,NA
-"1989","ICUS1989","Woody","Susan Minot",NA,NA,NA
-"1990","ICUS1990","Wool","Ira G.",NA,NA,NA
-"1991","ICUS1991","Wren","George R.",NA,NA,NA
-"1992","ICUS1992","Wright","Paul K.",NA,NA,NA
-"1993","ICUS1993","Wuketits","Franz M.",NA,NA,NA
-"1994","ICUS1994","Wyss","Peter",NA,NA,NA
-"1995","ICUS1995","Xu","Lan-Xu",NA,NA,NA
-"1996","ICUS1996","Xuto","Somsakdi",NA,NA,NA
-"1997","ICUS1997","y Tardon","Camilo Vijil",NA,NA,NA
-"1998","ICUS1998","Yamaguchi","Hikoyuki",NA,NA,NA
-"1999","ICUS1999","Yamamoto","Kenzo",NA,NA,NA
-"2000","ICUS2000","Yamamoto","Makoto",NA,NA,NA
-"2001","ICUS2001","Yamamoto","Nobuhito",NA,NA,NA
-"2002","ICUS2002","Yamaori","Tetsuo",NA,NA,NA
-"2003","ICUS2003","Yamazawa","Ippei",NA,NA,NA
-"2004","ICUS2004","Yamazawa","Shingo",NA,NA,NA
-"2005","ICUS2005","Yang","Zu-Zan",NA,NA,NA
-"2006","ICUS2006","Yankov","Alexander","B1924-06-22","B1924-06-22",NA
-"2007","ICUS2007","Yao","Xinzhong",NA,NA,NA
-"2008","ICUS2008","Yaran","Cafer",NA,NA,NA
-"2009","ICUS2009","Yazzie","Ethelou",NA,NA,NA
-"2010","ICUS2010","Yeh","Si-Jung",NA,NA,NA
-"2011","ICUS2011","Yehuda","Shlomo",NA,NA,NA
-"2012","ICUS2012","Yi","Pyong-Do",NA,NA,NA
-"2013","ICUS2013","Yilmaz","Huseyin",NA,NA,NA
-"2014","ICUS2014","Yoo","Jong Youl",NA,NA,NA
-"2015","ICUS2015","Yoo","Kyung-Jin",NA,NA,NA
-"2016","ICUS2016","Yoon","Se Won",NA,NA,NA
-"2017","ICUS2017","Yoshida","Natsuhiko",NA,NA,NA
-"2018","ICUS2018","Yoshimura","Toru",NA,NA,NA
-"2019","ICUS2019","Young","H.H.",NA,NA,NA
-"2020","ICUS2020","Yovel","Yirmiahu",NA,NA,NA
-"2021","ICUS2021","Yu","Timothy",NA,NA,NA
-"2022","ICUS2022","Yuize","Yasuhiko",NA,NA,NA
-"2023","ICUS2023","Yura","Shigery",NA,NA,NA
-"2024","ICUS2024","Zadeh","Lotfi Asker",NA,NA,NA
-"2025","ICUS2025","Zahedi","Hamid",NA,NA,NA
-"2026","ICUS2026","Zaim","Sabahaddin",NA,NA,NA
-"2027","ICUS2027","Zaleski","Pierre",NA,NA,NA
-"2028","ICUS2028","Zallen","Harold",NA,NA,NA
-"2029","ICUS2029","Zaman","M. Raquibuz",NA,NA,NA
-"2030","ICUS2030","Zamora","Mario D.",NA,NA,NA
-"2031","ICUS2031","Zapotoczky","Klaus",NA,NA,NA
-"2032","ICUS2032","Zebroski","Edwin L.",NA,NA,NA
-"2033","ICUS2033","Zediker","Phillip L.",NA,NA,NA
-"2034","ICUS2034","Zeh","H. Dieter",NA,NA,NA
-"2035","ICUS2035","Zelvys","Rimantas",NA,NA,NA
-"2036","ICUS2036","Zettersten","A.",NA,NA,NA
-"2037","ICUS2037","Zhao","Ruan Jin",NA,NA,NA
-"2038","ICUS2038","Zhou","Wenzhang",NA,NA,NA
-"2039","ICUS2039","Ziade","Maan",NA,NA,NA
-"2040","ICUS2040","Zichichi","Antonino",NA,"B1929-10-15",NA
-"2041","ICUS2041","Zippe","Gernot",NA,NA,NA
-"2042","ICUS2042","Zolla","Elemiré",NA,NA,NA
-"2043","ICUS2043","Zoppo","Ciro Elliott",NA,NA,NA
-"2044","ICUS2044","Zraket","Charles A.",NA,NA,NA
-"2045","ICUS2045","Zucker","Alexander",NA,NA,NA
+"683","ICUS0683","Hammond","Phillip Everett",NA,NA,NA
+"684","ICUS0684","Han","Moon-Hi",NA,NA,NA
+"685","ICUS0686","Han","Tai-Soo",NA,NA,NA
+"686","ICUS0687","Handlin","Oscar",NA,"B1915-09-29","B1915-09-29"
+"687","ICUS0688","Handy","Rollo L.",NA,NA,NA
+"688","ICUS0689","Hanna","David",NA,NA,NA
+"689","ICUS0690","Hannay","R. Alastair",NA,NA,NA
+"690","ICUS0691","Hannerz","Kare A.",NA,NA,NA
+"691","ICUS0692","Hansen","Brian",NA,NA,NA
+"692","ICUS0693","Hansen","Linda",NA,NA,NA
+"693","ICUS0694","Harahap","Filino",NA,NA,NA
+"694","ICUS0695","Harant","Zdena",NA,NA,NA
+"695","ICUS0696","Hardin","Russell",NA,NA,NA
+"696","ICUS0697","Hargraves","J. Archie",NA,NA,NA
+"697","ICUS0698","Harman","Willis W.",NA,NA,NA
+"698","ICUS0699","Harmon","Michael M.",NA,NA,NA
+"699","ICUS0700","Harris","Lauren Julius",NA,NA,NA
+"700","ICUS0701","Harris","Ransom Baine",NA,NA,NA
+"701","ICUS0702","Harrison","Edward Robert",NA,NA,NA
+"702","ICUS0703","Harrison III","Frank Russell‏",NA,NA,NA
+"703","ICUS0704","Harrison","Geoffrey Ainsworth",NA,NA,NA
+"704","ICUS0705","Harriss","Clement Lowell",NA,NA,NA
+"705","ICUS0706","Hart","Henry O.",NA,NA,NA
+"706","ICUS0707","Harter","Donald Alton",NA,NA,NA
+"707","ICUS0708","Hartshorne","Charles",NA,NA,NA
+"708","ICUS0709","Hartman","Sherry",NA,NA,NA
+"709","ICUS0710","Harun ar Rashid","A. M.",NA,NA,NA
+"710","ICUS0711","Hasegawa","Akira",NA,NA,NA
+"711","ICUS0712","Haskell","Edward Froelich",NA,NA,NA
+"712","ICUS0713","Hassan","Fuad",NA,NA,NA
+"713","ICUS0714","Hasselgreen","Ingmar C.",NA,NA,NA
+"714","ICUS0715","Hastings","Arthur Claude",NA,NA,NA
+"715","ICUS0716","Hattiangadi","Jagdish N.",NA,NA,NA
+"716","ICUS0717","Hauser","Philip Morris","B1909-09-27","B1909-09-27",NA
+"717","ICUS0718","Hausner","Josef",NA,NA,NA
+"718","ICUS0719","Hautala","Heidi",NA,NA,NA
+"719","ICUS0720","Hay","David",NA,NA,NA
+"720","ICUS0721","Hay","George",NA,NA,NA
+"721","ICUS0722","Hayama","Komei",NA,NA,NA
+"722","ICUS0723","Hayashi","Yujiro",NA,NA,NA
+"723","ICUS0724","Hayden","Bruce P.",NA,NA,NA
+"724","ICUS0725","Hayek","Friedrich August von","B1899-05-08","B1899-05-08",NA
+"725","ICUS0726","Hazleton","Jared E.",NA,NA,NA
+"726","ICUS0727","Headings","Verle E.",NA,NA,NA
+"727","ICUS0728","Headlam-Morley","Agnes",NA,NA,NA
+"728","ICUS0729","Hein","Piet",NA,NA,NA
+"729","ICUS0730","Heisenberg","Werner Karl",NA,NA,NA
+"730","ICUS0731","Henley","Ernest J.",NA,NA,NA
+"731","ICUS0732","Henley","Kenneth",NA,NA,NA
+"732","ICUS0733","Henning","H. Joerg",NA,NA,NA
+"733","ICUS0734","Henry","Jean",NA,NA,NA
+"734","ICUS0735","Herr","David",NA,NA,NA
+"735","ICUS0736","Hersch","Jeanne",NA,NA,NA
+"736","ICUS0737","Herz","Martin Florian",NA,NA,NA
+"737","ICUS0738","Herzberg","Gerhard","B1904-12-25","B1904-12-25","B1904-12-25"
+"738","ICUS0739","Hess","Jörg",NA,NA,NA
+"739","ICUS0740","Hettema","John (Jack)",NA,NA,NA
+"740","ICUS0741","Hewes","Gordon Winant",NA,NA,NA
+"741","ICUS0742","Hick","John Harwood",NA,NA,NA
+"742","ICUS0743","Higatsberger","Michael J.",NA,NA,NA
+"743","ICUS0744","Hiley","Basil James",NA,NA,NA
+"744","ICUS0745","Hill","Dennis L.",NA,NA,NA
+"745","ICUS0746","Hill","Reuben Lorenzo",NA,NA,NA
+"746","ICUS0747","Hill Jr","Samuel Smythe",NA,NA,NA
+"747","ICUS0748","Hill","Stuart B.",NA,NA,NA
+"748","ICUS0749","Hillman","Jimmye S.",NA,NA,NA
+"749","ICUS0750","Hilpinen","Risto",NA,NA,NA
+"750","ICUS0751","Himmelweit","Hildegard Therese",NA,NA,NA
+"751","ICUS0752","Hintikka","Kaarlo Jaakko Juhani",NA,NA,NA
+"752","ICUS0753","Hirshleifer","Jack",NA,NA,NA
+"753","ICUS0754","Hiskett","Mervyn",NA,NA,NA
+"754","ICUS0755","Hitotsumatsu","Shin",NA,NA,NA
+"755","ICUS0756","Ho","Tao",NA,"B1936-07-17","B1936-07-17"
+"756","ICUS0757","Hobbs","Ron",NA,NA,NA
+"757","ICUS0758","Hodgson","Peter Edward",NA,NA,NA
+"758","ICUS0759","Hoeber","Amoretta M.",NA,NA,NA
+"759","ICUS0760","Hoeber","Francis P.",NA,NA,NA
+"760","ICUS0761","Hofecker","Gerhard",NA,NA,NA
+"761","ICUS0762","Hokkanen","Heikki M. T.",NA,NA,NA
+"762","ICUS0763","Holloway","Ralph L.",NA,NA,NA
+"763","ICUS0764","Holmfeld","John",NA,NA,NA
+"764","ICUS0765","Honda","Masaaki",NA,NA,NA
+"765","ICUS0766","Hong","Howard Vincent",NA,NA,NA
+"766","ICUS0767","Hong","Woong-sun",NA,NA,NA
+"767","ICUS0768","Hood","C. Ellsworth",NA,NA,NA
+"768","ICUS0769","Hook","Sidney","B1902-12-20","B1902-12-20",NA
+"769","ICUS0770","Hoppe","Hans-Hermann",NA,NA,NA
+"770","ICUS0771","Horn","John L.",NA,NA,NA
+"771","ICUS0772","Hossain","Monowar",NA,NA,NA
+"772","ICUS0773","Hourani","Benjamin Tamer",NA,NA,NA
+"773","ICUS0774","Howard","Arthur Ellsworth Dick",NA,NA,NA
+"774","ICUS0775","Howlett","Jack",NA,NA,NA
+"775","ICUS0776","Hsiung","James Chieh",NA,NA,NA
+"776","ICUS0777","Hu","Xinhe",NA,NA,NA
+"777","ICUS0778","Huang","Sung-Mo",NA,NA,NA
+"778","ICUS0779","Hübner","Adolf",NA,NA,NA
+"779","ICUS0780","Hübner","Kurt",NA,NA,NA
+"780","ICUS0781","Hughes","Vernon Willard",NA,NA,NA
+"781","ICUS0782","Hui","Ka Kit",NA,NA,NA
+"782","ICUS0783","Hülsmann","Jörg Guido",NA,NA,NA
+"783","ICUS0784","Hummel","Jeffrey Rogers",NA,NA,NA
+"784","ICUS0785","Hungerford","Herbert Eugene",NA,NA,NA
+"785","ICUS0786","Hungerford","Lugene G.",NA,NA,NA
+"786","ICUS0787","Hunter","Howard E.",NA,NA,NA
+"787","ICUS0788","Husain","Mahmud",NA,NA,NA
+"788","ICUS0789","Husen","Torsten","B1916-03-01","B1916-03-01","B1916-03-01"
+"789","ICUS0791","Hwang","Pilho",NA,NA,NA
+"790","ICUS0792","Hyde","Gordon",NA,NA,NA
+"791","ICUS0793","Hydén","Holger",NA,NA,NA
+"792","ICUS0794","Ibrahim","Saad Eddin",NA,NA,NA
+"793","ICUS0795","Ikegami","Masato",NA,NA,NA
+"794","ICUS0796","Ikemi","Yujiro",NA,NA,NA
+"795","ICUS0797","Ikuta","Toyoaki",NA,NA,NA
+"796","ICUS0798","Illyés","Sándor",NA,NA,NA
+"797","ICUS0799","Iltis","Hugh H.",NA,NA,NA
+"798","ICUS0800","Imamichi","Tomonobu",NA,NA,NA
+"799","ICUS0801","Ingle","Dwight Joyce","B1907-09-04",NA,NA
+"800","ICUS0802","Inglis","Brian",NA,NA,NA
+"801","ICUS0803","Ingram","David John Edward",NA,NA,"B1927-04-06"
+"802","ICUS0804","Inkler","Valeria",NA,NA,NA
+"803","ICUS0805","Inoue","Tadashi",NA,NA,NA
+"804","ICUS0806","Irvine","Reed J.",NA,NA,NA
+"805","ICUS0807","Isaac","Ephraim",NA,NA,NA
+"806","ICUS0808","Ishikawa","Mitsuo",NA,NA,NA
+"807","ICUS0809","Ishumi","Abel G. M.",NA,NA,NA
+"808","ICUS0810","Islam","Azizun Nahar",NA,NA,NA
+"809","ICUS0811","Islam","Nurul",NA,"B1929-04-01","B1929-04-01"
+"810","ICUS0812","Itani","Junichiro",NA,NA,NA
+"811","ICUS0813","Ito","Shuntaro",NA,NA,NA
+"812","ICUS0814","Jaber","Kamel Abu",NA,NA,NA
+"813","ICUS0815","Jacchia","Enrico",NA,NA,NA
+"814","ICUS0816","Jackson","Ray Weldon",NA,NA,NA
+"815","ICUS0817","Jackson","Wes",NA,NA,NA
+"816","ICUS0818","Jaffe","Russell M.",NA,NA,NA
+"817","ICUS0819","Jaguaribe","Hélio",NA,NA,NA
+"818","ICUS0820","Jaki","Stanley Ladislas",NA,NA,"B1924-08-17"
+"819","ICUS0821","Jamali","Mohammed Fadhel",NA,NA,NA
+"820","ICUS0822","James","Abraham L.",NA,NA,NA
+"821","ICUS0823","James","Gene G.",NA,NA,NA
+"822","ICUS0824","Jammer","Max",NA,NA,NA
+"823","ICUS0825","Jantsch","Erich",NA,NA,NA
+"824","ICUS0826","Jarvie","Ian Charles",NA,NA,NA
+"825","ICUS0827","Jastrow","Robert","B1925-09-07","B1925-09-07","B1925-09-07"
+"826","ICUS0828","Jerison","Harry Jacob",NA,NA,NA
+"827","ICUS0829","Jerome","Norge Winifred",NA,NA,NA
+"828","ICUS0830","Jeuken","Marie",NA,NA,NA
+"829","ICUS0831","Ji","Chang-juan",NA,NA,NA
+"830","ICUS0832","Jiang","Binglun",NA,NA,NA
+"831","ICUS0833","Jimenez","Maria Carmen C.",NA,NA,NA
+"832","ICUS0834","Jin","Daxun",NA,NA,NA
+"833","ICUS0835","Jin","Sung Bae",NA,NA,NA
+"834","ICUS0836","Johnson","Bruce Connor",NA,NA,NA
+"835","ICUS0837","Johnson","Craig",NA,NA,NA
+"836","ICUS0838","Johnson","Fred M.",NA,NA,NA
+"837","ICUS0839","Johnson","J. Prescott",NA,NA,NA
+"838","ICUS0840","Johnson","Lemuel A.",NA,NA,NA
+"839","ICUS0841","Johnson","Milton G.",NA,NA,NA
+"840","ICUS0842","Johnson-Lans","Shirley B.",NA,NA,NA
+"841","ICUS0843","Johnson-Marshall","Percy Edwin Alan",NA,NA,NA
+"842","ICUS0844","Jonas","Paul",NA,NA,NA
+"843","ICUS0845","Jones","Donald Gene",NA,NA,NA
+"844","ICUS0846","Jones","Hardin Blair",NA,NA,NA
+"845","ICUS0847","Jones","Major J.",NA,NA,NA
+"846","ICUS0848","Jones","Reginald Victor","B1911-09-29","B1911-09-29","B1911-09-29"
+"847","ICUS0849","Jones","Thomas E.",NA,NA,NA
+"848","ICUS0850","Jones","William Ronald",NA,NA,NA
+"849","ICUS0851","Jordens","Joseph Teresa Florent",NA,NA,NA
+"850","ICUS0852","Josephson","Brian David","B1904-01-04","B1940-01-04","B1940-01-04"
+"851","ICUS0853","Jovanovich","Jovan V.",NA,NA,NA
+"852","ICUS0854","Jumsai","Sumet",NA,NA,NA
+"853","ICUS0855","Jung","Hwa-Yol",NA,NA,NA
+"854","ICUS0856","Juskalian","George",NA,NA,NA
+"855","ICUS0857","Kabilsingh","Chatsumarn",NA,NA,NA
+"856","ICUS0858","Kac","Mark","B1914-08-03",NA,NA
+"857","ICUS0859","Kahn","Herman","B1922-02-15",NA,NA
+"858","ICUS0860","Kahneman","Daniel",NA,NA,NA
+"859","ICUS0861","Kakihana","Hidetaka",NA,NA,NA
+"860","ICUS0862","Kakonge","Edward",NA,NA,NA
+"861","ICUS0863","Kalansuriya","A. D. P.",NA,NA,NA
+"862","ICUS0864","Kalaw","Eva Estrada",NA,NA,NA
+"863","ICUS0865","Kalda","Jaan",NA,NA,NA
+"864","ICUS0866","Kalupahana","David J.",NA,NA,NA
+"865","ICUS0867","Kang","Kook Hee",NA,NA,NA
+"866","ICUS0868","Kang","Ouyang",NA,NA,NA
+"867","ICUS0869","Kang","Shin Pyo",NA,NA,NA
+"868","ICUS0870","Kang","Soo Won",NA,NA,NA
+"869","ICUS0871","Kang","Yung-Sun",NA,NA,NA
+"870","ICUS0872","Kanitscheider","Bernulf",NA,NA,NA
+"871","ICUS0873","Kano","Takayoshi",NA,NA,NA
+"872","ICUS0874","Kapitza","Sergeĭ Petrovich",NA,NA,NA
+"873","ICUS0875","Kaplan","Morton Abraham",NA,NA,NA
+"874","ICUS0876","Karefa-Smart","John Albert Musselman","B1915-06-17","B1915-06-17","B1915-06-17"
+"875","ICUS0877","Karhan","Kemal",NA,NA,NA
+"876","ICUS0878","Karlson","Nils",NA,NA,NA
+"877","ICUS0879","Karlson","Peter",NA,NA,NA
+"878","ICUS0880","Kase","Hideaki",NA,NA,NA
+"879","ICUS0881","Kaspar","Robert",NA,NA,NA
+"880","ICUS0882","Kasper","Wolfgang E.",NA,NA,NA
+"881","ICUS0883","Kassas","Mohamed",NA,NA,NA
+"882","ICUS0884","Kastler","Alfred","B1902-05-03",NA,NA
+"883","ICUS0885","Katanani","Ahmad K.",NA,NA,NA
+"884","ICUS0886","Kato","Hidetoshi",NA,NA,NA
+"885","ICUS0887","Kato","Hiroo",NA,NA,NA
+"886","ICUS0888","Kato","Peter Eiichi",NA,NA,NA
+"887","ICUS0889","Kato","Shigeru",NA,NA,NA
+"888","ICUS0890","Katsenelinboigen","Aron J.",NA,NA,NA
+"889","ICUS0891","Katz","Amrom Harry",NA,NA,NA
+"890","ICUS0892","Kau","Michael Ying-mao",NA,NA,NA
+"891","ICUS0893","Kaufmann","Frank",NA,NA,NA
+"892","ICUS0894","Kaufmann","Walter Arnold",NA,NA,NA
+"893","ICUS0895","Kawakita","Jiro",NA,NA,NA
+"894","ICUS0896","Keady","Richard E.",NA,NA,NA
+"895","ICUS0897","Keddie","Nikki Ragozin",NA,NA,NA
+"896","ICUS0898","Keepin","William North",NA,NA,NA
+"897","ICUS0899","Kegley","Charles William",NA,NA,NA
+"898","ICUS0900","Kegley","Jacquelyn Ann K.",NA,NA,NA
+"899","ICUS0901","Kielstein","Rita",NA,NA,NA
+"900","ICUS0902","Kellehear","Allan",NA,NA,NA
+"901","ICUS0903","Kellogg","William Welch",NA,NA,NA
+"902","ICUS0904","Kelsay","John",NA,NA,NA
+"903","ICUS0905","Kenner","Daniel",NA,NA,NA
+"904","ICUS0906","Kennet","Wayland Hilton Young","B1923-08-02","B1923-08-02","B1923-08-02"
+"905","ICUS0907","Kenney","Martin",NA,NA,NA
+"906","ICUS0908","Kerber","Walter","B",NA,NA
+"907","ICUS0909","Kerr","Clark","B1911-05-17","B1911-05-17","B1911-05-17"
+"908","ICUS0910","Keswani","Nandkumar Hemraj",NA,NA,NA
+"909","ICUS0911","Kety","Seymour Solomon","B1915-08-25","B1915-08-25","B1915-08-25"
+"910","ICUS0912","Kewenig","Wilhelm A.",NA,NA,NA
+"911","ICUS0913","Keys","Donald F.",NA,NA,NA
+"912","ICUS0914","Khadduri","Majid","B1909-09-27","B1908-09-27",NA
+"913","ICUS0915","Khalaf","Samir G.",NA,NA,NA
+"914","ICUS0916","Khalilzad","Zalmay",NA,NA,NA
+"915","ICUS0917","Khan","Jahangir",NA,NA,NA
+"916","ICUS0918","Khan","Mohammad Salar",NA,NA,NA
+"917","ICUS0919","Khattab","Abdelmoneim M.",NA,NA,NA
+"918","ICUS0920","Khemani","L. T.",NA,NA,NA
+"919","ICUS0921","Khuri","Nicola H.",NA,NA,NA
+"920","ICUS0922","Kibarian","Barkev",NA,NA,NA
+"921","ICUS0923","Kielmansegg","Peter Graf",NA,NA,NA
+"922","ICUS0924","Kihara","Hiroji",NA,NA,NA
+"923","ICUS0925","Kikutake","Kiyonori","B1928-04-01","B1928-04-01","B1928-04-01"
+"924","ICUS0926","Killingbeck","Christopher",NA,NA,NA
+"925","ICUS0927","Kilpatrick","William Kirk",NA,NA,NA
+"926","ICUS0928","Kim","C. H.",NA,NA,NA
+"927","ICUS0929","Kim","Choon-Sup",NA,NA,NA
+"928","ICUS0930","Kim","Eun-Woo",NA,NA,NA
+"929","ICUS0931","Kim","Ilpyong John",NA,NA,NA
+"930","ICUS0932","Kim","Jin-Choon",NA,NA,NA
+"931","ICUS0933","Kim","Jong-Chol",NA,NA,NA
+"932","ICUS0934","Kim","Kae-Hwan",NA,NA,NA
+"933","ICUS0935","Kim","T.",NA,NA,NA
+"934","ICUS0936","Kim","Tae-Chang",NA,NA,NA
+"935","ICUS0937","Kim","Tae-Soo",NA,NA,NA
+"936","ICUS0938","Kim","Ung-Soo",NA,NA,NA
+"937","ICUS0939","Kim","William S.",NA,NA,NA
+"938","ICUS0940","Kim","Yersu",NA,NA,NA
+"939","ICUS0941","Kim","Yong-un",NA,NA,NA
+"940","ICUS0942","Kim","Yong-suk",NA,NA,NA
+"941","ICUS0943","Kim","Young Oon",NA,NA,NA
+"942","ICUS0944","Kim","Young-Suh",NA,NA,NA
+"943","ICUS0945","Kim","Yung-Kwan",NA,NA,NA
+"944","ICUS0946","Kimura","Motoo","B1924-11-13","B1924-11-13",NA
+"945","ICUS0947","King","Alexander",NA,NA,NA
+"946","ICUS0948","King","Ursula",NA,NA,NA
+"947","ICUS0949","King-Farlow","John",NA,NA,NA
+"948","ICUS0950","Kingsep","Aleksandr Sergeevič",NA,NA,NA
+"949","ICUS0951","Kinsella","Norman Stephan",NA,NA,NA
+"950","ICUS0952","Kit","Wong Kiew",NA,NA,NA
+"951","ICUS0953","Kitagawa","Toshio",NA,NA,NA
+"952","ICUS0954","Kittrie","Nicholas Nehemiah",NA,NA,NA
+"953","ICUS0955","Klavins","Janis Viliberts",NA,NA,NA
+"954","ICUS0956","Klein","Sidney",NA,NA,NA
+"955","ICUS0957","Kliever","Lonnie D.",NA,NA,NA
+"956","ICUS0958","Kline","George Louis",NA,NA,NA
+"957","ICUS0959","Knappert","Jan",NA,NA,NA
+"958","ICUS0960","Knight","Christopher Denis",NA,NA,NA
+"959","ICUS0961","Knilli","Friedrich",NA,NA,NA
+"960","ICUS0962","Kochen","Manfred",NA,NA,NA
+"961","ICUS0963","Koentjaraningrat","",NA,NA,NA
+"962","ICUS0964","Koertge","Noretta",NA,NA,NA
+"963","ICUS0965","Koestler","Arthur","B1905-09-05",NA,NA
+"964","ICUS0966","Koford","Kenneth J.",NA,NA,NA
+"965","ICUS0967","Koh","Byung-Hee",NA,NA,NA
+"966","ICUS0968","Koh","Han-Shil",NA,NA,NA
+"967","ICUS0969","Kohlberg","Lawrence",NA,NA,NA
+"968","ICUS0970","Kohn","Walter","B1923-03-09","B1923-03-09","B1923-03-09"
+"969","ICUS0971","Komaki","Hisatoki",NA,NA,NA
+"970","ICUS0972","Komatsu","Sakyo",NA,NA,NA
+"971","ICUS0973","Kondepudi","Dilip K.",NA,NA,NA
+"972","ICUS0974","Kondo","Jiro",NA,NA,"B1917-01-23"
+"973","ICUS0975","Kono","Shigemi",NA,NA,NA
+"974","ICUS0976","Koo","Bon-Ho",NA,NA,NA
+"975","ICUS0977","Kooy","Gerrit Andries",NA,NA,NA
+"976","ICUS0978","Korneev","Aleksandr",NA,NA,NA
+"977","ICUS0979","Koussanellos","Georges",NA,NA,NA
+"978","ICUS0980","Kozhamthadam","Job",NA,NA,NA
+"979","ICUS0981","Kozintsev","Aleksandr Grigor'evich",NA,NA,NA
+"980","ICUS0982","Kozma","Tamás",NA,NA,NA
+"981","ICUS0983","Krantz","Kermit E.",NA,NA,NA
+"982","ICUS0984","Kraus","Eric Bradshaw",NA,NA,NA
+"983","ICUS0985","Kraus","Willy",NA,NA,NA
+"984","ICUS0986","Krebs","Hans Adolf","B1900-08-25",NA,NA
+"985","ICUS0987","Kreilkamp","Karl",NA,NA,NA
+"986","ICUS0988","Krippner","Stanley",NA,NA,NA
+"987","ICUS0989","Krishna","Padmanabahn",NA,NA,NA
+"988","ICUS0990","Krislov","Samuel",NA,NA,NA
+"989","ICUS0991","Krivatsy","Adam",NA,NA,NA
+"990","ICUS0992","Krivit","William",NA,NA,NA
+"991","ICUS0993","Kryspin","Jan",NA,NA,NA
+"992","ICUS0994","Kubler-Ross","Elisabeth",NA,NA,NA
+"993","ICUS0995","Kubota","Nobuyuki",NA,NA,NA
+"994","ICUS0996","Kuczynski","Janusz",NA,NA,NA
+"995","ICUS0997","Kuehnelt-Leddihn","Erik",NA,NA,NA
+"996","ICUS0998","Kuhse","Helga",NA,NA,NA
+"997","ICUS0999","Kuiper","Thomas B. H.",NA,NA,NA
+"998","ICUS1000","Kukathas","Chandran",NA,NA,NA
+"999","ICUS1001","Kullenberg","Gunnar",NA,NA,NA
+"1000","ICUS1002","Kumagai","Akiko",NA,NA,NA
+"1001","ICUS1003","Kumar","Krishan",NA,NA,NA
+"1002","ICUS1004","Kumar","Kusum",NA,NA,NA
+"1003","ICUS1005","Kumon","Shumpei",NA,NA,NA
+"1004","ICUS1006","Kunckel","Dietrich",NA,NA,NA
+"1005","ICUS1007","Kuo","Wei-Fan",NA,"B1937-09-03","B1937-09-03"
+"1006","ICUS1008","Kuratani","Yoshiro",NA,NA,NA
+"1007","ICUS1009","Kurebayashi","Shigeo",NA,NA,NA
+"1008","ICUS1010","Puri","Kailash",NA,NA,NA
+"1009","ICUS1011","Kuroda","Toshio",NA,NA,NA
+"1010","ICUS1012","Kursunoglu","Behram",NA,NA,NA
+"1011","ICUS1013","Kurti","Nicholas","B1908-05-14","B1908-05-14","B1908-05-14"
+"1012","ICUS1014","Kurtz","Paul Winter",NA,NA,NA
+"1013","ICUS1015","Kurtzman","Joel",NA,NA,NA
+"1014","ICUS1016","Kuru","Assefa",NA,NA,NA
+"1015","ICUS1017","Kuypers","Karel",NA,NA,NA
+"1016","ICUS1018","Kuznets","Paul Wolf",NA,NA,NA
+"1017","ICUS1019","Setreng","Sigmund Kvaløy",NA,NA,NA
+"1018","ICUS1020","Kwak","Chŏng-hwan",NA,NA,NA
+"1019","ICUS1021","La Drière","James Craig",NA,NA,NA
+"1020","ICUS1022","Latorre","Victor",NA,NA,NA
+"1021","ICUS1023","Labor","Adonis F.",NA,NA,NA
+"1022","ICUS1024","Lacis","Andrew Andrejs",NA,NA,NA
+"1023","ICUS1025","Lagmay","Alfredo Villagracia",NA,NA,NA
+"1024","ICUS1026","Lagmay","Leticia Amante",NA,NA,NA
+"1025","ICUS1027","Lakusta","Alexis",NA,NA,NA
+"1026","ICUS1028","Lal","Devendra",NA,"B1929-02-14","B1929-02-14"
+"1027","ICUS1029","Lamb","George G.",NA,NA,NA
+"1028","ICUS1030","Lamb","Willis Eugene","B1913-07-12","B1913-07-12","B1913-07-12"
+"1029","ICUS1031","Lamberton","Donald McLean",NA,NA,NA
+"1030","ICUS1032","Lambo","Thomas Adeoye","B1923-03-29","B1923-03-29","B1923-03-29"
+"1031","ICUS1033","Lancaster","Chesley Stevens",NA,NA,NA
+"1032","ICUS1034","Lancaster","Jane Beckman",NA,NA,NA
+"1033","ICUS1035","Landsberg","Helmut Erich",NA,NA,NA
+"1034","ICUS1036","Lane","Dermot Anthony",NA,NA,NA
+"1035","ICUS1037","Lasswell","Harold Dwight","B1902-02-13",NA,NA
+"1036","ICUS1038","Laszlo","Ervin",NA,NA,NA
+"1037","ICUS1039","Latarjet","Raymond",NA,NA,"B1911-10-17"
+"1038","ICUS1040","Lau","Cheryl",NA,NA,NA
+"1039","ICUS1041","Laurikainen","Kalervo Vihtori",NA,NA,NA
+"1040","ICUS1042","Lawson","Robert Frederic",NA,NA,NA
+"1041","ICUS1043","Leaker","Dudley Roberts",NA,NA,NA
+"1042","ICUS1044","Leary","Rolfe A.",NA,NA,NA
+"1043","ICUS1045","Leavitt","Michael R.",NA,NA,NA
+"1044","ICUS1046","Lecourt","Edith",NA,NA,NA
+"1045","ICUS1047","Lee","Bae-Ham",NA,NA,NA
+"1046","ICUS1048","Lee","Dwight Ryndle",NA,NA,NA
+"1047","ICUS1049","Lee","Hang-Nyong",NA,NA,NA
+"1048","ICUS1050","Lee","Ho-Wang",NA,NA,NA
+"1049","ICUS1051","Lee","Hyun-Bok",NA,NA,NA
+"1050","ICUS1053","Lee","Kun-Sik",NA,NA,NA
+"1051","ICUS1054","Lee","Myung-Sik",NA,NA,NA
+"1052","ICUS1055","Lee","Nam-Pyo",NA,NA,NA
+"1053","ICUS1056","Lee","Sang-Hun",NA,NA,NA
+"1054","ICUS1057","Lee","Sanghwe",NA,NA,NA
+"1055","ICUS1058","Lee","Se-Yeong",NA,NA,NA
+"1056","ICUS1059","Lee","Terence",NA,NA,NA
+"1057","ICUS1060","Lefebvre","Roland",NA,NA,NA
+"1058","ICUS1061","Maier-Leibnitz","Heinz",NA,NA,NA
+"1059","ICUS1062","Leibowitz","Yeshayahu",NA,NA,NA
+"1060","ICUS1063","Leighton","Gerald S.",NA,NA,NA
+"1061","ICUS1064","Leinfellner","Werner",NA,NA,NA
+"1062","ICUS1065","Lejins","Peter Pierre",NA,NA,NA
+"1063","ICUS1066","Lekkas","Demetrios",NA,NA,NA
+"1064","ICUS1067","LeMarier","Jean-Guy",NA,NA,NA
+"1065","ICUS1068","Lemma","Aklilu",NA,NA,NA
+"1066","ICUS1069","Lenel","Hans Otto",NA,NA,NA
+"1067","ICUS1070","Leonard","Peter James Toivo",NA,NA,NA
+"1068","ICUS1071","Leontief","Wassily W.","B1906-08-05","B1906-08-05","B1906-08-05"
+"1069","ICUS1072","Lepage","Henri",NA,NA,NA
+"1070","ICUS1073","Le Pair","Cornelius",NA,NA,NA
+"1071","ICUS1074","Lerède","Jean",NA,NA,NA
+"1072","ICUS1075","Lerman","Abraham",NA,NA,NA
+"1073","ICUS1076","Lerner","Abba Ptachya",NA,NA,NA
+"1074","ICUS1077","Lerner","Daniel",NA,NA,NA
+"1075","ICUS1078","Leube","Kurt Rudolph",NA,NA,NA
+"1076","ICUS1079","Levinson","Paul",NA,NA,NA
+"1077","ICUS1080","Levy","Jerre",NA,NA,NA
+"1078","ICUS1081","Lewis","Hywel David",NA,NA,NA
+"1079","ICUS1082","Lewis","John Simpson",NA,NA,NA
+"1080","ICUS1083","Lewis","Sarah M.",NA,NA,NA
+"1081","ICUS1084","Lewis","Wilfrid Bennett","B1908-06-24","B1908-06-24",NA
+"1082","ICUS1085","Lewis","Walter David",NA,NA,NA
+"1083","ICUS1086","Lewis","Warren",NA,NA,NA
+"1084","ICUS1087","Li","Debao",NA,NA,NA
+"1085","ICUS1088","Li","Zu-Pei",NA,NA,NA
+"1086","ICUS1089","Libby","Willard Frank","B1908-12-17",NA,NA
+"1087","ICUS1090","Libet","Benjamin",NA,NA,NA
+"1088","ICUS1091","Lieb","Irwin C.",NA,NA,NA
+"1089","ICUS1092","Lievegoed","Bernardus Cornelis Johannes",NA,NA,NA
+"1090","ICUS1093","Lim","Ungkyu",NA,NA,NA
+"1091","ICUS1094","Lim","Yong-Kyu",NA,NA,NA
+"1092","ICUS1095","Lin","David K.",NA,NA,NA
+"1093","ICUS1096","Lincoln","Charles Eric",NA,NA,NA
+"1094","ICUS1097","Lind","Niels Christian",NA,NA,NA
+"1095","ICUS1098","Linstone","Harold Adrian",NA,NA,NA
+"1096","ICUS1099","Lipuma","Edward",NA,NA,NA
+"1097","ICUS1100","Lishman","Gordon",NA,NA,NA
+"1098","ICUS1101","Liu","Dachun",NA,NA,NA
+"1099","ICUS1102","Liu","Shu-hsien",NA,NA,NA
+"1100","ICUS1103","Liu","Shu-Zheng",NA,NA,NA
+"1101","ICUS1104","Liu","Taiying",NA,NA,NA
+"1102","ICUS1105","Lobanov","Aleksei Ivanovich",NA,NA,NA
+"1103","ICUS1106","Lodge","George T.",NA,NA,NA
+"1104","ICUS1107","Lohmöller","Jan-Bernd",NA,NA,NA
+"1105","ICUS1108","Lombardi","John Vincent",NA,NA,NA
+"1106","ICUS1109","Long","Eugene Thomas",NA,NA,NA
+"1107","ICUS1110","Long","Franklin Asbury","B1910-07-27","B1910-07-27",NA
+"1108","ICUS1111","Lopata","Helena Znaniecki",NA,NA,NA
+"1109","ICUS1112","Lopez","Salvador P.","B1911-05-27","B1911-05-27",NA
+"1110","ICUS1113","Lopez-Mendoza","Diana",NA,NA,NA
+"1111","ICUS1114","Lorimer","David",NA,NA,NA
+"1112","ICUS1115","Lottieri","Carlo",NA,NA,NA
+"1113","ICUS1116","Lovell","John Philip",NA,NA,NA
+"1114","ICUS1117","Lowenhard","Percy",NA,NA,NA
+"1115","ICUS1118","Lu","Yingzhong",NA,NA,NA
+"1116","ICUS1119","Lucas","Adetokunbo O.",NA,NA,NA
+"1117","ICUS1120","Luchins","Abraham Samuel",NA,NA,NA
+"1118","ICUS1121","Luckey","Thomas Donnell",NA,NA,NA
+"1119","ICUS1122","Ludwig","Harvey F.",NA,NA,NA
+"1120","ICUS1123","Lungu","Gatian F.",NA,NA,NA
+"1121","ICUS1124","Luria","Salvador Edward","B1912-08-13","B1912-08-13",NA
+"1122","ICUS1125","Luria","Zella Hurwitz",NA,NA,NA
+"1123","ICUS1126","Lustig","Harry",NA,NA,NA
+"1124","ICUS1127","Benegas Lynch Jr.","Alberto",NA,NA,NA
+"1125","ICUS1128","Lyttleton","Raymond Arthur",NA,"B1911-05-07",NA
+"1126","ICUS1129","Maccabee","Bruce",NA,NA,NA
+"1127","ICUS1130","Maceda","José Monserrat",NA,NA,NA
+"1128","ICUS1131","MacGregor","Geddes",NA,NA,NA
+"1129","ICUS1132","Machol","Robert Engel",NA,NA,NA
+"1130","ICUS1133","Mackay","William",NA,NA,NA
+"1131","ICUS1134","Mackendrick","Paul Lachlan",NA,NA,NA
+"1132","ICUS1135","MacKinnon","John Ramsay",NA,NA,NA
+"1133","ICUS1136","MacKinnon","Kathy",NA,NA,NA
+"1134","ICUS1137","MacVicar","Robert William",NA,NA,NA
+"1135","ICUS1138","Madden","Carl Halford",NA,NA,NA
+"1136","ICUS1139","Maddox","John Royden",NA,NA,NA
+"1137","ICUS1140","Madigan","Francis C.",NA,NA,NA
+"1138","ICUS1141","Madsen","Kristen Bent",NA,NA,NA
+"1139","ICUS1142","Madsen","Truman Grant",NA,NA,NA
+"1140","ICUS1143","Maffesoli","Michel",NA,NA,NA
+"1141","ICUS1144","Mahapatra","Lakshman Kumar",NA,NA,NA
+"1142","ICUS1145","Maille","Francois",NA,NA,NA
+"1143","ICUS1146","Makarov","Mikhail L.",NA,NA,NA
+"1144","ICUS1147","Makkai","Adam",NA,NA,NA
+"1145","ICUS1148","Malherbe","Ernst Gideon","B1895-11-08",NA,NA
+"1146","ICUS1149","Malik","Charles Habib","B1906-02-11","B1906-02-11",NA
+"1147","ICUS1150","Malik","Fazley Bary‏",NA,NA,NA
+"1148","ICUS1151","Manandhar","Debendra",NA,NA,NA
+"1149","ICUS1152","Mann","Ady",NA,NA,NA
+"1150","ICUS1153","Manners","Robert Alan",NA,NA,NA
+"1151","ICUS1154","Marc","Alexandre",NA,NA,NA
+"1152","ICUS1155","Marchetti","Cesare",NA,NA,NA
+"1153","ICUS1156","Marciano","Teresa D.",NA,NA,NA
+"1154","ICUS1157","Mardin","Serif",NA,NA,NA
+"1155","ICUS1158","Margenau","Henry",NA,NA,NA
+"1156","ICUS1159","Marinov","Uri",NA,NA,NA
+"1157","ICUS1160","Markley","Oliver Wendell",NA,NA,NA
+"1158","ICUS1161","Marney","Milton C.",NA,NA,NA
+"1159","ICUS1162","Marrett","Christine",NA,NA,NA
+"1160","ICUS1163","Marshall","Inku",NA,NA,NA
+"1161","ICUS1164","Martelanc","Tomo",NA,NA,NA
+"1162","ICUS1165","Martin","Archer John Porter","B1910-03-01","B1910-03-01","B1910-03-01"
+"1163","ICUS1166","Martin","David Alfred",NA,NA,NA
+"1164","ICUS1167","Martin","Esmond Bradley",NA,NA,NA
+"1165","ICUS1168","Martinez","Gerardo",NA,NA,NA
+"1166","ICUS1169","Maruani","Jean",NA,NA,NA
+"1167","ICUS1170","Maruyama","Magoroh",NA,NA,NA
+"1168","ICUS1171","Marx","George",NA,NA,NA
+"1169","ICUS1172","Masaki","Akira",NA,NA,NA
+"1170","ICUS1173","Masatsugu","Mitsuyuki",NA,NA,NA
+"1171","ICUS1174","Mascall","Eric Lionel",NA,"B1905-12-12",NA
+"1172","ICUS1175","Masini","Giancarlo",NA,NA,NA
+"1173","ICUS1176","Masmoudi","Mustapha",NA,NA,NA
+"1174","ICUS1177","Matson","Floyd W.",NA,NA,NA
+"1175","ICUS1178","Matsunaga","Daigan Lee",NA,NA,NA
+"1176","ICUS1179","Matsushita","Masatoshi",NA,NA,NA
+"1177","ICUS1180","Matthias","Bernd T.","B1918-06-08",NA,NA
+"1178","ICUS1181","Matczak","Sebastian Alexander",NA,NA,NA
+"1179","ICUS1182","Mavrodes","George I.",NA,NA,NA
+"1180","ICUS1183","Maxey","Margaret N.",NA,NA,NA
+"1181","ICUS1184","Maxwell","Grover",NA,NA,NA
+"1182","ICUS1185","May","Sidney",NA,NA,NA
+"1183","ICUS1186","Mayer","Jacob Peter",NA,NA,NA
+"1184","ICUS1187","Mayntz","Renate",NA,NA,NA
+"1185","ICUS1188","Mayo","Louis Harkey",NA,NA,NA
+"1186","ICUS1189","Maziarz","Edward Anthony",NA,NA,NA
+"1187","ICUS1190","Mazrui","Ali Al'Amin","B1933-02-24","B1933-02-24","B1933-02-24"
+"1188","ICUS1191","Mbiti","John Samuel",NA,NA,NA
+"1189","ICUS1192","McCarthy","Vincent A",NA,NA,NA
+"1190","ICUS1193","McCool","Gerald A.",NA,NA,NA
+"1191","ICUS1194","McFarland","Horace Neill",NA,NA,NA
+"1192","ICUS1195","McForan","Desmond",NA,NA,NA
+"1193","ICUS1196","McGeer","Patrick Lucey",NA,NA,NA
+"1194","ICUS1197","McGuinness","Diane",NA,NA,NA
+"1195","ICUS1198","McLuhan","Herbert Marshall","B1911-07-21",NA,NA
+"1196","ICUS1199","McMichael","John","B1904-07-25","B1904-07-25",NA
+"1197","ICUS1200","McMullin","Ernen",NA,NA,NA
+"1198","ICUS1201","Mechkat","Cyrus",NA,NA,NA
+"1199","ICUS1202","Medina","Florencio Albanez",NA,NA,NA
+"1200","ICUS1203","Medved","David",NA,NA,NA
+"1201","ICUS1204","Meeker","Joseph W.",NA,NA,NA
+"1202","ICUS1205","Mehr","Farhang","B1923-12-11",NA,NA
+"1203","ICUS1206","Mehra","Jagdish",NA,NA,NA
+"1204","ICUS1207","Mehra","Marlis Helene",NA,NA,NA
+"1205","ICUS1208","Mehretu","Assefa",NA,NA,NA
+"1206","ICUS1209","Meiners","Roger E.",NA,NA,NA
+"1207","ICUS1210","Meissner","Werner",NA,NA,NA
+"1208","ICUS1211","Mejia","Jorge María",NA,NA,NA
+"1209","ICUS1212","Melamed","Avraham",NA,NA,NA
+"1210","ICUS1213","Mellanby","Kenneth","B1908-03-26","B1908-03-26",NA
+"1211","ICUS1214","Meltzoff","Sarah Keene",NA,NA,NA
+"1212","ICUS1215","Melvin","Mael Avrami",NA,NA,NA
+"1213","ICUS1216","Melvin","Sofia B.",NA,NA,NA
+"1214","ICUS1217","Mendelsohn","Everett I.",NA,NA,NA
+"1215","ICUS1218","Menke-Gluckert","Peter",NA,NA,NA
+"1216","ICUS1219","Menon","P. K.",NA,NA,NA
+"1217","ICUS1220","Mensch","Gerhard O.",NA,NA,NA
+"1218","ICUS1221","Merritt, Jr.","Lynne Lionel",NA,NA,NA
+"1219","ICUS1222","Merton","Robert King","B1910-07-05","B1910-07-05","B1910-07-04"
+"1220","ICUS1223","Mesthene","Emmanuel George",NA,NA,NA
+"1221","ICUS1224","Meurers","Joseph",NA,NA,NA
+"1222","ICUS1225","Meyer","Thomas R.",NA,NA,NA
+"1223","ICUS1226","Meyer-Dohm","Peter",NA,NA,NA
+"1224","ICUS1227","Mfoulou","Jean",NA,NA,NA
+"1225","ICUS1228","Michael","Donald N.",NA,NA,NA
+"1226","ICUS1229","Michaelis","Anthony Rowland",NA,NA,NA
+"1227","ICUS1230","Mickelson","Sigfried",NA,NA,NA
+"1228","ICUS1231","Mickler","Michael L.",NA,NA,NA
+"1229","ICUS1232","Mihram","George Arthur",NA,NA,NA
+"1230","ICUS1233","Miller","Stanley Lloyd",NA,"B1930-03-07","B1930-03-07"
+"1231","ICUS1234","Mills","Mark P.",NA,NA,NA
+"1232","ICUS1235","Mina","Fayez Mourad",NA,NA,NA
+"1233","ICUS1236","Minguet","Philippe",NA,NA,NA
+"1234","ICUS1237","Minners","Howard A.",NA,NA,NA
+"1235","ICUS1238","Minogue","Kenneth Robert",NA,NA,NA
+"1236","ICUS1239","Mishra","Ravi Kant",NA,NA,NA
+"1237","ICUS1240","Mitchell","Edgar Dean","B1930-09-17",NA,NA
+"1238","ICUS1241","Mitroff","Ian Irving",NA,NA,NA
+"1239","ICUS1242","Mitter","Wolfgang",NA,NA,NA
+"1240","ICUS1243","Miyajima","Tatsuoki",NA,NA,NA
+"1241","ICUS1244","Miyawaki","Akira",NA,NA,NA
+"1242","ICUS1245","Miyoshi","Osamu",NA,NA,NA
+"1243","ICUS1246","Miyuki","Mokusen",NA,NA,NA
+"1244","ICUS1247","Mizutani","Hiroshi",NA,NA,NA
+"1245","ICUS1248","Mochida","Yutaka",NA,NA,NA
+"1246","ICUS1249","Mogey","John Macfarlane",NA,NA,NA
+"1247","ICUS1250","Moldofsky","Naomi",NA,NA,NA
+"1248","ICUS1251","Moles","Abraham André",NA,NA,NA
+"1249","ICUS1252","Molinski","Waldemar",NA,NA,NA
+"1250","ICUS1253","Moljk","Anton",NA,NA,NA
+"1251","ICUS1254","Molnar","Peter",NA,NA,NA
+"1252","ICUS1255","Moltmann","Jurgen",NA,NA,NA
+"1253","ICUS1256","Monckeberg","Fernando",NA,NA,NA
+"1254","ICUS1257","Mongar","Jack",NA,NA,NA
+"1255","ICUS1258","Monke","Eric A.",NA,NA,NA
+"1256","ICUS1259","Montilus","Guérin Chapsal",NA,NA,NA
+"1257","ICUS1260","Moody","Harry Rick",NA,NA,NA
+"1258","ICUS1262","Moon","Robert James",NA,NA,NA
+"1259","ICUS1263","Moon","Sun Myung",NA,NA,NA
+"1260","ICUS1264","Moore","Jerry R.",NA,NA,NA
+"1261","ICUS1265","Moore","John H.",NA,NA,NA
+"1262","ICUS1266","Moraitis","Thanassis",NA,NA,NA
+"1263","ICUS1267","Morales-Carrion","Arturo",NA,NA,NA
+"1264","ICUS1268","Moravcsik","Michael J.",NA,NA,NA
+"1265","ICUS1269","Morgan","Herbert R.",NA,NA,NA
+"1266","ICUS1270","Morgenstern","Oscar",NA,NA,NA
+"1267","ICUS1271","Mori","Ryoichi",NA,NA,NA
+"1268","ICUS1272","Mori","Takahide",NA,NA,NA
+"1269","ICUS1273","Morin-Nahoum","Edgar",NA,NA,NA
+"1270","ICUS1274","Moses","Charles",NA,NA,NA
+"1271","ICUS1275","Moss","Scott J.",NA,NA,NA
+"1272","ICUS1276","Motoyama","Hiroshi",NA,NA,NA
+"1273","ICUS1277","Motz","Lloyd",NA,NA,NA
+"1274","ICUS1278","Moutsopoulos","Evanghelos",NA,NA,NA
+"1275","ICUS1279","Moyer","Kenneth Evan",NA,NA,NA
+"1276","ICUS1280","Mueller-Ibold","Klaus",NA,NA,NA
+"1277","ICUS1281","Mufti","Rashid",NA,NA,NA
+"1278","ICUS1282","Mull","Donald R.",NA,NA,NA
+"1279","ICUS1283","Mulliken","Robert Sanderson","B1896-06-07","B1896-06-07",NA
+"1280","ICUS1284","Mullins","Philip",NA,NA,NA
+"1281","ICUS1285","Munz","Peter",NA,NA,NA
+"1282","ICUS1286","Mupawaenda","Anna C.",NA,NA,NA
+"1283","ICUS1287","Murakami","Yoichiro",NA,NA,NA
+"1284","ICUS1288","Murphy","Matthew Francis",NA,NA,NA
+"1285","ICUS1289","Murray","Priscilla",NA,NA,NA
+"1286","ICUS1290","Murthy","M. V. R. S.",NA,NA,NA
+"1287","ICUS1291","Mustard","James Fraser",NA,NA,NA
+"1288","ICUS1292","Muth","John Fraser",NA,NA,NA
+"1289","ICUS1293","Muto","Paul Tadao",NA,NA,NA
+"1290","ICUS1294","Nadeau","Robert L.",NA,NA,NA
+"1291","ICUS1295","Naess","Arne",NA,NA,NA
+"1292","ICUS1296","Nagasaka","Francis Gen-ichiro",NA,NA,NA
+"1293","ICUS1297","Nagata","Katsutaro",NA,NA,NA
+"1294","ICUS1298","Nagley","Winfield E.",NA,NA,NA
+"1295","ICUS1299","Nagy","Denes",NA,NA,NA
+"1296","ICUS1300","Nahemow","Lucille",NA,NA,NA
+"1297","ICUS1301","Nahvi","Mahmood J.",NA,NA,NA
+"1298","ICUS1302","Naidu","Ratna",NA,NA,NA
+"1299","ICUS1303","Nainggolan","Seri Condar",NA,NA,NA
+"1300","ICUS1304","Nakagawa","Hideyasu",NA,NA,NA
+"1301","ICUS1305","Nakagawa","Manabu",NA,NA,NA
+"1302","ICUS1306","Nakahara","Hideomi",NA,NA,NA
+"1303","ICUS1307","Nakajima","Masaki",NA,NA,NA
+"1304","ICUS1308","Nakicenovic","Nebojsa",NA,NA,NA
+"1305","ICUS1309","Namiki","Nobuyoshi",NA,NA,NA
+"1306","ICUS1310","Nanda","Jatinder Nath",NA,NA,NA
+"1307","ICUS1311","Naranjo Vargas","Plutarco",NA,NA,NA
+"1308","ICUS1312","Nasr","Seyyed Hossein",NA,NA,"B1933-04-07"
+"1309","ICUS1313","Nasr","Vali Reza",NA,NA,NA
+"1310","ICUS1314","Ndeti","Kivuto",NA,NA,NA
+"1311","ICUS1315","Neal","Fred Warner",NA,NA,NA
+"1312","ICUS1316","Neel","Louis Eugene Felix","B1904-11-22","B1904-11-22","B1904-11-22"
+"1313","ICUS1317","Ne'eman","Yuval","B1925-05-14","B1925-05-14","B1925-05-14"
+"1314","ICUS1318","Nehnevajsa","Jiri",NA,NA,NA
+"1315","ICUS1319","Newburgh","Robert Warren",NA,NA,NA
+"1316","ICUS1320","Newcombe","Hanna",NA,NA,NA
+"1317","ICUS1321","Nezlin","Mikhail Veniaminovich",NA,NA,NA
+"1318","ICUS1322","Niangoran-Bouah","Georges",NA,NA,NA
+"1319","ICUS1323","Nicholls","Michael",NA,NA,NA
+"1320","ICUS1324","Nicholson","Kelly",NA,NA,NA
+"1321","ICUS1325","Nielsen","Kai",NA,NA,NA
+"1322","ICUS1326","Niemeyer","Gerhart","B1907-02-15","B1907-02-15","B1907"
+"1323","ICUS1327","Nikolaev","Alekseĭ Vsevolodovich",NA,NA,NA
+"1324","ICUS1328","Nilsson","Sam",NA,NA,NA
+"1325","ICUS1329","Nishibori","Eizaburo",NA,NA,NA
+"1326","ICUS1330","Nishimura","Shun'ichi",NA,NA,NA
+"1327","ICUS1331","Nishio","Riitsu",NA,NA,NA
+"1328","ICUS1332","Niskin","Shale Jack",NA,NA,NA
+"1329","ICUS1333","Nixon","Alan C.",NA,NA,NA
+"1330","ICUS1334","Njock","G. Edward",NA,NA,NA
+"1331","ICUS1335","Noble","Jane",NA,NA,NA
+"1332","ICUS1336","Noda","Keisuke",NA,NA,NA
+"1333","ICUS1337","Noda","Masaharu",NA,NA,NA
+"1334","ICUS1338","Noel-Baker","Philip John","B1889-11-01",NA,NA
+"1335","ICUS1339","Nomura","Kenji",NA,NA,NA
+"1336","ICUS1340","Noonan","Richard D.",NA,NA,NA
+"1337","ICUS1341","Fortunate Eagle","Adam Nordwall",NA,NA,NA
+"1338","ICUS1342","Norrish","Ronald George Wreyford","B1897-11-09",NA,NA
+"1339","ICUS1343","Northrup","Filmer Stuart Cuckow",NA,NA,NA
+"1340","ICUS1344","Norton","Michael G.",NA,NA,NA
+"1341","ICUS1345","Novak","Philip",NA,NA,NA
+"1342","ICUS1346","Novak","Richey",NA,NA,NA
+"1343","ICUS1347","Novosel","Pavao",NA,NA,NA
+"1344","ICUS1348","Nowell-Smith","Patrick",NA,NA,NA
+"1345","ICUS1349","Nutz","Walter",NA,NA,NA
+"1346","ICUS1350","Oae","Shigeru",NA,NA,NA
+"1347","ICUS1351","Oates","Joyce Carol",NA,NA,"B1938-06-16"
+"1348","ICUS1352","Obayashi","Tatsuzo",NA,NA,NA
+"1349","ICUS1353","Obeng","Letitia Eva",NA,NA,"B1925-01-10"
+"1350","ICUS1354","Oberg","James Edward",NA,NA,NA
+"1351","ICUS1355","O'Brien","Brian J.","B1898-01-02","B1898-01-02","B1898-01-02"
+"1352","ICUS1356","O'Connor","Anthony Michael",NA,NA,NA
+"1353","ICUS1357","Oeschger","Hans",NA,NA,NA
+"1354","ICUS1358","O'Hear","Anthony",NA,NA,NA
+"1355","ICUS1359","Ohin","Alexandre J.","B1920-03-20",NA,NA
+"1356","ICUS1360","Ollom","John Frederick",NA,NA,NA
+"1357","ICUS1361","Okatcha","Frederick M.",NA,NA,NA
+"1358","ICUS1362","Okoli","Ekwueme Felix",NA,NA,NA
+"1359","ICUS1363","Olds","Glenn Alvero",NA,NA,NA
+"1360","ICUS1364","O'Leary","Brian Todd",NA,NA,NA
+"1361","ICUS1365","Oliver Jr.","Horace G.",NA,NA,NA
+"1362","ICUS1366","Oloko","Olatunde",NA,NA,NA
+"1363","ICUS1367","Omidvar","Kazem",NA,NA,NA
+"1364","ICUS1368","Oncley","John Lawrence",NA,NA,NA
+"1365","ICUS1369","Onwuka","Ralph Iheanyi",NA,NA,NA
+"1366","ICUS1370","Ooshika","Yuzuru",NA,NA,NA
+"1367","ICUS1371","Oosthuizen","Gerhard",NA,NA,NA
+"1368","ICUS1372","Opp","Karl-Dieter",NA,NA,NA
+"1369","ICUS1373","Ordeshook","Peter Carl",NA,NA,NA
+"1370","ICUS1374","O'Regan","Brendan",NA,NA,NA
+"1371","ICUS1375","Orth","Ernst Wolfgang",NA,NA,NA
+"1372","ICUS1376","Ostriker","Jeremiah Paul",NA,"B1937-01-13","B1937-04-13"
+"1373","ICUS1377","Ostrom","Vincent",NA,NA,NA
+"1374","ICUS1378","Otani","Akifumi",NA,NA,NA
+"1375","ICUS1379","Otero Ruiz","Efraim",NA,NA,NA
+"1376","ICUS1380","Otsuka","Shigeru",NA,NA,NA
+"1377","ICUS1381","Ovtcharov","Rumen",NA,NA,NA
+"1378","ICUS1382","Owusu","Maxwell K.",NA,NA,NA
+"1379","ICUS1383","Oxenham","John",NA,NA,NA
+"1380","ICUS1384","Pachocinski","Ryszard",NA,NA,NA
+"1381","ICUS1385","Paik","Chull",NA,NA,NA
+"1382","ICUS1386","Palay","Sanford Louis",NA,NA,NA
+"1383","ICUS1387","Palmer","Spencer John",NA,NA,NA
+"1384","ICUS1388","Palter","Robert Monroe",NA,NA,NA
+"1385","ICUS1389","Paoletti","Maurizio Guido",NA,NA,NA
+"1386","ICUS1390","Papagiannis","Michael Demetrius",NA,NA,NA
+"1387","ICUS1391","Paquet","Jean-Guy",NA,NA,NA
+"1388","ICUS1392","Paradis","Andree",NA,NA,NA
+"1389","ICUS1393","Park","Charles Rawlinson",NA,"B1916","B1916-03-02"
+"1390","ICUS1394","Park","Choong-Suh",NA,NA,NA
+"1391","ICUS1395","Park","Han Shik",NA,NA,NA
+"1392","ICUS1396","Park","Paul Kilho",NA,NA,NA
+"1393","ICUS1397","Parpia","Husain A. B.",NA,NA,NA
+"1394","ICUS1398","Parra-Luna","Francisco",NA,NA,NA
+"1395","ICUS1399","Parrinder","Geoffrey",NA,NA,NA
+"1396","ICUS1400","Parsegian","Vozcan Lawrence",NA,NA,NA
+"1397","ICUS1401","Parsons","Arthur Shattuck",NA,NA,NA
+"1398","ICUS1402","Patai","Raphael",NA,NA,NA
+"1399","ICUS1403","Patiño","José Félix",NA,NA,NA
+"1400","ICUS1404","Paul","Norman L.",NA,NA,NA
+"1401","ICUS1405","Pawar","Shri M. S.",NA,NA,NA
+"1402","ICUS1406","Pawlowski","Krzysztof Kazimierz",NA,NA,NA
+"1403","ICUS1407","Pawson","Ray",NA,NA,NA
+"1404","ICUS1408","Pearson","Paul B.",NA,NA,NA
+"1405","ICUS1409","Peccei","Aurelio","B1908-07-04",NA,NA
+"1406","ICUS1410","Pei","Wu-Huan",NA,NA,NA
+"1407","ICUS1411","Penasse","Lucien",NA,NA,NA
+"1408","ICUS1412","Penfold","Anthony H.",NA,NA,NA
+"1409","ICUS1413","Pentikäinen","Juha",NA,NA,NA
+"1410","ICUS1414","Peperzak","Adriaan Theodoor",NA,NA,NA
+"1411","ICUS1415","Perović","Miloš R.",NA,NA,NA
+"1412","ICUS1416","Perroux","François","B1903-12-19","B1903-12-19",NA
+"1413","ICUS1417","Perry","Alfred M.",NA,NA,NA
+"1414","ICUS1418","Perry","Paul J.",NA,NA,NA
+"1415","ICUS1419","Petersen","Arne Friemuth",NA,NA,NA
+"1416","ICUS1420","Petrobelli","Pierluigi",NA,NA,NA
+"1417","ICUS1421","Petroni","Angelo Maria",NA,NA,NA
+"1418","ICUS1422","Petrov","Alexander",NA,NA,NA
+"1419","ICUS1423","Petrovic","Alexandre G.",NA,NA,NA
+"1420","ICUS1424","Phan","Peter C.",NA,NA,NA
+"1421","ICUS1425","Philipps","Herbert",NA,NA,NA
+"1422","ICUS1426","Phillips","Nicholas J.",NA,NA,NA
+"1423","ICUS1427","Phlegar","Jacquelyn Kegley",NA,NA,NA
+"1424","ICUS1428","Phlegar","Theodore Curtis",NA,NA,NA
+"1425","ICUS1429","Piaget","Jean","B1896-08-09",NA,NA
+"1426","ICUS1430","Piatier","André","B1914-06-25","B1914-06-25",NA
+"1427","ICUS1431","Piccard","Jacques","B1922-07-28","B1922-07-28","B1922-07-28"
+"1428","ICUS1432","Pietschmann","Herbert",NA,NA,NA
+"1429","ICUS1433","Piganiol","Pierre",NA,NA,NA
+"1430","ICUS1434","Pikas","Anatol",NA,NA,NA
+"1431","ICUS1435","Pillsbury","Barbara L. K.",NA,NA,NA
+"1432","ICUS1436","Pimentel","David",NA,NA,NA
+"1433","ICUS1437","Pincheira","Guido",NA,NA,NA
+"1434","ICUS1438","Piotrowski","Jerzy",NA,NA,NA
+"1435","ICUS1439","Pirtle","Lizette",NA,NA,NA
+"1436","ICUS1440","Platonov","Alexey",NA,NA,NA
+"1437","ICUS1441","Pleijel","Ake",NA,NA,NA
+"1438","ICUS1442","Pobanz","Kerry C.",NA,NA,NA
+"1439","ICUS1443","Azorín Poch","Francisco",NA,NA,NA
+"1440","ICUS1444","Pöggeler","Otto",NA,NA,"B1928-12-12"
+"1441","ICUS1445","Pogue","Delores",NA,NA,NA
+"1442","ICUS1446","Pohl","Frederick",NA,NA,NA
+"1443","ICUS1447","Pollard","William Grosvenor",NA,NA,NA
+"1444","ICUS1448","Ponnamperuma","Cyril",NA,NA,NA
+"1445","ICUS1449","Poole","Alan D.",NA,NA,NA
+"1446","ICUS1450","Popper","Hans",NA,NA,NA
+"1447","ICUS1451","Popper","Karl Raimund","B1902-07-28","B1902-07-28",NA
+"1448","ICUS1452","Posarac","Aleksandra",NA,NA,NA
+"1449","ICUS1453","Pospelov","Igorʹ Germogenovich",NA,NA,NA
+"1450","ICUS1454","Post","John Frederick",NA,NA,NA
+"1451","ICUS1455","Post","Stephen Garrard",NA,NA,NA
+"1452","ICUS1456","Power","Camilia",NA,NA,NA
+"1453","ICUS1457","Prakash","Ravi",NA,NA,NA
+"1454","ICUS1458","Pratt","Edward O.",NA,NA,NA
+"1455","ICUS1459","Prechter Jr","Robert Rougelot",NA,NA,NA
+"1456","ICUS1460","Preparata","Giuliano",NA,NA,NA
+"1457","ICUS1461","Pribram","Karl Harry",NA,NA,NA
+"1458","ICUS1462","Price","Charles Coale",NA,NA,NA
+"1459","ICUS1463","Prickett","Stephen",NA,NA,NA
+"1460","ICUS1464","Prigogine","Ilya Ramanovich","B1917-01-25","B1917-01-25","B1917-01-25"
+"1461","ICUS1465","Primas","Hans",NA,NA,NA
+"1462","ICUS1466","Pringle","John William Sutton",NA,NA,NA
+"1463","ICUS1467","Procaccia","Itamar",NA,NA,NA
+"1464","ICUS1468","Proctor","Donald Frederick",NA,NA,NA
+"1465","ICUS1469","Proctor","John Howard",NA,NA,NA
+"1466","ICUS1470","Proctor","Paul Dean",NA,NA,NA
+"1467","ICUS1471","Prothro","Edwin Terry",NA,NA,NA
+"1468","ICUS1472","Hintikka","Merrill Bristow (Provence)",NA,NA,NA
+"1469","ICUS1473","Prucha","Jan",NA,NA,NA
+"1470","ICUS1474","Psomopoulos","Panayis",NA,NA,NA
+"1471","ICUS1475","Pulida","Carlos",NA,NA,NA
+"1472","ICUS1476","Puranen","Bi",NA,NA,NA
+"1473","ICUS1477","Purdy","William Crossley",NA,NA,NA
+"1474","ICUS1478","Puri","Gopal Singh",NA,NA,NA
+"1475","ICUS1479","Quadens","Olga",NA,NA,NA
+"1476","ICUS1480","Quine","Willard Van Orman","B1908-06-25","B1908-06-25","B1908-06-25"
+"1477","ICUS1481","Quispel","Gilles",NA,NA,NA
+"1478","ICUS1482","Rabi","Isidor Isaac","B1989-07-29","B1898-07-29",NA
+"1479","ICUS1483","Rabie","Mohamed",NA,NA,NA
+"1480","ICUS1484","Rabinovitch","Mikhail Izrailevich",NA,NA,NA
+"1481","ICUS1485","Radkowsky","Alvin",NA,NA,NA
+"1482","ICUS1486","Radkowsky","Annette Eisenberg",NA,NA,NA
+"1483","ICUS1487","Radnitzky","Gerard",NA,NA,NA
+"1484","ICUS1488","Rafeq","Abdul-Karim",NA,NA,NA
+"1485","ICUS1489","Rahman","Abdur",NA,NA,NA
+"1486","ICUS1490","Rakic","Ljubisav M.",NA,NA,NA
+"1487","ICUS1491","Rambidi","Nicholas George",NA,NA,NA
+"1488","ICUS1492","Ramey","James W.",NA,NA,NA
+"1489","ICUS1493","Ramirez","Jesus Martin",NA,NA,NA
+"1490","ICUS1494","Ramirez","Ricardo",NA,NA,NA
+"1491","ICUS1495","Ramon","Ceon",NA,NA,NA
+"1492","ICUS1496","Rand","George Dutton",NA,NA,NA
+"1493","ICUS1497","Randolph","Yaovi E.",NA,NA,NA
+"1494","ICUS1498","Rannit","Aleksis",NA,NA,NA
+"1495","ICUS1499","Arvola-Rantanen","Marja",NA,NA,NA
+"1496","ICUS1500","Rao","K. L. Seshagiri",NA,NA,NA
+"1497","ICUS1501","Rao","Y. V. Lakshmana",NA,NA,NA
+"1498","ICUS1502","Rasool","Saiyed Ichtiaque",NA,NA,NA
+"1499","ICUS1503","Ratanakul","Pinit",NA,NA,NA
+"1500","ICUS1504","Rather","Lelland Joseph",NA,NA,NA
+"1501","ICUS1505","Rau","Carl",NA,NA,NA
+"1502","ICUS1506","Rauf","Muhamad Abdul",NA,NA,NA
+"1503","ICUS1507","Rauscher","Elizabeth A.",NA,NA,NA
+"1504","ICUS1508","Raven","Ronald William",NA,NA,NA
+"1505","ICUS1509","Ravindra","Ravi",NA,NA,NA
+"1506","ICUS1510","Rawat","Kirti Swaroop",NA,NA,NA
+"1507","ICUS1511","Ray","Lewis",NA,NA,NA
+"1508","ICUS1512","Rayapen","Lewis C. A.",NA,NA,NA
+"1509","ICUS1513","Razumova","Ksenia Aleksandrovna",NA,NA,NA
+"1510","ICUS1514","Reck","Andrew Joseph",NA,NA,NA
+"1511","ICUS1515","Reeves","Gene G.",NA,NA,NA
+"1512","ICUS1516","Reeves","Marjorie Ethel",NA,"B1905-07-17",NA
+"1513","ICUS1517","Reith","Charles C.",NA,NA,NA
+"1514","ICUS1518","Renfrew","Malcolm Mackenzie",NA,NA,NA
+"1515","ICUS1519","Rescher","Nicholas",NA,NA,"B1928-07-15"
+"1516","ICUS1520","Reyes","Ramon Castillo",NA,NA,NA
+"1517","ICUS1521","Reynolds","Peter C.",NA,NA,NA
+"1518","ICUS1522","Rhee","Keun-Ho",NA,NA,NA
+"1519","ICUS1523","Rhee","Kyu-Ho",NA,NA,NA
+"1520","ICUS1524","Rheinfrank III","John J.",NA,NA,NA
+"1521","ICUS1525","Rhi","Ki-Young",NA,NA,NA
+"1522","ICUS1526","Rhine","Joseph Banks",NA,NA,NA
+"1523","ICUS1527","Richards","David Armand Joseph",NA,NA,NA
+"1524","ICUS1528","Richardson","Herbert Warren",NA,NA,NA
+"1525","ICUS1529","Richardson","Roger W.",NA,NA,NA
+"1526","ICUS1530","Richardson","William John",NA,NA,NA
+"1527","ICUS1531","Calder","Peter Ritchie",NA,NA,NA
+"1528","ICUS1532","Ricketts","Robert Murray",NA,NA,NA
+"1529","ICUS1533","Riecken","Henry William",NA,NA,NA
+"1530","ICUS1534","Ritterbush","Philip C.",NA,NA,NA
+"1531","ICUS1535","Rivett","Berwyn Hugh Patrick",NA,NA,NA
+"1532","ICUS1536","Robbins","Earldean V. S.",NA,NA,NA
+"1533","ICUS1537","Roberts","Richard Brooke",NA,NA,NA
+"1534","ICUS1538","Robertson","Rebecca",NA,NA,NA
+"1535","ICUS1539","Robertson","Roland",NA,NA,NA
+"1536","ICUS1540","Robinson","Daniel Nicholas",NA,NA,NA
+"1537","ICUS1541","Robinson","Edward Armitage",NA,NA,NA
+"1538","ICUS1542","Robinson","Enders Anthony",NA,NA,NA
+"1539","ICUS1543","Rödding","Walburga",NA,NA,NA
+"1540","ICUS1544","Rodman","John R.",NA,NA,NA
+"1541","ICUS1545","Rodriguez Delgado","Rafael",NA,NA,NA
+"1542","ICUS1546","Roger","Jacques",NA,NA,NA
+"1543","ICUS1547","Rogner","Ingrid Birgitta",NA,NA,NA
+"1544","ICUS1548","Rogowski","Józef",NA,NA,NA
+"1545","ICUS1549","Rohatgi","Kalpana",NA,NA,NA
+"1546","ICUS1550","Rohatgi","Pradeep Kumar",NA,NA,NA
+"1547","ICUS1551","Rohmann","Klaus",NA,NA,NA
+"1548","ICUS1552","Romo Saltos","Luis A.",NA,NA,NA
+"1549","ICUS1553","Rörsch","Arthur",NA,NA,NA
+"1550","ICUS1554","Rose","Mary Carman",NA,NA,NA
+"1551","ICUS1555","Rosen","Steven Jack",NA,NA,NA
+"1552","ICUS1556","Rosenberg","Leon J.",NA,NA,NA
+"1553","ICUS1557","Rosenblueth","Emilio",NA,NA,NA
+"1554","ICUS1558","Rosenfeld","Albert",NA,NA,NA
+"1555","ICUS1559","Rosenmayr","Hilde",NA,NA,NA
+"1556","ICUS1560","Rosenmayr","Leopold",NA,NA,NA
+"1557","ICUS1561","Rosenqvist","Ivan Thoralf",NA,NA,NA
+"1558","ICUS1562","Roslansky","John Dale",NA,NA,NA
+"1559","ICUS1563","Rosow","Irving",NA,NA,NA
+"1560","ICUS1564","Ross","Sherman",NA,NA,NA
+"1561","ICUS1565","Rotblat","Joseph","B1908-11-04","B1908-11-04","B1908-11-04"
+"1562","ICUS1566","Roth","John King",NA,NA,NA
+"1563","ICUS1567","Rottenberg","Simon",NA,NA,NA
+"1564","ICUS1568","Rouve","Pierre",NA,NA,NA
+"1565","ICUS1569","Rowe","David Nelson",NA,NA,NA
+"1566","ICUS1570","Rowland","Frank Sherwood",NA,NA,NA
+"1567","ICUS1571","Roy","William Theodore",NA,NA,NA
+"1568","ICUS1572","Royce","Joseph Russell",NA,NA,NA
+"1569","ICUS1573","Roze","Janis Arnold",NA,NA,NA
+"1570","ICUS1574","Rubenstein","Betty Rogers",NA,NA,NA
+"1571","ICUS1575","Rubenstein","Richard L.",NA,NA,NA
+"1572","ICUS1576","Rubinger","Richard",NA,NA,NA
+"1573","ICUS1577","Rueff","Jacques","B1896-08-23",NA,NA
+"1574","ICUS1578","Ruegg","Walter Heinrich‏",NA,NA,NA
+"1575","ICUS1579","Rukare","Enoka H.",NA,NA,NA
+"1576","ICUS1580","Rumscheidt","Hans Martin",NA,NA,NA
+"1577","ICUS1581","Russell","John L.",NA,NA,NA
+"1578","ICUS1582","Rutter","William J.",NA,NA,NA
+"1579","ICUS1583","Ryan","John William",NA,NA,NA
+"1580","ICUS1584","Ryzl","Milan",NA,NA,NA
+"1581","ICUS1585","Sabato","Jorge Alberto",NA,NA,NA
+"1582","ICUS1586","Sabelman","Eric E.",NA,NA,NA
+"1583","ICUS1587","Sabouret","Jean-Francois",NA,NA,NA
+"1584","ICUS1588","Sachs","Vladimir",NA,NA,NA
+"1585","ICUS1589","Sagasti","Francisco R.",NA,NA,NA
+"1586","ICUS1590","Sakai","Hidehisa",NA,NA,NA
+"1587","ICUS1591","Sakamoto","Hyakudai",NA,NA,NA
+"1588","ICUS1592","Sakr","Mohamed Ahmed",NA,NA,NA
+"1589","ICUS1593","Salaquarda","Joerg",NA,NA,NA
+"1590","ICUS1594","Salazar","Zeus A.",NA,NA,NA
+"1591","ICUS1595","Saleh","Rouchdy S.",NA,NA,NA
+"1592","ICUS1596","Salin","Pascal",NA,NA,NA
+"1593","ICUS1597","Salk","Jonas Edward","B1914-10-28","B1914-10-28",NA
+"1594","ICUS1598","Salonen","Neil Albert",NA,NA,NA
+"1595","ICUS1599","Samarawickrama","Gervin Panduka",NA,NA,NA
+"1596","ICUS1600","Samuelson","Norbert Max",NA,NA,NA
+"1597","ICUS1601","Sandhu","Kernial Singh",NA,NA,NA
+"1598","ICUS1602","Sanfuentes","Andres",NA,NA,NA
+"1599","ICUS1603","Sannangelantonio","Luce",NA,NA,NA
+"1600","ICUS1604","Santoso","R. Slamet Iman",NA,NA,NA
+"1601","ICUS1605","Sanuki","Toshio",NA,NA,NA
+"1602","ICUS1606","Saqeb","Ghulam Nabi",NA,NA,NA
+"1603","ICUS1607","Saqqaf","Abdulaziz",NA,NA,NA
+"1604","ICUS1608","Sass","Hans-Martin",NA,NA,NA
+"1605","ICUS1609","Sato","Kazuo",NA,NA,NA
+"1606","ICUS1610","Sato","Motoyasu",NA,NA,NA
+"1607","ICUS1611","Sauder","Deborah G.",NA,NA,NA
+"1608","ICUS1612","Saunders","Brian",NA,NA,NA
+"1609","ICUS1613","Savin-Williams","Ritch C.",NA,NA,NA
+"1610","ICUS1614","Sawada","Nobushige",NA,NA,NA
+"1611","ICUS1615","Scalera","Garrett N.",NA,NA,NA
+"1612","ICUS1616","Scarr","Sandra Wood",NA,NA,NA
+"1613","ICUS1617","Schacter","Oscar",NA,NA,NA
+"1614","ICUS1618","Schaff","Adam","B1913-03-10","B1913-03-10","B1913-03-10"
+"1615","ICUS1619","Scharfstein","Ben-Ami",NA,NA,NA
+"1616","ICUS1620","Scharlemann","Robert Paul",NA,NA,NA
+"1617","ICUS1621","Scheer","Bradley Titus",NA,NA,NA
+"1618","ICUS1622","Schellenberg","James Arthur",NA,NA,NA
+"1619","ICUS1623","Scheuch","Erwin Kurt",NA,"B1928-06-09","B1928-06-09"
+"1620","ICUS1624","Schiffman","Robert F.",NA,NA,NA
+"1621","ICUS1625","Schilpp","Paul Arthur","B1897-02-06","B1897-02-06",NA
+"1622","ICUS1626","Schindler","David W.",NA,NA,NA
+"1623","ICUS1627","Schips","Bernd",NA,NA,NA
+"1624","ICUS1628","Schleicher","Klaus",NA,NA,NA
+"1625","ICUS1629","Schmidt","Christian",NA,NA,"B1938-07-20"
+"1626","ICUS1630","Schmidt","Robert M.",NA,NA,NA
+"1627","ICUS1631","Schopper","Erwin",NA,NA,NA
+"1628","ICUS1632","Schuster","Peter Maria",NA,NA,NA
+"1629","ICUS1633","Schwartz","Alan",NA,NA,NA
+"1630","ICUS1634","Schwarz","Hans",NA,NA,NA
+"1631","ICUS1635","Schwarz","Helmut J.",NA,NA,NA
+"1632","ICUS1636","Scorer","Richard Segar",NA,NA,NA
+"1633","ICUS1637","Scott","A. Kieran",NA,NA,NA
+"1634","ICUS1638","Scott","George Prescott",NA,NA,NA
+"1635","ICUS1639","Scott","John Paul",NA,NA,NA
+"1636","ICUS1640","Seaborg","Glenn Theodore","B1912-04-19","B1912-04-19","B1912-04-19"
+"1637","ICUS1641","Segal","Irving Ezra",NA,"B1918-09-13","B1918-09-13"
+"1638","ICUS1642","Segre","Dan Vittorio",NA,NA,NA
+"1639","ICUS1643","Segre","Emilio Gino","B1905-02-01","B1905-02-01",NA
+"1640","ICUS1644","Seidel","Dietrich Friedmar",NA,NA,NA
+"1641","ICUS1645","Seifert","Josef M.",NA,NA,NA
+"1642","ICUS1646","Seitelberger","Franz",NA,NA,NA
+"1643","ICUS1647","Seitz","Frederick","B1911-07-04","B1911-07-04","B1911-07-04"
+"1644","ICUS1648","Seldon","Arthur",NA,NA,NA
+"1645","ICUS1649","Sellin","Norbert",NA,NA,NA
+"1646","ICUS1650","Selover","Thomas Whitfield",NA,NA,NA
+"1647","ICUS1651","Selvaratnam","Viswanathan",NA,"B1934-12-04","B1934-12-04"
+"1648","ICUS1652","Sengoku","Tamotsu",NA,NA,NA
+"1649","ICUS1653","Sen Gupta","Santosh Chandra‏",NA,NA,NA
+"1650","ICUS1654","Sermonti","Guiseppe",NA,NA,NA
+"1651","ICUS1655","Serour","Gamal I.",NA,NA,NA
+"1652","ICUS1656","Serruya","Collette",NA,NA,NA
+"1653","ICUS1657","Seshachari","Candadai",NA,NA,NA
+"1654","ICUS1658","Settle","Tom",NA,NA,NA
+"1655","ICUS1659","Sexl","Roman Ulrich",NA,NA,NA
+"1656","ICUS1660","Shadrikov","Vladimir Dmitrievich",NA,NA,NA
+"1657","ICUS1661","Shah","Mohammed Hazim",NA,NA,NA
+"1658","ICUS1662","Shah","Zulfiqar Ali",NA,NA,NA
+"1659","ICUS1663","Shaked","Shaul",NA,NA,"B1933-02-08"
+"1660","ICUS1664","Shananin","Alexander",NA,NA,NA
+"1661","ICUS1665","Shapere","Dudley",NA,NA,NA
+"1662","ICUS1666","Shapiro","Ascher Herman","B1916-05-20","B1916-05-20","B1916-05-20"
+"1663","ICUS1667","Shapiro","Maurice Mandel",NA,NA,NA
+"1664","ICUS1668","Sharkey","Paul W.",NA,NA,NA
+"1665","ICUS1669","Sharpe","Richard W.",NA,NA,NA
+"1666","ICUS1670","Shea Jr","John J.",NA,NA,NA
+"1667","ICUS1671","Shealy","Clyde Norman",NA,NA,NA
+"1668","ICUS1672","Shearmur","Jeremy",NA,NA,NA
+"1669","ICUS1673","Shechtman","Daniel",NA,NA,NA
+"1670","ICUS1674","Sheffield","Charles",NA,NA,NA
+"1671","ICUS1675","Sheikh","Khalid Hamid",NA,NA,NA
+"1672","ICUS1676","Shen","Chun-Shan",NA,NA,NA
+"1673","ICUS1677","Shepard","Paul",NA,NA,NA
+"1674","ICUS1678","Shepher","Joseph",NA,NA,NA
+"1675","ICUS1679","Shickle","Darren",NA,NA,NA
+"1676","ICUS1680","Shieh","Milton Mung-Shiung",NA,NA,NA
+"1677","ICUS1681","Shigematsu","Itsuzo",NA,NA,NA
+"1678","ICUS1682","Shils","Edward Albert",NA,NA,NA
+"1679","ICUS1683","Shim","Chong Supp",NA,NA,NA
+"1680","ICUS1684","Shimizu","Nobuyoshi",NA,NA,NA
+"1681","ICUS1685","Shimmyo","Theodore Tadaaki",NA,NA,NA
+"1682","ICUS1686","Shin","Tong-Choon",NA,NA,NA
+"1683","ICUS1687","Shinagawa","Yasuko",NA,NA,NA
+"1684","ICUS1688","Shinagawa","Yoshiya",NA,NA,NA
+"1685","ICUS1689","Shiraki","Hirotsugu",NA,NA,NA
+"1686","ICUS1690","Shock","Nathan Wetherill",NA,NA,NA
+"1687","ICUS1691","Shockley","William Bradford","B1910-021-3","B1910-02-13",NA
+"1688","ICUS1692","Shortland","Michael",NA,NA,NA
+"1689","ICUS1693","Shostak","G. Seth",NA,NA,NA
+"1690","ICUS1694","Shrader-Frechette","Kristin Sharon",NA,NA,NA
+"1691","ICUS1695","Shtromas","Alexander",NA,NA,NA
+"1692","ICUS1696","Shukla","Suresh",NA,NA,NA
+"1693","ICUS1697","Sibatani","Atuhiro",NA,NA,NA
+"1694","ICUS1698","Siddiqi","Mohammad Raziuddin","B1908-01-08","B1908-01-08",NA
+"1695","ICUS1699","Sigmund","Paul Eugene",NA,NA,NA
+"1696","ICUS1700","Sik","Endre","B1891-04-02",NA,NA
+"1697","ICUS1701","Silbermann","Alfons",NA,NA,NA
+"1698","ICUS1702","Silverman","Joseph",NA,NA,NA
+"1699","ICUS1703","Sima","Josef",NA,NA,NA
+"1700","ICUS1704","Simmons","Althea T. L.",NA,NA,NA
+"1701","ICUS1705","Simon","Ulrich Ernst",NA,NA,NA
+"1702","ICUS1706","Sinclair","Warren Keith",NA,NA,NA
+"1703","ICUS1707","Singer","Max",NA,NA,NA
+"1704","ICUS1708","Singer","Siegfried Fred",NA,NA,NA
+"1705","ICUS1709","Singh","Avtar",NA,NA,NA
+"1706","ICUS1710","Singh","Khushwant","B1915-02-02","B1915-02-02","B1915-02"
+"1707","ICUS1711","Singh","Nelistra",NA,NA,NA
+"1708","ICUS1712","Sirikanchana","Pataraporn",NA,NA,NA
+"1709","ICUS1713","Sirluck","Ernest",NA,NA,NA
+"1710","ICUS1714","Sirtori","Carlo",NA,NA,NA
+"1711","ICUS1715","Sisler","Harry Hall",NA,NA,NA
+"1712","ICUS1716","Sivaraksa","Sulak",NA,NA,NA
+"1713","ICUS1717","Sivaraman","K. N.",NA,NA,NA
+"1714","ICUS1718","Skinner","Elliott Percival",NA,NA,NA
+"1715","ICUS1719","Skolimowski","Henryk",NA,NA,NA
+"1716","ICUS1720","Slade","Ivan",NA,NA,NA
+"1717","ICUS1721","Slater","Edward Charles",NA,"B1917-01-16","B1917-01-16"
+"1718","ICUS1722","Slavinska-Holy","Nonna",NA,NA,NA
+"1719","ICUS1723","Sloane","David E. E.",NA,NA,NA
+"1720","ICUS1724","Smart","Roderick Ninian",NA,NA,"B1927-05-06"
+"1721","ICUS1725","Smith","Chesterfield H.",NA,NA,NA
+"1722","ICUS1726","Smith","Huston",NA,NA,NA
+"1723","ICUS1727","Smith","Joseph Carman",NA,NA,NA
+"1724","ICUS1728","Snow","Charles Percy","B1905-10-15",NA,NA
+"1725","ICUS1729","Sodipo","John Olubi",NA,NA,NA
+"1726","ICUS1730","Soemardjan","Selo",NA,NA,NA
+"1727","ICUS1731","Soffen","Gerald A.",NA,NA,NA
+"1728","ICUS1732","Soleri","Paolo",NA,"B1919-06-21","B1919-06-21"
+"1729","ICUS1733","Soll","Ivan",NA,NA,NA
+"1730","ICUS1734","Solomon","Lawrence Norval",NA,NA,NA
+"1731","ICUS1735","Somit","Albert",NA,NA,NA
+"1732","ICUS1736","Sommer","John W.",NA,NA,NA
+"1733","ICUS1737","Sommeria","Joel",NA,NA,NA
+"1734","ICUS1738","Sonbol","Amira El-Azhari",NA,NA,NA
+"1735","ICUS1739","Sonneman","Ulrich",NA,NA,NA
+"1736","ICUS1740","Sontag","Frederick Earl",NA,NA,NA
+"1737","ICUS1741","Sooklal","Anil",NA,NA,NA
+"1738","ICUS1742","Sorbom","Per",NA,NA,NA
+"1739","ICUS1743","Soriano","Fernando I.",NA,NA,NA
+"1740","ICUS1744","Sotomayor","Marta",NA,NA,NA
+"1741","ICUS1745","Soyfer","Valery Nikolayevich",NA,NA,NA
+"1742","ICUS1746","Spedding","Frank Harold","B1902-10-22",NA,NA
+"1743","ICUS1747","Spence","John Arnott",NA,NA,NA
+"1744","ICUS1748","Sperry","Roger Wolcott","B1913-08-20","B1913-08-20",NA
+"1745","ICUS1749","Spiridakis","John N.",NA,NA,NA
+"1746","ICUS1750","Spivak","Dmitri Leonidovich",NA,NA,NA
+"1747","ICUS1751","Spohn","Roberta R.",NA,NA,NA
+"1748","ICUS1752","Spoto","Peter John",NA,NA,NA
+"1749","ICUS1753","Spreng","Daniel Theodor",NA,NA,NA
+"1750","ICUS1754","Spring","Anita",NA,NA,NA
+"1751","ICUS1755","Springer","Georg F.",NA,NA,NA
+"1752","ICUS1756","Spurgin","Hugh",NA,NA,NA
+"1753","ICUS1757","Srinivasan","Mangalam",NA,NA,NA
+"1754","ICUS1758","St. John","Donald Patrick",NA,NA,NA
+"1755","ICUS1759","Stachow","Ulrich",NA,NA,NA
+"1756","ICUS1760","Stanhill","Gerald",NA,NA,NA
+"1757","ICUS1761","Stannett","Vivian Thomas",NA,NA,NA
+"1758","ICUS1762","Staples","Robert",NA,NA,NA
+"1759","ICUS1763","Stapp","Henry Pierce",NA,NA,NA
+"1760","ICUS1764","Staub","Jacob Joseph",NA,NA,NA
+"1761","ICUS1765","Stearns","Peter Nathaniel",NA,NA,NA
+"1762","ICUS1766","Stehling","Kurt Richard",NA,NA,NA
+"1763","ICUS1767","Stengers","Isabelle",NA,NA,NA
+"1764","ICUS1768","Stent","Gunther Siegmund",NA,"B1924-03-28","B1924-03-28"
+"1765","ICUS1769","Stephane","Robert",NA,NA,NA
+"1766","ICUS1770","Stevens","Evelyn V.",NA,NA,NA
+"1767","ICUS1771","Stewart","Edward C.",NA,NA,NA
+"1768","ICUS1772","Stiebing Jr","William Henry",NA,NA,NA
+"1769","ICUS1773","Stoessinger","John George",NA,NA,NA
+"1770","ICUS1774","Stokstad","Marilyn Jane",NA,NA,NA
+"1771","ICUS1775","Stolnitz","George J.",NA,NA,NA
+"1772","ICUS1776","Strasser","Gabor",NA,NA,NA
+"1773","ICUS1777","Strehler","Bernard Louis",NA,NA,NA
+"1774","ICUS1778","Stridbeck","Bolof",NA,NA,NA
+"1775","ICUS1779","Strohman","Richard C.",NA,NA,NA
+"1776","ICUS1780","Stroke","George Wilhelm",NA,NA,NA
+"1777","ICUS1781","Stromberg","Joseph Robert",NA,NA,NA
+"1778","ICUS1782","Stromseth","Walter A.",NA,NA,NA
+"1779","ICUS1783","Stroumsa","Gedaliahu A. Guy",NA,NA,NA
+"1780","ICUS1784","Subrahmanyam","Krishnaswamy",NA,"?B1924-02-05",NA
+"1781","ICUS1785","Sudarshan","Ennackel Chandy George",NA,NA,NA
+"1782","ICUS1786","Sukhatme","Pandurang Vasudeo",NA,NA,NA
+"1783","ICUS1787","Sulaiman","Sadek Jawad",NA,NA,NA
+"1784","ICUS1788","Sulayman","Abdulhamid Abu",NA,NA,NA
+"1785","ICUS1789","Sullivan","Michael",NA,NA,NA
+"1786","ICUS1790","Sun","Heng-Lun",NA,NA,NA
+"1787","ICUS1791","Sundberg","Jacob W. F.",NA,NA,NA
+"1788","ICUS1792","Suessmann","Georg",NA,NA,NA
+"1789","ICUS1793","Sussman","Marvin B.",NA,NA,NA
+"1790","ICUS1795","Suttmeier","Richard P.",NA,NA,NA
+"1791","ICUS1796","Suzuki","David Takayoshi",NA,NA,NA
+"1792","ICUS1797","Suzuki","Shuji",NA,NA,NA
+"1793","ICUS1798","Szabolcsi","Miklos",NA,"B1921-03-03","B1921-03-03"
+"1794","ICUS1799","Szalai","Alexander",NA,NA,NA
+"1795","ICUS1800","Szent-Gyorgyi","Albert","B1893-09-16","B1893-09-16",NA
+"1796","ICUS1801","Takada","Akikazu",NA,NA,NA
+"1797","ICUS1802","Takahashi","Hikoji",NA,NA,NA
+"1798","ICUS1803","Takahashi","Masaru",NA,NA,NA
+"1799","ICUS1804","Takahashi","Yumiko",NA,NA,NA
+"1800","ICUS1805","Takaki","Ryuji",NA,NA,NA
+"1801","ICUS1806","Takatsuji","Masamoto",NA,NA,NA
+"1802","ICUS1807","Takeda","Katsuhiko",NA,NA,NA
+"1803","ICUS1808","Takeda","Shuzaburo",NA,NA,NA
+"1804","ICUS1809","Takeuchi","Seiji",NA,NA,NA
+"1805","ICUS1810","Takino","Yoshinori",NA,NA,NA
+"1806","ICUS1811","Tan","Nalia",NA,NA,NA
+"1807","ICUS1812","Tan","Tai Wei",NA,NA,NA
+"1808","ICUS1813","Tanabe","Jennifer P.",NA,NA,NA
+"1809","ICUS1814","Tanifuji","Shozo",NA,NA,NA
+"1810","ICUS1815","Tanner","Neil",NA,NA,NA
+"1811","ICUS1816","Tart","Charles T.",NA,NA,NA
+"1812","ICUS1817","Tavel","Morton A.",NA,NA,NA
+"1813","ICUS1818","Tax","Sol","B1907-10-30","B1907-10-30",NA
+"1814","ICUS1819","Taylor","Alastair MacDonald",NA,NA,NA
+"1815","ICUS1820","Taylor","Gordon Ramsay Rattray",NA,NA,NA
+"1816","ICUS1821","Taylor","Harold",NA,NA,NA
+"1817","ICUS1822","Taylor","John Gerald",NA,NA,NA
+"1818","ICUS1823","Tejada-de-Rivero","David Alejandro",NA,NA,NA
+"1819","ICUS1824","Tejera","Victorino",NA,NA,NA
+"1820","ICUS1825","Meulen","Rudolf Hubertus Jozef ter",NA,NA,NA
+"1821","ICUS1826","Terada","Kazuo",NA,NA,NA
+"1822","ICUS1827","Teshima","Jacob Yuroh",NA,NA,NA
+"1823","ICUS1828","Thieme","Hans Jörg",NA,NA,NA
+"1824","ICUS1829","Thomas","Lewis",NA,"B1913-11-25",NA
+"1825","ICUS1830","Thomas","Robert Murray",NA,NA,NA
+"1826","ICUS1831","Thomlinson","Paul",NA,NA,NA
+"1827","ICUS1832","Thompson","Henry O.",NA,NA,NA
+"1828","ICUS1833","Thompson","Joyce E.",NA,NA,NA
+"1829","ICUS1834","Thomson","George Paget",NA,NA,NA
+"1830","ICUS1835","Thorhaug","Anitra",NA,NA,NA
+"1831","ICUS1836","Thorpe","William Homan","B1902-04-01",NA,NA
+"1832","ICUS1837","Thring","Meredith Wooldridge",NA,NA,NA
+"1833","ICUS1838","Thulstrup","Niels",NA,NA,NA
+"1834","ICUS1839","Thurston","Linda P.",NA,NA,NA
+"1835","ICUS1840","Tietzel","Manfred",NA,NA,NA
+"1836","ICUS1841","Tilton","John Elvin",NA,NA,NA
+"1837","ICUS1842","Titma","Mikk",NA,NA,NA
+"1838","ICUS1843","Toba","Kin'ichiro",NA,NA,NA
+"1839","ICUS1844","Todorovich","Miro",NA,NA,NA
+"1840","ICUS1845","Tolbert","Charles R.",NA,NA,NA
+"1841","ICUS1846","Toll","John S.",NA,NA,NA
+"1842","ICUS1847","Tóth","Esther",NA,NA,NA
+"1843","ICUS1848","Totter","John Randolph",NA,NA,NA
+"1844","ICUS1849","Toyoda","Toshio",NA,NA,NA
+"1845","ICUS1850","Treadgold","Donald Warren",NA,NA,NA
+"1846","ICUS1851","Trefethen","Lloyd MacGregor",NA,NA,NA
+"1847","ICUS1852","Trenn","Thaddeus Joseph",NA,NA,NA
+"1848","ICUS1853","Trevarthen","Colwyn Boyd‏",NA,NA,NA
+"1849","ICUS1854","Trimble","Virginia Louise",NA,NA,NA
+"1850","ICUS1855","Trinklein","Frederick Ernst",NA,NA,NA
+"1851","ICUS1856","Tripathi","Gaya Charan",NA,NA,NA
+"1852","ICUS1857","Trivers","Robert Ludlow",NA,NA,NA
+"1853","ICUS1858","Trocmé","Etienne",NA,NA,NA
+"1854","ICUS1859","Trost","Jan E.",NA,NA,NA
+"1855","ICUS1860","Trounson","Alan O.‏",NA,NA,NA
+"1856","ICUS1861","Tsirpanlis","Constantine N.",NA,NA,NA
+"1857","ICUS1862","Tsueshita","Ryuei",NA,NA,NA
+"1858","ICUS1863","Tsutsui","Minoru",NA,NA,NA
+"1859","ICUS1864","Tucker","Carolyn M.",NA,NA,NA
+"1860","ICUS1865","Tucker","John",NA,NA,NA
+"1861","ICUS1866","Tullock","Gordon",NA,NA,NA
+"1862","ICUS1867","Turan","Ilter",NA,NA,NA
+"1863","ICUS1868","Turfus","Colin",NA,NA,NA
+"1864","ICUS1869","Turner","Frederick Hodson",NA,NA,NA
+"1865","ICUS1870","Turowicz","Jerzy",NA,NA,NA
+"1866","ICUS1871","Turton","Richard John",NA,NA,NA
+"1867","ICUS1872","Tyler","Christopher W.",NA,NA,NA
+"1868","ICUS1873","Uffenheimer","Benjamin",NA,NA,NA
+"1869","ICUS1874","Ulam","Stanislaw Marcin","B1909-04-13",NA,NA
+"1870","ICUS1875","Underwood","Richard A.",NA,NA,NA
+"1871","ICUS1876","Unwin","Thomas",NA,NA,NA
+"1872","ICUS1877","Urbanski","Tadeusz","B1901-10-26",NA,NA
+"1873","ICUS1878","Urey","Harold Clayton","B1893-04-29",NA,NA
+"1874","ICUS1879","Usmani","Ishrat Husain","B1917-04-15","B1917-04-15",NA
+"1875","ICUS1880","Ustay","Ali H.",NA,NA,NA
+"1876","ICUS1881","Vachani","Mochan",NA,NA,NA
+"1877","ICUS1882","Vahanian","Gabriel",NA,NA,NA
+"1878","ICUS1883","Vallentyne","John R.",NA,NA,NA
+"1879","ICUS1884","van den Dungen","Peter",NA,NA,NA
+"1880","ICUS1885","Vardar","Yusuf",NA,NA,NA
+"1881","ICUS1886","Varma","Vijaya S.",NA,NA,NA
+"1882","ICUS1887","Vasconcellos","Jose Inacio Cotrim",NA,NA,NA
+"1883","ICUS1888","Vatsyayan","Kapila Malik",NA,NA,NA
+"1884","ICUS1889","Vattimo","Gianni",NA,NA,NA
+"1885","ICUS1890","Vaux","Kenneth Lester",NA,NA,NA
+"1886","ICUS1891","Costa","Rubens Vaz da",NA,NA,NA
+"1887","ICUS1892","Veevers","Jean E.",NA,NA,NA
+"1888","ICUS1893","Vejs","Janis Nameisis",NA,NA,NA
+"1889","ICUS1894","Velarde","Manuel García",NA,NA,NA
+"1890","ICUS1895","Velikhov","Evgeniĭ Pavlovich",NA,NA,NA
+"1891","ICUS1896","Ver Eecke","Wilfried",NA,NA,NA
+"1892","ICUS1897","Vernon","Glenn Morley",NA,NA,NA
+"1893","ICUS1898","Versailles","David W.",NA,NA,NA
+"1894","ICUS1899","Vibert","Frank",NA,NA,NA
+"1895","ICUS1900","Vickers","Charles Geoffrey",NA,NA,NA
+"1896","ICUS1901","Vidor","Ferenc",NA,NA,NA
+"1897","ICUS1902","Villee","Claude Alvin",NA,NA,NA
+"1898","ICUS1903","Vivas","Eliseo",NA,NA,NA
+"1899","ICUS1904","Voisin","Carol",NA,NA,NA
+"1900","ICUS1905","Volkoff","George Michael",NA,NA,NA
+"1901","ICUS1906","Vollmer","Gerhard",NA,NA,NA
+"1902","ICUS1907","Euler","Ulf Svante von","B1905-02-07",NA,NA
+"1903","ICUS1908","Hoerner","Sebastian von",NA,NA,NA
+"1904","ICUS1909","Meyenn","Karl von",NA,NA,NA
+"1905","ICUS1910","Stackelberg","Karl-Georg von",NA,NA,NA
+"1906","ICUS1911","Studnitz","Wilfried von",NA,NA,NA
+"1907","ICUS1912","Weizsäcker","Carl Friedrich von",NA,NA,NA
+"1908","ICUS1913","Weizsäcker","Ernst Ulrich von",NA,NA,NA
+"1909","ICUS1914","Waardenburg","Jacques",NA,NA,NA
+"1910","ICUS1915","Wagaw","Teshome G.",NA,NA,NA
+"1911","ICUS1916","Wagner","Karel",NA,NA,NA
+"1912","ICUS1917","Waite","Donald E.",NA,NA,NA
+"1913","ICUS1918","Walbot","Virginia E.",NA,NA,NA
+"1914","ICUS1919","Waldrip","Jack",NA,NA,NA
+"1915","ICUS1920","Walker","John G.",NA,NA,NA
+"1916","ICUS1921","Wallner","Friedrich G.",NA,NA,NA
+"1917","ICUS1922","Walsh","Don","B1931","B1931","B1931"
+"1918","ICUS1923","Walsh","Thomas G.",NA,NA,NA
+"1919","ICUS1924","Walter","Edward",NA,NA,NA
+"1920","ICUS1925","Walter","Tony",NA,NA,NA
+"1921","ICUS1926","Walton","Ernest Thomas Sinton","B1903-10-06","B1903-10-06",NA
+"1922","ICUS1927","Wanekaya","Alice N.",NA,NA,NA
+"1923","ICUS1928","Wang","Chun-Tsung",NA,NA,NA
+"1924","ICUS1929","Wang","Wei-Kung",NA,NA,NA
+"1925","ICUS1930","Wang","Wei-Nong",NA,NA,NA
+"1926","ICUS1931","Ward","Thomas Joseph",NA,NA,NA
+"1927","ICUS1932","Warner","Clifford Terry",NA,NA,NA
+"1928","ICUS1933","Warner","Edward Allen",NA,NA,NA
+"1929","ICUS1934","Washburn","Dorothy Koster",NA,NA,NA
+"1930","ICUS1935","Watanabe","Hisayoshi",NA,NA,NA
+"1931","ICUS1936","Watanuki","Kunihiko",NA,NA,NA
+"1932","ICUS1937","Watkins","John William Nevill",NA,NA,NA
+"1933","ICUS1938","Watson","Andrew James",NA,NA,NA
+"1934","ICUS1939","Weber","Joseph",NA,NA,NA
+"1935","ICUS1940","Webster-Bukovsky","Marion Elizabeth",NA,NA,NA
+"1936","ICUS1941","Webster","Richard T.",NA,NA,NA
+"1937","ICUS1942","Weede","Erich H.",NA,NA,NA
+"1938","ICUS1943","Weidemann","Celia Jean",NA,NA,NA
+"1939","ICUS1944","Weidemann","Wesley",NA,NA,NA
+"1940","ICUS1945","Weidlich","Wolfgang",NA,NA,NA
+"1941","ICUS1946","Weiler","Gershom",NA,NA,NA
+"1942","ICUS1947","Weimer","Walter B.",NA,NA,NA
+"1943","ICUS1948","Weinberg","Alvin Martin","B1915-04-20","B1915-04-20","B1915-04-20"
+"1944","ICUS1949","Weiner","Anthony Janoff",NA,NA,NA
+"1945","ICUS1950","Weiss","Paul Alfred","B1898-03-21","B1898-03-21",NA
+"1946","ICUS1951","Wells","Jonathan",NA,NA,NA
+"1947","ICUS1952","Wen","Dazhong",NA,NA,NA
+"1948","ICUS1953","Werblowsky","Raphael Jehudah Zwi",NA,NA,NA
+"1949","ICUS1954","Wescott","Hilja",NA,NA,NA
+"1950","ICUS1955","Wescott","Roger Williams",NA,NA,NA
+"1951","ICUS1956","White","Nicholas Perry",NA,NA,NA
+"1952","ICUS1957","White","Robert Joseph",NA,NA,NA
+"1953","ICUS1958","Whitehead","Donald Henry",NA,NA,NA
+"1954","ICUS1959","Whittemore","Abel Arvizú",NA,NA,NA
+"1955","ICUS1960","Wickramasinghe","Nalin Chandra",NA,"B1939-01-20","B1939-01-20"
+"1956","ICUS1961","Wielemans","Willy",NA,NA,NA
+"1957","ICUS1962","Wigner","Eugene Paul","B1902-11-17","B1902-11-17",NA
+"1958","ICUS1963","Wijeratne","Bryan",NA,NA,NA
+"1959","ICUS1964","Willard","Beatrice E.",NA,NA,NA
+"1960","ICUS1965","Willem","Jean-Pierre",NA,NA,NA
+"1961","ICUS1966","Williams","Max L.",NA,NA,NA
+"1962","ICUS1967","Williams","Robley Cook","B1908-10-13","B1908-10-13",NA
+"1963","ICUS1968","Williamson","David Theodore Nelson",NA,"B1923-02-15",NA
+"1964","ICUS1969","Huber","Margaret Holmes Williamson",NA,NA,NA
+"1965","ICUS1970","Wilson","Andrew Murray",NA,NA,NA
+"1966","ICUS1971","Wilson","Nancy Lee",NA,NA,NA
+"1967","ICUS1972","Wilson","R. Ward",NA,NA,NA
+"1968","ICUS1973","Wiltshire","Winthrop",NA,NA,NA
+"1969","ICUS1974","Winings","Kathy",NA,NA,NA
+"1970","ICUS1975","Winkler","Ruthild",NA,NA,NA
+"1971","ICUS1976","Winston","Robert Maurice Lipson",NA,NA,"?B1940-07-15"
+"1972","ICUS1977","Winterberger","Andreas Kaspar",NA,NA,NA
+"1973","ICUS1978","Wisdom","John Oulton",NA,NA,NA
+"1974","ICUS1979","Wittwer","Sylvan Harold",NA,NA,NA
+"1975","ICUS1980","Wohlmuth","Paul C.",NA,NA,NA
+"1976","ICUS1981","Wojciechowski","Jerzy Antoni",NA,NA,NA
+"1977","ICUS1982","Wold","Herman Ole Andreaas","B1908-12-25","B1908-12-25",NA
+"1978","ICUS1983","Wolf","Stewart George",NA,NA,NA
+"1979","ICUS1984","Wolfram","Eddie",NA,NA,NA
+"1980","ICUS1985","Won","Woo-Hyun",NA,NA,NA
+"1981","ICUS1986","Woo","Peter Kun Yu",NA,NA,NA
+"1982","ICUS1987","Wood","Richard E.",NA,NA,NA
+"1983","ICUS1988","Woodard","Calvin",NA,NA,NA
+"1984","ICUS1989","Woody","Susan Minot",NA,NA,NA
+"1985","ICUS1990","Wool","Ira G.",NA,NA,NA
+"1986","ICUS1991","Wren","George R.",NA,NA,NA
+"1987","ICUS1992","Wright","Paul Kenneth",NA,NA,NA
+"1988","ICUS1993","Wuketits","Franz Manfred",NA,NA,NA
+"1989","ICUS1994","Wyss","Peter",NA,NA,NA
+"1990","ICUS1995","Xu","Lanxu",NA,NA,NA
+"1991","ICUS1996","Xuto","Somsakdi",NA,NA,NA
+"1992","ICUS1997","Vijil Tardón","Camilo",NA,NA,NA
+"1993","ICUS1998","Yamaguchi","Hikoyuki",NA,NA,NA
+"1994","ICUS1999","Yamamoto","Kenzo",NA,NA,NA
+"1995","ICUS2000","Yamamoto","Makoto",NA,NA,NA
+"1996","ICUS2001","Yamamoto","Nobuhito",NA,NA,NA
+"1997","ICUS2002","Yamaori","Tetsuo",NA,NA,NA
+"1998","ICUS2003","Yamazawa","Ippei",NA,NA,NA
+"1999","ICUS2004","Yamazawa","Shingo",NA,NA,NA
+"2000","ICUS2005","Yang","Zu-Zan",NA,NA,NA
+"2001","ICUS2006","Yankov","Alexander","B1924-06-22","B1924-06-22",NA
+"2002","ICUS2007","Yao","Xinzhong",NA,NA,NA
+"2003","ICUS2008","Yaran","Cafer Sadık",NA,NA,NA
+"2004","ICUS2009","Yazzie","Ethelou",NA,NA,NA
+"2005","ICUS2010","Yeh","Si-Jung",NA,NA,NA
+"2006","ICUS2011","Yehuda","Shlomo",NA,NA,NA
+"2007","ICUS2012","Yi","Pyong-Do",NA,NA,NA
+"2008","ICUS2013","Yilmaz","Huseyin",NA,NA,NA
+"2009","ICUS2014","Yoo","Jong Youl",NA,NA,NA
+"2010","ICUS2015","Yoo","Kyung-Jin",NA,NA,NA
+"2011","ICUS2016","Yoon","Se-won",NA,NA,NA
+"2012","ICUS2017","Yoshida","Natsuhiko",NA,NA,NA
+"2013","ICUS2018","Yoshimura","Toru",NA,NA,NA
+"2014","ICUS2019","Young","Hewitt Hartley",NA,NA,NA
+"2015","ICUS2020","Yovel","Yirmiahu",NA,NA,NA
+"2016","ICUS2021","Yu","Timothy",NA,NA,NA
+"2017","ICUS2022","Yuize","Yasuhiko",NA,NA,NA
+"2018","ICUS2023","Yura","Shigeru",NA,NA,NA
+"2019","ICUS2024","Zadeh","Lotfi Asker",NA,NA,NA
+"2020","ICUS2025","Zahedi","Hamid",NA,NA,NA
+"2021","ICUS2026","Zaim","Sabahaddin",NA,NA,NA
+"2022","ICUS2027","Zaleski","Casimir Pierre",NA,NA,NA
+"2023","ICUS2028","Zallen","Harold",NA,NA,NA
+"2024","ICUS2029","Zaman","M. Raquibuz",NA,NA,NA
+"2025","ICUS2030","Zamora","Mario Dimarucut",NA,NA,NA
+"2026","ICUS2031","Zapotoczky","Klaus",NA,NA,NA
+"2027","ICUS2032","Zebroski","Edwin Leopold",NA,NA,NA
+"2028","ICUS2033","Zediker","Phillip L.",NA,NA,NA
+"2029","ICUS2034","Zeh","Heinz Dieter",NA,NA,NA
+"2030","ICUS2035","Zelvys","Rimantas",NA,NA,NA
+"2031","ICUS2036","Zettersten","Arne",NA,NA,NA
+"2032","ICUS2037","Zhao","Ruan Jin",NA,NA,NA
+"2033","ICUS2038","Zhou","Wenzhang",NA,NA,NA
+"2034","ICUS2039","Ziade","Maan",NA,NA,NA
+"2035","ICUS2040","Zichichi","Antonino",NA,"B1929-10-15",NA
+"2036","ICUS2041","Zippe","Gernot",NA,NA,NA
+"2037","ICUS2042","Zolla","Elemiré",NA,NA,NA
+"2038","ICUS2043","Zoppo","Ciro Elliott",NA,NA,NA
+"2039","ICUS2044","Zraket","Charles A.",NA,NA,NA
+"2040","ICUS2045","Zucker","Alexander",NA,NA,NA
+"2041","ICUS2046","Fells","Ian",NA,NA,NA
+"2042","ICUS2047","Gomez Azcarate Ramirez","Elias",NA,NA,NA
+"2043","ICUS2048","Kogane","Yoshihiro",NA,NA,NA
+"2044","ICUS2049","Pournelle","Jerry Eugene",NA,NA,NA
+"2045","ICUS2050","Kurasha","Jameson",NA,NA,NA
+"2046","ICUS2051","MacCormick","Neil",NA,NA,NA
+"2047","ICUS2052","Machida","Yutaka",NA,NA,NA
+"2048","ICUS2053","Sivaraman","Krishna",NA,NA,NA
+"2049","ICUS2054","Turner","Frederick Clair",NA,NA,NA

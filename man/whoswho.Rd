@@ -47,4 +47,5 @@ whoswho
 \link{participants}
 \link{programs}
 \link{role_defs}
+\link{viaf}
 }

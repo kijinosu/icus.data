@@ -27,5 +27,6 @@ a list of available data sets in this data package.
 \link{participants}
 \link{programs}
 \link{role_defs}
+\link{viaf}
 \link{whoswho}
 }

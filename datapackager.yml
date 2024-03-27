@@ -1,8 +1,8 @@
 configuration:
   files:
-    ICUSbib.Rmd:
-      enabled: yes
     gsheets.Rmd:
+      enabled: yes
+    ICUSbib.Rmd:
       enabled: yes
     ICUSRoles.Rmd:
       enabled: yes
@@ -21,5 +21,6 @@ configuration:
   - programs
   - role_defs
   - icusbib
+  - viaf
   render_root:
-    tmp: '64894'
+    tmp: '884777'

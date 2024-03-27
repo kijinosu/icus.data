@@ -71,12 +71,12 @@ library(icus.data)
 library(tidyverse)
 ```
 
-    ## ── Attaching core tidyverse packages ─────────────────────────────────────────── tidyverse 2.0.0 ──
+    ## ── Attaching core tidyverse packages ───────────────────────── tidyverse 2.0.0 ──
     ## ✔ forcats   1.0.0     ✔ readr     2.1.4
     ## ✔ ggplot2   3.4.4     ✔ stringr   1.5.1
     ## ✔ lubridate 1.9.3     ✔ tibble    3.2.1
-    ## ✔ purrr     1.0.2     ✔ tidyr     1.3.0
-    ## ── Conflicts ───────────────────────────────────────────────────────────── tidyverse_conflicts() ──
+    ## ✔ purrr     1.0.2     
+    ## ── Conflicts ─────────────────────────────────────────── tidyverse_conflicts() ──
     ## ✖ data.table::between() masks dplyr::between()
     ## ✖ dplyr::filter()       masks stats::filter()
     ## ✖ data.table::first()   masks dplyr::first()
@@ -152,12 +152,14 @@ Most frequent participants
 icusbib[author = "^Oates"]
 ```
 
-    ## [1] J. C. Oates. "The art of suicide". In: _The re-evaluation of existing values and the
-    ## search for absolute values_. The Seventh International Conference on the Unity of the
-    ## Sciences. (Sheraton-Boston Hotel, 11. 24, 1978-11. 26, 1978). chairpersonE. P. Wigner
-    ## and J. C. Eccles. With a comment. by I. Soll. International Cultural Foundation. Boston,
-    ## MA, 1978. <https://icus.org/wp-content/uploads/2016/02/ICUS-VII-Program.pdf> (visited on
-    ## 05/12/2023).
+    ## *ICUS07:C01:G03:S03* J. C. Oates. "The art of suicide". In: _The
+    ## re-evaluation of existing values and the search for absolute values_.
+    ## The Seventh International Conference on the Unity of the Sciences.
+    ## (Sheraton-Boston Hotel, 11. 24, 1978-11. 26, 1978). chairpersonE. P.
+    ## Wigner and J. C. Eccles. With a comment. by I. Soll. International
+    ## Cultural Foundation. Boston, MA, 1978.
+    ## <https://icus.org/wp-content/uploads/2016/02/ICUS-VII-Program.pdf>
+    ## (visited on 05/12/2023).
 
 See [Search
 examples](https://kijinosu.github.io/icus.data/search-examples.html) for

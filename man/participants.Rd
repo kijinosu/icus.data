@@ -61,5 +61,6 @@ participants
 \link{nobels}
 \link{programs}
 \link{role_defs}
+\link{viaf}
 \link{whoswho}
 }

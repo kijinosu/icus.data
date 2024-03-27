@@ -67,5 +67,6 @@ confpages
 \link{nobels}
 \link{participants}
 \link{role_defs}
+\link{viaf}
 \link{whoswho}
 }

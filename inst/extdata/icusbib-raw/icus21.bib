@@ -1,11 +1,14 @@
+icus.data Data Version 0.9.3
+2024-02-06 Standardize names on VIAF
 icus.data Data Version 0.9.2
 2024-01-31 Add editora and editoratype fields to Proceedings 
   entry for conference chairpersons
 
+
 @Proceedings{ICUS21,
   title = {Absolute Values and the Unity of the Sciences: Science for the Benefit of Humanity},
   titleaddon = {Twenty-first International Conference on the Unity of the Sciences},
-  editora = {Gerholm, Tor Ragnar and Rubenstein, Richard L. and Jerome, Norge W.},
+  editora = {Gerholm, Tor Ragnar and Rubenstein, Richard L. and Jerome, Norge Winifred},
   editoratype = {chairperson},
   shorttitle = {ICUS XXI},
   eventdate = {1997-11-24/1997-11-29},
@@ -21,19 +24,19 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:P01,
   crossref = {ICUS21},
   title = {Unity of the Sciences Theme: ''Scientific Millenarianism''},
-  author = {Weinberg, Alvin M.},
+  author = {Weinberg, Alvin Martin},
 }
 
 @InProceedings{ICUS21:P02,
   crossref = {ICUS21},
   title = {Science and Values Theme: ''Character and Values''},
-  author = {Kilpatrick, William},
+  author = {Kilpatrick, William Kirk},
 }
 
 @InProceedings{ICUS21:P03,
   crossref = {ICUS21},
   title = {World University Federation},
-  author = {Salonen, Neil A.},
+  author = {Salonen, Neil Albert},
 }
 
 
@@ -80,7 +83,7 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C01:G01:S04,
   crossref = {ICUS21},
   title = {The impact of information technologies on Eastern European universities},
-  author = {Kozma, Tamas},
+  author = {Kozma, Tamás},
 }
 
 
@@ -116,7 +119,7 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C01:G02:S04,
   crossref = {ICUS21},
   title = {Infomedicine: the new paradigm},
-  author = {Patiño, Jose F.},
+  author = {Patiño, José Félix},
 }
 
 
@@ -134,13 +137,13 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C01:G03:S01,
   crossref = {ICUS21},
   title = {Future developments in microelectronics and their implications for computing},
-  author = {Turton, Richard},
+  author = {Turton, Richard John},
 }
 
 @InProceedings{ICUS21:C01:G03:S02,
   crossref = {ICUS21},
   title = {Prospects for intelligent systems},
-  author = {Finn, Edward},
+  author = {Finn, Edward J.},
 }
 
 @InProceedings{ICUS21:C01:G03:S03,
@@ -152,7 +155,7 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C01:G03:S04,
   crossref = {ICUS21},
   title = {From mimicking to surpassing nature: the case of lattice computation},
-  author = {Velarde, Manuel G.},
+  author = {Velarde, Manuel García},
 }
 
 
@@ -192,6 +195,75 @@ icus.data Data Version 0.9.2
 }
 
 
+@Set{ICUS21:C01:G05,
+  entryset = {ICUS21:C01:G05:S01},
+  pattern = {ICUS21:C01:G05:[S|X]},
+  patterntype = {key},
+  settype = {Session},
+  title = {Panel discussion},
+  level = {3},
+  editorctype={organizer},
+  editorc = {},
+}
+
+@InProceedings{ICUS21:C01:G05:S01,
+  crossref = {ICUS21},
+  title = {Tele-education: alternative or necessity?},
+  author = {Dubois, Jacques},
+  authoran = {Moderator}
+}
+
+@InProceedings{ICUS21:C01:G05:S02,
+  crossref = {ICUS21},
+  title = {Social and ethical aspects of information technologies
+  and higher education},
+  author = {Gray, Kenneth R.},
+  authoran = {Moderator}
+}
+
+@Set{ICUS21:C01:G06,
+  entryset = {ICUS21:C01:G06:S01},
+  pattern = {ICUS21:C01:G06:[S|X]},
+  patterntype = {key},
+  settype = {Session},
+  title = {Panel discussion},
+  level = {3},
+  editorctype={organizer},
+  editorc = {},
+}
+
+@InProceedings{ICUS21:C01:G06:S01,
+  crossref = {ICUS21},
+  title = {Toward a global interactive university network},
+  author = {Alonso, Marcelo},
+  authoran = {Moderator}
+}
+
+@Set{ICUS21:C01:G06,
+  entryset = {ICUS21:C01:G06:S01},
+  pattern = {ICUS21:C01:G06:[S|X]},
+  patterntype = {key},
+  settype = {Session},
+  title = {Panel discussion},
+  level = {3},
+  editorctype={organizer},
+  editorc = {},
+}
+
+
+@InProceedings{ICUS21:C01:G07:X01,
+  crossref = {ICUS21},
+  title = {General discussants},
+  author = {Abidi, Syed and Amaya, Victor and Dengler, Roman and 
+  Latorre, Victor and Giampaoli, Michael and Guimaraes, Jose A. and
+  Hasegawa, Akira and Martinez, Gerardo and {Otero Ruiz}, Efraim and
+  Sheffield, Charles and Radnitzky, Gerard and {Romo Saltos}, Luis A. and
+  Yoon, Se-won},
+  authoran = {Commentator}
+}
+
+
+
 @Set{ICUS21:C02,
   entryset = {ICUS21:C02},
   pattern = {ICUS21:C02:G\d\d:[S|X]},
@@ -200,7 +272,7 @@ icus.data Data Version 0.9.2
   title = {Symmetry in its Various Aspects: Search for Order in the Universe},
   level = {2},
   editorctype={organizer},
-  editorc = {Ne'eman, Yuval and Atalay, Bulent},
+  editorc = {Ne'eman, Yuval and Atalay, Bülent},
 }
 
 @Set{ICUS21:C02:G01,
@@ -217,7 +289,7 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C02:G01:S01,
   crossref = {ICUS21},
   title = {Hidden symmetries in topology and Hamiltonian physics},
-  author = {Fomenko, Anatoly},
+  author = {Fomenko, Anatoly Timofeevich},
 }
 
 @InProceedings{ICUS21:C02:G01:S02,
@@ -247,7 +319,7 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C02:G02:S02,
   crossref = {ICUS21},
   title = {Symmetries in astrophysics},
-  author = {Leonard, Peter J. T.},
+  author = {Leonard, Peter James Toivo},
 }
 
 
@@ -265,7 +337,7 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C02:G03:S01,
   crossref = {ICUS21},
   title = {Symmetry considerations in chemistry},
-  author = {Dunitz, Jack},
+  author = {Dunitz, Jack David},
 }
 
 @InProceedings{ICUS21:C02:G03:S02,
@@ -295,7 +367,7 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C02:G04:S02,
   crossref = {ICUS21},
   title = {Symmetry in art and nature: the two Leonardos},
-  author = {Atalay, Bulent},
+  author = {Atalay, Bülent},
 }
 
 
@@ -325,7 +397,7 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C02:G05:S03,
   crossref = {ICUS21},
   title = {Introduction to the wave principle of human social behavior},
-  author = {{Prechter Jr}, Robert R.},
+  author = {{Prechter Jr}, Robert Rougelot},
 }
 
 
@@ -343,15 +415,23 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C02:G06:S01,
   crossref = {ICUS21},
   title = {The cultural salience of symmetry: a perceptual perspective},
-  author = {Washburn, Dorothy},
+  author = {Washburn, Dorothy Koster},
 }
 
 @InProceedings{ICUS21:C02:G06:S02,
   crossref = {ICUS21},
   title = {Symmetry and social order: the Tlinglit Indians of Southern Alaska},
-  author = {Williamson, Margaret Holmes},
+  author = {Huber, Margaret Holmes Williamson},
 }
 
+@InProceedings{ICUS21:C02:G07:X01,
+  crossref = {ICUS21},
+  title = {General discussants},
+  author = {Atalay, Michael and Fisher, David and Hitotsumatsu, Shin and
+  Motz, Lloyd and Sauder, Deborah G. and {Shea Jr}, John J. and
+  Tanner, Neil and Ustay, Ali H.},
+  authoran = {Commentator}
+}
 
 
 @Set{ICUS21:C03,
@@ -362,7 +442,7 @@ icus.data Data Version 0.9.2
   title = {Human Universals and the Biological Foundations of Art},
   level = {2},
   editorctype={organizer},
-  editorc = {Turner, Frederick and Cooke, Brett},
+  editorc = {Turner, Frederick Hodson and Cooke, Brett},
 }
 
 @Set{ICUS21:C03:G01,
@@ -433,7 +513,7 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C03:G03:S01,
   crossref = {ICUS21},
   title = {The dragon and the origins of art},
-  author = {Knight, Christopher},
+  author = {Knight, Christopher Denis},
 }
 
 @InProceedings{ICUS21:C03:G03:S02,
@@ -463,7 +543,7 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C03:G04:S02,
   crossref = {ICUS21},
   title = {Laughter and anti-behavior in Russia: human universals versus national specificity},
-  author = {Kozintsev, Alexander},
+  author = {Kozintsev, Aleksandr Grigor'evich},
 }
 
 @InProceedings{ICUS21:C03:G04:S03,
@@ -486,7 +566,7 @@ icus.data Data Version 0.9.2
 
 @InProceedings{ICUS21:C03:G05:S01,
   crossref = {ICUS21},
-  title = {A Mermaid's Tale: the archetypal and particular in Hands Christian Andersen's story},
+  title = {A Mermaid's Tale: the archetypal and particular in Hans Christian Andersen's story},
   author = {Easterlin, Nancy},
 }
 
@@ -523,13 +603,31 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C03:G06:S02,
   crossref = {ICUS21},
   title = {What if natural classicist won the culture war?},
-  author = {Argyros, Alexander},
+  author = {Argyros, Alexander J.},
 }
 
 @InProceedings{ICUS21:C03:G06:S03,
   crossref = {ICUS21},
   title = {Self-organization, evolution, and the caduceus},
-  author = {Turner, Frederick},
+  author = {Turner, Frederick Hodson},
+}
+
+
+@Set{ICUS21:C03:G07,
+  entryset = {ICUS21:C03:G07:S01},
+  pattern = {ICUS21:C03:G07:[S|X]},
+  patterntype = {key},
+  settype = {Session},
+  title = {Closing plenary session},
+  level = {3},
+  editorctype={organizer},
+  editorc = {},
+}
+
+@InProceedings{ICUS21:C03:G07:S01,
+  crossref = {ICUS21},
+  title = {General discussant},
+  author = {Shin, Tong-Choon},
 }
 
 
@@ -542,7 +640,7 @@ icus.data Data Version 0.9.2
   title = {Treatment of Non-linear Systems in Physics and Economics},
   level = {2},
   editorctype={organizer},
-  editorc = {Velikhov, Eugene},
+  editorc = {Velikhov, Evgeniĭ Pavlovich},
 }
 
 @Set{ICUS21:C04:G01,
@@ -559,13 +657,13 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C04:G01:S01,
   crossref = {ICUS21},
   title = {Laboratory modeling atmospheric, plasma and astrophysical vortical structures and prediction of giant interarm vortices in spiral galaxies},
-  author = {Nezlin, Mikhail V.},
+  author = {Nezlin, Mikhail Veniaminovich},
 }
 
 @InProceedings{ICUS21:C04:G01:S02,
   crossref = {ICUS21},
   title = {Discovery of new structures - giant anticyclones - in disks of spiral galaxies},
-  author = {Fridman, Aleksey M.},
+  author = {Fridman, Alexei Maksimovich},
 }
 
 
@@ -589,7 +687,7 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C04:G02:S02,
   crossref = {ICUS21},
   title = {Nonlinear structures: soliton model of turbulence},
-  author = {Kingsep, Alexander S.},
+  author = {Kingsep, Aleksandr Sergeevič},
 }
 
 
@@ -631,7 +729,7 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C04:G04:S01,
   crossref = {ICUS21},
   title = {Ineffective general equilibrium in a transition period economy},
-  author = {Pospelov, Igor},
+  author = {Pospelov, Igorʹ Germogenovich},
 }
 
 @InProceedings{ICUS21:C04:G04:S02,
@@ -655,7 +753,7 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C04:G05:S01,
   crossref = {ICUS21},
   title = {Mechanism of supernova explosions: magneto-rotational model and neutrino emission},
-  author = {{Bisnovati-Kogan}, Gennadi},
+  author = {{Bisnovatyi-Kogan}, Guennadi Semenovich},
 }
 
 @InProceedings{ICUS21:C04:G05:S02,
@@ -679,13 +777,31 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C04:G06:S01,
   crossref = {ICUS21},
   title = {Problems of nonlinear seismology},
-  author = {Nikolaev, Aleksei},
+  author = {Nikolaev, Alekseĭ Vsevolodovich},
 }
 
 @InProceedings{ICUS21:C04:G06:S02,
   crossref = {ICUS21},
   title = {Self organization of trade networks in an economy with imperfect infrastructure},
-  author = {Gurlev, Sergei},
+  author = {Guriev, Sergei},
+}
+
+
+@Set{ICUS21:C04:G07,
+  entryset = {ICUS21:C04:G07:S01},
+  pattern = {ICUS21:C04:G07:[S|X]},
+  patterntype = {key},
+  settype = {Session},
+  title = {(untitled)},
+  level = {3},
+  editorctype={organizer},
+  editorc = {},
+}
+
+@InProceedings{ICUS21:C04:G07:X01,
+  crossref = {ICUS21},
+  title = {Closing plenary},
+  author = {Akamatsu, Norio and Kim, Yong-Suk and Korneev, Alexander and Rabinovitch, Mikhail Izrailevich},
 }
 
 
@@ -733,13 +849,13 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C05:G01:S01,
   crossref = {ICUS21},
   title = {Eastern wisdom traditions and Western pilgrims},
-  author = {Achenbaum, Andrew},
+  author = {Achenbaum, W. Andrew},
 }
 
 @InProceedings{ICUS21:C05:G01:S02,
   crossref = {ICUS21},
   title = {A lesson the West can learn from the East: conversion or addversion},
-  author = {Hwang, Pil-Ro},
+  author = {Hwang, Pilho},
 }
 
 
@@ -763,7 +879,7 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C05:G02:S02,
   crossref = {ICUS21},
   title = {Sufi wisdom traditions},
-  author = {Moody, Rick},
+  author = {Moody, Harry Rick},
 }
 
 
@@ -829,7 +945,7 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C05:G05:S01,
   crossref = {ICUS21},
   title = {Towards a wholistic medical model},
-  author = {Schmidt, Robert},
+  author = {Schmidt, Robert M.},
 }
 
 @InProceedings{ICUS21:C05:G05:S02,
@@ -869,6 +985,24 @@ icus.data Data Version 0.9.2
 }
 
 
+@Set{ICUS21:C05:G07,
+  entryset = {ICUS21:C05:G07:S01},
+  pattern = {ICUS21:C05:G07:[S|X]},
+  patterntype = {key},
+  settype = {Session},
+  title = {(untitled)},
+  level = {3},
+  editorctype={organizer},
+  editorc = {},
+}
+
+@InProceedings{ICUS21:C05:G07:X01,
+  crossref = {ICUS21},
+  title = {Closing plenary},
+  author = {Whittemore, Abel Arvizú and Willem, Jean-Pierre},
+}
+
+
 
 @Set{ICUS21:C06,
   entryset = {ICUS21:C06},
@@ -878,7 +1012,7 @@ icus.data Data Version 0.9.2
   title = {Life, Death and Eternal Hope},
   level = {2},
   editorctype={organizer},
-  editorc = {Becker, Carl and Badham, Paul},
+  editorc = {Becker, Carl B. and Badham, Paul},
 }
 
 @Set{ICUS21:C06:G01,
@@ -896,13 +1030,13 @@ icus.data Data Version 0.9.2
   crossref = {ICUS21},
   title = {Life and death in Chinese philosophy},
   author = {Kang, Ouyang},
-  commentator = {Bocking, Brian}
+  commentator = {Bocking, Brian Christopher}
 }
 
 @InProceedings{ICUS21:C06:G01:S02,
   crossref = {ICUS21},
   title = {Philosophical doubts about survival after death},
-  author = {James, Gene},
+  author = {James, Gene G.},
   commentator = {{Cohn-Sherbok}, Dan}
 }
 
@@ -922,7 +1056,7 @@ icus.data Data Version 0.9.2
   crossref = {ICUS21},
   title = {Pure land faith of the Japanese: the case of Shinran},
   author = {Yamaori, Tetsuo},
-  commentator = {Bocking, Brian}
+  commentator = {Bocking, Brian Christopher}
 }
 
 @InProceedings{ICUS21:C06:G02:S02,
@@ -947,7 +1081,7 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C06:G03:S01,
   crossref = {ICUS21},
   title = {The meaning of near-death experiences},
-  author = {Becker, Carl},
+  author = {Becker, Carl B.},
   commentator = {Kellehear, Allan}
 }
 
@@ -973,7 +1107,7 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C06:G04:S01,
   crossref = {ICUS21},
   title = {Reincarnation: how strong is the scientific evidence?},
-  author = {Rawat, K. S.},
+  author = {Rawat, Kirti Swaroop},
   commentator = {Amado, Adela}
 }
 
@@ -981,7 +1115,7 @@ icus.data Data Version 0.9.2
   crossref = {ICUS21},
   title = {Mediumship and the phenomenon of cross-correspondence},
   author = {Nicholson, Kelly},
-  commentator = {Flew, Antony}
+  commentator = {Flew, Antony Garrard Newton}
 }
 
 
@@ -999,7 +1133,7 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C06:G05:S01,
   crossref = {ICUS21},
   title = {Life after death in contemporary Islamic thought},
-  author = {Yaran, Cafer S.},
+  author = {Yaran, Cafer Sadık},
   commentator = {Shah, Zulfiqar Ali}
 }
 
@@ -1032,7 +1166,7 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C06:G06:S02,
   crossref = {ICUS21},
   title = {Caring for the dying},
-  author = {{Gantois-Chaban}, Michelle},
+  author = {Chaban, Michèle Catherine Gantois},
   commentator = {Kellehear, Allan}
 }
 
@@ -1052,7 +1186,7 @@ icus.data Data Version 0.9.2
   crossref = {ICUS21},
   title = {Unificationist beliefs about life after death},
   author = {Hanna, David},
-  commentator = {Flew, Antony}
+  commentator = {Flew, Antony Garrard Newton}
 }
 
 
@@ -1082,7 +1216,7 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C07:G01:S01,
   crossref = {ICUS21},
   title = {Religion and science: detente between whom about what?},
-  author = {Sharkey, Paul},
+  author = {Sharkey, Paul W.},
 }
 
 @InProceedings{ICUS21:C07:G01:S02,
@@ -1094,7 +1228,7 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C07:G01:S03,
   crossref = {ICUS21},
   title = {A new approach to the unification of religion and science from the unification principle perspective},
-  author = {Kim, Jin Choon},
+  author = {Kim, Jin-Choon},
 }
 
 
@@ -1160,13 +1294,13 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C07:G04:S01,
   crossref = {ICUS21},
   title = {The family in today's world and in the world of tomorrow},
-  author = {Islam, Azizun},
+  author = {Islam, Azizun Nahar},
 }
 
 @InProceedings{ICUS21:C07:G04:S02,
   crossref = {ICUS21},
   title = {Unificationist family values and the contemporary world},
-  author = {Guerra, Anthony},
+  author = {Guerra, Anthony J.},
 }
 
 
@@ -1190,7 +1324,7 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C07:G05:S02,
   crossref = {ICUS21},
   title = {Towards a new political economy of development},
-  author = {Ward, Thomas},
+  author = {Ward, Thomas Joseph},
 }
 
 
@@ -1214,7 +1348,7 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C07:G06:S02,
   crossref = {ICUS21},
   title = {Original human nature and the mandate of dominion: an exploration of unification thought},
-  author = {Seidel, Dietrich},
+  author = {Seidel, Dietrich Friedmar},
 }
 
 
@@ -1232,14 +1366,30 @@ icus.data Data Version 0.9.2
 @InProceedings{ICUS21:C07:G07:S01,
   crossref = {ICUS21},
   title = {A new heaven and a new earth: re-visioning worldviews for religious cooperation and harmony rather than competition and conflict},
-  author = {Warner, Edward},
+  author = {Warner, Edward Allen},
 }
 
 @InProceedings{ICUS21:C07:G07:S02,
   crossref = {ICUS21},
   title = {Religion's role in promoting family and global family},
-  author = {Wilson, Andrew},
+  author = {Wilson, Andrew Murray},
 }
 
 
+@Set{ICUS21:C07:G08,
+  entryset = {ICUS21:C07:G08:S01},
+  pattern = {ICUS21:C07:G08:[S|X]},
+  patterntype = {key},
+  settype = {Session},
+  title = {Closing plenary session},
+  level = {3},
+  editorctype={organizer},
+  editorc = {},
+}
+
+@InProceedings{ICUS21:C07:G08:S01,
+  crossref = {ICUS21},
+  title = {General discussants},
+  author = {Shimmyo, Theodore Tadaaki and Otani, Akifumi},
+}
 

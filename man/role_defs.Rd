@@ -34,5 +34,6 @@ role_defs
 \link{nobels}
 \link{participants}
 \link{programs}
+\link{viaf}
 \link{whoswho}
 }

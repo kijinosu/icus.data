@@ -11,9 +11,9 @@
 
 <meta name="author" content="Alan Engel" />
 
-<meta name="date" content="2023-09-21" />
+<meta name="date" content="2024-03-23" />
 
-<title>ICUS participants listed in the International Who’s Who and Nobel Laureates</title>
+<title>Data on ICUS participants compiled in Google Sheets</title>
 
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
@@ -372,42 +372,78 @@ display: none;
 
 
 
-<h1 class="title toc-ignore">ICUS participants listed in the
-International Who’s Who and Nobel Laureates</h1>
+<h1 class="title toc-ignore">Data on ICUS participants compiled in
+Google Sheets</h1>
 <h4 class="author">Alan Engel</h4>
-<h4 class="date">September 21, 2023</h4>
+<h4 class="date">March 23, 2024</h4>
 
 </div>
 
 
-<pre class="r"><code>library(dplyr)</code></pre>
-<pre><code>## 
-##  次のパッケージを付け加えます: &#39;dplyr&#39;</code></pre>
-<pre><code>##  以下のオブジェクトは &#39;package:stats&#39; からマスクされています:
-## 
-##     filter, lag</code></pre>
-<pre><code>##  以下のオブジェクトは &#39;package:base&#39; からマスクされています:
-## 
-##     intersect, setdiff, setequal, union</code></pre>
-<pre class="r"><code>library(googlesheets4)
+<p>Several datasets provided with this package were compiled and are
+maintained manually in Google Sheets. These sheets are publicly
+accessible with links provided in the text below.</p>
+<pre class="r"><code>library(tidyr)
+library(dplyr)
+library(googlesheets4)
 library(data.table)</code></pre>
-<pre><code>## data.table 1.14.10 using 6 threads (see ?getDTthreads).  Latest news: r-datatable.com</code></pre>
-<pre><code>## 
-##  次のパッケージを付け加えます: &#39;data.table&#39;</code></pre>
-<pre><code>##  以下のオブジェクトは &#39;.GlobalEnv&#39; によってマスクされています:
-## 
-##     .N</code></pre>
-<pre><code>##  以下のオブジェクトは &#39;package:dplyr&#39; からマスクされています:
-## 
-##     between, first, last</code></pre>
 <p>This script downloads tables from Google Sheets. Putting multiple
 downloads in one Rmd file reduces to one the number of times one has to
 enter a Google ID.</p>
 <p>Tables in script:</p>
 <ul>
+<li>viaf</li>
 <li>whoswho</li>
 <li>nobels</li>
 </ul>
+<div id="google-authorization" class="section level2">
+<h2>Google authorization</h2>
+<p>The sheets are public but you need a Google account to access them.
+This single authentication provides access to the three tables
+below.</p>
+<pre class="r"><code>gm &lt;- readline(prompt = &quot;Google account: &quot;)
+gs4_auth(scopes = &quot;spreadsheets.readonly&quot;, email = gm)</code></pre>
+</div>
+<div id="viaf" class="section level2">
+<h2>viaf</h2>
+<p>The Virtual International Authority File (VIAF) provides access to
+more that 50 name authority files worldwide.<span class="citation">(<a href="#ref-viaf20240325">OCLC 2024</a>)</span> The VIAF portal tracks
+International library holdings by author and is an important data source
+for quantifiable records of authors and their publications <span class="citation">(<a href="#ref-conroy2019networks">Conroy
+2019</a>)</span>. This data package imports Stephanie Schneider’s viafr
+package for R <span class="citation">(<a href="#ref-R-viafr">Stefanie
+Schneider 2022</a>)</span> to query information from VIAF.</p>
+<p>The manually compiled <a href="https://docs.google.com/spreadsheets/d/1l8y_tp55rojn73308TTLr2yq_nZaeJC5v6CnKrZvS0s/edit?usp=sharing">Google
+Sheet</a> contains 5 columns. The 5th column, which is not downloaded,
+contains reference links that were used in disambiguating names that
+could not be readily disambiguated with information contained in the
+VIAF record.</p>
+<pre class="r"><code>ss &lt;- &quot;https://docs.google.com/spreadsheets/d/1l8y_tp55rojn73308TTLr2yq_nZaeJC5v6CnKrZvS0s/edit?usp=sharing&quot;
+viaf &lt;- read_sheet(ss,
+                   sheet = &quot;VIAF&quot;,
+                   range = &quot;A:D&quot;,
+                   col_types = &quot;cccc&quot;,
+                   na = &quot;N&quot;, trim_ws = TRUE)</code></pre>
+<pre><code>## ✔ Reading from &quot;WhosWho&quot;.</code></pre>
+<pre><code>## ✔ Range &#39;&#39;VIAF&#39;!A:D&#39;.</code></pre>
+<pre class="r"><code>viaf$VIAF &lt;- ifelse(is.na(viaf$VIAF), NA, strsplit(viaf$VIAF, split = &quot;\n&quot;))
+viaf &lt;- unnest(viaf, VIAF)
+viaf</code></pre>
+<pre><code>## # A tibble: 2,114 × 4
+##    ID       Surname   Given         VIAF                 
+##    &lt;chr&gt;    &lt;chr&gt;     &lt;chr&gt;         &lt;chr&gt;                
+##  1 ICUS0001 Aalami    Bijan         &lt;NA&gt;                 
+##  2 ICUS0002 Abas      Syed Jan      91416877             
+##  3 ICUS0003 Abe       Masao         108193605            
+##  4 ICUS0004 Abel      Robert Berger 2556873              
+##  5 ICUS0005 Abeles    Tom           104145304389278571100
+##  6 ICUS0006 Abidi     Syed          &lt;NA&gt;                 
+##  7 ICUS0007 Abouegl   M.I.          &lt;NA&gt;                 
+##  8 ICUS0008 Accardi   Luigi         64252165             
+##  9 ICUS0009 Achenbaum W. Andrew     108371837            
+## 10 ICUS0010 Achuthan  Radh          620159234108903370707
+## # ℹ 2,104 more rows</code></pre>
+</div>
 <div id="whoswho" class="section level2">
 <h2>whoswho</h2>
 <p>The main table in this dataset, , is a list of 2045 people who have
@@ -421,47 +457,54 @@ and 60 <span class="citation">(<a href="#ref-intlwhoswho1996">Europa
 Publications LImited 1996</a>)</span>. This data is in the file.</p>
 <p>These editions cover the first, middle and final thirds of the ICUS
 conferences that ran from 1992 to 2000.</p>
-<p>For ease of handling during manual lookups, the origional datasheets
-were compiled as Google Sheets, which can be easily accessed via phone.
-These wide tables are included with the dataset in the folder.</p>
+<p>For ease of handling during manual lookups, the origional datasheet
+was compiled as a <a href="https://docs.google.com/spreadsheets/d/1l8y_tp55rojn73308TTLr2yq_nZaeJC5v6CnKrZvS0s/edit?usp=sharing">Google
+Sheet</a>, which can be easily accessed via phone. These wide tables are
+included with the dataset in the folder.</p>
 <p>The table itself is in long form in the file.</p>
 </div>
 <div id="fetch-icus-whos-who-data-from-google-sheets" class="section level2">
 <h2>Fetch icus who’s who data from Google sheets</h2>
-<pre class="r"><code>gm &lt;- readline(prompt = &quot;Google account: &quot;)
-gs4_auth(scopes = &quot;spreadsheets.readonly&quot;, email=gm) 
-ss &lt;- &quot;https://docs.google.com/spreadsheets/d/1l8y_tp55rojn73308TTLr2yq_nZaeJC5v6CnKrZvS0s/edit?usp=sharing&quot;
-ww &lt;- read_sheet(ss,sheet=&quot;Intl Who’s Who&quot;, na=&quot;N&quot;, trim_ws=TRUE)</code></pre>
-<pre><code>## Auto-refreshing stale OAuth token.</code></pre>
-<pre><code>## ✔ Reading from &quot;ICUS Who&#39;s Who&quot;.</code></pre>
-<pre><code>## ✔ Range &#39;&#39;Intl Who’s Who&#39;&#39;.</code></pre>
+<pre class="r"><code>ww &lt;- read_sheet(ss,
+                 sheet = &quot;WhosWho&quot;,
+                 range = &quot;A:F&quot;,
+                 col_types = &quot;cccccc&quot;,
+                 na = &quot;N&quot;, trim_ws = TRUE)</code></pre>
+<pre><code>## ✔ Reading from &quot;WhosWho&quot;.</code></pre>
+<pre><code>## ✔ Range &#39;&#39;WhosWho&#39;!A:F&#39;.</code></pre>
 <pre class="r"><code>ww1 &lt;- as.data.table(ww)
-write.csv(ww,file=file.path(project_path(),&quot;inst&quot;,&quot;extdata&quot;,&quot;whoswho.csv&quot;),fileEncoding=&quot;utf8&quot;)
-write.table(ww1, file = file.path(project_path(),&quot;inst&quot;,&quot;extdata&quot;,&quot;whoswho.tsv&quot;), row.names=FALSE, sep=&quot;\t&quot;)
-whoswho &lt;- melt(ww1, id.vars = c(&quot;ID&quot;,&quot;Surname&quot;,&quot;Given&quot;),
-            measure.vars=c(&quot;IntlWW40&quot;,&quot;IntlWW50&quot;,&quot;IntlWW60&quot;),
-             variable.name = &quot;Edition&quot;, 
-             value.name = &quot;Birthdate&quot;, na.rm=TRUE)
+write.csv(ww,
+          file = file.path(project_path(), &quot;inst&quot;, &quot;extdata&quot;, &quot;whoswho.csv&quot;),
+          fileEncoding = &quot;utf8&quot;)
+write.table(ww1,
+            file = file.path(project_path(), &quot;inst&quot;, &quot;extdata&quot;, &quot;whoswho.tsv&quot;),
+            row.names = FALSE, sep = &quot;\t&quot;)
+whoswho &lt;- melt(ww1, id.vars = c(&quot;ID&quot;, &quot;Surname&quot;, &quot;Given&quot;),
+                measure.vars = c(&quot;IntlWW40&quot;, &quot;IntlWW50&quot;, &quot;IntlWW60&quot;),
+                variable.name = &quot;Edition&quot;,
+                value.name = &quot;Birthdate&quot;, na.rm = TRUE)
 whoswho</code></pre>
-<pre><code>##            ID        Surname                Given  Edition    Birthdate
-##   1: ICUS0018         Adrian        Edgar Douglas IntlWW40  B1889-11-30
-##   2: ICUS0095          Auger                   P. IntlWW40  B1899-05-14
-##   3: ICUS0099        Axelrod               Julius IntlWW40  B1912-05-30
-##   4: ICUS0105           Aziz          Ungku Abdul IntlWW40  B1922-01-28
-##   5: ICUS0130         Barton Derek Harold Richard IntlWW40  B1918-09-08
-##  ---                                                                   
-## 359: ICUS1798      Szabolsci               Miklos IntlWW60  B1921-03-03
-## 360: ICUS1922          Walsh                  Don IntlWW60        B1931
-## 361: ICUS1948       Weinberg             Alvin M. IntlWW60  B1915-04-20
-## 362: ICUS1960 Wickramasinghe        Nalin Chandra IntlWW60  B1939-01-20
-## 363: ICUS1976        Winston               Robert IntlWW60 ?B1940-07-15</code></pre>
+<pre><code>##            ID        Surname                 Given  Edition    Birthdate
+##   1: ICUS0018         Adrian         Edgar Douglas IntlWW40  B1889-11-30
+##   2: ICUS0095          Auger                Pierre IntlWW40  B1899-05-14
+##   3: ICUS0099        Axelrod                Julius IntlWW40  B1912-05-30
+##   4: ICUS0105     Abdul Aziz                 Ungku IntlWW40  B1922-01-28
+##   5: ICUS0130         Barton  Derek Harold Richard IntlWW40  B1918-09-08
+##  ---                                                                    
+## 359: ICUS1798      Szabolcsi                Miklos IntlWW60  B1921-03-03
+## 360: ICUS1922          Walsh                   Don IntlWW60        B1931
+## 361: ICUS1948       Weinberg          Alvin Martin IntlWW60  B1915-04-20
+## 362: ICUS1960 Wickramasinghe         Nalin Chandra IntlWW60  B1939-01-20
+## 363: ICUS1976        Winston Robert Maurice Lipson IntlWW60 ?B1940-07-15</code></pre>
 </div>
 <div id="nobels" class="section level2">
 <h2>nobels</h2>
 <p>In his 1977 criticism of ICUS IV, Irving Horowitz noted the
 prominence of Nobel Laureates on the program and a striking fall-off in
 talent beyond a stellar list of sponsors <span class="citation">(<a href="#ref-horowitz1977science">Horowitz 1977</a>)</span>. This table is
-based on the Nobel Media AB dataset <span class="citation">(<a href="#ref-nobelprizelaureates2023">Nobel Media AB 2023</a>)</span>.</p>
+based on the Nobel Media AB dataset <span class="citation">(<a href="#ref-nobelprizelaureates2023">Nobel Media AB 2023</a>)</span>.
+This data was manually compiled in a <a href="https://docs.google.com/spreadsheets/d/1f09qZiFsVZVLnoSUMfkGqw7cpk1Y4OG9OvW3qnSVSwE/edit?usp=sharing">Google
+Sheet</a>.</p>
 <p>The categories are:</p>
 <ul>
 <li>C - Chemistry</li>
@@ -522,6 +565,10 @@ nobels &lt;- as.data.table(read_sheet(ss,sheet=&quot;Nobels&quot;, na=&quot;N&qu
 <div id="references" class="section level2 unnumbered">
 <h2 class="unnumbered">References</h2>
 <div id="refs" class="references csl-bib-body hanging-indent">
+<div id="ref-conroy2019networks" class="csl-entry">
+Conroy, Melanie. 2019. <span>“Networks of the Enlightenment.”</span> In
+<em>The Workshop</em>, 80–91.
+</div>
 <div id="ref-intlwhoswho1976" class="csl-entry">
 Europa Publications LImited, ed. 1976. <em><span>T</span>he
 <span>I</span>nternational <span>W</span>ho’s <span>W</span>ho
@@ -543,6 +590,14 @@ Horowitz, Irving L. 1977. <span>“Science, Sin, and Sponsorship.”</span>
 </div>
 <div id="ref-nobelprizelaureates2023" class="csl-entry">
 Nobel Media AB. 2023. <span>“Nobel Prize - Laureates.”</span> <a href="https://public.opendatasoft.com/explore/dataset/nobel-prize-laureates/information/?disjunctive.category">https://public.opendatasoft.com/explore/dataset/nobel-prize-laureates/information/?disjunctive.category</a>.
+</div>
+<div id="ref-viaf20240325" class="csl-entry">
+OCLC. 2024. <span>“VIAF: The Virtual International Authority
+File.”</span> March 25, 2024. <a href="https://viaf.org/">https://viaf.org/</a>.
+</div>
+<div id="ref-R-viafr" class="csl-entry">
+Stefanie Schneider. 2022. <em>Viafr: Interface to the VIAF (Virtual
+International Authority File) API</em>. <a href="https://github.com/stefanieschneider/viafr">https://github.com/stefanieschneider/viafr</a>.
 </div>
 </div>
 </div>

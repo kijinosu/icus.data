@@ -19,6 +19,7 @@
 #' \link{participants}
 #' \link{programs}
 #' \link{role_defs}
+#' \link{viaf}
 #' \link{whoswho}
 NULL
 
@@ -53,6 +54,7 @@ NULL
 #' \link{participants}
 #' \link{programs}
 #' \link{role_defs}
+#' \link{viaf}
 #' \link{whoswho}
 NULL
 
@@ -108,6 +110,7 @@ NULL
 #' \link{nobels}
 #' \link{programs}
 #' \link{role_defs}
+#' \link{viaf}
 #' \link{whoswho}
 NULL
 
@@ -169,6 +172,7 @@ NULL
 #' \link{nobels}
 #' \link{participants}
 #' \link{role_defs}
+#' \link{viaf}
 #' \link{whoswho}
 NULL
 
@@ -197,6 +201,7 @@ NULL
 #' \link{nobels}
 #' \link{participants}
 #' \link{programs}
+#' \link{viaf}
 #' \link{whoswho}
 NULL
 
@@ -238,6 +243,7 @@ NULL
 #' \link{participants}
 #' \link{programs}
 #' \link{role_defs}
+#' \link{viaf}
 NULL
 
 
@@ -286,13 +292,42 @@ NULL
 #' ## Search for presentations by Delgado.
 #' icusbib[author = "Delgado"]
 #' ## Use draft style.
-#' print(SearchBib(icusbib, author="Delgado"), .opts = list(bib.style = "draft"))
+#' print(SearchBib(icusbib, author="Delgado"),
+#'                 .opts = list(bib.style = "draft"))
 #' ## Search for commentary by Delgado.
 #' icusbib[commentator = "Delgado"]
 #' ## Look at extended Set entry
 #' toBiblatex(icusbib[entryset = "ICUS06:C04:G02"])
 #' @seealso
 #' \link{icus.data}
+#' \link{get_persons}
+#' \link{nobels}
+#' \link{participants}
+#' \link{programs}
+#' \link{role_defs}
+#' \link{viaf}
+#' \link{whoswho}
+NULL
+
+
+
+#' Detailed description of the data
+#' @name viaf
+#' @docType data
+#' @title VIAF Identifiers for ICUS participants
+#' @description Persistent identifiers manually curated from
+#' the Virtual International Authorities File at viaf.org.
+#' @format a \code{tbl_df} containing the following fields:
+#' \describe{
+#' \item{ID}{}
+#' \item{Surname}{}
+#' \item{Given}{}
+#' \item{VIAF}{}
+#' }
+#' @source Manually compiled.
+#' @seealso
+#' \link{icus.data}
+#' \link{icusbib}
 #' \link{nobels}
 #' \link{participants}
 #' \link{programs}
