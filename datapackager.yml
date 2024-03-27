@@ -23,4 +23,4 @@ configuration:
   - icusbib
   - viaf
   render_root:
-    tmp: '884777'
+    tmp: '596953'

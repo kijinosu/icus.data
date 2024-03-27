@@ -5,16 +5,17 @@
 \alias{viaf}
 \title{VIAF Identifiers for ICUS participants}
 \format{
-a \code{tbl_df} containing the following fields:
+A \code{tbl_df} containing the following fields:
 \describe{
-\item{ID}{}
-\item{Surname}{}
-\item{Given}{}
-\item{VIAF}{}
+\item{ID}{ICUS ID assigned for this data package.}
+\item{Surname}{Curated surname.}
+\item{Given}{Curated given name.}
+\item{VIAF}{List of VIAF persistent identifiers for person.}
 }
 }
 \source{
-Manually compiled.
+Manually compiled from VIAF with addition searches to
+disambiguate names where necessary.
 }
 \description{
 Persistent identifiers manually curated from
@@ -22,6 +23,10 @@ the Virtual International Authorities File at viaf.org.
 }
 \details{
 Detailed description of the data
+}
+\examples{
+library(icus.data)
+library(viafr)
 }
 \seealso{
 \link{icus.data}

@@ -19,7 +19,9 @@ take a deeper look into these conferences.
 
 1.  **participants** Table of 2045 people who have been listed in ICUS
     programs as speakers, moderators, discussants, advisors and other
-    committee members
+    committee members. The names of participants were curated to be
+    consistent across the entire dataset and compatible with name
+    authorities.
 
 2.  **programs** Basic data for ICUS conferences from program brochures
     and the ICUS website ([*International Conference on the Unity of the
@@ -37,6 +39,11 @@ take a deeper look into these conferences.
 
 6.  **icusbib** Biblatex entries for 1658 speeches and presentations in
     ICUS.
+
+7.  **viaf** Table of persistent identifiers from the Virtual
+    International Authority File (VIAF)
+    ([**viaf20240325?**](#ref-viaf20240325)) manually compiled and
+    curated.
 
 # Special vignettes
 
@@ -152,12 +159,12 @@ Most frequent participants
 icusbib[author = "^Oates"]
 ```
 
-    ## *ICUS07:C01:G03:S03* J. C. Oates. "The art of suicide". In: _The
-    ## re-evaluation of existing values and the search for absolute values_.
-    ## The Seventh International Conference on the Unity of the Sciences.
-    ## (Sheraton-Boston Hotel, 11. 24, 1978-11. 26, 1978). chairpersonE. P.
-    ## Wigner and J. C. Eccles. With a comment. by I. Soll. International
-    ## Cultural Foundation. Boston, MA, 1978.
+    ## [1] J. C. Oates. "The art of suicide". In: _The re-evaluation of
+    ## existing values and the search for absolute values_. The Seventh
+    ## International Conference on the Unity of the Sciences. (Sheraton-Boston
+    ## Hotel, 11. 24, 1978-11. 26, 1978). chairpersonE. P. Wigner and J. C.
+    ## Eccles. With a comment. by I. Soll. International Cultural Foundation.
+    ## Boston, MA, 1978.
     ## <https://icus.org/wp-content/uploads/2016/02/ICUS-VII-Program.pdf>
     ## (visited on 05/12/2023).
 

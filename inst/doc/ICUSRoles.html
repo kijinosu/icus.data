@@ -483,31 +483,31 @@ mr &lt;- max(nchar(DT$Roles))
 ## strsplit and transpose the resulting list efficiently
 DT[,cn[1:mr] := tstrsplit(Roles, &quot;&quot;, fixed=TRUE)][]</code></pre>
 <pre><code>##             ID    Surname          Given Conference Roles R1   R2   R3   R4
-##    1: ICUS0070   Anderson       O. Roger     ICUS01    OS  O    S &lt;NA&gt; &lt;NA&gt;
+##    1: ICUS0070   Anderson    Orvil Roger     ICUS01    OS  O    S &lt;NA&gt; &lt;NA&gt;
 ##    2: ICUS0079  Arensberg      Conrad M.     ICUS01     S  S &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
 ##    3: ICUS0183    Bianchi          Henri     ICUS01     O  O &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
 ##    4: ICUS0283    Cassidy   Harold Gomes     ICUS01    OS  O    S &lt;NA&gt; &lt;NA&gt;
 ##    5: ICUS0390      Dagum         Camilo     ICUS01     S  S &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
 ##   ---                                                                      
-## 3426: ICUS1781  Stromberg      Joseph R.     ICUS22     S  S &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
-## 3427: ICUS1831 Thomlinson           Paul     ICUS22     S  S &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
-## 3428: ICUS1872      Tyler Christopher W.     ICUS22     S  S &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
-## 3429: ICUS1894    Velarde      Manuel G.     ICUS22     S  S &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
-## 3430: ICUS1935   Watanabe      Hisayoshi     ICUS22     X  X &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;</code></pre>
+## 3433: ICUS1781  Stromberg  Joseph Robert     ICUS22     S  S &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
+## 3434: ICUS1831 Thomlinson           Paul     ICUS22     S  S &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
+## 3435: ICUS1872      Tyler Christopher W.     ICUS22     S  S &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
+## 3436: ICUS1894    Velarde Manuel García     ICUS22     S  S &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
+## 3437: ICUS1935   Watanabe      Hisayoshi     ICUS22     X  X &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;</code></pre>
 <pre class="r"><code>## Drop Roles column
 DT[,.SD, .SDcols = !&#39;Roles&#39;]</code></pre>
 <pre><code>##             ID    Surname          Given Conference R1   R2   R3   R4
-##    1: ICUS0070   Anderson       O. Roger     ICUS01  O    S &lt;NA&gt; &lt;NA&gt;
+##    1: ICUS0070   Anderson    Orvil Roger     ICUS01  O    S &lt;NA&gt; &lt;NA&gt;
 ##    2: ICUS0079  Arensberg      Conrad M.     ICUS01  S &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
 ##    3: ICUS0183    Bianchi          Henri     ICUS01  O &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
 ##    4: ICUS0283    Cassidy   Harold Gomes     ICUS01  O    S &lt;NA&gt; &lt;NA&gt;
 ##    5: ICUS0390      Dagum         Camilo     ICUS01  S &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
 ##   ---                                                                
-## 3426: ICUS1781  Stromberg      Joseph R.     ICUS22  S &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
-## 3427: ICUS1831 Thomlinson           Paul     ICUS22  S &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
-## 3428: ICUS1872      Tyler Christopher W.     ICUS22  S &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
-## 3429: ICUS1894    Velarde      Manuel G.     ICUS22  S &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
-## 3430: ICUS1935   Watanabe      Hisayoshi     ICUS22  X &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;</code></pre>
+## 3433: ICUS1781  Stromberg  Joseph Robert     ICUS22  S &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
+## 3434: ICUS1831 Thomlinson           Paul     ICUS22  S &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
+## 3435: ICUS1872      Tyler Christopher W.     ICUS22  S &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
+## 3436: ICUS1894    Velarde Manuel García     ICUS22  S &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;
+## 3437: ICUS1935   Watanabe      Hisayoshi     ICUS22  X &lt;NA&gt; &lt;NA&gt; &lt;NA&gt;</code></pre>
 <pre class="r"><code>## 
 participants &lt;- melt(DT[,.SD, .SDcols = !&#39;Roles&#39;],  
  id.vars = c(&quot;ID&quot;,&quot;Surname&quot;,&quot;Given&quot;,&quot;Conference&quot;),
@@ -516,17 +516,17 @@ participants &lt;- melt(DT[,.SD, .SDcols = !&#39;Roles&#39;],
  value.name=&quot;Role&quot;, na.rm=TRUE)[,.SD, .SDcols = !&#39;Temp&#39;]
 participants</code></pre>
 <pre><code>##             ID   Surname            Given Conference Role
-##    1: ICUS0070  Anderson         O. Roger     ICUS01    O
+##    1: ICUS0070  Anderson      Orvil Roger     ICUS01    O
 ##    2: ICUS0079 Arensberg        Conrad M.     ICUS01    S
 ##    3: ICUS0183   Bianchi            Henri     ICUS01    O
 ##    4: ICUS0283   Cassidy     Harold Gomes     ICUS01    O
 ##    5: ICUS0390     Dagum           Camilo     ICUS01    S
 ##   ---                                                    
-## 3843: ICUS0107    Badham             Paul     ICUS20    X
-## 3844: ICUS0900    Kegley Jacquelyn Ann K.     ICUS20    X
-## 3845: ICUS0054    Alonso          Marcelo     ICUS21    X
-## 3846: ICUS1962    Wigner        Eugene P.     ICUS07    X
-## 3847: ICUS1213  Mellanby          Kenneth     ICUS12    T</code></pre>
+## 3849: ICUS0107    Badham             Paul     ICUS20    X
+## 3850: ICUS0900    Kegley Jacquelyn Ann K.     ICUS20    X
+## 3851: ICUS0054    Alonso          Marcelo     ICUS21    X
+## 3852: ICUS1962    Wigner      Eugene Paul     ICUS07    X
+## 3853: ICUS1213  Mellanby          Kenneth     ICUS12    T</code></pre>
 </div>
 <div id="references" class="section level2 unnumbered">
 <h2 class="unnumbered">References</h2>

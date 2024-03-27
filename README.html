@@ -616,7 +616,9 @@ take a deeper look into these conferences.</p>
 <ol style="list-style-type: decimal">
 <li><p><strong>participants</strong> Table of 2045 people who have been
 listed in ICUS programs as speakers, moderators, discussants, advisors
-and other committee members</p></li>
+and other committee members. The names of participants were curated to
+be consistent across the entire dataset and compatible with name
+authorities.</p></li>
 <li><p><strong>programs</strong> Basic data for ICUS conferences from
 program brochures and the ICUS website (<a href="#ref-icushistory"><em>International Conference on the Unity of the
 Sciences - History</em> 2020</a>)</p></li>
@@ -630,6 +632,9 @@ first, middle and final thirds of the ICUS conferences that ran from
 in ICUS conferences.</p></li>
 <li><p><strong>icusbib</strong> Biblatex entries for 1658 speeches and
 presentations in ICUS.</p></li>
+<li><p><strong>viaf</strong> Table of persistent identifiers from the
+Virtual International Authority File (VIAF) (<a href="#ref-viaf20240325"><strong>viaf20240325?</strong></a>) manually
+compiled and curated.</p></li>
 </ol>
 <h1 id="special-vignettes">Special vignettes</h1>
 <ol style="list-style-type: decimal">
@@ -786,12 +791,12 @@ year</h2>
 <p>Most frequent participants</p>
 <h2 id="search-on-speaker">Search on speaker</h2>
 <div class="sourceCode" id="cb6"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" tabindex="-1"></a>icusbib[author <span class="ot">=</span> <span class="st">&quot;^Oates&quot;</span>]</span></code></pre></div>
-<pre><code>## *ICUS07:C01:G03:S03* J. C. Oates. &quot;The art of suicide&quot;. In: _The
-## re-evaluation of existing values and the search for absolute values_.
-## The Seventh International Conference on the Unity of the Sciences.
-## (Sheraton-Boston Hotel, 11. 24, 1978-11. 26, 1978). chairpersonE. P.
-## Wigner and J. C. Eccles. With a comment. by I. Soll. International
-## Cultural Foundation. Boston, MA, 1978.
+<pre><code>## [1] J. C. Oates. &quot;The art of suicide&quot;. In: _The re-evaluation of
+## existing values and the search for absolute values_. The Seventh
+## International Conference on the Unity of the Sciences. (Sheraton-Boston
+## Hotel, 11. 24, 1978-11. 26, 1978). chairpersonE. P. Wigner and J. C.
+## Eccles. With a comment. by I. Soll. International Cultural Foundation.
+## Boston, MA, 1978.
 ## &lt;https://icus.org/wp-content/uploads/2016/02/ICUS-VII-Program.pdf&gt;
 ## (visited on 05/12/2023).</code></pre>
 <p>See <a href="https://kijinosu.github.io/icus.data/search-examples.html">Search

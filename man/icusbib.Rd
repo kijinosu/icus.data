@@ -35,7 +35,7 @@ a \code{@Set} follows:
   title = {Committee session I},
   level = {3},
   editorctype={organizer},
-  editorc = {Hintikka, J. and Yosida, N.},}
+  editorc = {Hintikka, Kaarlo Jaakko Juhani and Yoshida, Natsuhiko},}
 }
 This entry adds a \code{pattern} field containing a regular
 expression that selects the entries below. RefManageR will not

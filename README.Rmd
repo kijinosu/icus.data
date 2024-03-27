@@ -22,7 +22,9 @@ look into these conferences.
 
 1. __participants__ Table of 2045 people who have been
 listed in ICUS programs as speakers, moderators, discussants,
-advisors and other committee members
+advisors and other committee members. The names of participants were
+curated to be consistent across the entire dataset and compatible
+with name authorities.
 
 2. __programs__ Basic data for ICUS conferences from program brochures and
 the ICUS website [@icushistory]
@@ -36,6 +38,9 @@ and final thirds of the ICUS conferences that ran from 1992 to 2000.
 5. __nobels__ Table of Nobel Laureates who participated in ICUS conferences.
 
 6. __icusbib__ Biblatex entries for 1658 speeches and presentations in ICUS.
+
+7. __viaf__ Table of persistent identifiers from the Virtual International
+Authority File (VIAF) [@viaf20240325] manually compiled and curated.
 
 # Special vignettes
 
