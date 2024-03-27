@@ -1,10 +1,9 @@
-README
+R data package icus.data
 ================
-
 Alan Engel
 January 31, 2024
 
-## R data package icus.data
+# Introduction
 
 Between 1972 and 2000, Sun Myung Moon’s organizations sponsored 22
 conferences on the unity of science. The aim was to bring science under
@@ -16,11 +15,13 @@ conferences from multiple viewpoints.
 This dataset provides several components for researchers who wish to
 take a deeper look into these conferences.
 
-## Datasets
+# Datasets
 
 1.  **participants** Table of 2045 people who have been listed in ICUS
     programs as speakers, moderators, discussants, advisors and other
-    committee members
+    committee members. The names of participants were curated to be
+    consistent across the entire dataset and compatible with name
+    authorities.
 
 2.  **programs** Basic data for ICUS conferences from program brochures
     and the ICUS website ([*International Conference on the Unity of the
@@ -39,7 +40,12 @@ take a deeper look into these conferences.
 6.  **icusbib** Biblatex entries for 1658 speeches and presentations in
     ICUS.
 
-## Special vignettes
+7.  **viaf** Table of persistent identifiers from the Virtual
+    International Authority File (VIAF)
+    ([**viaf20240325?**](#ref-viaf20240325)) manually compiled and
+    curated.
+
+# Special vignettes
 
 1.  **icus program observations** Observations from ICUS program
     brochures including, for example, attendence by Sun Myung Moon and
@@ -51,7 +57,7 @@ take a deeper look into these conferences.
     this R data package. I am a memory-challenged novice and this is the
     result of a lot of trial and error.
 
-## Installation
+# Installation
 
 You can install the latest version of **icus.data** from
 [github](https://github.com/kijinosu/icus.data) with:
@@ -61,9 +67,9 @@ library(devtools)
 devtools::install_github("kijinosu/icus.data")
 ```
 
-## Examples
+# Examples
 
-### Plot participant counts by year
+## Plot participant counts by year
 
 Load libraries.
 
@@ -73,14 +79,28 @@ library(tidyverse)
 ```
 
     ## ── Attaching core tidyverse packages ───────────────────────── tidyverse 2.0.0 ──
-    ## ✔ dplyr     1.1.4     ✔ readr     2.1.4
-    ## ✔ forcats   1.0.0     ✔ stringr   1.5.1
-    ## ✔ ggplot2   3.4.4     ✔ tibble    3.2.1
-    ## ✔ lubridate 1.9.3     ✔ tidyr     1.3.0
+    ## ✔ forcats   1.0.0     ✔ readr     2.1.4
+    ## ✔ ggplot2   3.4.4     ✔ stringr   1.5.1
+    ## ✔ lubridate 1.9.3     ✔ tibble    3.2.1
     ## ✔ purrr     1.0.2     
     ## ── Conflicts ─────────────────────────────────────────── tidyverse_conflicts() ──
-    ## ✖ dplyr::filter() masks stats::filter()
-    ## ✖ dplyr::lag()    masks stats::lag()
+    ## ✖ data.table::between() masks dplyr::between()
+    ## ✖ dplyr::filter()       masks stats::filter()
+    ## ✖ data.table::first()   masks dplyr::first()
+    ## ✖ lubridate::hour()     masks data.table::hour()
+    ## ✖ lubridate::isoweek()  masks data.table::isoweek()
+    ## ✖ dplyr::lag()          masks stats::lag()
+    ## ✖ data.table::last()    masks dplyr::last()
+    ## ✖ lubridate::mday()     masks data.table::mday()
+    ## ✖ lubridate::minute()   masks data.table::minute()
+    ## ✖ lubridate::month()    masks data.table::month()
+    ## ✖ lubridate::quarter()  masks data.table::quarter()
+    ## ✖ lubridate::second()   masks data.table::second()
+    ## ✖ purrr::transpose()    masks data.table::transpose()
+    ## ✖ lubridate::wday()     masks data.table::wday()
+    ## ✖ lubridate::week()     masks data.table::week()
+    ## ✖ lubridate::yday()     masks data.table::yday()
+    ## ✖ lubridate::year()     masks data.table::year()
     ## ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
 
 Plot.
@@ -94,7 +114,7 @@ ggplot(data = progs) +
 
 ![](README_files/figure-gfm/plot-participant-counts-1.png)<!-- -->
 
-### Most frequent participants
+## Most frequent participants
 
 ``` r
 activeparts <- tp %>%
@@ -133,7 +153,7 @@ knitr::kable(activeparts[1:20, ], caption = "Most frequent participants")
 
 Most frequent participants
 
-### Search on speaker
+## Search on speaker
 
 ``` r
 icusbib[author = "^Oates"]
@@ -152,7 +172,7 @@ See [Search
 examples](https://kijinosu.github.io/icus.data/search-examples.html) for
 more examples.
 
-## R packages used for this data package
+# R packages used for this data package
 
 - DataPackageR - Set up and put the pieces together ([Finak et al.
   2018](#ref-R-DataPackageR))
@@ -161,7 +181,7 @@ more examples.
 - ([Wickham 2023](#ref-R-tidyverse))
 - ([Dowle and Srinivasan 2023](#ref-R-data.table))
 
-## References
+# References
 
 <div id="refs" class="references csl-bib-body hanging-indent">
 
