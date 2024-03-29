@@ -1,7 +1,7 @@
 R data package icus.data
 ================
 Alan Engel
-January 31, 2024
+March 29, 2024
 
 # Introduction
 
@@ -78,35 +78,10 @@ library(icus.data)
 library(tidyverse)
 ```
 
-    ## ── Attaching core tidyverse packages ───────────────────────── tidyverse 2.0.0 ──
-    ## ✔ forcats   1.0.0     ✔ readr     2.1.4
-    ## ✔ ggplot2   3.4.4     ✔ stringr   1.5.1
-    ## ✔ lubridate 1.9.3     ✔ tibble    3.2.1
-    ## ✔ purrr     1.0.2     
-    ## ── Conflicts ─────────────────────────────────────────── tidyverse_conflicts() ──
-    ## ✖ data.table::between() masks dplyr::between()
-    ## ✖ dplyr::filter()       masks stats::filter()
-    ## ✖ data.table::first()   masks dplyr::first()
-    ## ✖ lubridate::hour()     masks data.table::hour()
-    ## ✖ lubridate::isoweek()  masks data.table::isoweek()
-    ## ✖ dplyr::lag()          masks stats::lag()
-    ## ✖ data.table::last()    masks dplyr::last()
-    ## ✖ lubridate::mday()     masks data.table::mday()
-    ## ✖ lubridate::minute()   masks data.table::minute()
-    ## ✖ lubridate::month()    masks data.table::month()
-    ## ✖ lubridate::quarter()  masks data.table::quarter()
-    ## ✖ lubridate::second()   masks data.table::second()
-    ## ✖ purrr::transpose()    masks data.table::transpose()
-    ## ✖ lubridate::wday()     masks data.table::wday()
-    ## ✖ lubridate::week()     masks data.table::week()
-    ## ✖ lubridate::yday()     masks data.table::yday()
-    ## ✖ lubridate::year()     masks data.table::year()
-    ## ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
-
 Plot.
 
 ``` r
-ggplot(data = progs) +
+ggplot(data = programs) +
   geom_bar(mapping = aes(x = Year, y = Count), stat = "identity") +
   labs(title = "Participant counts by year of conference",
        x = "Year of conference")
