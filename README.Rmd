@@ -2,7 +2,7 @@
 output: github_document
 title: R data package icus.data
 author: Alan Engel
-date: January 31, 2024
+date: March 29, 2024
 lang: "en-us"
 output_format: github_document
 bibliography: bibliography.bib
@@ -67,7 +67,7 @@ devtools::install_github("kijinosu/icus.data")
 
 Load libraries.
 
-```{r, libraries, results='hide'}
+```{r, libraries, results='hide', warning=FALSE}
 library(icus.data)
 library(tidyverse)
 ```
@@ -75,7 +75,7 @@ library(tidyverse)
 Plot.
 
 ```{r, plot-participant-counts, echo=TRUE}
-ggplot(data = progs) +
+ggplot(data = programs) +
   geom_bar(mapping = aes(x = Year, y = Count), stat = "identity") +
   labs(title = "Participant counts by year of conference",
        x = "Year of conference")
