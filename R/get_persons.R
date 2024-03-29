@@ -1,8 +1,8 @@
-#' get_persons
+#' Get person objects from BibEntry or bibentry object
+#'
 #' A function to return persons from BibEntry and bibentry objects
-#' @docType function
-#' @title get_persons - return person objects from BibEntry or bibentry object
-#' @name get_persons
+#'
+#' @rdname get_persons
 #' @param bib A BibEntry or bibentry object that may be subselected
 #' from a larger set
 #' @param refbib A BibEntry or bibentry object that contains any
